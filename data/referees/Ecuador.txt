@@ -1,0 +1,27 @@
+21FBD65CE7E4: 100 Juan Carlos Andrade Arreaga
+DE421758DD84: 101 Augusto Aragon
+63F65E9A6756: 100 Alex Fabricio Cajas Torres
+530A57BF1156: 100 Franklin Andres Congo Viteri
+74CBC98884E3: 101 Guillermo Guerrero
+A9795DD7C72E: 101 Carlos Orbe
+3004136AF41E: 101 Luis Quiroz
+94B2D03280FB: 100 Marlon Gregorio Vera Solis
+9C1123993699: 010 Juan Rafael Aguiar Ramos
+326EBFB8EB85: 010 Danny Alexander Avila Saritama
+FAC4848202A9: 010 Ricardo Baren
+DCF32753B943: 010 Dennys Hector Guerrero Torres
+59BE709ED920: 011 Christian Lescano
+32B878FB3931: 010 Byron Romero
+AA707308FAC0: 010 Andres Bolivar Tola Gutierrez
+8CA2F4373B48: 010 David Alberto Vacacela Garcia
+9D46262BE221: 010 Edison Fernando Vasquez Onate
+5FCE50BD1161: 010 Jonnathan Vladimir Herbas Montoya
+814740D51163: 010 Jaime Jativa
+773991DFD04F: 010 Leonel Alejandro Ruales Ortega
+985B7787BF63: 010 Daniel Alejandro Villacis Ortiz
+E69A525D1770: 010 Brando Luis Amay Gorotiza
+53AB2B854A30: 010 Javier Marcillo Pluas
+EFAC2AC537FB: 010 Jose Ugalde Zambrano
+0E679ED61C42: 010 Jean Carlos Villamar Santos
+589366B12974: 001 Unknown
+D763035A39ED: 001 Unknown
