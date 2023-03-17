@@ -1,0 +1,21 @@
+AE508B5A4370: 100 Ali Al Qaysi
+05A0AE96A517: 100 Mohammed Salman Shabeeb Al-Noori
+7017BC87F0FD: 100 Yousif Saeed Hasan
+1063DA1749B8: 100 Zaid Thamer Mohammed
+D3DDD430D447: 100 Ahmed Kadhim Gatea Rsetam
+D6206DCF9430: 100 Mohanad Sarray
+7FE45ED6BC76: 010 Ahmed Sabah Qasim Al-Baghdadi
+6C52947FC2E0: 010 Karrar Abdulkareem Majeed Al-Janabi
+8A50DBBF99F5: 010 Watheq Al-Swaiedi
+38C49C37D193: 010 Jihad Dawood
+40E0FF21E9C7: 010 Ameer Hussein
+00FAD3A8A0AC: 010 Akram Ali Jabbar
+F9D32A3FF49C: 010 Hussein Falah Munshid Munshid
+448BC00C4882: 010 Hayder Abdulhasan Ali Ubaydee
+397C2F41E2AF: 010 Hawkar Ahmed
+F962AB570799: 010 Rafid Allawi Salman
+19EF704365D6: 010 Hasan Mussa
+0666C3B30BFC: 010 Rawand Fattah Rashid Shwan
+F4EFE575BD34: 010 Akram Mahdi Saleh Saleh
+6B4861170725: 001 Unknown
+F81E7C951400: 001 Unknown
