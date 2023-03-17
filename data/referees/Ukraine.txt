@@ -1,0 +1,25 @@
+D60E17E41802: 101 Ievgenii Aranovskyi
+D32DD24ED665: 101 Mykola Balakin
+F21F8AA60D36: 100 Sergii Boiko
+0D62EB531EB0: 100 Oleksii Derevinskyi
+A5905277511A: 100 Viktor Kopiievskyi
+4A443D947618: 100 Vitaliy Romanov
+A51C711ACA1E: 100 Denys Shurman
+AB882BDEE28B: 010 Oleksandr Korniyko
+EFC89407DB00: 010 Valentyn Kutsev
+24CB2397C428: 011 Viktor Matyash
+7C5B1096A095: 010 Viktor Nyzhnyk
+553EF88AC397: 010 Semen Shlonchak
+9AA0ADFE1167: 011 Andrii Skrypka
+D9336A56F398: 010 Volodymyr Volodin
+B0993A13FCBE: 010 Volodymyr Vysotsky
+824AFDF0D06E: 010 Dmytro Zaporozhenko
+3D62AE92159E: 010 Oleksandr Zhukov
+1FB9B6C715AF: 010 Yevhen Hordiienko
+9CB62F209A9A: 010 Sviatoslav Kliuchnyk
+CFF7AEAE000C: 010 Denys Kutsyi
+613C34A529BF: 010 Yaroslav Vovchok
+283E5325A79A: 010 Dmytro Dudka
+7BE70DB00D66: 010 Oleksandr Huliaiev
+E6197BC6F5E3: 001 Unknown
+643DE85BBD8F: 001 Unknown
