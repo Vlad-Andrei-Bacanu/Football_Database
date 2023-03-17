@@ -1,0 +1,21 @@
+8CED4BFB5235: 100 Jorgen Daugbjerg Burchardt
+A9160B77B054: 101 Jakob Kehlet
+C29CB553126C: 100 Peter Kjrsgaard
+416D5F75D4AB: 100 Mads-Kristoffer Kristoffersen
+E96FAAF935D0: 100 Morten Krogh
+599E1575119C: 100 Sandi Putros
+F4031CD2FA15: 100 Jakob Alexander Sundberg
+75708103C34F: 010 Steffen Bramsen
+81E743DE4991: 010 Jesper Dahl
+4E454D764695: 010 Lars Hummelgaard
+AA4825C2E237: 010 Ole Kronlykke
+78D9F4B63A6A: 010 Jakob Mastrup
+F68E68DBA321: 010 Daniel Norgaard
+4006B6FFF574: 010 Dennis Rasmussen
+AA33A9C49C31: 010 Rene Risum
+320ADA932836: 010 Victor Skytte
+D9AB0862E208: 010 Deniz Yurdakul
+BC406D0CB780: 010 Martin Koster
+58889BC91117: 010 David Grondal Nissen
+3CFE1833BF4D: 001 Unknown
+4975DFA274D4: 001 Unknown
