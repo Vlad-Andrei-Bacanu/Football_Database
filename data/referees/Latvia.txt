@@ -1,0 +1,15 @@
+0BFAF122B9AF: 100 Aleksandrs Anufrijevs
+3CE4C975E8B3: 100 Vitalijs Spasjonnikovs
+62577B9EE964: 101 Andris Treimanis
+F7D056D3FA50: 010 Haralds Gudermanis
+82F5DFF297C2: 010 Jevgenijs Morozovs
+C5DF3750D7D5: 010 Deniss Sevcenko
+C7336080E430: 010 Aleksejs Spasjonnikovs
+9D037F20BBF5: 010 Martins Svipsts
+4605485A866A: 010 Raimonds Tatriks
+4AB0A35ED6F6: 010 Eduards Fatkulins
+4196FF0B4F83: 010 Indus Purins
+ECEAD91BDC30: 010 Eduards Borisevics
+54708C326D9B: 010 Jurijs Ivusins
+E002E999FBEA: 001 Unknown
+E25DEA2E1337: 001 Unknown
