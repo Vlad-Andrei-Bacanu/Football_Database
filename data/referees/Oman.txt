@@ -1,0 +1,19 @@
+E25A0878FE1B: 100 Yaqoob Abdul Baki
+9C1B7EB3036E: 100 Qasim Matar Ali Al Hatmi
+FE75F68BEAD2: 100 Ahmed Al Kaf
+F5838130775C: 100 Mahmood Salim Said Al Majarafi
+5A5FBFE9B4F9: 100 Khalid Marhoun Sulaiman Al Shaqsi
+E295C51A2DC5: 100 Omar Al Yaquobi
+AB48CC4B4001: 010 Abu Bakar Al Amri
+ED945F8CB06F: 010 Hamed Talib Saif Al Ghafri
+398DCEE3A939: 010 Rashid Al Ghaithi
+8C41154E33BA: 010 Mohammed Said Salim Huma Al Ghazali
+E3F3E292F3E3: 010 Rashad Rashid Said Al Hakmani
+D3B42BE8A9DC: 010 Abdullah Al Jardani
+8A391E273243: 010 Abdullah Al Shammakhi
+AE0398AE8A04: 010 Nasser Salim Abdullah Ambusaidi
+07F6D442934E: 010 Majid Matar Ali Al Hatmi
+B98F1559D67C: 010 Fallah Hassan Mohammed Al Balushi
+A967E55FD658: 010 Turki Al Salehi
+109A4E5114E7: 001 Unknown
+FFA66B82F675: 001 Unknown
