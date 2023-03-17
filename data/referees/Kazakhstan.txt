@@ -1,0 +1,18 @@
+7F3A9C6927DA: 100 Sayat Karabayev
+C745BF28A4DC: 100 Artyom Kuchin
+75D2C44543DE: 100 Daniyar Sakhi
+F90FDE4E4A26: 100 Bulat Sariyev
+60B9F1C60F99: 010 Dmitriy Belogradov
+E29733CB94B5: 010 Yevgeniy Belskiy
+614E11D37222: 010 Sergey Kalachyov
+2D85AEE0093E: 010 Denis Labashov
+E0F87FEEC675: 010 Ilashbek Orunbayev
+C0EB6E7E9A64: 010 Samat Tergeussizov
+748CB16EFBF9: 010 Yuriy Tikhonyuk
+8347CF084AEC: 010 Sergey Vassyutin
+D0CB46442ED1: 010 Aslan Galayev
+A041DBC388F0: 010 Talgat Kosmukhambetov
+30F7253DBC7C: 010 Turekhan Tursumbayev
+EED05A50B061: 010 Nurbol Abbassov
+EC1E9C28DC09: 001 Unknown
+2C64C4F53A9F: 001 Unknown
