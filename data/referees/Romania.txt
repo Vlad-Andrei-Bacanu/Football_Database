@@ -1,0 +1,26 @@
+7489E37EABA4: 100 Marian Alexandru Barbu
+CBA0341F36FB: 100 Marcel Birsan
+CA7BD93F4A7D: 100 Andrei Florin Chivulete
+FA3B1039E281: 100 Horatiu Mircea Fesnic
+146CEDD6FBB9: 101 Ovidiu Hategan
+40AF923ADA9B: 101 Istvan Kovacs
+EDCB67003217: 100 Radu Petrescu
+F1FFE0AC1A42: 010 Mihai Artene
+79C810AC443F: 010 Valentin Avram
+4D3E2E4F1113: 010 Alexandru Cerei
+42201BD3F945: 010 Sebastian Gheorghe
+51384EFECD8F: 010 Radu Ghinculeac
+991E00FAB422: 010 Mircea Mihail Grigoriu
+EED3EA0F9F94: 010 Mihai Marius Marica
+E971412EAE23: 010 Vasile Marinescu
+A939A89B6547: 010 Mircea Orbulet
+2F1ED775D672: 010 Vladimir Urzica
+0BCA78EA3B6E: 010 Liviu Dumitru Chita
+3438A179AF2F: 010 Vlad Nicolae Ciobanu
+64D9A97B0277: 010 Daniel Deca
+AF9C44D11D04: 010 Bogdan Valentin Hanceariuc
+3AE469F54885: 010 Attila Balint
+2365264FCE68: 010 Ionel Boharu Predescu
+43892B105D0A: 010 Romeo-Catalin Preda
+E8E517B5E9C6: 001 Unknown
+993FB84E5212: 001 Unknown
