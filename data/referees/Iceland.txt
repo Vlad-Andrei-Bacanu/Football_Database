@@ -1,0 +1,13 @@
+8AA08493227E: 100 Thorvaldur Arnason
+339852B1EEEA: 100 Helgi Mikael Jonasson
+113313C4810B: 100 Ivar Orri Kristjansson
+B741FF5F35C1: 100 Vilhjalmur Alvar Thorarinsson
+793AE041C295: 010 Orur Arnar Arnason
+E09D0506B981: 010 Johann Gudmundsson
+6D4E463837C3: 010 Oddur Helgi Gudmundsson
+6584FC3BB536: 010 Egill Guvarur Gulaugsson
+7C35B529E5C6: 010 Birkir Sigurdarson
+7E8A209EDF9A: 010 Gylfi Sigurdsson
+2A179DBEBB5B: 010 Andri Vigfusson
+CE03DAD739F1: 001 Unknown
+12F64BB1CBEF: 001 Unknown
