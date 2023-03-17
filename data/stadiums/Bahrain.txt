@@ -1,7 +1,0 @@
-6C89FCEEF7BD25FC: Bahrain National Stadium, Riffa (30000)
-7CF65BD610134C2D: Khalifa Sports City Stadium, Malkiya (20000)
-0940105E28CF19BB: Muharraq Club Stadium, Muharraq (10000)
-58E04F13E91C9A89: Al Najma Club Stadium, Manama (500)
-A0DC7A37E4CA14ED: Al Ahli Stadium, Manama (10000)
-9895C1C6024F33C7: Al Muharraq Stadium, Arad (20000)
-B2FFACD6A798EDF6: Hamad Town Stadium, Hamad Town (2000)
