@@ -1,0 +1,6 @@
+6C44C96BD70AB32B: Ashgabat Stadium, Ashgabat (20000)
+33F7B13229636E41: Balkanabat Sport Complex, Balkanabat (10000)
+B3AC949B1D24DC73: Energetik Stadiony, Turkmenbashi (1000)
+FB6CA194F34895B4: Kopetdag Stadium, Ashgabat (26000)
+D7C2EC48485BC5D7: Mary Sport Complex, Mary (10000)
+E822DDD31FDFE3E1: Shagadam Stadium, Turkmenbashy (5000)
