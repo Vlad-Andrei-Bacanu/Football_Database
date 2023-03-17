@@ -1,0 +1,14 @@
+8D686DB1DFEE: 100 Dejan Jakimovski
+998999A3AA93: 100 Aleksandar Stavrev
+8949B99239E2: 100 Igor Stojchevski
+B6FED25B7F77: 010 Dejan Kostadinov
+BE4E5C059814: 010 Kushtrim Lika
+A7006401A71B: 010 Slagjan Markoski
+A4F9BD7EC1B1: 010 Dejan Nedelkoski
+924C5A4DF8F5: 010 Goce Petreski
+25B0EF6766D9: 010 Daniel Vasilevski
+C837CB293A30: 010 Josip Barton
+634BA8B27C76: 010 Marjan Mladenovski
+56B5344803FD: 010 Done Ristovski
+23BB13005BEF: 001 Unknown
+01A386E1C639: 001 Unknown
