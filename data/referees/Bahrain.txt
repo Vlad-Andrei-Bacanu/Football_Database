@@ -1,0 +1,21 @@
+8645CDBCFEEF: 100 Ali Alsamaheeji
+0F0A630826FB: 100 Mohamed Khaled Tarrar Mohamed Deham
+7C3990AD2BB3: 100 Ismaeel Habib Ali Ismaeel
+1BBB5AD11C40: 100 Mohamed Jamal Nasir Abdulla Juma
+882F3C7AEECD: 100 Ammar Ebrahim Hasan Mahfoodh
+8ED381986ADD: 101 Nawaf Shukralla
+AFE7359D0899: 010 Abdulla Yaqoob Yusuf Ahmed Abdulla
+C1D4ECD8721B: 010 Sayed Alawi
+23D31BBA91CB: 010 Faisal Alawi Sayed Shubber
+94EFF2D3196F: 010 Abdulla Alrowaimi
+3661D4A2C0AF: 010 Salah Abdulaziz Abdulla
+C86064E02D79: 010 Nawaf Moosa
+6A7F8A144966: 010 Mohamed Salman
+48D905EA6A2D: 010 Salman Mohamed Ebrahim Mohamed Talasi
+062CEE2523EA: 010 Hussain Al Bahhar
+729A2C9541A0: 010 Abdulrahman Ali Hasan Al Doseri
+42F7DDD7F370: 010 Osama Sedaif
+5BA9DFAACF47: 010 Waleed Abdulkarim
+F623B5B046DF: 010 Abdulla Saleh
+555AB6767628: 001 Unknown
+77ABADB923FA: 001 Unknown
