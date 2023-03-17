@@ -1,0 +1,6 @@
+AC5FE928FE6E: 100 Unknown
+73D196C0E200: 010 Soren John Amalensi
+B3D0A607DBF7: 010 Zachari Zeegelaar
+9F85CAF1B05E: 010 Anthony Furgill Terborg
+B72E4F44614F: 001 Unknown
+1F5DA828E07B: 001 Unknown
