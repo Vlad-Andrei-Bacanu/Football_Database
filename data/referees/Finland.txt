@@ -1,0 +1,20 @@
+61C6929CE7DE: 100 Mohammad Al-Emara
+51858EB138AF: 101 Mattias Gestranius
+52FA0F489F42: 100 Kaarlo Oskari Haemaelaeinen
+5D0FA5FC1FC2: 100 Joni Hyytiae
+D7086C07F7E7: 100 Antti Munukka
+3C8C7F503586: 100 Petri Juhani Viljanen
+991E3733EC9C: 010 Mikko Alakare
+73B7FFEB58DA: 010 Jan-Peter Aravirta
+DD4552EEAD7D: 010 Jukka Honkanen
+735B109F306E: 010 Mika Lamppu
+781159187240: 010 Veli-Matti Leppanen
+F16F5AFE1C1C: 010 Juuso Mantere
+846E53B04D8D: 010 Sami Nykanen
+8B0EB8B8453A: 010 Turkka Valjakka
+DE7025A03E80: 010 Riku Vihreaevuori
+632C5A11D25A: 010 Paavo Komppa
+80B56D08C7FD: 010 Arttu Kyynaeraeinen
+2B4FD9AE1E27: 010 Kirill Naishouler
+989CD8EEB970: 001 Unknown
+9D31524B05A7: 001 Unknown
