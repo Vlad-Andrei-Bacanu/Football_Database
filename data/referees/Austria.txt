@@ -1,0 +1,21 @@
+2290A6AD9CFB: 100 Walter Altmann
+9D9E21D485A7: 100 Christian-Petru Ciochirca
+6E883B3A8B8D: 100 Sebastian Gishamer
+979A43DFEEBB: 100 Christopher Jaeger
+440EF1C9C452: 100 Harald Lechner
+CD70C883B62A: 100 Manuel Schuettengruber
+50401C27613A: 100 Julian Weinberger
+8FD502AE251D: 010 Roland Brandner
+5E2C22C4546D: 010 Markus Gutschi
+39E45045E6E9: 010 Andreas Heidenreich
+ADC4EA8AC893: 010 Maximilian Kolbitsch
+5FDADE7F8E2A: 010 Roland Riedel
+FD63E95B144F: 010 Santino Schreiner
+6587B9CB611B: 010 Andreas Staudinger
+41AD38DB9276: 010 Robert Steinacher
+51C1C1D06987: 010 Maximilian Weiss
+1D7FFF225870: 010 Andreas Witschnigg
+08B2371C8C2F: 010 Daniel Stauber
+28A28794CFE1: 010 Manuel Wolf
+0BE56AC28A5A: 001 Unknown
+C3838CDA9754: 001 Unknown
