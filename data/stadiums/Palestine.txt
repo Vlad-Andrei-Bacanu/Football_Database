@@ -1,0 +1,6 @@
+080FCD5172C3DE04: Faisal Al-Husseini International Stadium, Al-Ram (12500)
+91B78BEBEAC1FBB7: Hussein Bin Ali Stadium, Hebron (8000)
+0625298A0EBDD4B9: Nablus Football Stadium, Nablus (4000)
+786DEBE96106D119: Al-Khader Stadium, Wadi Al-Nes (6000)
+337B01A1B11A48FC: Jamal Ghanem Stadium, Tulkarm (4000)
+507E939E4969C800: Rafah Municipal Stadium, Rafah (5000)
