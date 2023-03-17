@@ -1,0 +1,21 @@
+711BF75963C0: 100 Espen Andreas Eskas
+66FB899B43E2: 100 Kristoffer Hagenes
+66A72BE3733B: 100 Tore Hansen
+86F583163BDE: 100 Sigurd Smehus Kringstad
+DF6330A14147: 100 Svein Oddvar Moen
+18FF95E41BE1: 100 Rohit Saggi
+6C43FFE08029: 100 Kai Erik Steen
+8C1A2405BDDC: 010 Isaak Elias Bashevkin
+4A0E3CE085A9: 010 Anders Olav Dale
+40384F30304E: 010 Jan Erik Engan
+40EE62AC96C8: 010 Tom Harald Gronevik
+37331B77B89F: 010 Kim Haglund
+1EA3AF5D89C1: 010 Ole Andreas Skogsrud Haukasen
+40B0E0AD61CE: 010 Geir Oskar Isaksen
+ADB3CB497B30: 010 Morten Jensen
+5BB0CC8E47DA: 010 Runar Langseth
+3F9AE2596B45: 010 Oystein Ytterland
+DA6ED1B4EB08: 010 Omar Rafiq
+DEE7A471022A: 010 Telmen Undrakh
+C6A2D29B94B3: 001 Unknown
+95181C76A8B1: 001 Unknown
