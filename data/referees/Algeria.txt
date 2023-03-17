@@ -1,0 +1,20 @@
+BF4FDB48D963: 100 Mehdi Abid Charef
+621EDC58983B: 100 Abderazzek Arab
+F64763E80162: 100 Lotfi Bekouassa
+6879EEBDBD48: 100 Lyes Bekouassa
+4437A9471B28: 100 Lahlou Benbraham
+9E6B6FECAC59: 100 Youcef Gamouh
+7DA908DF805B: 101 Mustapha Ghorbal
+C611F55FC5C4: 010 Adel Abane
+80B37F7B60BC: 010 Hamza Bouzit
+E657319FD1FA: 010 El Hamlaoui Sid Ali Brahim
+A25730668177: 011 Abdelhak Etchiali
+B29B4D30B022: 010 Mokrane Gourari
+CDBE95829360: 010 Mohammed Serradj
+A9BCF2604B88: 010 Abbes Akram Zerhouni
+6F14C8E4ACB7: 010 Ammar Balahouane
+4FE290D4509C: 010 Adel Chenaoua
+3E05AB4BBFC2: 010 Zakaria Aroui
+28B989447792: 010 Fethallah Senhadji
+9403D0FA8078: 001 Unknown
+BAD517AB16CA: 001 Unknown
