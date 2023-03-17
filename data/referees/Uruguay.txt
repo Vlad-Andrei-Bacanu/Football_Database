@@ -1,0 +1,27 @@
+CA052D2AA924: 100 Jose Javier Burgos Terrazo
+A555869231A1: 101 Andres Cunha
+C312F7BE6689: 100 Christian Ferreyra
+0DE1D7A4529A: 101 Leodan Gonzalez
+9F3028C33C8D: 100 Andres Matias Matonte Cabrera
+99E20D055997: 101 Esteban Ostojich
+D5826CFA1A66: 100 Diego Martin Riveiro Fernandez
+F585A59BAE95: 100 Gustavo Adrian Tejera Capo
+107A00512DA5: 010 Carlos Barreiro
+E0E83A02FC2F: 010 Agustin Berisso Nande
+3FE5C0A82214: 010 Santiago Fernandez Gandini
+EB9ADBDF011F: 010 Horacio Jose Ferreiro Bruguera
+BE0E0A5DA1D2: 010 Pablo Andres Llarena Peleteiro
+020C2675A9E9: 010 Andres Nievas
+346960E89801: 010 Martin Soppi
+DF763445C3DF: 010 Nicolas Taran
+9EB0B63697F0: 010 Richard Trinidad
+F677833E85D4: 010 Diego Etcheverry Martinez
+8ED6D93A2E3E: 010 Andres Alejandro Martinez Gomez
+9DD77135D576: 010 Gonzalo Roberto Morales Rio
+BEA97694F928: 010 Daniel Rodriguez
+93B9982F7F95: 010 Christian Alberto Altez
+039974412229: 010 Pablo Marcelo Cadenasso Martinez
+A6C8891E22A2: 010 Aecio Fernandez
+C857BEE7447F: 010 Ernesto Hartwig Schneider
+BE937EDFC59F: 001 Daniel Fedorczuk
+8C92AD2CAC15: 001 Unknown
