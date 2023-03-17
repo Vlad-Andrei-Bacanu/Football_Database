@@ -1,0 +1,8 @@
+026A7871CB4C22A9: Estadi Nacional, Andorra La Vella (3306)
+EB707E366548240D: Centre d'Entrenament de la FAF, Escaldes-Engordany (2000)
+3305BBF825A87009: DEVK-Arena, Santa Coloma (1000)
+A4D9A3F9355D13EF: Camp d'Esports d'Aixovall, Sant Julia de Loria (1000)
+D7A7CFDFC5F2A691: Camp de Futbol d'Encamp, Encamp (550)
+1BD3153CB2C2D647: Camp d'Esports d'Ordino, Ordino (500)
+BB422A4D89A0FD1D: Centre d'Entrenaments, Andorra La Vella (300)
+F5AC9C1457A5B2BD: Centre Esportiu La Massana, La Massana (300)
