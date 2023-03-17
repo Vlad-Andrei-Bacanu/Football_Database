@@ -1,0 +1,30 @@
+7CA5D7B1830C: 100 Miguel Bertolo Nogueira
+A16F7439BAF7: 101 Luis Miguel Branco
+1D1EA41874C0: 101 Antonio Emanuel Carvalho Nobre
+84E33270F331: 101 Fabio Jose Costa Verissimo
+3A3F7E835F0E: 101 Artur Dias
+799D144AF250: 100 Gustavo Fernandes Correia
+CC91AE9BDFA2: 100 Vitor Ferreira
+2BCBB19E09EB: 101 Tiago Martins
+A90D12ADFD54: 101 Joao Pedro Silva Pinheiro
+F6353905C1EC: 010 Pedro Miguel Almeida Mota
+E78739CBFD17: 010 Bruno Miguel Alves Jesus
+E104163C8AB1: 010 Rui Barbosa
+94624E2C4469: 010 Paulo Ricardo Duarte Bras
+49D838288B37: 010 Luis Andre Ferreira Pinto Campos
+51F0A5B06B44: 010 Pedro Ricardo Ferreira Ribeiro
+CC2D4D566E88: 010 Rui Miguel Martins Teixeira
+E92563781B36: 010 Tiago Jose Pereira Costa
+B674E696D5CC: 010 Pedro Nuno Sa Martins
+52B2E9F704E0: 010 Paulo Soares
+2D2423D79A30: 010 Cristiano Jose Cardoso Santos
+25E07C011065: 010 Ruben Antonio Cardoso Santos
+0C2BEDF94758: 010 Eduardo Fernandes
+C16F3582C0C9: 010 Miguel Duarte Oliveira Castilho
+994218CD1640: 010 Filipe Goncalo Santos Duarte
+0E3F1075540D: 010 Wilson Castanheira Soares
+AFBE663A6CD7: 010 Sergio Gomes Soares
+063540FA9E1F: 010 Francisco Henriques Costa
+BB224C7DFDD8: 010 Sergio Jose Santos Guelho
+AD0009DB11E0: 001 Hugo Ferreira
+3D3AB3FDAA5A: 001 Unknown
