@@ -1,0 +1,32 @@
+01C2EB60AFBD: 100 Pablo Gaston Echavarria
+18BB3CC45A94: 100 Gabriel Fernando Echenique
+DB0969131769: 100 Fenando David Espinoza
+54BB738E391D: 100 Yael Cristian Falcon Perez
+4891F85A3408: 100 Dario Humberto Herrera
+47A98E3436EF: 100 Nicolas Lamolina
+E8A0B9DC820E: 101 Patricio Loustau
+DC1824B08D6C: 100 Andres Luis Merlos
+50A3C13D863D: 100 Fernando Rapallini
+223881B481A0: 100 Facundo Tello
+CD679DD42681: 010 Juan Pablo Belatti
+5749AD078BC9: 010 Diego Bonfa
+E1741EEB45D5: 010 Ezequiel Brailovsky
+FDF3951F29EB: 010 Gabriel Chade
+5B9B8F830972: 010 Maximiliano David Del Yesso
+08D005E2F046: 010 Pablo Martin Gonzalez
+2F7DD5EE2BBC: 010 Cristian Gonzalo Navarro
+A3C0FE8303EE: 010 Sebastian Raineri
+54082358DFE3: 010 Facundo Sebastian Rodriguez
+8A4F506E1856: 010 Jose Miguel Savorani
+A71DCC0DFE19: 010 Andres Daniel Pena Garcia
+775B22AF23AD: 010 Lautaro Romero
+A30E1EB8CB61: 010 Dario Santamaria
+D3A1F2AE5167: 010 Fernando Nahuel Zylberberg
+9E0352E7067E: 010 Pablo Mariano Defelippi
+D2CFA5ACE27C: 010 Carlos Gabriel Maidana
+46BCE095F4D5: 010 Ismael Parragues
+5E687387B92E: 010 Mariano Romo
+47509FBFE033: 001 Jorge Ignacio Balino
+3E7AD81281A6: 001 German Delfino
+FB7785BE29F2: 001 Silvio Trucco
+6BA72C99F8A9: 001 Mauro Vigliano
