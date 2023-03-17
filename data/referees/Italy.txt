@@ -1,0 +1,31 @@
+96624F5B1FD8: 100 Daniele Chiffi
+248785C67CD0: 101 Marco Di Bello
+E687D29E34BF: 100 Michael Fabbri
+F52925ED7EC9: 101 Marco Guida
+3AC55E36BF74: 101 Massimiliano Irrati
+0C4A4308F291: 101 Fabio Maresca
+E92A7B52D3B7: 101 Maurizio Mariani
+C6D6D95B02BE: 100 Davide Massa
+80DBCBBB7FF3: 100 Daniele Orsato
+F00123A3A4AA: 100 Luca Pairetto
+AAB3FDE6BF8E: 010 Stefano Alassio
+6021BD1087E8: 010 Giovanni Baccini
+389B5776CF2F: 010 Daniele Bindoni
+0819AEC302E8: 010 Marco Bresmes
+5A391E748347: 011 Ciro Carbone
+C299496AB525: 010 Alessandro Giallatini
+263EC185B6B8: 011 Filippo Meli
+97BE96124BA4: 010 Giorgio Peretti
+9A013D46DF3E: 010 Fabiano Preti
+5DF02C2F8457: 010 Alberto Tegoni
+592687818A71: 010 Giuliu Colombin
+0AE7C14EE893: 010 Nicola Maria Manzione
+8236E036A0D0: 010 Dario Pezzuto
+5B79F2CE7CD5: 010 Giovanni Zannola
+FBB230AB490C: 010 Saverio Bottalico
+F40C64EE4C0E: 010 Moreno Francesco Longo
+756AF5188DD2: 010 Alfredo Pavone
+57106889A3D1: 010 Luca Romani
+23196DF926E2: 001 Gianluca Aureliano
+C66E4B22AC8A: 001 Daniele Doveri
+5EE24D1A7512: 001 Paolo Valeri
