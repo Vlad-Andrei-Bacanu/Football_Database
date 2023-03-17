@@ -1,0 +1,52 @@
+C596D0E5C254210F: Loro-Borici Stadium, Shkoder (17000) {Vojo Kushi Stadium}
+8F6F96EA1EA759D7: Tomori Stadium, Berat (14500)
+AF4574B3DB8D76CE: Elbasan Arena, Elbasan (12800) {Ruzhdi Bizhuta}
+D35B78A0C91ABD4F: Selman Stermasi Stadium, Tirana (12500)
+6A2B531AAA3FCF92: Niko Dovana Stadium, Durres (12000)
+B9031CFBC432F182: Skenderbeu Stadium, Korce (12000)
+A5779AA81520A76C: Besa Stadium, Kavaje (12000)
+528828CC30F4151B: Gjorgji Kycyku Stadium, Pogradec (10000)
+EE24DFB17A71C051: Laci Stadium, Lac (10000)
+9C3699DC73829F7C: Subi Bakiri Stadium, Gjirokaster (9500) {Gjirokastra Stadium}
+C7930B01A1E378AE: Shkumbini Stadium, Peqin (9000) {Fusha Sportive Peqin}
+9D969944051F395A: Flamurtari Stadium, Vlore (8500)
+7E5F2268DA56E95F: Kastrioti Stadium, Kruje (8500)
+14F92D593F55A167: Loni Papuciu Stadium, Fier (6800)
+6FE3DA390B604474: Nexhip Trungu Stadium, Cerrik (6600)
+234B31551423FA27: Agush Muca Stadium, Ballsh (6500)
+5C012BB26BA599D4: Korabi Stadium, Peshkopi (6000)
+8386DE98E42B0FCF: Zeqir Ymeri Stadium, Kukes (5000) {Kukes Arena, Perparimi Stadium}
+4E2D2FA84A16B785: Brian Filipi Stadium, Lezhe (5000) {Beselidhja Stadium}
+B083330160F89C2E: Stadiumi Andon Lapa, Sarande (5000) {Butrinti Stadium}
+D0C9533E8E89C6E2: Kamez Stadium, Kamez (4800)
+727DD60B234AE11F: Tefik Jashari Stadium, Shijak (4000) {Tofik Jashari Stadium}
+F666496A1AD38FC1: Egnatia Arena, Rrohozhine (4000)
+18E20127F2FB2A21: Sopoti Stadium, Librazhd (3000) {Stadiumi Librazhd}
+141850FBAA36B958: Ismail Xhemali Stadium, Puke (1950)
+64B5E6CF69FC2853: Luz i Vogel Stadium, Luz i Vogel (600)
+719F20B94EF631F9: Liri Ballabani Stadium, Burrel (3000) {Burreli Stadium}
+A21D087ADF35A38B: Abdurrahman Roza Haxhiu Stadium, Lushnja (8500)
+B522C549454DE2B0: Internacional Complex, Peze Helmes (1000) {Peze Helmes Stadium}
+F65F2CB83A9A107A: Adriatik Velipoje Stadium, Velipoje (1200)
+ED2FDBFA4677B43F: National Sports Centre, Bulqize (50)
+AEF855049EF4625D: Mislim Koci Stadium, Gramsh (3100)
+E81671E1A0462DF8: Redi Maloku Stadium, Fushe Kruje (3000)
+E6172B91191261EB: Barbullush Stadium, Vau i Dejes (100)
+7BAAEE88F362BC81: Orikum Stadium, Orikum (100)
+592170DA07FABD6E: Shenkoll Stadium, Shenkoll (100)
+2A591B608B4DCA0E: Kompleksi Vellezerit Duli, Koplik (2000)
+00BE3E840FDB5759: Alush Noga Stadium, Patos (2150)
+2339BFB137C9019B: Bilisht Stadium, Bilisht (3000)
+6C297FA566C77BE7: Erseke Stadium, Erseke (8200)
+0E63E0F83C266C45: Kelcyre Stadium, Kelcyre (1000)
+33D065174F8A33B7: Laberia Complex, Vlore (100)
+AB3CB3177F032F4A: Karafil Caushi Stadium, Memaliaj (1500)
+804F0C02FB863890: Bashkim Sulejmani Stadium, Kucove (5000)
+F524CCD26746A8C0: Durim Qypi Stadium, Permet (4000)
+52F60C58EA29C944: Sabaudin Shehu Stadium, Tepelene (2000)
+71FDBF3A23E4712A: Shefqet Lamcja Complex, Elbasan (100)
+FC8C1ECFF96E6E47: Panajot Pano Stadium, Delvine (2500)
+8CFE45735DF3B8D6: Skrapar Sports Field, Corovode (1500)
+A269D05BA75EC772: Tropoje Stadium, Bajram Curri (100)
+33672C24ED1E9745: National Sports Centre, Kamez (50)
+1A55DA0F781B5951: Arena Kombetare, Tirana (22500) {Air Albania Stadium}
