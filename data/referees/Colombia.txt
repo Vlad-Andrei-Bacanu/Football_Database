@@ -1,0 +1,32 @@
+CB88AC2B367E: 100 Carlos Andres Betancur Gutierrez
+C0BBECAE9B25: 101 Nicolas Gallo
+5B768D6380C7: 100 Jhon Alexander Hinestroza Romana
+AA949FB0AA7A: 100 Carlos Arturo Ortega Jaimes
+B3DC1E9F0517: 101 Jhon Alexander Ospina Londono
+80CF14AABCA2: 100 Andres Rojas
+58D09B2B21A7: 100 Wilmar Roldan
+EBD7BBDF575F: 100 Bismarks Elias Santiago Pitalua
+F1F798EC7D79: 010 David Alejandro Fuentes Fuentes
+BBE968CB785F: 010 John Alejandro Gallego Arango
+942D4C5BB5FE: 010 Alexander Guzman
+ADE80143131C: 010 John Leon
+DC3E4192F939: 010 Wilmar Navarro
+88FC9FEBA6E9: 010 Richard Alexis Ortiz Rave
+EFAA7D00AF05: 010 Miguel Stiven Roldan Perez
+245ADF527C17: 010 Dionisio Ruiz
+4E53EA479A41: 010 Sebastian Vela Rodriguez
+A66A379434A1: 010 Yuri Ferney Garcia Sanchez
+5B7D0F641FB7: 010 Oswaldo Gomez
+83F274FB964A: 010 Daniel Stiven Manrique Gonzalez
+AE41C097D1E1: 010 Nilson Fabian Norena Chaux
+F35C1551A1E2: 010 Ferley Fuentes Quintero
+66FE8A41D483: 010 Jorge Ivan Gomez Camacho
+0DB542A81E38: 010 Adanies De Jesus Pino Vanegas
+CA0C9635F7B3: 010 Erney Gonzalo Ramos Guataquira
+51B33392934D: 001 Yadir Fernando Acuna Ochoa
+E266B5F5AE93: 001 Heider Yesid Castro Gomez
+B18E53EA6AA7: 001 Jorge Andres Guzman Bonilla
+7D912D15EF74: 001 Leonard Yasser Mosquera Gomez
+18F277F4C3E9: 001 John Edinson Perdomo Horta
+2F77FFC45585: 001 Mauricio Perez Rios
+CC1A45C2BF35: 001 David Nicolas Rodriguez Melo
