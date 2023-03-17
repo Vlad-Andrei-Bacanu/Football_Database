@@ -1,0 +1,7 @@
+C5F7D3B52C282C87: Rheinpark Stadion, Vaduz (6127)
+F70531C7320C46DB: Sportplatz Rheinau, Balzers (2000)
+0DA51807155C8E61: Sportpark Eschen-Mauren, Eschen (2000)
+DD47CB600122E171: Sportanlage Blumenau, Triesen (1500)
+93A62A1003B492E1: Sportanlage Rheinwiese, Schaan (1500)
+317C2FDC918F0BC5: Sportanlage Leitawies, Triesenberg (800)
+1114E023C9768F0B: Freizeitpark Widau, Ruggell (500)
