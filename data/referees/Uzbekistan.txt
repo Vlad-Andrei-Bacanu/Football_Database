@@ -1,0 +1,23 @@
+5038DB116722: 100 Aziz Asimov
+002433CDE61C: 100 Rustam Lutfullin
+A2BD1B6FBC32: 100 Asker Nadjafaliev
+C76BB6209F30: 100 Firdavs Norsafarov
+E2880B5183E3: 100 Akhrol Riskullaev
+EA33DDBC66E4: 100 Akobirkhuja Shukurullaev
+044692667B09: 100 Ilgiz Tantashev
+AE031C59C097: 010 Timur Gaynullin
+24A580F5F0DA: 010 Abdukhamidullo Rasulov
+E76B1CDE3850: 010 Jakhongir Saidov
+C5FE8BAFA2F4: 010 Ruslan Serazitdinov
+34414DE1DF8F: 010 Bakhtiyorkhuja Shavkatov
+B146E3556FA0: 010 Sanjar Shayusupov
+8BBF2124EB56: 010 Aleksandr Sidorov
+B5408DDA511F: 010 Andrey Tsapenko
+C755E5BD5576: 010 Alisher Usmanov
+2BA713436160: 010 Nikita Afinogenov
+7B32AB215B4E: 010 Askarbay Arzibekov
+15658EF98DC8: 010 Khushnudbek Atamuratov
+AECB0EFD0036: 010 Anatoliy Rubakov
+DED42D79437B: 010 Jamoliddin Najmiddinov
+1FA0A8E0A6A3: 001 Unknown
+362301F4634A: 001 Unknown
