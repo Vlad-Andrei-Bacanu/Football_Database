@@ -1,0 +1,23 @@
+3F34369E4288: 100 Jose Argote
+125C6B1073D4: 100 Angel Antonio Arteaga Cabriales
+6877649411EA: 100 Orlando David Bracamonte Dudamel
+E120AA7D71BF: 100 Alexis Herrera
+F715319FC40D: 100 Yender Yoscan Herrera Toledo
+585A9E60832B: 101 Juan Soto
+14CDBF79A887: 100 Jose Gregorio Uzcategui Matos
+A00311E9403A: 101 Jesus Valenzuela
+7F11667EE467: 010 Francheskoly Gregorio Chacon Marquez
+D79B50866805: 010 Yackson Daniel Diaz Guerrero
+F311339C19C0: 010 Antoni Michael Garcia Brito
+9694770D827A: 010 Carlos Lopez
+EBE13EFAFC73: 010 Tulio Moreno
+E7C9909F8E50: 010 Alberto Jose Ponte Perez
+9C51CE61CDD8: 010 Lubin Torrealba
+C19A4D900151: 011 Jorge Urrego
+7502BFC18FBB: 010 Junior Evelio Patino Rojas
+A244E6BD17D7: 010 Felix Rumbos
+D91C6E96921A: 010 Jose Julio Villar Rodriguez
+72B00F07B10C: 010 Luis Eduardo Coy Moreno
+18B4C1262C8D: 010 Jesus Leonardo Reyes Solorzano
+E91909721B46: 001 Unknown
+32460909F85C: 001 Unknown
