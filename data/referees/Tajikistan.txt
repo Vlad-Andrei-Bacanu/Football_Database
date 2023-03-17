@@ -1,0 +1,14 @@
+DFA44070DBF7: 100 Abdullo Davlatov
+0A1A4059B8CD: 100 Sadullo Gulmurodi
+8BC5AC0D3B94: 100 Nasrullo Kabirov
+8E6DE3E3811C: 100 Sayyodjon Zayniddinov
+3497DDCE4D8F: 010 Akmal Buriev
+121EB0B92A7E: 010 Vafo Karaev
+AE928F6AFEF0: 010 Hasan Karimov
+497AF63A8551: 010 Siddikzod Khusravi
+4DC1709030CC: 010 Farkhod Kuralov
+EBDA3945A097: 010 Ismoil Nuraliev
+6E8E525CFF6A: 010 Behruz Murtazoev
+1861B6BDF9F8: 010 Shurov Sattorov
+2C70D49C6C2A: 001 Unknown
+FB31AA2B9460: 001 Unknown
