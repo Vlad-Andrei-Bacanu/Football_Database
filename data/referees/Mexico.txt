@@ -1,0 +1,28 @@
+006997B9989A: 101 Adonai Escobedo
+9C838215A817: 101 Fernando Guerrero
+61E7DDB196B0: 100 Fernando Hernandez Gomez
+D55D1CAC06E4: 100 Oscar Macias Romo
+58D8F1797B77: 100 Diego Montano Robles
+D845949B5646: 100 Marco Antonio Ortiz Nava
+94D5395DAE6F: 100 Jorge Antonio Perez Duran
+472F88CE32EC: 100 Cesar Ramos
+FB0CA5F9DC07: 100 Luis Enrique Santander Aguirre
+A0302CB5CF3D: 010 Enrique Isaac Bustos Diaz
+EAA46658A63F: 010 Christian Kiabek Espinosa Zavala
+26CED758E7B4: 010 Andres Hernandez Delgado
+0B63DEC6645F: 010 Miguel Hernandez
+ECA54E962230: 010 Pablo Hernandez
+939AF81CF3CB: 010 Jose Martinez
+30D27B2B9002: 010 Michel Alejandro Morales Morales
+3F18CDF78285: 010 Alberto Morin
+12DDB74B3C3B: 010 Jorge Antonio Sanchez Espinoza
+BAE789F90EE1: 010 Diego Gilberto Gurrea Mendoza
+513F1E86E0B9: 010 Juan Francisco Sanchez Leal
+C905C15707FF: 010 Carlos Ivan Trejo Saldivar
+1E5CBC59A31F: 010 Simon Alberto Estrada Carmona
+C084FC756038: 010 Mario Alberto Nava Severiano
+97C7EFD62F4E: 010 Jair Robles Rendon
+D3F4A5520D25: 001 Cirilo Arturo Cruz Hurtado
+51D7D86457DD: 001 Eduardo Galvan Basulto
+5C26CFA54F82: 001 Erick Miranda
+3E6DAE3CCE99: 001 Angel Monroy Bello
