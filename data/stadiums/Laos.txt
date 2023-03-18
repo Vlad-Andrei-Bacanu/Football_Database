@@ -1,0 +1,8 @@
+80E79E6208635A5F: Attapeu Stadium, Attapeu (12000)
+BDBD8BAAC0E467EF: Champasak Stadium, Pakse (12000)
+DB23AFFD234C65F2: Lao-American College FC Stadium, Vientiane (1500)
+DCA172E5754C6B5C: Laos National Stadium, Vientiane (20000)
+1AF820125B1B3983: Luang Prabang Stadium, Luang Prabang (20000)
+DA2A6FDDFFBB2BBE: New Laos National Stadium, Vientiane (25000)
+73AEC2C2C0393593: Savannakhet Stadium, Savannakhet (15000)
+E66651E957DB5B24: Army Stadium KM5, Vientiane (1500)
