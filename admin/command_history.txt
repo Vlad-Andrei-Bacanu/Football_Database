@@ -1,0 +1,431 @@
+save
+list referees nationality=GEO,ALB,ARM orderby:name
+add referees
+save #r
+list referees nationality=HUN
+list referees nationality=GUE
+add referees
+list referees nationality=GRE
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+list referees nationality='KAZ'
+list referees nationality=LTU
+list referees nationality=LVA
+list referees nationality=LIE
+list referees nationality=LUX
+save #r
+add referees
+list referees nationality=MLT,MDA,MON,MNE
+save #R
+save #r
+add referees
+Espen Andreas Eskas	(NOR)	100
+Kristoffer Hagenes	(NOR)	100
+Tore Hansen	(NOR)	100
+Sigurd Smehus Kringstad	(NOR)	100
+Svein Oddvar Moen	(NOR)	100
+Rohit Saggi	(NOR)	100
+Kai Erik Steen	(NOR)	100
+Isaak Elias Bashevkin	(NOR)	010
+Anders Olav Dale	(NOR)	010
+Jan Erik Engan	(NOR)	010
+Tom Harald Gronevik	(NOR)	010
+Kim Haglund	(NOR)	010
+Ole Andreas Skogsrud Haukasen	(NOR)	010
+Geir Oskar Isaksen	(NOR)	010
+Morten Jensen	(NOR)	010
+Runar Langseth	(NOR)	010
+Oystein Ytterland	(NOR)	010
+Omar Rafiq	(NOR)	010
+Telmen Undrakh	(NOR)	010
+Unknown	(NOR)	001
+Unknown
+list referees nationality=NED,MKD,NIR,NOR
+save #r
+add referees
+list referees nationality=POL,POR,IRL,ROU,RUS
+save #r
+add referees
+list referees nationality=SMR,SCO,SRB,SVK,SVN,ESP,SWE,SUI
+save #r
+add referees
+list referees nationality=TUR,UKR,VAT
+save #r
+add referees
+list referees nationality=BAH,IRQ,JOR,KUW,LEB,OMN,PAL,QAT,KSA,SYR,UAE,YEM
+save #r
+add referees
+list referees nationality=AFG,IRN,KYG,TJK,TRK,UZB
+save #r
+add referees
+save #r
+add referees
+details AFD631DE1521
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+details Norway
+details France
+details Eng
+details ENG
+details 257
+details 267
+add referees
+save #r
+list referees nationality=TGO
+add referees
+save #r
+add referees
+list referees name=Unknown
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+details CUB
+add referees
+save #r
+details MPS
+details FRG
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+add referees
+save #r
+list referees
+list referees orderby:name
+list referees nationality=GIB
+update 0FA2E04E99B4
+list stadiums country=GIB
+update E826F8458D38E27F
+details MRT
+deta
+list stadiums capacity<2000 orderby:name
+details Hungary
+detai
+add referees
+update E52ADD1EA582
+update 5D2DAD60526C903F
+list stadiums capacity<2000 orderby:name
+details Hungary
+add referees
+details Hungary
+add referees
+delete A06F9CBD9855 72E56E884925
+list stadiums orderby:code
+list referees orderby:code
+details Hungary
+list stadiums capacity<2000 orderby:code
+add referees
+delete F206CE08E19E 496D2222EFBF
+details 138
+details Romania
+list referees nationality=ROU,Moldova orderby:code
+list referees nationality=ROU
+add referees
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=ISL orderby:name
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums | save #s
+save #s
+save #r
+add stadiums
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+add stadiums country=ENG
+add stadiums country=JER
+add stadiums 1
+save #s
+list stadiums country=ITA orderby:name
+list stadiums country=JER
+list stadiums country=ITA
+ok
+list stadiums orderby:name
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+details Laos
+list stadiums capacity<5000 country=ITA,CRO
+details Laos
+list stadiums capacity<5000 country=CRO,ITA
+details Laos
+list stadiums capacity<5000 country=ITA,CRO
+details Laos
+list stadiums capacity<5000 country=ITA,CRO
+details Laos
+list stadiums capacity<5000 country=ITA,CRO
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add referees
+delete referees
+update referees
+save
+list stadiums country=ISR
+ok
+save
+details E03011E2879D0747
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+add stadiums
+add stadiums
+save #s
+list stadiums country=MKD
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=POR
+list stadiums country=MDA
+add stadiums
+save #s
+list stadiums country=POR
+save #s
+add stadiums
+save #s
+add stadiums
+add stadiums country=ROU orderby:name
+save #s
+update F9793EB8B72F1E4F
+details F9793EB8B72F1E4F
+add stadiums
+save #s
+list stadiums country=RUS
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=SCO
+list stadiums country=SMR
+ok
+add stadiums
+list stadiums country=SCO
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+add stadiums
+save #s
+search history
+search history history.py
+search history history.py
+search history history.py
+search history history.py login.py
+search team team.py
+add stadiums
+save #s
+list stadiums country=ESP
+list stadiums country=ESP orderby:descname
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums country=ROU
+add stadiums country=VAT
+save #s
+clc
+clear
+add stadiums
+save #s
+list stadiums
+list stadiums orderby:country,name,capacity
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=BAH orderby:desccapacity
+list stadiums country=BAH orderby:code
+suppress hex_codes.txt text_file.txt
+suppress hex_codes.txt test_file.txt
+0D24C68E9DABB978
+BA661E524C643B0E
+A5DFBF0BFA22B906
+52613D408E367179
+649413415D908E60
+955BEAAF499E7E0A
+887D7C3B6AD238F0
+BA67A12B6AC50260
+9A4DC7DF2E5BDC6E
+8BACD32BF71480A2suppress hex_codes.txt test_file.txt
+suppress hex_codes.txt test_file.txt
+search Durres stadiums/Albania.txt
+suppress hex_codes.txt hex_codes.txt
+suppress hex_codes.txt
+add stadiums
+list stadiums country=IRQ
+ok
+save #s
+add stadiums
+list stadiums country=JOR
+list stadiums country=JOR,BAH orderby:desccapacity,name
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=Lebanon capacity>=10000 orderby:code
+add stadiums country=FRA
+add stadiums
+list stadiums country=ROU capacity=1000
+delete BC89D5660741D3AB
+details BC89D5660741D3AB
+details Andorra
+search history history.py terminal.py
+list stadiums country=AND
+add stadiums
+save #s
+add stadiums
+save #s
+send
+add stadiums
+save #s
+list stadiums orderby:name
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=YEM
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums#
+add stadiums
+list stadiums country=KYG
+save #s
+list country=KYG stadiums
+save #s
+add stadiums
+save #s
+list country=TJK stadiums
+save #s
+list stadiums country=TJK
+add stadiums
+save #s
+upload
+download
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+add stadiums
+save #s
+upload
+add stadiums
+save #s
+add stadiums
+save #s
+upload
+upload
+upload
+upload
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+add stadiums
+details AUS
+add stadiums
+save #s
+upload #c
+add stadiums
+save #s
+upload
+list stadiums orderby:code
+list stadiums orderby:desccode
+clear
+add stadiums
+save #s
+add stadiums
+save #s
+upload #s
+add stadiums
+save #s
+add stadiums
+save #s
