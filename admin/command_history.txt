@@ -429,3 +429,8 @@ add stadiums
 save #s
 add stadiums
 save #s
+upload #s
+list stadiums country=JPN,PRK,KOR,MCO,MGL,NMI orderby:desccode
+list country=MNE
+list stadiums country=MNE
+ok
