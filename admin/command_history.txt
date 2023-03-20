@@ -434,3 +434,6 @@ list stadiums country=JPN,PRK,KOR,MCO,MGL,NMI orderby:desccode
 list country=MNE
 list stadiums country=MNE
 ok
+add stadiums
+add stadiums
+save #s
