@@ -437,3 +437,10 @@ ok
 add stadiums
 add stadiums
 save #s
+upload #s
+alert meau 'ce faci?'
+alert meau 'ce faci?'
+alert meaaaaau meaaaaaaaaaaaaaaau
+EXIT
+add stadiums
+save #s
