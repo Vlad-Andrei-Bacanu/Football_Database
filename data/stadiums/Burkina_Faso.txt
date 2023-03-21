@@ -1,0 +1,7 @@
+6F60CBCCFC46454B: Stade Balibie, Koudougou (5000)
+A9027D1D1D3062AF: Stade Banfora, Banfora (6000)
+ACC0063DE8830377: Stade de la SONABEL, Ouagadougou (5000)
+59DEE245A4EC5480: Stade du 4 Aout, Ouagadougou (29800)
+35D79069B55D3EF4: Stade General Aboubacar Sangoule Lamizana, Bobo Dioulasso (40000)
+3082442201028D46: Stade Municipal, Ouagadougou (25000)
+A1DC6F496469B30F: Stade Wobi Bobo Dioulasso, Bobo Dioulasso (10000)
