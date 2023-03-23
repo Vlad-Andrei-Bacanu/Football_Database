@@ -1,0 +1,8 @@
+0E40A7ADEC1CB209: Intwari Stadium, Bujumbura (10000)
+9A8A66734ECDEF08: Stade Urukundo, Ngozi (5000)
+3AFAA3A2F6CED716: Stade Ingoma, Gitega (10000)
+AE5A00ABEED08A25: Peace Park, Makamba (35000)
+4A46A920A7A8F214: Stade Umuco, Muyinga (10000)
+6CBD64E191C3704A: Stade Urunani, Buganda (7000)
+378A3531490E94E5: Stade de Gatwaro, Kanyanza (10000)
+2A7F8E12C6491741: Stade de Ruyigi, Ruyigi (2000)
