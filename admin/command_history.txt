@@ -444,3 +444,12 @@ alert meaaaaau meaaaaaaaaaaaaaaau
 EXIT
 add stadiums
 save #s
+upload #s
+add stadiums
+save #s
+add stadiums
+save #s
+list stadiums country=UGA
+list stadiums
+save #s
+update #s
