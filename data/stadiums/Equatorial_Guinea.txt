@@ -1,0 +1,6 @@
+80C6665B7FEEE40D: Estadio de Bata, Bata (22000)
+7CE558F6F359939E: Estadio de Ebibeyin, Ebibeyin (8000)
+7330B43D1473B2FA: Estadio de Malabo, Malabo (15250)
+D75CA90386590853: Estadio Internacional, Malabo (6000)
+B2ED94866A915E19: Estadio La Libertad, Bata (4000)
+6DB554E027BF61B7: Estadio de Mongomo, Mongomo (10000)
