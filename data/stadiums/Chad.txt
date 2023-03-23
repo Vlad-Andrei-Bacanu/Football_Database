@@ -1,0 +1,6 @@
+B33621136C362DEA: Stade Omnisports Idriss Mahamat Ouya, N'Djamena (20000)
+A63041D2830038BF: Stade de Moundou, Mondou (10000)
+58386FBC2117FA54: Stade de Abeche, Abeche (5000)
+30DB465A5639D821: Stade Omnisports de Doba, Doba (8000)
+837BCF8F60CD55A9: Stade Idriss Miskine, Mongo (1000)
+4BA14D3EBCE9C9D5: Stade Omnisport de Begou, Begou (1000)
