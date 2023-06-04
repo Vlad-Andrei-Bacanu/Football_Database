@@ -453,3 +453,12 @@ list stadiums country=UGA
 list stadiums
 save #s
 update #s
+upload #s
+list stadiums country=ZAM
+list stadiums country=UGA
+list stadiums country=ZIM
+list stadiums country=ANG
+add stadiums
+list stadiums country=ZIM
+list stadiums country=ZIM orderby:code
+add stadiums
