@@ -1,2 +1,3 @@
-ID                   |    Creation Date    |   Installing Date   | Device IP Address | Device Name   | Device MAC Address |
----------------------|---------------------|---------------------|-------------------|---------------|--------------------|
+ID                   |    Creation Date    |   Installing Date   | Device IP Address | Device Name | Device MAC Address |
+---------------------|---------------------|---------------------|-------------------|-------------|--------------------|
+6249F624692468429642 | 2023-07-06 18:59:08 |          -          |         -         |  -          |         -          |
