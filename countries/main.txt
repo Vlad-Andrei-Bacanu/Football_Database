@@ -1,1 +1,233 @@
-
+101 ALB Albania: Tirana, 28748, 2854710 - 1354.11
+102 AND Andorra: Andorra la Vella, 468, 79034 - 1035.2
+103 ARM Armenia: Yerevan, 29743, 2790974 - 1233.93
+104 AUT Austria: Wien, 83871, 8922082 - 1492.95
+105 AZE Azerbaijan: Baku, 86600, 10312992 - 1146.72
+106 BLR Belarus: Minsk, 207600, 9578167 - 1221.06
+107 BEL Belgium: Bruxelles, 30528, 11611419 - 1816.71
+108 BIH Bosnia and Herzegovina: Sarajevo, 51197, 3270943 - 1403.51
+109 BUL Bulgaria: Sofia, 110879, 6885868 - 1335.36
+110 CRO Croatia: Zagreb, 56594, 4060135 - 1645.64
+111 CYP Cyprus: Nicosia, 9251, 1244188 - 1183.82
+112 CZE Czech Republic: Praha, 78867, 10510751 - 1492.21
+113 DEN Denmark: Kobenhavn, 42933, 5928364 - 1666.57
+114 ENG England: London, 130279, 56489800 - 1728.47
+115 EST Estonia: Tallinn, 45228, 1328701 - 1184.64
+116 FAR Faroe Islands: Torshavn, 1399, 54000 - 1147.17
+117 FIN Finland: Helsinki, 338145, 5535992 - 1405.6
+118 FRA France: Paris, 643427, 64531444 - 1759.78
+119 GEO Georgia: T'Bilisi, 69700, 3757980 - 1307.34
+120 GER Germany: Berlin, 357022, 83408554 - 1650.21
+121 GIB Gibraltar: Gibraltar, 6.8, 34003 - 852.16
+122 GRE Greece: Athina, 131957, 10445365 - 1437.6
+123 GUE Guernsey: St Peter Port, 65, 62792 - 600
+124 HUN Hungary: Budapest, 93028, 9709786 - 1492.2
+125 ISL Iceland: Reykjavik, 103000, 370335 - 1384.41
+126 IMN Isle of Man: Douglas, 572, 84069 - 600
+127 ISR Israel: Jerusalem, 20770, 9616700 - 1316.55
+128 ITA Italy: Roma, 301340, 59240329 - 1726.14
+129 JER Jersey: St Helier, 119.6, 103267 - 600
+130 KAZ Kazakhstan: Astana, 2724900, 19196465 - 1166.63
+131 KOS Kosovo: Prishtina, 10887, 1806279 - 1187.01
+132 LVA Latvia: Riga, 64589, 1873919 - 1114.21
+133 LIE Liechtenstein: Vaduz, 160, 39039 - 862.39
+134 LTU Lithuania: Vilnius, 65300, 2786651 - 1069.75
+135 LUX Luxembourg: Luxembourg, 2586, 639321 - 1243.8
+136 MLT Malta: Valletta, 316, 526748 - 977.92
+137 MDA Moldova: Chisinau, 33851, 3061506 - 961.23
+138 MON Monaco: Monaco-Ville, 2, 36686 - 600
+139 MNE Montenegro: Podgorica, 13812, 627859 - 1341.03
+140 NED Netherlands: Amsterdam, 41543, 17501696 - 1694.51
+141 MKD North Macedonia: Skopje, 25713, 2103330 - 1358.51
+142 NIR Northern Ireland: Belfast, 14130, 1903100 - 1396.55
+143 NOR Norway: Oslo, 323802, 5403021 - 1473.04
+144 POL Poland: Warszawa, 312685, 38307726 - 1548.59
+145 POR Portugal: Lisboa, 92090, 10290103 - 1676.56
+146 IRL Republic of Ireland: Dublin, 70273, 4986526 - 1440.19
+147 ROU Romania: Bucuresti, 238391, 19328560 - 1434.68
+148 RUS Russia: Moskva, 17098242, 145102755 - 1496.11
+149 SMR San Marino: San Marino, 61, 33745 - 762.22
+150 SCO Scotland: Edinburgh, 77933, 5463300 - 1479.53
+151 SRB Serbia: Belgrade, 88361, 7296769 - 1563.62
+152 SVK Slovakia: Bratislava, 49035, 5447622 - 1425.59
+153 SVN Slovenia: Ljubljana, 20273, 2119410 - 1384.04
+154 ESP Spain: Madrid, 505370, 47486935 - 1715.22
+155 SWE Sweden: Stockholm, 450295, 10467097 - 1553.33
+156 SUI Switzerland: Bern, 41277, 8691406 - 1635.92
+157 TUR Turkey: Ankara, 783562, 84775404 - 1460.14
+158 UKR Ukraine: Kyiv, 603550, 43531422 - 1536.99
+159 VAT Vatican City: Citta del Vaticano, 0.44, 511 - 600
+160 WAL Wales: Cardiff, 20779, 3267501 - 1569.82
+201 BAH Bahrain: Manama, 760, 1463265 - 1280.64
+202 IRQ Iraq: Baghdad, 438317, 43533592 - 1343.01
+203 JOR Jordan: Amman, 89342, 11148278 - 1289.99
+204 KUW Kuwait: Kuwait City, 17818, 4250114 - 1053.41
+205 LEB Lebanon: Beirut, 10452, 5592631 - 1211.71
+206 OMN Oman: Muscat, 309500, 4520471 - 1320.29
+207 PAL Palestine: Ramallah, 6020, 5227193 - 1233.72
+208 QAT Qatar: Doha, 11586, 2688235 - 1439.89
+209 KSA Saudi Arabia: Ar Riyadh, 2149690, 35950396 - 1437.78
+210 SYR Syria: Dimashq, 185180, 21324367 - 1255.92
+211 UAE United Arab Emirates: Abu Dhabi, 83600, 9365145 - 1337.57
+212 YEM Yemen: Sana'a, 527968, 32981641 - 1023.52
+221 AFG Afghanistan: Kabul, 652230, 40099462 - 1023.04
+222 IRN Iran: Tehran, 1648195, 87923432 - 1564.61
+223 KYG Kyrgyzstan: Bishkek, 199951, 6527743 - 1230.22
+224 TJK Tajikistan: Dushanbe, 143100, 9750064 - 1185.7
+225 TRK Turkmenistan: Asgabat, 488100, 6341855 - 1100.47
+226 UZB Uzbekistan: Toshkent, 447400, 34081449 - 1309.98
+231 BGD Bangladesh: Dhaka, 147570, 169356251 - 884.45
+232 BHT Bhutan: Thimphu, 38394, 777486 - 910.96
+233 IND India: New Delhi, 3287263, 1407563842 - 1192.09
+234 MDV Maldives: Male, 298, 521457 - 1026.09
+235 NPL Nepal: Kathmandu, 147516, 30034989 - 954.86
+236 PAK Pakistan: Islamabad, 881913, 231402117 - 866.81
+237 SRL Sri Lanka: Sri Jayawardenapura Kotte, 65610, 21773441 - 825.25
+241 AUS Australia: Canberra, 7692024, 26012600 - 1488.72
+242 BRU Brunei Darussalam: Bandar Seri Begawan, 5765, 460356 - 898.41
+243 CBD Cambodia: Phnom Penh, 181035, 16589023 - 948.62
+244 IDN Indonesia: Jakarta, 1904569, 273753191 - 1033.9
+245 LAO Laos: Vientiane, 236800, 7425057 - 905.51
+246 MAL Malaysia: Kuala Lumpur, 329847, 33573874 - 1062.32
+247 MYA Myanmar: Nay Pyi Taw, 676578, 53798084 - 1007.89
+248 PHI Philippines: Manila, 343448, 113880328 - 1115.13
+249 SGP Singapore: Singapore, 697, 5941060 - 1003.5
+250 THA Thailand: Bangkok, 513120, 71601103 - 1174.92
+251 TML Timor-Leste: Dili, 14874, 1320942 - 860.06
+252 VIE Vietnam: Ha Noi, 332698, 97468029 - 1226.65
+261 CHN China PR: Beijing, 9596961, 1425893465 - 1305.06
+262 TPE Chinese Taipei: Taipei, 35980, 23859912 - 1017.78
+263 GUM Guam: Hagatna, 540, 168801 - 838.33
+264 HKG Hong Kong: Hong Kong, 2755, 7582000 - 1062.39
+265 JPN Japan: Tokyo, 377915, 124612530 - 1559.54
+266 PRK North Korea: Pyongyang, 120538, 25971909 - 1169.96
+267 KOR South Korea: Seoul, 99720, 51830139 - 1530.3
+268 MCO Macau: Macau, 28.2, 693000 - 922.1
+269 MGL Mongolia: Ulaanbaatar, 1564116, 3347782 - 913.55
+270 NMI Northern Mariana Islands: Saipan, 464, 55650 - 600
+301 ALG Algeria: Algiers, 2381740, 44177969 - 1489.1
+302 EGY Egypt: Cairo, 1001449, 109262178 - 1486.44
+303 LBY Libya: Tripoli, 1759540, 6735277 - 1154.25
+304 MAR Morocco: Rabat, 446550, 37076584 - 1563.5
+305 TUN Tunisia: Tunis, 163610, 12262946 - 1507.54
+306 WSA Western Sahara: Laayoune, 266000, 565581 - 600
+311 BEN Benin: Porto-Novo, 112622, 12996895 - 1247.47
+312 BKF Burkina Faso: Ouagadougou, 274000, 22100683 - 1432.25
+313 CPV Cape Verde Islands: Praia, 4033, 587925 - 1336.05
+314 GAM Gambia: Banjul, 10380, 2639916 - 1137.47
+315 GHA Ghana: Accra, 238534, 32833031 - 1393
+316 GUI Guinea: Conakry, 245857, 13531906 - 1290.47
+317 GBS Guinea-Bissau: Bissau, 36125, 2060721 - 1160.71
+318 CIV Ivory Coast: Yamoussoukro, 322460, 27478249 - 1443.06
+319 LIB Liberia: Monrovia, 111369, 5193416 - 1049.66
+320 MLI Mali: Bamako, 1240192, 21904983 - 1448.85
+321 MRT Mauritania: Nouakchott, 1030700, 4614974 - 1197.58
+322 NIG Niger: Niamey, 1267000, 25252722 - 1152.8
+323 NGA Nigeria: Abuja, 923768, 213401323 - 1498.47
+324 SEN Senegal: Dakar, 196723, 16876720 - 1584.38
+325 SLE Sierra Leone: Freetown, 71740, 8420641 - 1160.31
+326 TGO Togo: Lome, 56785, 8644829 - 1128.92
+331 CMR Cameroon: Yaounde, 475442, 27198628 - 1471.44
+332 CAR Central African Republic: Bangui, 622984, 5457154 - 1116.97
+333 CHD Chad: N'Djamena, 1284000, 17179740 - 930.22
+334 CON Republic of Congo: Brazzaville, 342000, 5835806 - 1208.79
+335 COD Congo DR: Kinshasa, 2344858, 95894118 - 1333.92
+336 EQG Equatorial Guinea: Malabo, 28051, 1634466 - 1215.66
+337 GAB Gabon: Libreville, 267668, 2341179 - 1301.84
+338 STP Sao Tome and Principe: Sao Tome, 964, 223107 - 908.18
+341 BRD Burundi: Gitega, 27830, 12551213 - 1076.26
+342 DJI Djibouti: Djibouti, 23200, 1105557 - 875.05
+343 ERT Eritrea: Asmara, 117600, 3620312 - 855.56
+344 ETH Ethiopia: Addis Ababa, 1104300, 120283026 - 1091.19
+345 KEN Kenya: Nairobi, 580367, 53005614 - 1202.26
+346 RWA Rwanda: Kigali, 26798, 13461888 - 1093.66
+347 SOM Somalia: Mogadishu, 637657, 17065581 - 854.72
+348 SSD South Sudan: Juba, 644329, 10748272 - 983.99
+349 SUD Sudan: Khartoum, 1861484, 45657202 - 1127.34
+350 TAN Tanzania: Dodoma, 945203, 63588334 - 1119.89
+351 UGA Uganda: Kampala, 236040, 45853778 - 1260.69
+352 ZAN Zanzibar: Zanzibar City, 2462, 1503569 - 600
+361 ANG Angola: Luanda, 1246700, 34503774 - 1155.9
+362 BTS Botswana: Gaborone, 581726, 2588423 - 1056.46
+363 COM Comoros: Moroni, 2235, 821625 - 1123.18
+364 ESW Eswatini: Mbabane, 17364, 1192271 - 1070.89
+365 LST Lesotho: Maseru, 30355, 2281454 - 1061.4
+366 MDG Madagascar: Antananarivo, 587041, 28915653 - 1200.74
+367 MLW Malawi: Lilongwe, 118484, 19889742 - 1144.97
+368 MAU Mauritius: Port Louis, 2040, 1298915 - 932.02
+369 MOZ Mozambique: Maputo, 801590, 32077072 - 1165.22
+370 NAM Namibia: Windhoek, 825418, 2530151 - 1164.13
+371 REU Reunion: Saint-Denis, 2511, 868846 - 600
+372 SEY Seychelles: Victoria, 451, 106471 - 859.56
+373 SAF South Africa: Pretoria, 1221037, 59392255 - 1349.59
+374 ZAM Zambia: Lusaka, 752614, 19473125 - 1267.41
+375 ZIM Zimbabwe: Harare, 390757, 15993524 - 1138.56
+401 CAN Canada: Ottawa, 9984670, 38155012 - 1475
+402 GRL Greenland: Nuuk, 2166086, 56243 - 600
+403 MEX Mexico: Ciudad de Mexico, 1972550, 126705138 - 1644.89
+404 USA United States: Washington DC, 9826630, 336997624 - 1627.48
+411 BLZ Belize: Belmopan, 22966, 400031 - 950.88
+412 CRC Costa Rica: San Jose, 51100, 5153957 - 1503.59
+413 ELS El Salvador: San Salvador, 21040, 6314167 - 1330.51
+414 GUA Guatemala: Ciudad de Guatemala, 108890, 17608483 - 1156.7
+415 HON Honduras: Tegucigalpa, 112090, 10278345 - 1301.98
+416 NCG Nicaragua: Managua, 129494, 6850540 - 1071.83
+417 PNM Panama: Ciudad de Panama, 78200, 4351267 - 1393.28
+421 AIA Anguilla: The Valley, 102, 15753 - 790.74
+422 ATG Antigua and Barbuda: St John's, 442.6, 93219 - 1117.01
+423 ARU Aruba: Oranjestad, 193, 106537 - 855.37
+424 BHM Bahamas: Nassau, 13940, 407906 - 854.8
+425 BAR Barbados: Bridgetown, 431, 281200 - 982.27
+426 BER Bermuda: Hamilton, 53.3, 64185 - 977.47
+427 BON Bonaire: Kralendijk, 179, 20104 - 600
+428 BVI British Virgin Islands: Road Town, 153, 31122 - 809.32
+429 CAY Cayman Islands: George Town, 262, 68136 - 865.72
+430 CUB Cuba: La Habana, 110860, 11256372 - 978.65
+431 CUR Curacao: Willemstad, 276, 190338 - 1278.64
+432 DOM Dominica: Roseau, 754, 72412 - 911.51
+433 DOR Dominican Republic: Santo Domingo, 48730, 11117873 - 1031.86
+434 FRG French Guyana: Cayenne, 83534, 294071 - 600
+435 GRN Grenada: St George's, 344, 124610 - 963.72
+436 GUD Guadeloupe: Basse-Terre, 1628, 396051 - 600
+437 GUY Guyana: Georgetown, 214969, 804567 - 968.74
+438 HTI Haiti: Port-au-Prince, 27750, 11447569 - 1269.07
+439 JAM Jamaica: Kingston, 10991, 2827695 - 1378.86
+440 MTQ Martinique: Fort-de-France, 1128, 368796 - 600
+441 MTS Montserrat: Brades, 102, 4417 - 940.78
+442 PUR Puerto Rico: San Juan, 13790, 3256028 - 974.32
+443 SKN Saint Kitts and Nevis: Basseterre, 261, 47606 - 1076.91
+444 STL Saint Lucia: Castries, 616, 179651 - 965.66
+445 SMT Saint Martin: Marigot, 53.2, 31948 - 600
+446 SVG Saint Vincent and The Grenadines: Kingstown, 389, 104332 - 945.25
+447 SIM Sint Maarten: Philipsburg, 41.44, 44042 - 600
+448 SUR Suriname: Paramaribo, 163820, 612985 - 1077.3
+449 TTO Trinidad and Tobago: Port of Spain, 5128, 1525663 - 1195.29
+450 TKC Turks and Caicos Islands: Cockburn Town, 430, 45114 - 832
+451 UVI US Virgin Islands: Charlotte Amalie, 1910, 100091 - 823.97
+501 ARG Argentina: Buenos Aires, 2780400, 45276780 - 1773.88
+502 BOL Bolivia: Sucre, 1098581, 12079472 - 1296.28
+503 BRA Brazil: Brasilia, 8514877, 214326223 - 1841.3
+504 CHL Chile: Santiago de Chile, 756102, 19493184 - 1509.61
+505 COL Colombia: Bogota, 1138910, 51516562 - 1611.04
+506 ECU Ecuador: Quito, 283561, 17797737 - 1464.39
+507 PAR Paraguay: Asuncion, 406752, 6703799 - 1448.77
+508 PER Peru: Lima, 1285216, 33715471 - 1561.01
+509 URU Uruguay: Montevideo, 176215, 3426260 - 1638.71
+510 VEN Venezuela: Caracas, 912050, 28199867 - 1404.37
+601 ASA American Samoa: Pago Pago, 199, 67242 - 900.27
+602 COK Cook Islands: Avarua, 236, 11124 - 899.33
+603 FIJ Fiji: Suva, 18274, 924610 - 989.43
+604 KIR Kiribati: Bairiki, 811, 128874 - 600
+605 NCL New Caledonia: Noumea, 18575, 256275 - 995.58
+606 NZL New Zealand: Wellington, 267710, 5129727 - 1193.98
+607 PNG Papua New Guinea: Port Moresby, 462840, 9949437 - 1007.46
+608 SAM Samoa: Apia, 2831, 218764 - 894.26
+609 SOL Solomon Islands: Honiara, 28896, 707851 - 1095.7
+610 THT Tahiti: Papeete, 4167, 294935 - 995.11
+611 TGA Tonga: Nuku'alofa, 747, 106017 - 861.81
+612 TUV Tuvalu: Funafuti, 26, 11204 - 600
+613 VAN Vanuatu: Port Vila, 12189, 319137 - 985.62
+621 MSH Marshall Islands: Majuro, 181, 42050 - 600
+622 FSM Federated States of Micronesia: Palikir, 702, 113131 - 600
+623 NRU Nauru: Yaren, 21, 12511 - 600
+624 PLW Palau: Ngerulmud, 459, 18024 - 600
