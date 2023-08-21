@@ -1,6 +1,6 @@
 Code: 0123456789ABCDEF0123456789ABCDEF
 Created by: 0123456789ABCDEF0123
-Type: Information
+Type: Evolution
 Subject: Test
 Return address: vlad.andrei01@gmail.com
 Importance:  5.00
