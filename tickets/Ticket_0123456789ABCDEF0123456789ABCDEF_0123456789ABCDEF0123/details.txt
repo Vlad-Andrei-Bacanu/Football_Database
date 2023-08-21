@@ -1,5 +1,5 @@
-Code: 
-Created by: {{$installer_id}}
+Code: 0123456789ABCDEF0123456789ABCDEF
+Created by: 0123456789ABCDEF0123
 Type: Information
 Subject: Test
 Return address: vlad.andrei01@gmail.com
