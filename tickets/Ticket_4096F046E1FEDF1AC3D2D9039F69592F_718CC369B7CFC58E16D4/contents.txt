@@ -1,0 +1,12 @@
+Kalinov (Rusyn: ; Hungarian: Kalen) is a village and municipality in the Medzilaborce District in the Preov Region of far north-eastern Slovakia.
+
+A machine check exception (MCE) is a type of computer error that occurs when a problem involving the computer's hardware is detected.  With most mass-market personal computers, an MCE indicates faulty or misconfigured hardware.
+The nature and causes of MCEs can vary by architecture and generation of system.  In some designs, an MCE is always an unrecoverable error, that halts the machine, requiring a reboot.  In other architectures, some MCEs may be non-fatal, such as for single-bit errors corrected by ECC memory.  On some architectures, such as PowerPC, certain software bugs can cause MCEs, such as an invalid memory access.  On other architectures, such as x86, MCEs typically originate from hardware only.
+
+
+
+Crocus pelistericus  is a species of flowering plant in the genus Crocus of the family Iridaceae. It is a cormous perennial native from eastern Albania to northern Greece.
+
+Die Deutsche Wochenschau (The German Weekly Review) was the title of the unified newsreel series released in the cinemas of Nazi Germany from June 1940 until the end of World War II (March 22. 1945). The coordinated newsreel production was set up as a vital instrument for the mass distribution of Nazi propaganda at war. Today the preserved Wochenschau short films make up a significant part of the audiovisual records of the Nazi era.
+
+(S,S)-Tetrahydrochrysene ((S,S)-THC) is a steroid-like nonsteroidal estrogen and agonist of both the estrogen receptors, ER and ER. It is an enantiomer of (R,R)-tetrahydrochrysene ((R,R)-THC), which, in contrast, is an ER silent antagonist and ER agonist with 10-fold selectivity (i.e., affinity) for the ER over the ER and with 20-fold greater affinity for the ER relative to that of (S,S)-THC.
