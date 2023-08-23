@@ -1,8 +1,0 @@
-Code: None
-Created by: E7420B903B9F4A522E08
-Type: Request
-Subject: Kiyawa
-Return address: vlad.andrei01@gmail.com
-Importance:  4.49
-Created at: 2023-08-23 22:39:11
-Open: True
