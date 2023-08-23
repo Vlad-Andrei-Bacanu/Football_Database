@@ -1,8 +1,0 @@
-Code: None
-Created by: 762D93D7BC05CB08C15C
-Type: Notification
-Subject: Beam bridge
-Return address: vlad.andrei01@gmail.com
-Importance:  7.94
-Created at: 2023-08-23 22:41:43
-Open: True
