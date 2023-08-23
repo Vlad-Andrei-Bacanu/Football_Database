@@ -1,0 +1,8 @@
+Code: 4B2943D794343EFF98FA2B87F676E263
+Created by: 21F8D0452A0754FE7654
+Type: Request
+Subject: Automatic equipment identification
+Return address: vlad.andrei01@gmail.com
+Importance:  4.99
+Created at: 2023-08-23 22:57:57
+Open: True
