@@ -1,0 +1,8 @@
+Code: 484CF4A57B346653B17C6DF3541F55ED
+Created by: 5391557FDFD3282F5D63
+Type: Bug Signaling
+Subject: Horizons (ballet)
+Return address: vlad.andrei01@gmail.com
+Importance:  2.13
+Created at: 2023-08-24 20:00:33
+Open: True
