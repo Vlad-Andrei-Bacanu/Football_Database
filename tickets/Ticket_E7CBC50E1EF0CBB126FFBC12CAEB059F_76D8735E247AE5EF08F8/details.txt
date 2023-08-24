@@ -1,0 +1,8 @@
+Code: E7CBC50E1EF0CBB126FFBC12CAEB059F
+Created by: 76D8735E247AE5EF08F8
+Type: Notification
+Subject: Talis Kitsing
+Return address: vlad.andrei01@gmail.com
+Importance:  3.48
+Created at: 2023-08-24 11:53:15
+Open: True
