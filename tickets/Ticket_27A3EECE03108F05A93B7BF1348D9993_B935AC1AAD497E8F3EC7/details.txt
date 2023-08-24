@@ -1,0 +1,8 @@
+Code: 27A3EECE03108F05A93B7BF1348D9993
+Created by: B935AC1AAD497E8F3EC7
+Type: Notification
+Subject: Camponotus compressus
+Return address: vlad.andrei01@gmail.com
+Importance:  0.35
+Created at: 2023-08-24 20:29:06
+Open: True
