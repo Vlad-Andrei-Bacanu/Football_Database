@@ -1,0 +1,8 @@
+Code: E8407A61B87CDFF0B530459F403FC0E5
+Created by: 431A385B44A7C48C1BE4
+Type: Notification
+Subject: A Girl Asleep
+Return address: vlad.andrei01@gmail.com
+Importance:  3.93
+Created at: 2023-08-24 12:05:45
+Open: True
