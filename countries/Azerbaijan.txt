@@ -2,7 +2,7 @@ AZE-ABK/AZE: "Absheron-Khizi", "Economic Region", "Sumqayit", 3730, 578800, "", 
 	AZE-ABK-1/AZE-ABK: "Absheron", "District", "Khyrdalan", 1970, 214100, "", "", ""
 	AZE-ABK-2/AZE-ABK: "Khizi", "District", "Khizi", 1670, 17100, "", "", ""
 	AZE-ABK-3/AZE-ABK: "Sumqayit", "City", "Sumqayit", 90, 358675, "", "", ""
-AZE-BAK/AZE: "Baku", "Economic Region", "Baku", 2140, 2300500, "", "", ""
+AZE-BAK/AZE: "Baku", "Economic Region", "Baku", 2140, 2300500, "https://www.google.com/maps/place/Baku,+Azerbaijan/@40.146146,49.512979,9.5z/data=!4m7!3m6!1s0x403086ae12a0bf45:0x68a92ce6884daed7!8m2!3d40.4190061!4d49.7820541!15sCg5SZWdpb24gb2YgQmFrdZIBFGFkbWluaXN0cmF0aXZlX2FyZWEy4AEA!16zL20vMGR2NTN5?entry=ttu", "", ""
 	AZE-BAK-1/AZE-BAK: "Baku", "City (National Capital)", "Baku", 2140, 2300500, "", "", ""
 AZE-CAR/AZE: "Central Aran", "Economic Region", "Mingachevir", 6690, 740000, "", "", ""
 	AZE-CAR-1/AZE-CAR: "Agdash", "District", "Agdash", 1020, 111100, "", "", ""
