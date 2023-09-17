@@ -1,1 +1,14 @@
-This is the stadium list.
+{
+  name:"Arena Nationala";;
+  capacity:55000;;
+  location:"Bucharest"
+}
+{
+  name:"Ghencea";;
+  location:"Ghencea"
+}
+Hello
+{
+  name:"Dinamo";;
+  capacity:10000
+}
