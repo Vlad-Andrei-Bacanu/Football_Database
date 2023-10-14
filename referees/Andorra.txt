@@ -1,0 +1,576 @@
+{
+	Code : REF-08832D05;
+	First_name_original : Rui Miguel;
+	Last_name_original : Maciel de Queirós;
+	First_name_ascii : Rui Miguel;
+	Last_name_ascii : Maciel de Queiros;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : 1985-03-29;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":15,99,3,1|
+		"AND:Copa Constitucio 2022-23":2,19,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":9
+	;
+	Active : True
+	
+}
+{
+	Code : REF-BD71210F;
+	First_name_original : Manuel Antonio;
+	Last_name_original : Nogueira Fernandes;
+	First_name_ascii : Manuel Antonio;
+	Last_name_ascii : Nogueira Fernandes;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":14,79,5,1|
+		"AND:Copa Constitucio 2022-23":3,17,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":15|
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-67D68841;
+	First_name_original : Andreu Vilanova;
+	Last_name_original : Simarro;
+	First_name_ascii : Andreu Vilanova;
+	Last_name_ascii : Simarro;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1O,77,6,1
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":21|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-950C2504;
+	First_name_original : Joan;
+	Last_name_original : Guiu Serra;
+	First_name_ascii : Joan;
+	Last_name_ascii : Guiu Serra;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":11,60,1,2|
+		"AND:Copa Constitucio 2022-23":3,19,0,1
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":12|
+		"AND:Supercup 2023":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-B627F622;
+	First_name_original : Cristian;
+	Last_name_original : Moreira De Almeida;
+	First_name_ascii : Cristian;
+	Last_name_ascii : Moreira De Almeida;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":10,49,1,2|
+		"AND:Copa Constitucio 2022-23":1,5,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":20|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-0E24F45D;
+	First_name_original : Jose Ignacio;
+	Last_name_original : Perez-Fuster Lopez;
+	First_name_ascii : Jose Ignacio;
+	Last_name_ascii : Perez-Fuster Lopez;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":4,20,1,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":6
+	;
+	Active : True
+	
+}
+{
+	Code : REF-9801FA29;
+	First_name_original : Marta San;
+	Last_name_original : Juan Casado;
+	First_name_ascii : Marta San;
+	Last_name_ascii : Juan Casado;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":8,42,2,0|
+		"AND:Copa Constitucio 2022-23":1,7,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":5
+	;
+	Active : True
+	
+}
+{
+	Code : REF-A3EFD72F;
+	First_name_original : Luis Miguel;
+	Last_name_original : Pinilla Acosta;
+	First_name_ascii : Luis Miguel;
+	Last_name_ascii : Pinilla Acosta;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":4,17,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":22|
+		"AND:Copa Constitucio 2022-23":4
+	;
+	Active : True
+	
+}
+{
+	Code : REF-ABF21E63;
+	First_name_original : Ivan;
+	Last_name_original : García Perez;
+	First_name_ascii : Ivan;
+	Last_name_ascii : García Perez;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1,1,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":27|
+		"AND:Copa Constitucio 2022-23":3
+	;
+	Active : True
+	
+}
+{
+	Code : REF-24EBCAA0;
+	First_name_original : Eric Jose;
+	Last_name_original : Machado Gomes;
+	First_name_ascii : Eric Jose;
+	Last_name_ascii : Machado Gomes;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1,6,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":9|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-CA89679F;
+	First_name_original : Marta;
+	Last_name_original : San Juan;
+	First_name_ascii : Marta;
+	Last_name_ascii : San Juan;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":5,35,0,1|
+		"AND:Copa Constitucio 2022-23":1,2,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":10
+	;
+	Active : True
+	
+}
+{
+	Code : REF-0832FB7B;
+	First_name_original : Bruno Filipe;
+	Last_name_original : Parente Fernandes;
+	First_name_ascii : Bruno Filipe;
+	Last_name_ascii : Parente Fernandes;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1,7,1,1
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":24|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-BEEC70A4;
+	First_name_original : Eduardo;
+	Last_name_original : Vázquez;
+	First_name_ascii : Eduardo;
+	Last_name_ascii : Vazquez;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1,4,1,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-BA164919;
+	First_name_original : Pedro Miguel;
+	Last_name_original : Goncalves Fernandes;
+	First_name_ascii : Pedro Miguel;
+	Last_name_ascii : Goncalves Fernandes;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":2,11,0,1
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":19|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-63D7A77C;
+	First_name_original : Rui Filipe;
+	Last_name_original : Gonçalves Pinheiro;
+	First_name_ascii : Rui Filipe;
+	Last_name_ascii : Goncalves Pinheiro;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : 
+		"AND:Primera Divisio 2022-23":1,2,0,0
+	;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":8|
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-A61E1E7A;
+	First_name_original : Carlos;
+	Last_name_original : Braga Goncalves;
+	First_name_ascii : Carlos;
+	Last_name_ascii : Braga Goncalves;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":28|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-94C424F1;
+	First_name_original : Pere;
+	Last_name_original : Balsa Isern;
+	First_name_ascii : Pere;
+	Last_name_ascii : Balsa Isern;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":7|
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-7B1374F7;
+	First_name_original : Ainhoa;
+	Last_name_original : Fernández Ruiz;
+	First_name_ascii : Ainhoa;
+	Last_name_ascii : Fernandez Ruiz;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":28|
+		"AND:Copa Constitucio 2022-23":3|
+		"AND:Supercup 2023":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-DF1A41FF;
+	First_name_original : Vitor Manuel;
+	Last_name_original : Pereira Da Silva;
+	First_name_ascii : Vitor Manuel;
+	Last_name_ascii : Pereira Da Silva;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":15|
+		"AND:Copa Constitucio 2022-23":2
+		
+	;
+	Active : True
+	
+}
+{
+	Code : REF-CD94D063;
+	First_name_original : Alexis;
+	Last_name_original : Terrazo;
+	First_name_ascii : Alexis;
+	Last_name_ascii : Terrazo;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":6
+	;
+	Active : True
+	
+}
+{
+	Code : REF-03306440;
+	First_name_original : Guillem Angel;
+	Last_name_original : Dalmau Miarnau;
+	First_name_ascii : Guillem Angel;
+	Last_name_ascii : Dalmau Miarnau;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":5|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-46CEFFBD;
+	First_name_original : David;
+	Last_name_original : Vilanova Simarro;
+	First_name_ascii : David;
+	Last_name_ascii : Vilanova Simarro;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":3|
+		"AND:Copa Constitucio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-470811B5;
+	First_name_original : Faustino;
+	Last_name_original : Guerrero;
+	First_name_ascii : Faustino;
+	Last_name_ascii : Guerrero;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Primera Divisio 2022-23":2
+	;
+	Active : True
+	
+}
+{
+	Code : REF-954DED09;
+	First_name_original : Vitor Manuel;
+	Last_name_original : Dos Santos Parada;
+	First_name_ascii : Vitor Manuel;
+	Last_name_ascii : Dos Santos Parada;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-FC8ABB87;
+	First_name_original : Rodrigues Flavio;
+	Last_name_original : Wallace Magno;
+	First_name_ascii : Rodrigues Flavio;
+	Last_name_ascii : Wallace Magno;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-D090C322;
+	First_name_original : Jorge Miquel;
+	Last_name_original : Pinto Pedro;
+	First_name_ascii : Jorge Miquel;
+	Last_name_ascii : Pinto Pedro;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-0504B93D;
+	First_name_original : Manuel;
+	Last_name_original : Lopez Tagarro;
+	First_name_ascii : Manuel;
+	Last_name_ascii : Lopez Tagarro;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-2BD94E00;
+	First_name_original : David;
+	Last_name_original : Guardiola Fernandez;
+	First_name_ascii : David;
+	Last_name_ascii : Guardiola Fernandez;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
+{
+	Code : REF-4D6BFA3C;
+	First_name_original : Damian;
+	Last_name_original : Iglesias Taboada;
+	First_name_ascii : Damian;
+	Last_name_ascii : Iglesias Taboada;
+	Gender : M;
+	Nationality : AND;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AND;
+	Activity_main : ;
+	Activity_assistant : 
+		"AND:Copa Constitucio 2022-23":1
+	;
+	Active : True
+	
+}
