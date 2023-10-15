@@ -10,71 +10,71 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":17,65,3,5|
-		"ALB:Kategoria Superiore 2021-22":19,69,2,3|
-		"ALB:Kategoria Superiore 2020-21":17,91,4,2|
-		"ALB:Kategoria Superiore 2019-20":15,76,9,3|
-		"ALB:Kategoria Superiore 2018-19":18,85,3,3|
-		"ALB:Kategoria Superiore 2017-18":19,89,4,2|
-		"ALB:Kategoria Superiore 2016-17":20,101,1,5|
-		"ALB:Kupa 2022-23":1,8,1,1|
-		"ALB:Kupa 2018-19":1,6,0,0|
-		"ALB:Supercup 2020":1,8,1,0|
-		"2022 Men's World Cup Qualifiers Europe":1,5,0,0|
-		"2018 Men's World Cup Qualifiers Europe":1,4,0,0|
+		"ALB:Kategoria&&Superiore&&2022-23":17,65,3,5|
+		"ALB:Kategoria&&Superiore&&2021-22":19,69,2,3|
+		"ALB:Kategoria&&Superiore&&2020-21":17,91,4,2|
+		"ALB:Kategoria&&Superiore&&2019-20":15,76,9,3|
+		"ALB:Kategoria&&Superiore&&2018-19":18,85,3,3|
+		"ALB:Kategoria&&Superiore&&2017-18":19,89,4,2|
+		"ALB:Kategoria&&Superiore&&2016-17":20,101,1,5|
+		"ALB:Kupa&&2022-23":1,8,1,1|
+		"ALB:Kupa&&2018-19":1,6,0,0|
+		"ALB:Supercup&&2020":1,8,1,0|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":1,5,0,0|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":1,4,0,0|
 		"Friendlies":6,16,1,1|
-		"2020 Men's European Qualifiers":1,1,0,0|
-		"UEFA Men's Nations League C 2018-19":1,4,0,0|
-		"UEFA Men's Nations League D 2020-21":1,8,0,0|
-		"UEFA Men's Nations League D 2018-19":1,4,1,0|
-		"2023 Men's U-21 European Qualifiers":1,3,0,0|
-		"2021 Men's U-21 European Qualifiers":1,2,0,0|
-		"2019 Men's U-21 European Qualifiers":1,4,0,0|
-		"2017 Men's U-21 European Qualifiers":2,6,0,1|
-		"2015 Men's U-21 European Qualifiers":2,8,0,0|
-		"2013 Men's U-21 European Qualifiers":2,8,0,0|
-		"2014 Men's U-19 European Championship":2,7,0,0|
-		"2019 Men's U-19 European Qualifiers":2,11,0,1|
-		"2018 Men's U-19 European Qualifiers":2,3,1,1|
-		"2017 Men's U-19 European Qualifiers":2,4,1,0|
-		"2016 Men's U-19 European Qualifiers":2,8,1,0|
-		"2015 Men's U-17 European Qualifiers":2,0,0,0|
-		"2014 Men's U-17 European Qualifiers":2,0,0,0|
-		"UEFA Men's Champions League Qualifiers 2022-23":1,4,0,0|
-		"UEFA Men's Champions League Qualifiers 2019-20":1,3,0,0|
-		"UEFA Men's Champions League Qualifiers 2017-18":1,1,0,0|
-		"UEFA Men's Champions League Qualifiers 2016-17":1,2,0,0|
-		"UEFA Europa League 2022-23":3,10,1,0|
-		"UEFA Europa League 2019-20":2,13,0,0|
-		"UEFA Europa League 2018-19":1,4,0,0|
-		"UEFA Europa League Qualifiers 2023-24":1,4,0,0|
-		"UEFA Europa League Qualifiers 2022-23":1,5,1,0|
-		"UEFA Europa League Qualifiers 2020-21":1,6,2,0|
-		"UEFA Europa League Qualifiers 2019-20":1,6,0,0|
-		"UEFA Europa League Qualifiers 2018-19":2,5,0,0|
-		"UEFA Europa League Qualifiers 2017-18":1,2,0,0|
-		"UEFA Europa League Qualifiers 2016-17":1,3,1,1|
-		"UEFA Europa League Qualifiers 2015-16":2,8,1,1|
-		"UEFA Europa League Qualifiers 2014-15":2,9,1,0|
-		"UEFA Europa League Qualifiers 2013-14":1,5,0,0|
-		"UEFA Europa League Qualifiers 2012-13":1,4,1,0|
-		"UEFA Europa Conference League 2022-23":1,7,0,1|
-		"UEFA Europa Conference League 2021-22":1,4,0,1|
-		"UEFA Europa Conference League Qualifiers 2021-22":1,4,0,0|
-		"UEFA Youth League 2021-22":3,14,0,1|
-		"UEFA Youth League 2019-20":2,8,0,0|
-		"UEFA Youth League 2018-19":2,7,0,0|
-		"UEFA Youth League 2017-18":1,6,0,0|
-		"UEFA Youth League 2016-17":1,9,0,0|
-		"UEFA Youth League 2015-16":1,1,0,0|
-		"UEFA Youth League 2014-15":1,3,0,0|
-		"UEFA Youth League 2013-14":2,11,1,0
+		"2020&&Men's&&European&&Qualifiers":1,1,0,0|
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1,4,0,0|
+		"UEFA&&Men's&&Nations&&League&&D&&2020-21":1,8,0,0|
+		"UEFA&&Men's&&Nations&&League&&D&&2018-19":1,4,1,0|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1,3,0,0|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1,2,0,0|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1,4,0,0|
+		"2017&&Men's&&U-21&&European&&Qualifiers":2,6,0,1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":2,8,0,0|
+		"2013&&Men's&&U-21&&European&&Qualifiers":2,8,0,0|
+		"2014&&Men's&&U-19&&European&&Championship":2,7,0,0|
+		"2019&&Men's&&U-19&&European&&Qualifiers":2,11,0,1|
+		"2018&&Men's&&U-19&&European&&Qualifiers":2,3,1,1|
+		"2017&&Men's&&U-19&&European&&Qualifiers":2,4,1,0|
+		"2016&&Men's&&U-19&&European&&Qualifiers":2,8,1,0|
+		"2015&&Men's&&U-17&&European&&Qualifiers":2,0,0,0|
+		"2014&&Men's&&U-17&&European&&Qualifiers":2,0,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1,4,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1,3,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1,1,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1,2,0,0|
+		"UEFA&&Europa&&League&&2022-23":3,10,1,0|
+		"UEFA&&Europa&&League&&2019-20":2,13,0,0|
+		"UEFA&&Europa&&League&&2018-19":1,4,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2023-24":1,4,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1,5,1,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1,6,2,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1,6,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1,2,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1,3,1,1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":2,8,1,1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":2,9,1,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1,4,1,0|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1,7,0,1|
+		"UEFA&&Europa&&Conference&&League&&2021-22":1,4,0,1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1,4,0,0|
+		"UEFA&&Youth&&League&&2021-22":3,14,0,1|
+		"UEFA&&Youth&&League&&2019-20":2,8,0,0|
+		"UEFA&&Youth&&League&&2018-19":2,7,0,0|
+		"UEFA&&Youth&&League&&2017-18":1,6,0,0|
+		"UEFA&&Youth&&League&&2016-17":1,9,0,0|
+		"UEFA&&Youth&&League&&2015-16":1,1,0,0|
+		"UEFA&&Youth&&League&&2014-15":1,3,0,0|
+		"UEFA&&Youth&&League&&2013-14":2,11,1,0
 	;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":1
+		"ALB:Kategoria&&Superiore&&2022-23":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-90B87F8A;
@@ -88,20 +88,20 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":14,55,1,0|
-		"ALB:Kategoria Superiore 2021-22":15,71,2,4|
-		"ALB:Kategoria Superiore 2020-21":13,54,1,2|
-		"ALB:Kategoria Superiore 2019-20":9,31,1,1|
-		"ALB:Kategoria Superiore 2018-19":8,29,0,0|
-		"ALB:Kategoria Superiore 2017-18":5,22,0,1|
-		"ALB:Kategoria Superiore 2016-17":6,25,0,2|
-		"ALB:Kupa 2022-23":1,5,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":14,55,1,0|
+		"ALB:Kategoria&&Superiore&&2021-22":15,71,2,4|
+		"ALB:Kategoria&&Superiore&&2020-21":13,54,1,2|
+		"ALB:Kategoria&&Superiore&&2019-20":9,31,1,1|
+		"ALB:Kategoria&&Superiore&&2018-19":8,29,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":5,22,0,1|
+		"ALB:Kategoria&&Superiore&&2016-17":6,25,0,2|
+		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2017-18":1
+		"ALB:Kategoria&&Superiore&&2017-18":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-54EBE004;
@@ -115,40 +115,40 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":21,107,1,2|
-		"ALB:Kategoria Superiore 2021-22":18,79,2,3|
-		"ALB:Kategoria Superiore 2020-21":21,95,4,4|
-		"ALB:Kategoria Superiore 2019-20":19,109,3,2|
-		"ALB:Kategoria Superiore 2018-19":17,87,3,0|
-		"ALB:Kategoria Superiore 2017-18":16,64,2,3|
-		"ALB:Kategoria Superiore 2016-17":16,84,1,1|
-		"ALB:Kupa 2022-23":1,6,0,0|
-		"ALB:Kupa 2019-20":1,6,0,0|
-		"ALB:Kupa 2017-18":1,6,1,0|
-		"ALB:Supercup 2022":1,7,0,0|
-		"ALB:Supercup 2019":1,9,0,0|
+		"ALB:Kategoria&&Superiore&&2022-23":21,107,1,2|
+		"ALB:Kategoria&&Superiore&&2021-22":18,79,2,3|
+		"ALB:Kategoria&&Superiore&&2020-21":21,95,4,4|
+		"ALB:Kategoria&&Superiore&&2019-20":19,109,3,2|
+		"ALB:Kategoria&&Superiore&&2018-19":17,87,3,0|
+		"ALB:Kategoria&&Superiore&&2017-18":16,64,2,3|
+		"ALB:Kategoria&&Superiore&&2016-17":16,84,1,1|
+		"ALB:Kupa&&2022-23":1,6,0,0|
+		"ALB:Kupa&&2019-20":1,6,0,0|
+		"ALB:Kupa&&2017-18":1,6,1,0|
+		"ALB:Supercup&&2022":1,7,0,0|
+		"ALB:Supercup&&2019":1,9,0,0|
 		"Friendlies":5,29,0,2|
-		"2023 Men's U-21 European Qualifiers":1,2,0,0|
-		"2021 Men's U-21 European Qualifiers":2,10,2,0|
-		"2019 Men's U-21 European Qualifiers":1,7,0,0|
-		"2020 Men's U-19 European Qualifiers":2,3,0,0|
-		"2023 Men's U-17 European Qualifiers":2,8,1,0|
-		"2018 Men's U-17 European Qualifiers":2,8,0,0|
-		"UEFA Men's Champions League Qualifiers 2023-24":1,2,0,0|
-		"UEFA Europa League Qualifiers 2020-21":1,6,0,1|
-		"UEFA Europa League Qualifiers 2019-20":1,4,0,0|
-		"UEFA Europa League Qualifiers 2018-19":1,5,0,0|
-		"UEFA Europa Conference League Qualifiers 2023-24":2,14,1,0|
-		"UEFA Europa Conference League Qualifiers 2022-23":1,1,0,0|
-		"UEFA Europa Conference League Qualifiers 2021-22":2,11,0,0|
-		"UEFA Youth League 2022-23":1,6,0,0|
-		"UEFA Youth League 2021-22":1,4,1,0|
-		"UEFA Youth League 2019-20":1,3,0,0|
-		"UEFA Youth League 2018-19":1,5,1,0
+		"2023&&Men's&&U-21&&European&&Qualifiers":1,2,0,0|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2,10,2,0|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1,7,0,0|
+		"2020&&Men's&&U-19&&European&&Qualifiers":2,3,0,0|
+		"2023&&Men's&&U-17&&European&&Qualifiers":2,8,1,0|
+		"2018&&Men's&&U-17&&European&&Qualifiers":2,8,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2023-24":1,2,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1,6,0,1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1,4,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1,5,0,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2,14,1,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1,1,0,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":2,11,0,0|
+		"UEFA&&Youth&&League&&2022-23":1,6,0,0|
+		"UEFA&&Youth&&League&&2021-22":1,4,1,0|
+		"UEFA&&Youth&&League&&2019-20":1,3,0,0|
+		"UEFA&&Youth&&League&&2018-19":1,5,1,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-E6F7FF7A;
@@ -162,14 +162,14 @@
 	Birth_place : Durres;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":10,49,1,0|
-		"ALB:Kategoria Superiore 2021-22":10,44,1,3|
-		"ALB:Kategoria Superiore 2020-21":11,55,1,3|
+		"ALB:Kategoria&&Superiore&&2022-23":10,49,1,0|
+		"ALB:Kategoria&&Superiore&&2021-22":10,44,1,3|
+		"ALB:Kategoria&&Superiore&&2020-21":11,55,1,3|
 		"Friendlies":1,2,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-EE2B55AB;
@@ -183,17 +183,17 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":11,46,2,2|
-		"ALB:Kategoria Superiore 2021-22":11,39,0,3|
-		"ALB:Kategoria Superiore 2020-21":8,31,0,1|
-		"ALB:Kategoria Superiore 2019-20":9,42,0,0|
-		"ALB:Kategoria Superiore 2018-19":11,51,1,0|
-		"ALB:Kategoria Superiore 2017-18":10,43,1,2|
-		"ALB:Kategoria Superiore 2016-17":11,45,3,0
+		"ALB:Kategoria&&Superiore&&2022-23":11,46,2,2|
+		"ALB:Kategoria&&Superiore&&2021-22":11,39,0,3|
+		"ALB:Kategoria&&Superiore&&2020-21":8,31,0,1|
+		"ALB:Kategoria&&Superiore&&2019-20":9,42,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":11,51,1,0|
+		"ALB:Kategoria&&Superiore&&2017-18":10,43,1,2|
+		"ALB:Kategoria&&Superiore&&2016-17":11,45,3,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-52161C12;
@@ -207,17 +207,17 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":8,31,1,1|
-		"ALB:Kategoria Superiore 2021-22":9,35,0,2|
-		"ALB:Kategoria Superiore 2020-21":12,62,0,0|
-		"ALB:Kategoria Superiore 2019-20":9,38,1,4|
-		"ALB:Kategoria Superiore 2018-19":5,15,0,1|
-		"ALB:Kategoria Superiore 2017-18":4,16,1,0|
-		"ALB:Kategoria Superiore 2016-17":1,2,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":8,31,1,1|
+		"ALB:Kategoria&&Superiore&&2021-22":9,35,0,2|
+		"ALB:Kategoria&&Superiore&&2020-21":12,62,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":9,38,1,4|
+		"ALB:Kategoria&&Superiore&&2018-19":5,15,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":4,16,1,0|
+		"ALB:Kategoria&&Superiore&&2016-17":1,2,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-5936E67D;
@@ -231,20 +231,20 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":8,28,1,2|
-		"ALB:Kategoria Superiore 2021-22":4,19,0,0|
-		"ALB:Kategoria Superiore 2020-21":8,45,1,1|
-		"ALB:Kategoria Superiore 2019-20":11,44,0,0|
-		"ALB:Kategoria Superiore 2018-19":12,55,0,1|
-		"ALB:Kategoria Superiore 2017-18":13,63,0,0|
-		"ALB:Kategoria Superiore 2016-17":12,53,0,1|
-		"2017 Men's U-17 European Qualifiers":2,7,1,0
+		"ALB:Kategoria&&Superiore&&2022-23":8,28,1,2|
+		"ALB:Kategoria&&Superiore&&2021-22":4,19,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,45,1,1|
+		"ALB:Kategoria&&Superiore&&2019-20":11,44,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":12,55,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":13,63,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":12,53,0,1|
+		"2017&&Men's&&U-17&&European&&Qualifiers":2,7,1,0
 	;
 	Activity_assistant : 
-		"UEFA Europa Conference League Qualifiers 2021-22":1
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-3EA36293;
@@ -258,21 +258,21 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":2,10,0,0|
-		"ALB:Kategoria Superiore 2021-22":2,5,0,0|
-		"ALB:Kupa 2022-23":1,6,0,1|
-		"2023 Women's World Cup Qualifiers Europe":1,8,0,0|
-		"2022 Women's European Qualifiers":1,1,0,0|
-		"2023 U-17 Women's European Championship":2,2,0,0|
-		"2023 U-17 Women's European Qualifiers":2,4,0,0|
-		"2020 U-17 Women's European Qualifiers":2,4,0,0|
+		"ALB:Kategoria&&Superiore&&2022-23":2,10,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":2,5,0,0|
+		"ALB:Kupa&&2022-23":1,6,0,1|
+		"2023&&Women's&&World&&Cup&&Qualifiers&&Europe":1,8,0,0|
+		"2022&&Women's&&European&&Qualifiers":1,1,0,0|
+		"2023&&U-17&&Women's&&European&&Championship":2,2,0,0|
+		"2023&&U-17&&Women's&&European&&Qualifiers":2,4,0,0|
+		"2020&&U-17&&Women's&&European&&Qualifiers":2,4,0,0|
 		"Friendlies":1,2,0,0|
-		"UEFA Women's Champions League Qualifiers 2023-24":1,3,0,0|
-		"UEFA Women's Champions League Qualifiers 2022-23":1,5,0,0
+		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2023-24":1,3,0,0|
+		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-54F6C832;
@@ -286,42 +286,42 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":20,86,0,4|
-		"ALB:Kategoria Superiore 2021-22":17,74,3,6|
-		"ALB:Kategoria Superiore 2020-21":16,80,1,0|
-		"ALB:Kategoria Superiore 2019-20":14,69,5,2|
-		"ALB:Kategoria Superiore 2018-19":17,71,2,2|
-		"ALB:Kategoria Superiore 2017-18":22,83,2,1|
-		"ALB:Kategoria Superiore 2016-17":14,61,1,7|
-		"ALB:Kupa 2022-23":1,7,1,0|
-		"ALB:Kupa 2021-22":1,6,0,0|
-		"ALB:Kupa 2020-21":1,3,0,1|
-		"ALB:Supercup 2018":1,2,0,0|
-		"ALB:Supercup 2017":1,4,2,0|
+		"ALB:Kategoria&&Superiore&&2022-23":20,86,0,4|
+		"ALB:Kategoria&&Superiore&&2021-22":17,74,3,6|
+		"ALB:Kategoria&&Superiore&&2020-21":16,80,1,0|
+		"ALB:Kategoria&&Superiore&&2019-20":14,69,5,2|
+		"ALB:Kategoria&&Superiore&&2018-19":17,71,2,2|
+		"ALB:Kategoria&&Superiore&&2017-18":22,83,2,1|
+		"ALB:Kategoria&&Superiore&&2016-17":14,61,1,7|
+		"ALB:Kupa&&2022-23":1,7,1,0|
+		"ALB:Kupa&&2021-22":1,6,0,0|
+		"ALB:Kupa&&2020-21":1,3,0,1|
+		"ALB:Supercup&&2018":1,2,0,0|
+		"ALB:Supercup&&2017":1,4,2,0|
 		"Friendlies":2,4,0,0|
-		"UEFA Men's Nations League D 2022-23":1,7,0,0|
-		"2023 Men's U-21 European Qualifiers":3,16,0,0|
-		"2021 Men's U-21 European Qualifiers":2,8,2,0|
-		"2019 Men's U-21 European Qualifiers":1,5,0,0|
-		"2023 Men's U-19 European Championship":2,8,0,0|
-		"2022 Men's U-19 European Qualifiers":2,9,0,0|
-		"2020 Men's U-17 European Qualifiers":2,9,0,0|
-		"2019 Men's U-17 European Qualifiers":2,10,0,0|
-		"UEFA Men's Champions League Qualifiers 2022-23":1,5,0,0|
-		"UEFA Men's Champions League Qualifiers 2021-22":1,4,1,0|
-		"UEFA Europa League Qualifiers 2020-21":1,3,0,0|
-		"UEFA Europa League Qualifiers 2019-20":1,3,0,0|
-		"UEFA Europa League Qualifiers 2018-19":1,5,1,0|
-		"UEFA Europa Conference League 2022-23":2,9,0,0|
-		"UEFA Europa Conference League Qualifiers 2023-24":2,15,1,1|
-		"UEFA Europa Conference League Qualifiers 2022-23":3,14,1,1|
-		"UEFA Youth League 2021-22":1,3,0,0|
-		"UEFA Youth League 2019-20":1,2,0,0|
-		"UEFA Youth League 2018-19":1,7,0,0
+		"UEFA&&Men's&&Nations&&League&&D&&2022-23":1,7,0,0|
+		"2023&&Men's&&U-21&&European&&Qualifiers":3,16,0,0|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2,8,2,0|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1,5,0,0|
+		"2023&&Men's&&U-19&&European&&Championship":2,8,0,0|
+		"2022&&Men's&&U-19&&European&&Qualifiers":2,9,0,0|
+		"2020&&Men's&&U-17&&European&&Qualifiers":2,9,0,0|
+		"2019&&Men's&&U-17&&European&&Qualifiers":2,10,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1,5,0,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1,4,1,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1,3,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1,3,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1,5,1,0|
+		"UEFA&&Europa&&Conference&&League&&2022-23":2,9,0,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2,15,1,1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":3,14,1,1|
+		"UEFA&&Youth&&League&&2021-22":1,3,0,0|
+		"UEFA&&Youth&&League&&2019-20":1,2,0,0|
+		"UEFA&&Youth&&League&&2018-19":1,7,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-CC056D0E;
@@ -335,12 +335,12 @@
 	Birth_place : Patos;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":8,26,1,1|
-		"ALB:Kategoria Superiore 2021-22":5,20,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":8,26,1,1|
+		"ALB:Kategoria&&Superiore&&2021-22":5,20,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-5514FBAF;
@@ -354,16 +354,16 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":9,36,0,2|
-		"ALB:Kategoria Superiore 2021-22":12,41,3,4|
-		"ALB:Kategoria Superiore 2020-21":11,44,2,0|
-		"ALB:Kategoria Superiore 2019-20":12,65,2,3|
-		"ALB:Kategoria Superiore 2018-19":5,29,0,0|
-		"ALB:Kupa 2022-23":1,5,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":9,36,0,2|
+		"ALB:Kategoria&&Superiore&&2021-22":12,41,3,4|
+		"ALB:Kategoria&&Superiore&&2020-21":11,44,2,0|
+		"ALB:Kategoria&&Superiore&&2019-20":12,65,2,3|
+		"ALB:Kategoria&&Superiore&&2018-19":5,29,0,0|
+		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-FBBC47EC;
@@ -377,15 +377,15 @@
 	Birth_place : Tirana;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":7,20,0,0|
-		"ALB:Kategoria Superiore 2021-22":9,48,1,0|
-		"ALB:Kategoria Superiore 2020-21":8,32,0,0|
-		"ALB:Kategoria Superiore 2019-20":4,20,0,0|
-		"ALB:Kupa 2022-23":1,5,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":7,20,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":9,48,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,32,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":4,20,0,0|
+		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-FB5B4C0B;
@@ -399,11 +399,11 @@
 	Birth_place : Tirana;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kupa 2022-23":1,6,0,0
+		"ALB:Kupa&&2022-23":1,6,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-3DF2A69D;
@@ -417,11 +417,11 @@
 	Birth_place : Tirana;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":3,16,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":3,16,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-1C6ED3D3;
@@ -435,11 +435,11 @@
 	Birth_place : Elbasan;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":2,9,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":2,9,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-20E9A31D;
@@ -453,11 +453,11 @@
 	Birth_place : Tropoje;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":3,17,0,2
+		"ALB:Kategoria&&Superiore&&2022-23":3,17,0,2
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-D9DA15D5;
@@ -471,16 +471,16 @@
 	Birth_place : Shkoder;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":4,20,0,0|
-		"ALB:Kategoria Superiore 2021-22":8,18,2,0|
-		"ALB:Kategoria Superiore 2020-21":8,25,1,1|
-		"ALB:Kategoria Superiore 2018-19":6,26,0,1|
-		"ALB:Kategoria Superiore 2017-18":4,21,0,3|
-		"ALB:Kategoria Superiore 2016-17":2,6,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":4,20,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":8,18,2,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,25,1,1|
+		"ALB:Kategoria&&Superiore&&2018-19":6,26,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":4,21,0,3|
+		"ALB:Kategoria&&Superiore&&2016-17":2,6,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-274F0B0A;
@@ -494,12 +494,12 @@
 	Birth_place : Lac;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":3,13,0,0|
-		"ALB:Kategoria Superiore 2021-22":1,2,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":3,13,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":1,2,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-CB7E085A;
@@ -513,18 +513,18 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":7,24,0,0|
-		"ALB:Kategoria Superiore 2021-22":10,36,1,0|
-		"ALB:Kategoria Superiore 2020-21":10,38,0,0|
-		"ALB:Kategoria Superiore 2019-20":8,26,0,0|
-		"ALB:Kategoria Superiore 2018-19":9,28,0,0|
-		"ALB:Kategoria Superiore 2017-18":4,13,0,0|
-		"ALB:Kategoria Superiore 2016-17":1,2,0,0|
-		"ALB:Kupa 2022-23":1,4,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":7,24,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":10,36,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":10,38,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":8,26,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":9,28,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":4,13,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":1,2,0,0|
+		"ALB:Kupa&&2022-23":1,4,0,0
 	;
 	Activity_assistant : ;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-92518E10;
@@ -539,58 +539,58 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":21|
-		"ALB:Kategoria Superiore 2021-22":19|
-		"ALB:Kategoria Superiore 2020-21":21|
-		"ALB:Kategoria Superiore 2019-20":21|
-		"ALB:Kategoria Superiore 2018-19":21|
-		"ALB:Kategoria Superiore 2017-18":21|
-		"ALB:Kategoria Superiore 2016-17":22|
-		"ALB:Kupa 2022-23":3|
-		"ALB:Kupa 2019-20":1|
-		"ALB:Kupa 2018-19":1|
-		"ALB:Kupa 2016-17":1|
-		"ALB:Supercup 2022":1|
-		"ALB:Supercup 2018":1|
-		"ALB:Supercup 2017":1|
-		"2022 Men's World Cup Qualifiers Europe":1|
-		"2018 Men's World Cup Qualifiers Europe":1|
+		"ALB:Kategoria&&Superiore&&2022-23":21|
+		"ALB:Kategoria&&Superiore&&2021-22":19|
+		"ALB:Kategoria&&Superiore&&2020-21":21|
+		"ALB:Kategoria&&Superiore&&2019-20":21|
+		"ALB:Kategoria&&Superiore&&2018-19":21|
+		"ALB:Kategoria&&Superiore&&2017-18":21|
+		"ALB:Kategoria&&Superiore&&2016-17":22|
+		"ALB:Kupa&&2022-23":3|
+		"ALB:Kupa&&2019-20":1|
+		"ALB:Kupa&&2018-19":1|
+		"ALB:Kupa&&2016-17":1|
+		"ALB:Supercup&&2022":1|
+		"ALB:Supercup&&2018":1|
+		"ALB:Supercup&&2017":1|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
 		"Friendlies":2|
-		"2020 Men's European Qualifiers":1|
-		"2012 Men's European Qualifiers":1|
-		"UEFA Men's Nations League C 2022-23":1|
-		"UEFA Men's Nations League C 2018-19":1|
-		"UEFA Men's Nations League D 2020-21":1|
-		"UEFA Men's Nations League D 2018-19":1|
-		"2021 Men's U-21 European Qualifiers":1|
-		"2017 Men's U-21 European Qualifiers":2|
-		"2015 Men's U-21 European Qualifiers":1|
-		"2013 Men's U-21 European Qualifiers":1|
-		"2016 Men's U-19 European Championship":4|
-		"2011 Men's U-19 European Championship":3|
-		"UEFA Men's Champions League Qualifiers 2023-24":1|
-		"UEFA Men's Champions League Qualifiers 2017-18":1|
-		"UEFA Men's Champions League Qualifiers 2013-14":1|
-		"UEFA Europa League 2022-23":3|
-		"UEFA Europa League 2019-20":2|
-		"UEFA Europa League Qualifiers 2023-24":1|
-		"UEFA Europa League Qualifiers 2022-23":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Europa League Qualifiers 2018-19":2|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa League Qualifiers 2012-13":1|
-		"UEFA Europa League Qualifiers 2011-12":1|
-		"UEFA Europa Conference League 2022-23":1|
-		"UEFA Europa Conference League 2021-22":1|
-		"UEFA Europa Conference League Qualifiers 2022-23":1|
-		"UEFA Europa Conference League Qualifiers 2021-22":2|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2016-17":1|
-		"UEFA Youth League 2013-14":1
+		"2020&&Men's&&European&&Qualifiers":1|
+		"2012&&Men's&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2022-23":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2020-21":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2018-19":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":2|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2016&&Men's&&U-19&&European&&Championship":4|
+		"2011&&Men's&&U-19&&European&&Championship":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&2022-23":3|
+		"UEFA&&Europa&&League&&2019-20":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&2021-22":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":2|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2016-17":1|
+		"UEFA&&Youth&&League&&2013-14":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-F8C78D79;
@@ -605,57 +605,57 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":17|
-		"ALB:Kategoria Superiore 2021-22":20|
-		"ALB:Kategoria Superiore 2020-21":20|
-		"ALB:Kategoria Superiore 2019-20":22|
-		"ALB:Kategoria Superiore 2018-19":19|
-		"ALB:Kategoria Superiore 2017-18":24|
-		"ALB:Kategoria Superiore 2016-17":23|
-		"ALB:Kupa 2022-23":1|
-		"ALB:Kupa 2020-21":1|
-		"ALB:Kupa 2017-18":1|
-		"ALB:Supercup 2022":1|
-		"ALB:Supercup 2020":1|
-		"ALB:Supercup 2016":1|
+		"ALB:Kategoria&&Superiore&&2022-23":17|
+		"ALB:Kategoria&&Superiore&&2021-22":20|
+		"ALB:Kategoria&&Superiore&&2020-21":20|
+		"ALB:Kategoria&&Superiore&&2019-20":22|
+		"ALB:Kategoria&&Superiore&&2018-19":19|
+		"ALB:Kategoria&&Superiore&&2017-18":24|
+		"ALB:Kategoria&&Superiore&&2016-17":23|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2020-21":1|
+		"ALB:Kupa&&2017-18":1|
+		"ALB:Supercup&&2022":1|
+		"ALB:Supercup&&2020":1|
+		"ALB:Supercup&&2016":1|
 		"Friendlies":3|
-		"UEFA Men's Nations League C 2022-23":1|
-		"2023 Men's U-21 European Qualifiers":1|
-		"2021 Men's U-21 European Qualifiers":1|
-		"2019 Men's U-21 European Qualifiers":1|
-		"2015 Men's U-21 European Qualifiers":1|
-		"2013 Men's U-21 European Qualifiers":1|
-		"2011 Men's U-21 European Qualifiers":1|
-		"2017 Men's U-19 European Championship":3|
-		"2010 Men's U-19 European Championship":4|
-		"2018 Men's U-17 European Qualifiers":2|
-		"2017 Men's U-17 European Qualifiers":2|
-		"2016 Men's U-17 European Qualifiers":2|
-		"UEFA Men's Champions League Qualifiers 2022-23":1|
-		"UEFA Men's Champions League Qualifiers 2021-22":1|
-		"UEFA Men's Champions League Qualifiers 2019-20":1|
-		"UEFA Men's Champions League Qualifiers 2016-17":2|
-		"UEFA Europa League 2022-23":3|
-		"UEFA Europa League 2019-20":1|
-		"UEFA Europa League 2018-19":1|
-		"UEFA Europa League Qualifiers 2023-24":1|
-		"UEFA Europa League Qualifiers 2022-23":1|
-		"UEFA Europa League Qualifiers 2020-21":2|
-		"UEFA Europa League Qualifiers 2018-19":2|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa League Qualifiers 2013-14":1|
-		"UEFA Europa League Qualifiers 2009-10":1|
-		"UEFA Europa League Qualifiers 2008-09":1|
-		"UEFA Europa League Qualifiers 2005-06":1|
-		"UEFA Europa Conference League 2022-23":1|
-		"UEFA Europa Conference League 2021-22":1|
-		"UEFA Europa Conference League Qualifiers 2023-24":1|
-		"UEFA Youth League 2019-20":1|
-		"UEFA Youth League 2018-19":1
+		"UEFA&&Men's&&Nations&&League&&C&&2022-23":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2011&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-19&&European&&Championship":3|
+		"2010&&Men's&&U-19&&European&&Championship":4|
+		"2018&&Men's&&U-17&&European&&Qualifiers":2|
+		"2017&&Men's&&U-17&&European&&Qualifiers":2|
+		"2016&&Men's&&U-17&&European&&Qualifiers":2|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":2|
+		"UEFA&&Europa&&League&&2022-23":3|
+		"UEFA&&Europa&&League&&2019-20":1|
+		"UEFA&&Europa&&League&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2008-09":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2005-06":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&2021-22":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-DF2707B7;
@@ -670,38 +670,38 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":15|
-		"ALB:Kategoria Superiore 2021-22":17|
-		"ALB:Kategoria Superiore 2020-21":18|
-		"ALB:Kategoria Superiore 2019-20":15|
-		"ALB:Kategoria Superiore 2018-19":13|
-		"ALB:Kategoria Superiore 2017-18":14|
-		"ALB:Kategoria Superiore 2016-17":24|
-		"ALB:Kupa 2022-23":1|
-		"ALB:Kupa 2021-22":1|
-		"ALB:Kupa 2020-21":1|
-		"ALB:Kupa 2016-17":1|
-		"ALB:Supercup 2019":1|
-		"ALB:Supercup 2016":1|
+		"ALB:Kategoria&&Superiore&&2022-23":15|
+		"ALB:Kategoria&&Superiore&&2021-22":17|
+		"ALB:Kategoria&&Superiore&&2020-21":18|
+		"ALB:Kategoria&&Superiore&&2019-20":15|
+		"ALB:Kategoria&&Superiore&&2018-19":13|
+		"ALB:Kategoria&&Superiore&&2017-18":14|
+		"ALB:Kategoria&&Superiore&&2016-17":24|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2021-22":1|
+		"ALB:Kupa&&2020-21":1|
+		"ALB:Kupa&&2016-17":1|
+		"ALB:Supercup&&2019":1|
+		"ALB:Supercup&&2016":1|
 		"Friendlies":6|
-		"2023 Men's U-21 European Qualifiers":2|
-		"2021 Men's U-21 European Qualifiers":2|
-		"2019 Men's U-21 European Qualifiers":2|
-		"2017 Men's U-21 European Qualifiers":3|
-		"2019 Men's U-17 European Championship":4|
-		"UEFA Men's Champions League Qualifiers 2016-17":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Europa League Qualifiers 2018-19":1|
-		"UEFA Europa League Qualifiers 2017-18":1|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa League Qualifiers 2013-14":1|
-		"UEFA Europa League Qualifiers 2012-13":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2019-20":1|
-		"UEFA Youth League 2018-19":1
+		"2023&&Men's&&U-21&&European&&Qualifiers":2|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2|
+		"2019&&Men's&&U-21&&European&&Qualifiers":2|
+		"2017&&Men's&&U-21&&European&&Qualifiers":3|
+		"2019&&Men's&&U-17&&European&&Championship":4|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-5941F20C;
@@ -716,35 +716,35 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":13|
-		"ALB:Kategoria Superiore 2021-22":17|
-		"ALB:Kategoria Superiore 2020-21":17|
-		"ALB:Kategoria Superiore 2019-20":16|
-		"ALB:Kategoria Superiore 2018-19":18|
-		"ALB:Kategoria Superiore 2017-18":17|
-		"ALB:Kategoria Superiore 2016-17":17|
-		"ALB:Kupa 2022-23":2|
-		"ALB:Supercup 2019":1|
+		"ALB:Kategoria&&Superiore&&2022-23":13|
+		"ALB:Kategoria&&Superiore&&2021-22":17|
+		"ALB:Kategoria&&Superiore&&2020-21":17|
+		"ALB:Kategoria&&Superiore&&2019-20":16|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2017-18":17|
+		"ALB:Kategoria&&Superiore&&2016-17":17|
+		"ALB:Kupa&&2022-23":2|
+		"ALB:Supercup&&2019":1|
 		"Friendlies":4|
-		"UEFA Men's Nations League D 2022-23":1|
-		"2021 Men's U-21 European Qualifiers":2|
-		"2017 Men's U-21 European Qualifiers":1|
-		"2023 Men's U-17 European Championship":4|
-		"2019 Men's U-17 European Qualifiers":3|
-		"2014 Men's U-17 European Qualifiers":3|
-		"UEFA Europa League Qualifiers 2020-21":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Europa Conference League 2022-23":2|
-		"UEFA Europa Conference League Qualifiers 2023-24":2|
-		"UEFA Europa Conference League Qualifiers 2022-23":2|
-		"UEFA Europa Conference League Qualifiers 2021-22":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2018-19":1|
-		"UEFA Youth League 2017-18":1|
-		"UEFA Youth League 2016-17":1
+		"UEFA&&Men's&&Nations&&League&&D&&2022-23":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2023&&Men's&&U-17&&European&&Championship":4|
+		"2019&&Men's&&U-17&&European&&Qualifiers":3|
+		"2014&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2017-18":1|
+		"UEFA&&Youth&&League&&2016-17":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-604DA25E;
@@ -759,21 +759,21 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":11|
-		"ALB:Kategoria Superiore 2021-22":13|
-		"ALB:Kategoria Superiore 2020-21":14|
-		"ALB:Kategoria Superiore 2019-20":8|
-		"ALB:Kategoria Superiore 2018-19":13|
-		"ALB:Kategoria Superiore 2017-18":18|
-		"ALB:Kategoria Superiore 2016-17":15|
-		"UEFA Europa League Qualifiers 2020-21":1|
-		"UEFA Europa League Qualifiers 2013-14":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2018-19":1|
-		"UEFA Youth League 2014-15":1
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":13|
+		"ALB:Kategoria&&Superiore&&2017-18":18|
+		"ALB:Kategoria&&Superiore&&2016-17":15|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2014-15":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-6FCEFDBF;
@@ -788,15 +788,15 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":12|
-		"ALB:Kategoria Superiore 2021-22":10|
-		"ALB:Kategoria Superiore 2020-21":5|
-		"ALB:Kupa 2022-23":1|
-		"2023 Men's U-17 European Qualifiers":3|
-		"UEFA Europa Conference League Qualifiers 2022-23":1
+		"ALB:Kategoria&&Superiore&&2022-23":12|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"ALB:Kupa&&2022-23":1|
+		"2023&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-EC5167C6;
@@ -811,20 +811,20 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":13|
-		"ALB:Kategoria Superiore 2021-22":13|
-		"ALB:Kategoria Superiore 2020-21":11|
-		"ALB:Kategoria Superiore 2019-20":12|
-		"ALB:Kategoria Superiore 2018-19":9|
-		"ALB:Kategoria Superiore 2017-18":7|
-		"ALB:Kupa 2022-23":1|
-		"2018 Men's U-17 European Qualifiers":3|
-		"UEFA Men's Champions League Qualifiers 2023-24":1|
-		"UEFA Men's Champions League Qualifiers 2022-23":1|
-		"UEFA Youth League 2018-19":1
+		"ALB:Kategoria&&Superiore&&2022-23":13|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":11|
+		"ALB:Kategoria&&Superiore&&2019-20":12|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":7|
+		"ALB:Kupa&&2022-23":1|
+		"2018&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Youth&&League&&2018-19":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-5DD31210;
@@ -839,14 +839,14 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":11|
-		"ALB:Kategoria Superiore 2021-22":12|
-		"ALB:Kategoria Superiore 2020-21":7|
-		"2023 Men's U-17 European Qualifiers":3|
-		"UEFA Youth League 2021-22":1
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":12|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"2023&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Youth&&League&&2021-22":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-BE736CB3;
@@ -861,19 +861,19 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":11|
-		"ALB:Kategoria Superiore 2021-22":13|
-		"ALB:Kategoria Superiore 2020-21":10|
-		"ALB:Kategoria Superiore 2019-20":10|
-		"ALB:Kategoria Superiore 2018-19":10|
-		"ALB:Kategoria Superiore 2017-18":3|
-		"ALB:Kategoria Superiore 2016-17":3|
-		"ALB:Kupa 2022-23":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2019-20":1
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":10|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":3|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-7E1E7996;
@@ -888,53 +888,53 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":16|
-		"ALB:Kategoria Superiore 2021-22":14|
-		"ALB:Kategoria Superiore 2020-21":17|
-		"ALB:Kategoria Superiore 2019-20":13|
-		"ALB:Kategoria Superiore 2018-19":18|
-		"ALB:Kategoria Superiore 2016-17":21|
-		"ALB:Kupa 2022-23":2|
-		"ALB:Kupa 2019-20":1|
-		"ALB:Kupa 2018-19":1|
-		"ALB:Supercup 2021":1|
-		"ALB:Supercup 2020":1|
-		"ALB:Supercup 2018":1|
-		"ALB:Supercup 2017":1|
-		"2022 Men's World Cup Qualifiers Europe":1|
-		"2018 Men's World Cup Qualifiers Europe":1|
+		"ALB:Kategoria&&Superiore&&2022-23":16|
+		"ALB:Kategoria&&Superiore&&2021-22":14|
+		"ALB:Kategoria&&Superiore&&2020-21":17|
+		"ALB:Kategoria&&Superiore&&2019-20":13|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2016-17":21|
+		"ALB:Kupa&&2022-23":2|
+		"ALB:Kupa&&2019-20":1|
+		"ALB:Kupa&&2018-19":1|
+		"ALB:Supercup&&2021":1|
+		"ALB:Supercup&&2020":1|
+		"ALB:Supercup&&2018":1|
+		"ALB:Supercup&&2017":1|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
 		"Friendlies":5|
-		"2020 Men's European Qualifiers":1|
-		"UEFA Men's Nations League D 2022-23":1|
-		"UEFA Men's Nations League D 2020-21":1|
-		"2023 Men's U-21 European Qualifiers":1|
-		"2021 Men's U-21 European Qualifiers":1|
-		"2017 Men's U-21 European Qualifiers":1|
-		"2015 Men's U-21 European Qualifiers":1|
-		"2013 Men's U-21 European Qualifiers":1|
-		"2013 Men's U-19 European Qualifiers":3|
-		"2015 Men's U-17 European Championship":5|
-		"UEFA Men's Champions League Qualifiers 2022-23":1|
-		"UEFA Europa League 2019-20":1|
-		"UEFA Europa League 2018-19":1|
-		"UEFA Europa League Qualifiers 2018-19":2|
-		"UEFA Europa League Qualifiers 2016-17":1|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa League Qualifiers 2012-13":1|
-		"UEFA Europa League Qualifiers 2011-12":1|
-		"UEFA Europa League Qualifiers 2010-11":1|
-		"UEFA Europa League Qualifiers 2001-02":1|
-		"UEFA Europa Conference League 2023-24":1|
-		"UEFA Europa Conference League 2022-23":1|
-		"UEFA Europa Conference League Qualifiers 2023-24":2|
-		"UEFA Europa Conference League Qualifiers 2022-23":1|
-		"UEFA Europa Conference League Qualifiers 2021-22":1|
-		"UEFA Youth League 2014-15":1|
-		"UEFA Youth League 2013-14":1
+		"2020&&Men's&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2022-23":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2020-21":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-19&&European&&Qualifiers":3|
+		"2015&&Men's&&U-17&&European&&Championship":5|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&2019-20":1|
+		"UEFA&&Europa&&League&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2001-02":1|
+		"UEFA&&Europa&&Conference&&League&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2014-15":1|
+		"UEFA&&Youth&&League&&2013-14":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-53F7F673;
@@ -949,19 +949,19 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":8|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":9|
-		"ALB:Kategoria Superiore 2019-20":10|
-		"ALB:Kategoria Superiore 2018-19":4|
-		"ALB:Kategoria Superiore 2017-18":4|
-		"ALB:Kategoria Superiore 2016-17":3|
-		"2023 Men's U-21 European Qualifiers":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Europa Conference League Qualifiers 2023-24":1
+		"ALB:Kategoria&&Superiore&&2022-23":8|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":3|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-4DE995CF;
@@ -976,11 +976,11 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"2022 Men's U-19 European Qualifiers":3
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"2022&&Men's&&U-19&&European&&Qualifiers":3
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-BCCE8A27;
@@ -995,33 +995,33 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":10|
-		"ALB:Kategoria Superiore 2020-21":14|
-		"ALB:Kategoria Superiore 2019-20":17|
-		"ALB:Kategoria Superiore 2018-19":12|
-		"ALB:Kategoria Superiore 2017-18":20|
-		"ALB:Kategoria Superiore 2016-17":23|
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":17|
+		"ALB:Kategoria&&Superiore&&2018-19":12|
+		"ALB:Kategoria&&Superiore&&2017-18":20|
+		"ALB:Kategoria&&Superiore&&2016-17":23|
 		"Friendlies":2|
-		"2008 Men's European Qualifiers":1|
-		"2019 Men's U-21 European Qualifiers":1|
-		"2015 Men's U-21 European Qualifiers":2|
-		"2006 Men's U-21 European Qualifiers":1|
-		"2008 Men's U-19 European Championship":3|
-		"UEFA Men's Champions League Qualifiers 2016-17":1|
-		"UEFA Men's Champions League Qualifiers 2009-10":1|
-		"UEFA Europa League Qualifiers 2018-19":1|
-		"UEFA Europa League Qualifiers 2017-18":1|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2014-15":2|
-		"UEFA Europa League Qualifiers 2012-13":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2018-19":1|
-		"UEFA Youth League 2015-16":1|
-		"UEFA Youth League 2014-15":1
+		"2008&&Men's&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":2|
+		"2006&&Men's&&U-21&&European&&Qualifiers":1|
+		"2008&&Men's&&U-19&&European&&Championship":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2015-16":1|
+		"UEFA&&Youth&&League&&2014-15":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-BEDF9CD0;
@@ -1036,20 +1036,20 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":11|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":15|
-		"ALB:Kategoria Superiore 2019-20":14|
-		"ALB:Kategoria Superiore 2018-19":10|
-		"ALB:Kategoria Superiore 2017-18":9|
-		"ALB:Kategoria Superiore 2016-17":16|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa Conference League Qualifiers 2021-22":1|
-		"UEFA Youth League 2019-20":1|
-		"UEFA Youth League 2017-18":1
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":15|
+		"ALB:Kategoria&&Superiore&&2019-20":14|
+		"ALB:Kategoria&&Superiore&&2018-19":10|
+		"ALB:Kategoria&&Superiore&&2017-18":9|
+		"ALB:Kategoria&&Superiore&&2016-17":16|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2017-18":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-A6974D3B;
@@ -1064,12 +1064,12 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":6|
-		"ALB:Kategoria Superiore 2021-22":8|
-		"UEFA Youth League 2022-23":1
+		"ALB:Kategoria&&Superiore&&2022-23":6|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"UEFA&&Youth&&League&&2022-23":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-07ADB807;
@@ -1084,20 +1084,20 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":14|
-		"ALB:Kategoria Superiore 2019-20":13|
-		"ALB:Kategoria Superiore 2018-19":11|
-		"ALB:Kategoria Superiore 2017-18":12|
-		"ALB:Kategoria Superiore 2016-17":7|
-		"ALB:Kupa 2022-23":1|
-		"UEFA Europa League Qualifiers 2020-21":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Youth League 2014-15":1
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":13|
+		"ALB:Kategoria&&Superiore&&2018-19":11|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":7|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Youth&&League&&2014-15":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-E8DF3427;
@@ -1112,15 +1112,15 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"ALB:Kategoria Superiore 2021-22":7|
-		"ALB:Kategoria Superiore 2020-21":8|
-		"ALB:Kategoria Superiore 2019-20":8|
-		"ALB:Kategoria Superiore 2018-19":3|
-		"2020 Men's U-17 European Qualifiers":3
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":7|
+		"ALB:Kategoria&&Superiore&&2020-21":8|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":3|
+		"2020&&Men's&&U-17&&European&&Qualifiers":3
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-F02125A1;
@@ -1135,18 +1135,18 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"ALB:Kategoria Superiore 2021-22":10|
-		"ALB:Kategoria Superiore 2020-21":11|
-		"ALB:Kategoria Superiore 2019-20":15|
-		"ALB:Kategoria Superiore 2018-19":11|
-		"ALB:Kategoria Superiore 2017-18":15|
-		"ALB:Kategoria Superiore 2016-17":15|
-		"ALB:Kupa 2022-23":1|
-		"UEFA Europa League Qualifiers 2015-16":1
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":11|
+		"ALB:Kategoria&&Superiore&&2019-20":15|
+		"ALB:Kategoria&&Superiore&&2018-19":11|
+		"ALB:Kategoria&&Superiore&&2017-18":15|
+		"ALB:Kategoria&&Superiore&&2016-17":15|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-71CC25E9;
@@ -1161,18 +1161,18 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":7|
-		"ALB:Kategoria Superiore 2019-20":8|
-		"ALB:Kategoria Superiore 2018-19":5|
-		"ALB:Kategoria Superiore 2017-18":3|
-		"ALB:Kategoria Superiore 2016-17":4|
-		"2023 Men's U-21 European Qualifiers":1|
-		"2017 Men's U-19 European Qualifiers":3
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":4|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-19&&European&&Qualifiers":3
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-D6D5D821;
@@ -1187,13 +1187,13 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":6|
-		"2023 Men's U-21 European Qualifiers":1
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":6|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-797C2B6E;
@@ -1208,10 +1208,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":6
+		"ALB:Kategoria&&Superiore&&2022-23":6
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-3FED48F3;
@@ -1226,35 +1226,35 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":15|
-		"ALB:Kategoria Superiore 2021-22":16|
-		"ALB:Kategoria Superiore 2020-21":19|
-		"ALB:Kategoria Superiore 2019-20":20|
-		"ALB:Kategoria Superiore 2018-19":18|
-		"ALB:Kategoria Superiore 2017-18":16|
-		"ALB:Kategoria Superiore 2016-17":13|
-		"ALB:Kupa 2022-23":1|
-		"ALB:Kupa 2021-22":1|
-		"ALB:Supercup 2021":1|
+		"ALB:Kategoria&&Superiore&&2022-23":15|
+		"ALB:Kategoria&&Superiore&&2021-22":16|
+		"ALB:Kategoria&&Superiore&&2020-21":19|
+		"ALB:Kategoria&&Superiore&&2019-20":20|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2017-18":16|
+		"ALB:Kategoria&&Superiore&&2016-17":13|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2021-22":1|
+		"ALB:Supercup&&2021":1|
 		"Friendlies":3|
-		"2023 Men's U-21 European Qualifiers":2|
-		"2021 Men's U-21 European Qualifiers":1|
-		"2017 Men's U-21 European Qualifiers":1|
-		"2023 Men's U-19 European Championship":3|
-		"2020 Men's U-19 European Qualifiers":3|
-		"2019 Men's U-19 European Qualifiers":3|
-		"UEFA Men's Champions League Qualifiers 2021-22":1|
-		"UEFA Europa League Qualifiers 2020-21":1|
-		"UEFA Europa League Qualifiers 2019-20":1|
-		"UEFA Europa Conference League 2023-24":1|
-		"UEFA Europa Conference League 2022-23":1|
-		"UEFA Europa Conference League Qualifiers 2023-24":2|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2019-20":1|
-		"UEFA Youth League 2018-19":1
+		"2023&&Men's&&U-21&&European&&Qualifiers":2|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2023&&Men's&&U-19&&European&&Championship":3|
+		"2020&&Men's&&U-19&&European&&Qualifiers":3|
+		"2019&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-6E2DA48C;
@@ -1269,16 +1269,16 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":10|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":7|
-		"ALB:Kategoria Superiore 2019-20":5|
-		"ALB:Kategoria Superiore 2018-19":6|
-		"ALB:Kategoria Superiore 2017-18":5|
-		"ALB:Kategoria Superiore 2016-17":7
+		"ALB:Kategoria&&Superiore&&2022-23":10|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":5|
+		"ALB:Kategoria&&Superiore&&2016-17":7
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-A6F9A9E3;
@@ -1293,17 +1293,17 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":11|
-		"ALB:Kategoria Superiore 2021-22":12|
-		"ALB:Kategoria Superiore 2020-21":12|
-		"ALB:Kategoria Superiore 2019-20":12|
-		"ALB:Kategoria Superiore 2018-19":6|
-		"2022 Men's U-19 European Qualifiers":3|
-		"2019 Men's U-19 European Qualifiers":3|
-		"UEFA Europa Conference League Qualifiers 2022-23":1
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":12|
+		"ALB:Kategoria&&Superiore&&2020-21":12|
+		"ALB:Kategoria&&Superiore&&2019-20":12|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"2022&&Men's&&U-19&&European&&Qualifiers":3|
+		"2019&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-2623558F;
@@ -1318,15 +1318,15 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":9|
-		"ALB:Kategoria Superiore 2020-21":9|
-		"ALB:Kategoria Superiore 2019-20":9|
-		"ALB:Kategoria Superiore 2018-19":7|
-		"ALB:Kategoria Superiore 2017-18":13|
-		"ALB:Kategoria Superiore 2016-17":12|
-		"2023 Men's U-21 European Qualifiers":1|
-		"2021 Men's U-21 European Qualifiers":1
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":13|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1
 	;
 	Active : True
 	
@@ -1344,7 +1344,7 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":3
+		"ALB:Kategoria&&Superiore&&2022-23":3
 	;
 	Active : True
 	
@@ -1362,17 +1362,17 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"ALB:Kategoria Superiore 2021-22":8|
-		"ALB:Kategoria Superiore 2020-21":6|
-		"ALB:Kategoria Superiore 2019-20":9|
-		"ALB:Kategoria Superiore 2018-19":4|
-		"ALB:Kategoria Superiore 2017-18":4|
-		"ALB:Kategoria Superiore 2016-17":5|
-		"UEFA Youth League 2019-20":1
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"ALB:Kategoria&&Superiore&&2020-21":6|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"UEFA&&Youth&&League&&2019-20":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-286A5F6E;
@@ -1387,21 +1387,21 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":10|
-		"ALB:Kategoria Superiore 2020-21":10|
-		"ALB:Kategoria Superiore 2019-20":9|
-		"ALB:Kategoria Superiore 2018-19":7|
-		"ALB:Kategoria Superiore 2017-18":6|
-		"ALB:Kategoria Superiore 2016-17":4|
-		"2017 Men's U-19 European Qualifiers":3|
-		"UEFA Europa Conference League Qualifiers 2023-24":1|
-		"UEFA Youth League 2022-23":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2019-20":1
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":4|
+		"2017&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Youth&&League&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-6B12AF50;
@@ -1416,17 +1416,17 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":12|
-		"ALB:Kategoria Superiore 2021-22":15|
-		"ALB:Kategoria Superiore 2020-21":10|
-		"ALB:Kategoria Superiore 2019-20":10|
-		"ALB:Kategoria Superiore 2018-19":4|
-		"ALB:Kupa 2022-23":1|
-		"UEFA Youth League 2021-22":1|
-		"UEFA Youth League 2019-20":1
+		"ALB:Kategoria&&Superiore&&2022-23":12|
+		"ALB:Kategoria&&Superiore&&2021-22":15|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-257D4606;
@@ -1441,10 +1441,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":3
+		"ALB:Kategoria&&Superiore&&2022-23":3
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-25E5B8C2;
@@ -1459,12 +1459,12 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":10|
-		"ALB:Kategoria Superiore 2020-21":5|
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":5|
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-25D1F2CA;
@@ -1479,17 +1479,17 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":10|
-		"ALB:Kategoria Superiore 2021-22":6|
-		"ALB:Kategoria Superiore 2020-21":10|
-		"ALB:Kategoria Superiore 2019-20":11|
-		"ALB:Kategoria Superiore 2018-19":8|
-		"ALB:Kategoria Superiore 2017-18":10|
-		"ALB:Kategoria Superiore 2016-17":10|
-		"UEFA Youth League 2013-14":1
+		"ALB:Kategoria&&Superiore&&2022-23":10|
+		"ALB:Kategoria&&Superiore&&2021-22":6|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":8|
+		"ALB:Kategoria&&Superiore&&2017-18":10|
+		"ALB:Kategoria&&Superiore&&2016-17":10|
+		"UEFA&&Youth&&League&&2013-14":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-1EC53DF1;
@@ -1504,18 +1504,18 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":7|
-		"ALB:Kategoria Superiore 2021-22":8|
-		"ALB:Kategoria Superiore 2020-21":1|
-		"ALB:Kategoria Superiore 2019-20":10|
-		"ALB:Kategoria Superiore 2018-19":6|
-		"ALB:Kategoria Superiore 2017-18":8|
-		"ALB:Kategoria Superiore 2016-17":5|
-		"ALB:Kupa 2022-23":1|
-		"UEFA Youth League 2018-19":1
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"ALB:Kategoria&&Superiore&&2020-21":1|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":8|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2018-19":1
 	;
 	Active : True
-	 
+	
 }
 {
 	Code : REF-6769277F;
@@ -1529,19 +1529,19 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":12,50,1,1|
-		"ALB:Kategoria Superiore 2021-22":15,58,1,3|
-		"ALB:Kategoria Superiore 2020-21":11,48,0,5|
-		"ALB:Kategoria Superiore 2019-20":17,69,2,0|
-		"ALB:Kategoria Superiore 2018-19":16,47,2,1|
-		"ALB:Kategoria Superiore 2017-18":18,67,3,0|
-		"ALB:Kategoria Superiore 2016-17":16,64,1,0|
-		"ALB:Kupa 2016-17":1,8,0,0|
-		"ALB:Supercup 2021":1,8,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":12,50,1,1|
+		"ALB:Kategoria&&Superiore&&2021-22":15,58,1,3|
+		"ALB:Kategoria&&Superiore&&2020-21":11,48,0,5|
+		"ALB:Kategoria&&Superiore&&2019-20":17,69,2,0|
+		"ALB:Kategoria&&Superiore&&2018-19":16,47,2,1|
+		"ALB:Kategoria&&Superiore&&2017-18":18,67,3,0|
+		"ALB:Kategoria&&Superiore&&2016-17":16,64,1,0|
+		"ALB:Kupa&&2016-17":1,8,0,0|
+		"ALB:Supercup&&2021":1,8,0,0
 	;
 	Activity_assistant : ;
 	Active : False
-	 
+	
 }
 {
 	Code : REF-8AAED9EE;
@@ -1555,13 +1555,13 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":7,20,0,1|
-		"ALB:Kategoria Superiore 2021-22":9,28,1,0|
-		"ALB:Kategoria Superiore 2020-21":8,41,0,0|
-		"ALB:Kategoria Superiore 2019-20":10,53,3,1|
-		"ALB:Kategoria Superiore 2018-19":10,46,0,0|
-		"ALB:Kategoria Superiore 2017-18":15,58,1,0|
-		"ALB:Kategoria Superiore 2016-17":13,42,1,2
+		"ALB:Kategoria&&Superiore&&2022-23":7,20,0,1|
+		"ALB:Kategoria&&Superiore&&2021-22":9,28,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,41,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,53,3,1|
+		"ALB:Kategoria&&Superiore&&2018-19":10,46,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":15,58,1,0|
+		"ALB:Kategoria&&Superiore&&2016-17":13,42,1,2
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1579,12 +1579,12 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2022-23":4,12,0,0|
-		"ALB:Kategoria Superiore 2021-22":3,9,0,0|
-		"ALB:Kategoria Superiore 2020-21":1,1,0,0|
-		"ALB:Kategoria Superiore 2019-20":7,32,0,1|
-		"ALB:Kategoria Superiore 2018-19":4,18,0,1|
-		"ALB:Kategoria Superiore 2017-18":5,9,0,0
+		"ALB:Kategoria&&Superiore&&2022-23":4,12,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":3,9,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":1,1,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":7,32,0,1|
+		"ALB:Kategoria&&Superiore&&2018-19":4,18,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":5,9,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1603,13 +1603,13 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":9|
-		"ALB:Kategoria Superiore 2021-22":5|
-		"ALB:Kategoria Superiore 2020-21":9|
-		"ALB:Kategoria Superiore 2019-20":11|
-		"ALB:Kategoria Superiore 2018-19":7|
-		"ALB:Kategoria Superiore 2017-18":4|
-		"ALB:Kategoria Superiore 2016-17":1
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":5|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":1
 	;
 	Active : False
 	
@@ -1627,16 +1627,16 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":8|
-		"ALB:Kategoria Superiore 2021-22":11|
-		"ALB:Kategoria Superiore 2020-21":10|
-		"ALB:Kategoria Superiore 2019-20":11|
-		"ALB:Kategoria Superiore 2018-19":9|
-		"ALB:Kategoria Superiore 2017-18":12|
-		"ALB:Kategoria Superiore 2016-17":11|
-		"2021 Men's U-21 European Qualifiers":1|
-		"2019 Men's U-21 European Qualifiers":1|
-		"UEFA Youth League 2015-16
+		"ALB:Kategoria&&Superiore&&2022-23":8|
+		"ALB:Kategoria&&Superiore&&2021-22":11|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":11|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Youth&&League&&2015-16
 	;
 	Active : False
 	
@@ -1654,8 +1654,8 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":4|
-		"ALB:Kategoria Superiore 2021-22":4
+		"ALB:Kategoria&&Superiore&&2022-23":4|
+		"ALB:Kategoria&&Superiore&&2021-22":4
 	;
 	Active : False
 	
@@ -1673,10 +1673,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2022-23":6|
-		"ALB:Kategoria Superiore 2021-22":2|
-		"ALB:Kategoria Superiore 2020-21":3|
-		"ALB:Kupa 2022-23":1
+		"ALB:Kategoria&&Superiore&&2022-23":6|
+		"ALB:Kategoria&&Superiore&&2021-22":2|
+		"ALB:Kategoria&&Superiore&&2020-21":3|
+		"ALB:Kupa&&2022-23":1
 	;
 	Active : False
 	
@@ -1693,7 +1693,7 @@
 	Birth_place : Lushnje;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2021-22":2,4,0,0
+		"ALB:Kategoria&&Superiore&&2021-22":2,4,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1711,12 +1711,12 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2021-22":1,4,0,0|
-		"ALB:Kategoria Superiore 2020-21":4,9,0,0|
-		"ALB:Kategoria Superiore 2019-20":10,47,2,3|
-		"ALB:Kategoria Superiore 2018-19":2,7,0,0|
-		"ALB:Kategoria Superiore 2017-18":4,13,0,0|
-		"ALB:Kategoria Superiore 2016-17":7,28,1,1
+		"ALB:Kategoria&&Superiore&&2021-22":1,4,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":4,9,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,47,2,3|
+		"ALB:Kategoria&&Superiore&&2018-19":2,7,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":4,13,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":7,28,1,1
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1735,8 +1735,8 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2021-22":6|
-		"ALB:Kategoria Superiore 2020-21":6
+		"ALB:Kategoria&&Superiore&&2021-22":6|
+		"ALB:Kategoria&&Superiore&&2020-21":6
 	;
 	Active : False
 	
@@ -1754,9 +1754,9 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2021-22":1|
-		"ALB:Kategoria Superiore 2020-21":8|
-		"ALB:Kategoria Superiore 2019-20":6
+		"ALB:Kategoria&&Superiore&&2021-22":1|
+		"ALB:Kategoria&&Superiore&&2020-21":8|
+		"ALB:Kategoria&&Superiore&&2019-20":6
 	;
 	Active : False
 	
@@ -1773,11 +1773,11 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2020-21":5,19,0,0|
-		"ALB:Kategoria Superiore 2019-20":10,28,1,0|
-		"ALB:Kategoria Superiore 2018-19":10,28,0,1|
-		"ALB:Kategoria Superiore 2017-18":15,45,1,2|
-		"ALB:Kategoria Superiore 2016-17":8,23,2,1
+		"ALB:Kategoria&&Superiore&&2020-21":5,19,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,28,1,0|
+		"ALB:Kategoria&&Superiore&&2018-19":10,28,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":15,45,1,2|
+		"ALB:Kategoria&&Superiore&&2016-17":8,23,2,1
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1795,8 +1795,8 @@
 	Birth_place : Tirana;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2020-21":5,21,2,0|
-		"ALB:Kategoria Superiore 2019-20":6,27,1,0
+		"ALB:Kategoria&&Superiore&&2020-21":5,21,2,0|
+		"ALB:Kategoria&&Superiore&&2019-20":6,27,1,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1814,7 +1814,7 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2020-21":3,7,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":3,7,0,0|
 		"Friendlies":1,1,0,0
 	;
 	Activity_assistant : ;
@@ -1834,12 +1834,12 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2020-21":5|
-		"ALB:Kategoria Superiore 2019-20":5|
-		"ALB:Kategoria Superiore 2018-19":6|
-		"ALB:Kategoria Superiore 2017-18":10|
-		"ALB:Kategoria Superiore 2016-17":5|
-		"UEFA Europa League Qualifiers 2015-16":1
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":10|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
 	;
 	Active : False
 	
@@ -1857,8 +1857,8 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2020-21":5|
-		"2019 Men's U-17 European Qualifiers":3
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"2019&&Men's&&U-17&&European&&Qualifiers":3
 	;
 	Active : False
 	
@@ -1876,10 +1876,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2020-21":1|
-		"ALB:Kategoria Superiore 2017-18":23|
-		"2005 Men's U-21 European Qualifiers":2|
-		"UEFA Intertoto Cup 2002-03":1
+		"ALB:Kategoria&&Superiore&&2020-21":1|
+		"ALB:Kategoria&&Superiore&&2017-18":23|
+		"2005&&Men's&&U-21&&European&&Qualifiers":2|
+		"UEFA&&Intertoto&&Cup&&2002-03":1
 	;
 	Active : False
 	
@@ -1896,10 +1896,10 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2019-20":6,32,0,1|
-		"ALB:Kategoria Superiore 2018-19":6,23,0,0|
-		"ALB:Kategoria Superiore 2017-18":8,36,0,2|
-		"ALB:Kategoria Superiore 2016-17":12,36,0,0
+		"ALB:Kategoria&&Superiore&&2019-20":6,32,0,1|
+		"ALB:Kategoria&&Superiore&&2018-19":6,23,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":8,36,0,2|
+		"ALB:Kategoria&&Superiore&&2016-17":12,36,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1917,8 +1917,8 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2019-20":3,12,0,0|
-		"ALB:Kategoria Superiore 2018-19":2,9,0,0
+		"ALB:Kategoria&&Superiore&&2019-20":3,12,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":2,9,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -1937,13 +1937,13 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2019-20":7|
-		"ALB:Kategoria Superiore 2018-19":9|
-		"ALB:Kategoria Superiore 2017-18":11|
-		"ALB:Kategoria Superiore 2016-17":12|
-		"2015 Men's U-21 European Qualifiers":2|
-		"2013 Men's U-19 European Qualifiers":3|
-		"UEFA Men's Champions League Qualifiers 2019-20":1
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":11|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"2015&&Men's&&U-21&&European&&Qualifiers":2|
+		"2013&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1
 	;
 	Active : False
 	
@@ -1961,15 +1961,15 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2019-20":7|
-		"ALB:Kategoria Superiore 2018-19":9|
-		"ALB:Kategoria Superiore 2017-18":8|
-		"ALB:Kategoria Superiore 2016-17":12|
-		"UEFA Men's Champions League Qualifiers 2009-10":1|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2011-12":1|
-		"UEFA Europa League Qualifiers 2010-11":1|
-		"UEFA Youth League 2013-14":1
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":8|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Youth&&League&&2013-14":1
 	;
 	Active : False
 	
@@ -1987,10 +1987,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2019-20":7|
-		"ALB:Kategoria Superiore 2018-19":5|
-		"ALB:Kategoria Superiore 2017-18":6|
-		"ALB:Kategoria Superiore 2016-17":3
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":3
 	;
 	Active : False
 	
@@ -2008,26 +2008,26 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2019-20":5|
-		"ALB:Kategoria Superiore 2018-19":15|
-		"ALB:Kategoria Superiore 2017-18":17|
-		"ALB:Kategoria Superiore 2016-17":24|
-		"ALB:Kupa 2017-18":1|
-		"2014 Men's World Cup Qualifiers Europe":1|
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":15|
+		"ALB:Kategoria&&Superiore&&2017-18":17|
+		"ALB:Kategoria&&Superiore&&2016-17":24|
+		"ALB:Kupa&&2017-18":1|
+		"2014&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
 		"Friendlies":3|
-		"UEFA Men's Nations League C 2018-19":1|
-		"UEFA Men's Nations League D 2018-19":1|
-		"2019 Men's U-21 European Qualifiers":1|
-		"2015 Men's U-21 European Qualifiers":1|
-		"2013 Men's U-21 European Qualifiers":3|
-		"2018 Men's U-19 European Qualifiers":3|
-		"2016 Men's U-19 European Qualifiers":3|
-		"UEFA Men's Champions League Qualifiers 2017-18":1|
-		"UEFA Men's Champions League Qualifiers 2011-12":1|
-		"UEFA Europa League Qualifiers 2016-17":1|
-		"UEFA Europa League Qualifiers 2015-16":1|
-		"UEFA Europa League Qualifiers 2014-15":1|
-		"UEFA Europa League Qualifiers 2013-14":1
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2018-19":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":3|
+		"2018&&Men's&&U-19&&European&&Qualifiers":3|
+		"2016&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1
 	;
 	Active : False
 	
@@ -2045,10 +2045,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2019-20":2|
-		"ALB:Kategoria Superiore 2018-19":6|
-		"ALB:Kategoria Superiore 2017-18":7|
-		"ALB:Kategoria Superiore 2016-17":4
+		"ALB:Kategoria&&Superiore&&2019-20":2|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":7|
+		"ALB:Kategoria&&Superiore&&2016-17":4
 	;
 	Active : False
 	
@@ -2065,9 +2065,9 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2018-19":7,26,0,0|
-		"ALB:Kategoria Superiore 2017-18":9,28,0,1|
-		"ALB:Kategoria Superiore 2016-17":11,47,3,0
+		"ALB:Kategoria&&Superiore&&2018-19":7,26,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":9,28,0,1|
+		"ALB:Kategoria&&Superiore&&2016-17":11,47,3,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -2086,12 +2086,12 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2018-19":7|
-		"ALB:Kategoria Superiore 2017-18":6|
-		"ALB:Kategoria Superiore 2016-17":6|
-		"2013 Men's U-21 European Qualifiers":2|
-		"2015 Men's U-17 European Qualifiers":3|
-		"UEFA Europa League Qualifiers 2011-12":1
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":6|
+		"2013&&Men's&&U-21&&European&&Qualifiers":2|
+		"2015&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1
 	;
 	Active : False
 	
@@ -2109,9 +2109,9 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2018-19":6|
-		"ALB:Kategoria Superiore 2017-18":4|
-		"2018 Men's U-19 European Qualifiers":3
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"2018&&Men's&&U-19&&European&&Qualifiers":3
 	;
 	Active : False
 	
@@ -2129,10 +2129,10 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2018-19":5|
-		"ALB:Kategoria Superiore 2017-18":3|
-		"ITA:Women Serie B 2022-23":1|
-		"ITA:Youth Campionato Primavera 2 2022-23":1
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ITA:Women&&Serie&&B&&2022-23":1|
+		"ITA:Youth&&Campionato&&Primavera&&2&&2022-23":1
 	;
 	Active : False
 	
@@ -2150,9 +2150,9 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2018-19":3|
-		"ALB:Kategoria Superiore 2017-18":12|
-		"ALB:Kategoria Superiore 2016-17":15
+		"ALB:Kategoria&&Superiore&&2018-19":3|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":15
 	;
 	Active : False
 	
@@ -2169,8 +2169,8 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2017-18":5,19,0,2|
-		"ALB:Kategoria Superiore 2016-17":9,39,1,1
+		"ALB:Kategoria&&Superiore&&2017-18":5,19,0,2|
+		"ALB:Kategoria&&Superiore&&2016-17":9,39,1,1
 	;
 	Activity_assistant : ;
 	Active : False
@@ -2188,7 +2188,7 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2017-18":2,7,0,1
+		"ALB:Kategoria&&Superiore&&2017-18":2,7,0,1
 	;
 	Activity_assistant : ;
 	Active : False
@@ -2207,12 +2207,12 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2017-18":3|
-		"ALB:Kategoria Superiore 2016-17":2|
-		"2013 Men's U-21 European Qualifiers":1|
-		"UEFA Men's Champions League Qualifiers 2011-12":1|
-		"UEFA Europa League Qualifiers 2010-11":1|
-		"UEFA Europa League Qualifiers 2009-10":1
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":2|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2009-10":1
 	;
 	Active : False
 	
@@ -2229,19 +2229,19 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2016-17":16,42,5,2|
-		"ALB:Supercup 2016":1,3,0,0|
-		"2014 Men's World Cup Qualifiers Europe":1,2,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":16,42,5,2|
+		"ALB:Supercup&&2016":1,3,0,0|
+		"2014&&Men's&&World&&Cup&&Qualifiers&&Europe":1,2,0,0|
 		"Friendlies":2,4,0,0|
-		"2012 Men's European Qualifiers":1,3,0,0|
-		"2013 Men's U-19 European Qualifiers":2,10,2,0|
-		"UEFA Men's Champions League Qualifiers 2016-17":1,5,0,0|
-		"UEFA Europa League Qualifiers 2015-16":1,4,0,0|
-		"UEFA Europa League Qualifiers 2014-15":1,3,0,0|
-		"UEFA Europa League Qualifiers 2013-14":1,6,0,0|
-		"UEFA Europa League Qualifiers 2012-13":1,5,0,0|
-		"UEFA Europa League Qualifiers 2011-12":2,11,1,0|
-		"UEFA Europa League Qualifiers 2010-11":1,1,0,0
+		"2012&&Men's&&European&&Qualifiers":1,3,0,0|
+		"2013&&Men's&&U-19&&European&&Qualifiers":2,10,2,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1,4,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1,3,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1,6,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":2,11,1,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1,1,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -2259,7 +2259,7 @@
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
-		"ALB:Kategoria Superiore 2016-17":1,3,0,0
+		"ALB:Kategoria&&Superiore&&2016-17":1,3,0,0
 	;
 	Activity_assistant : ;
 	Active : False
@@ -2278,7 +2278,7 @@
 	Birth_country : ALB;
 	Activity_main : ;
 	Activity_assistant : 
-		"ALB:Kategoria Superiore 2016-17":6
+		"ALB:Kategoria&&Superiore&&2016-17":6
 	;
 	Active : False
 	
