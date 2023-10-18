@@ -16,8 +16,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":9
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/miquel-maciel-de-queiros/135165/
 }
 {
 	Code : REF-BD71210F;
@@ -38,8 +38,8 @@
 		"AND:Primera&&Divisio&&2022-23":15|
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/manuel-fernandes/296147/
 }
 {
 	Code : REF-67D68841;
@@ -59,8 +59,8 @@
 		"AND:Primera&&Divisio&&2022-23":21|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/andreu-vilanova-simarro/524688/
 }
 {
 	Code : REF-950C2504;
@@ -81,8 +81,8 @@
 		"AND:Primera&&Divisio&&2022-23":12|
 		"AND:Supercup&&2023":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/joan-guiu-serra/545444/
 }
 {
 	Code : REF-B627F622;
@@ -103,8 +103,8 @@
 		"AND:Primera&&Divisio&&2022-23":20|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/cristian-moreira-de-almeida/684929/
 }
 {
 	Code : REF-0E24F45D;
@@ -123,8 +123,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":6
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/jose-ignacio-perez-fuster-lopez/821474/
 }
 {
 	Code : REF-9801FA29;
@@ -144,8 +144,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":5
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/marta-san-juan-casado/742448/
 }
 {
 	Code : REF-A3EFD72F;
@@ -165,8 +165,8 @@
 		"AND:Primera&&Divisio&&2022-23":22|
 		"AND:Copa&&Constitucio&&2022-23":4
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/luis-miguel-pinilla-acosta/685853/
 }
 {
 	Code : REF-ABF21E63;
@@ -186,8 +186,8 @@
 		"AND:Primera&&Divisio&&2022-23":27|
 		"AND:Copa&&Constitucio&&2022-23":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/ivan-garcia-perez/687918/
 }
 {
 	Code : REF-24EBCAA0;
@@ -207,8 +207,8 @@
 		"AND:Primera&&Divisio&&2022-23":9|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/eric-jose-machado-gomes/646258/
 }
 {
 	Code : REF-CA89679F;
@@ -228,8 +228,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":10
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/marta-san-juan/545443/
 }
 {
 	Code : REF-0832FB7B;
@@ -249,8 +249,8 @@
 		"AND:Primera&&Divisio&&2022-23":24|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/bruno-filipe-parente-fernandes/798342/
 }
 {
 	Code : REF-BEEC70A4;
@@ -269,8 +269,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/eduardo-vazquez/897117/
 }
 {
 	Code : REF-BA164919;
@@ -290,8 +290,8 @@
 		"AND:Primera&&Divisio&&2022-23":19|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/pedro-miguel-goncalves-fernandes/882667/
 }
 {
 	Code : REF-63D7A77C;
@@ -311,8 +311,8 @@
 		"AND:Primera&&Divisio&&2022-23":8|
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rui-filipe-goncalves-pinheiro/886824/
 }
 {
 	Code : REF-A61E1E7A;
@@ -330,8 +330,8 @@
 		"AND:Primera&&Divisio&&2022-23":28|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/carlos--braga-goncalves/812387/
 }
 {
 	Code : REF-94C424F1;
@@ -349,8 +349,8 @@
 		"AND:Primera&&Divisio&&2022-23":7|
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/pere-balsa-isern/812388/
 }
 {
 	Code : REF-7B1374F7;
@@ -369,8 +369,8 @@
 		"AND:Copa&&Constitucio&&2022-23":3|
 		"AND:Supercup&&2023":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/ainhoa-fernandez-ruiz/692574/
 }
 {
 	Code : REF-DF1A41FF;
@@ -389,8 +389,8 @@
 		"AND:Copa&&Constitucio&&2022-23":2
 		
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/vitor-manuel-pereira-da-silva/812375/
 }
 {
 	Code : REF-CD94D063;
@@ -407,8 +407,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":6
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/alexis-terrazo/404939/
 }
 {
 	Code : REF-03306440;
@@ -426,8 +426,8 @@
 		"AND:Primera&&Divisio&&2022-23":5|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://uk.soccerway.com/referees/guillem-angel-dalmau-miarnau/873329/
 }
 {
 	Code : REF-46CEFFBD;
@@ -445,8 +445,8 @@
 		"AND:Primera&&Divisio&&2022-23":3|
 		"AND:Copa&&Constitucio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/david--vilanova-simarro/889466/
 }
 {
 	Code : REF-470811B5;
@@ -463,8 +463,8 @@
 	Activity_assistant : 
 		"AND:Primera&&Divisio&&2022-23":2
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/faustino-guerrero/896697/
 }
 {
 	Code : REF-954DED09;
@@ -481,8 +481,8 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/eduardo-vazquez/897117/
 }
 {
 	Code : REF-FC8ABB87;
@@ -499,8 +499,8 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : 
 }
 {
 	Code : REF-D090C322;
@@ -517,8 +517,8 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/jorge-miquel-pinto-pedro/889506/
 }
 {
 	Code : REF-0504B93D;
@@ -535,8 +535,8 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/manuel-lopez-tagarro/829890/
 }
 {
 	Code : REF-2BD94E00;
@@ -553,8 +553,8 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/david-guardiola-fernandez/889511/
 }
 {
 	Code : REF-4D6BFA3C;
@@ -571,6 +571,6 @@
 	Activity_assistant : 
 		"AND:Copa&&Constitucio&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/damian-iglesias-taboada/890181/
 }
