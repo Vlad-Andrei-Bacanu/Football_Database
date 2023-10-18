@@ -10,11 +10,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":10,40,1,1|
-		"ARM:Cup 2022-23":1,2,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":10,40,1,1|
+		"ARM:Cup&&2022-23":1,2,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":12
+		"ARM:Armenian&&Premier&&League&&2022-23":12
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/davit-mkrtchyan/840618/
@@ -31,12 +31,12 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":25,121,5,5|
-		"ARM:Cup 2022-23":1,4,0,1
+		"ARM:Armenian&&Premier&&League&&2022-23":25,121,5,5|
+		"ARM:Cup&&2022-23":1,4,0,1
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":15|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":15|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/vardan-manukyan/621421/
@@ -53,11 +53,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":29,110,1,2|
-		"ARM:Cup 2022-23":2,7,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":29,110,1,2|
+		"ARM:Cup&&2022-23":2,7,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":8
+		"ARM:Armenian&&Premier&&League&&2022-23":8
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/zaven-hovhannisyan/44387/
@@ -74,12 +74,12 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":33,206,3,6|
-		"ARM:Cup 2022-23":1,7,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":33,206,3,6|
+		"ARM:Cup&&2022-23":1,7,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":15|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":15|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/henrik-nalbandyan/391129/
@@ -96,11 +96,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":27,112,2,1|
-		"ARM:Cup 2022-23":1,4,0,1
+		"ARM:Armenian&&Premier&&League&&2022-23":27,112,2,1|
+		"ARM:Cup&&2022-23":1,4,0,1
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":15
+		"ARM:Armenian&&Premier&&League&&2022-23":15
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/artem-gasparyan/621422/
@@ -117,11 +117,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":28,135,4,8
+		"ARM:Armenian&&Premier&&League&&2022-23":28,135,4,8
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":17|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":17|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/ashot-ghaltakchyan/515808/
@@ -138,11 +138,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":16,68,0,1|
-		"ARM:Cup 2022-23":2,13,1,1
+		"ARM:Armenian&&Premier&&League&&2022-23":16,68,0,1|
+		"ARM:Cup&&2022-23":2,13,1,1
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":16
+		"ARM:Armenian&&Premier&&League&&2022-23":16
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/yura-mahtesyan/785450/
@@ -159,11 +159,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":1,5,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":1,5,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":34|
-		"ARM:Cup 2022-23":3
+		"ARM:Armenian&&Premier&&League&&2022-23":34|
+		"ARM:Cup&&2022-23":3
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/khachatur-hovhannisyan/305528/
@@ -180,10 +180,10 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":1,7,2,0
+		"ARM:Armenian&&Premier&&League&&2022-23":1,7,2,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":30
+		"ARM:Armenian&&Premier&&League&&2022-23":30
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/sargis-hovhannisyan/289197/
@@ -200,12 +200,12 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":3,13,0,0|
-		"ARM:Cup 2022-23":1,3,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":3,13,0,0|
+		"ARM:Cup&&2022-23":1,3,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":16|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":16|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/hovhannes-kalantaryan/685136/
@@ -222,11 +222,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":8,32,1,1|
-		"ARM:Cup 2022-23":2,8,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":8,32,1,1|
+		"ARM:Cup&&2022-23":2,8,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":11
+		"ARM:Armenian&&Premier&&League&&2022-23":11
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/sargis-khachatryan/670991/
@@ -243,11 +243,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Armenian Premier League 2022-23":1,3,0,0
+		"ARM:Armenian&&Premier&&League&&2022-23":1,3,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":8|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":8|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/vardan-vardumyan/833953/
@@ -265,8 +265,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":36|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":36|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/mesrop-ghazaryan/124246/
@@ -284,8 +284,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":34|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":34|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/gevorg-shakhkaldyan/164299/
@@ -303,8 +303,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":28|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":28|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/armen-khachatryan/310150/
@@ -322,8 +322,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":16|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":16|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/arman-alaberkyan/293789/
@@ -341,8 +341,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":28|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":28|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/vanik-simonyan/83177/
@@ -360,8 +360,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":33|
-		"ARM:Cup 2022-23":3
+		"ARM:Armenian&&Premier&&League&&2022-23":33|
+		"ARM:Cup&&2022-23":3
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/artur-gdlyan/160292/
@@ -379,8 +379,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":32|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":32|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/narek-poghosyan/631372/
@@ -398,8 +398,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":32|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":32|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/atom-sevgulyan/160287/
@@ -417,8 +417,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":6|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":6|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/davit-davtyan/841585/
@@ -436,8 +436,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":30|
-		"ARM:Cup 2022-23":2
+		"ARM:Armenian&&Premier&&League&&2022-23":30|
+		"ARM:Cup&&2022-23":2
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/harutyun-hambardzumyan/191971/
@@ -455,8 +455,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":8|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":8|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/norayr-martirosyan/642431/
@@ -474,8 +474,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":7|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":7|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/ashot-harutyunyan/874983/
@@ -493,8 +493,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":11|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":11|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/arman-hakobjanyan/841584/
@@ -512,7 +512,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":6
+		"ARM:Armenian&&Premier&&League&&2022-23":6
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/tiran-yeritsyan/901710/
@@ -530,8 +530,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":9|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":9|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/hrant-hambaryan/658745/
@@ -549,7 +549,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":7
+		"ARM:Armenian&&Premier&&League&&2022-23":7
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/samvel-hovsepyan/691562/
@@ -566,11 +566,11 @@
 	Birth_place : ;
 	Birth_country : ARM;
 	Activity_main : 
-		"ARM:Cup 2022-23":1,3,0,0
+		"ARM:Cup&&2022-23":1,3,0,0
 	;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":7|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":7|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/artak-vardanyan/623321/
@@ -588,7 +588,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":5
+		"ARM:Armenian&&Premier&&League&&2022-23":5
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/khachik-zakharyan/841583/
@@ -606,8 +606,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":1|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":1|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/davit-prazyan/841586/
@@ -625,7 +625,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/gevorg-iskandaryan/901705/
@@ -643,8 +643,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":2|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":2|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/smbat-hakhverdyan/874971/
@@ -662,8 +662,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":1|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":1|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/sargis-sargsyan/874414/
@@ -681,7 +681,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/narek-hakobyan/909410/
@@ -699,8 +699,8 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Armenian Premier League 2022-23":1|
-		"ARM:Cup 2022-23":1
+		"ARM:Armenian&&Premier&&League&&2022-23":1|
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/stepan-khlghatyan/874700/
@@ -718,7 +718,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Cup 2022-23":1
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/artur-tavakalyan/623288/
@@ -736,7 +736,7 @@
 	Birth_country : ARM;
 	Activity_main : ;
 	Activity_assistant : 
-		"ARM:Cup 2022-23":1
+		"ARM:Cup&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/melik-muradyan/642432/
