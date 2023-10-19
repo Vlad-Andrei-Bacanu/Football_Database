@@ -73,8 +73,8 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/enea-jorgii/95038/
 }
 {
 	Code : REF-90B87F8A;
@@ -100,8 +100,8 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2017-18":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kreshnik-cjapi/110308/
 }
 {
 	Code : REF-54EBE004;
@@ -147,8 +147,8 @@
 		"UEFA&&Youth&&League&&2018-19":1,5,1,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/eldorjan-hamiti/269155/
 }
 {
 	Code : REF-E6F7FF7A;
@@ -168,8 +168,8 @@
 		"Friendlies":1,2,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/florjan-lata/420928/
 }
 {
 	Code : REF-EE2B55AB;
@@ -192,8 +192,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":11,45,3,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/laver-alla/98149/
 }
 {
 	Code : REF-52161C12;
@@ -216,8 +216,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":1,2,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/olsid-ferataj/320261/
 }
 {
 	Code : REF-5936E67D;
@@ -243,8 +243,8 @@
 	Activity_assistant : 
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/andi-koci/120935/
 }
 {
 	Code : REF-3EA36293;
@@ -271,8 +271,8 @@
 		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : 
 }
 {
 	Code : REF-54F6C832;
@@ -320,8 +320,8 @@
 		"UEFA&&Youth&&League&&2018-19":1,7,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/juxhin-xhaja/214249/
 }
 {
 	Code : REF-CC056D0E;
@@ -339,8 +339,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":5,20,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/olsion-yzeiraj/269160/
 }
 {
 	Code : REF-5514FBAF;
@@ -362,8 +362,8 @@
 		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/-bajramaj/465013/
 }
 {
 	Code : REF-FBBC47EC;
@@ -384,8 +384,8 @@
 		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/erjon-bastari/420950/
 }
 {
 	Code : REF-FB5B4C0B;
@@ -402,8 +402,8 @@
 		"ALB:Kupa&&2022-23":1,6,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/adrian-beqiri/98155/
 }
 {
 	Code : REF-3DF2A69D;
@@ -420,8 +420,8 @@
 		"ALB:Kategoria&&Superiore&&2022-23":3,16,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/albert-doda/571279/
 }
 {
 	Code : REF-1C6ED3D3;
@@ -438,8 +438,8 @@
 		"ALB:Kategoria&&Superiore&&2022-23":2,9,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/silvio-dyrmishi/645063/
 }
 {
 	Code : REF-20E9A31D;
@@ -456,8 +456,8 @@
 		"ALB:Kategoria&&Superiore&&2022-23":3,17,0,2
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dorjan-maletaj/465472/
 }
 {
 	Code : REF-D9DA15D5;
@@ -479,8 +479,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":2,6,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/indrit-myrtja/380799/
 }
 {
 	Code : REF-274F0B0A;
@@ -498,8 +498,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":1,2,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/klodjan-prenga/320234/
 }
 {
 	Code : REF-CB7E085A;
@@ -523,8 +523,8 @@
 		"ALB:Kupa&&2022-23":1,4,0,0
 	;
 	Activity_assistant : ;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/klodian-shahini/269156/
 }
 {
 	Code : REF-92518E10;
@@ -589,8 +589,8 @@
 		"UEFA&&Youth&&League&&2016-17":1|
 		"UEFA&&Youth&&League&&2013-14":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ridiger-cokaj/98151/
 }
 {
 	Code : REF-F8C78D79;
@@ -654,8 +654,8 @@
 		"UEFA&&Youth&&League&&2019-20":1|
 		"UEFA&&Youth&&League&&2018-19":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/denis-rexha/44379/
 }
 {
 	Code : REF-DF2707B7;
@@ -700,8 +700,8 @@
 		"UEFA&&Youth&&League&&2019-20":1|
 		"UEFA&&Youth&&League&&2018-19":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ilir-tartaraj/98226/
 }
 {
 	Code : REF-5941F20C;
@@ -743,8 +743,8 @@
 		"UEFA&&Youth&&League&&2017-18":1|
 		"UEFA&&Youth&&League&&2016-17":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/nertil-bregasi/208647/
 }
 {
 	Code : REF-604DA25E;
@@ -772,8 +772,8 @@
 		"UEFA&&Youth&&League&&2018-19":1|
 		"UEFA&&Youth&&League&&2014-15":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/emigers-ganci/98145/
 }
 {
 	Code : REF-6FCEFDBF;
@@ -795,8 +795,8 @@
 		"2023&&Men's&&U-17&&European&&Qualifiers":3|
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/elvis-gjoka/476496/
 }
 {
 	Code : REF-EC5167C6;
@@ -823,8 +823,8 @@
 		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
 		"UEFA&&Youth&&League&&2018-19":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ani-kociaj/469305/
 }
 {
 	Code : REF-5DD31210;
@@ -845,8 +845,8 @@
 		"2023&&Men's&&U-17&&European&&Qualifiers":3|
 		"UEFA&&Youth&&League&&2021-22":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : 
 }
 {
 	Code : REF-BE736CB3;
@@ -872,8 +872,8 @@
 		"UEFA&&Youth&&League&&2021-22":1|
 		"UEFA&&Youth&&League&&2019-20":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/nuri-rapaj/190838/
 }
 {
 	Code : REF-7E1E7996;
@@ -933,8 +933,8 @@
 		"UEFA&&Youth&&League&&2014-15":1|
 		"UEFA&&Youth&&League&&2013-14":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rejdi-avdo/98190/
 }
 {
 	Code : REF-53F7F673;
@@ -960,8 +960,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/erind-burgu/380943/
 }
 {
 	Code : REF-4DE995CF;
@@ -979,8 +979,8 @@
 		"ALB:Kategoria&&Superiore&&2022-23":7|
 		"2022&&Men's&&U-19&&European&&Qualifiers":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/gerald-cenolli/636955/
 }
 {
 	Code : REF-BCCE8A27;
@@ -1020,8 +1020,8 @@
 		"UEFA&&Youth&&League&&2015-16":1|
 		"UEFA&&Youth&&League&&2014-15":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ergin-doda/103545/
 }
 {
 	Code : REF-BEDF9CD0;
@@ -1048,8 +1048,8 @@
 		"UEFA&&Youth&&League&&2019-20":1|
 		"UEFA&&Youth&&League&&2017-18":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/orgest-grabova/207928/
 }
 {
 	Code : REF-A6974D3B;
@@ -1068,8 +1068,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":8|
 		"UEFA&&Youth&&League&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/feliks-kolleshi/638507/
 }
 {
 	Code : REF-07ADB807;
@@ -1096,8 +1096,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
 		"UEFA&&Youth&&League&&2014-15":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/fatmir-lama/111096/
 }
 {
 	Code : REF-E8DF3427;
@@ -1119,8 +1119,8 @@
 		"ALB:Kategoria&&Superiore&&2018-19":3|
 		"2020&&Men's&&U-17&&European&&Qualifiers":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/maringlen-llukmani/335790/
 }
 {
 	Code : REF-F02125A1;
@@ -1145,8 +1145,8 @@
 		"ALB:Kupa&&2022-23":1|
 		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/astrit-mahmuti/98144/
 }
 {
 	Code : REF-71CC25E9;
@@ -1171,8 +1171,8 @@
 		"2023&&Men's&&U-21&&European&&Qualifiers":1|
 		"2017&&Men's&&U-19&&European&&Qualifiers":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/malaj/213860/
 }
 {
 	Code : REF-D6D5D821;
@@ -1192,8 +1192,8 @@
 		"ALB:Kategoria&&Superiore&&2020-21":6|
 		"2023&&Men's&&U-21&&European&&Qualifiers":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rexhino-mersini/380971/
 }
 {
 	Code : REF-797C2B6E;
@@ -1210,8 +1210,8 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2022-23":6
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rexhep-muzhaqi/577334/
 }
 {
 	Code : REF-3FED48F3;
@@ -1253,8 +1253,8 @@
 		"UEFA&&Youth&&League&&2019-20":1|
 		"UEFA&&Youth&&League&&2018-19":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dojando-myftari/208648/
 }
 {
 	Code : REF-6E2DA48C;
@@ -1277,8 +1277,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":5|
 		"ALB:Kategoria&&Superiore&&2016-17":7
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/meglid-qose/207930/
 }
 {
 	Code : REF-A6F9A9E3;
@@ -1302,8 +1302,8 @@
 		"2019&&Men's&&U-19&&European&&Qualifiers":3|
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/mario-shazivari/465049/
 }
 {
 	Code : REF-2623558F;
@@ -1328,8 +1328,8 @@
 		"2023&&Men's&&U-21&&European&&Qualifiers":1|
 		"2021&&Men's&&U-21&&European&&Qualifiers":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/alfred-shkreta/234590/
 }
 {
 	Code : REF-A4EE4E88;
@@ -1346,8 +1346,8 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2022-23":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ergys-spahiu/679806/
 }
 {
 	Code : REF-7C7F308E;
@@ -1371,8 +1371,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":5|
 		"UEFA&&Youth&&League&&2019-20":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/endrit-veseli/209282/
 }
 {
 	Code : REF-286A5F6E;
@@ -1400,8 +1400,8 @@
 		"UEFA&&Youth&&League&&2021-22":1|
 		"UEFA&&Youth&&League&&2019-20":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rejdi-zaimi/269134/
 }
 {
 	Code : REF-6B12AF50;
@@ -1425,8 +1425,8 @@
 		"UEFA&&Youth&&League&&2021-22":1|
 		"UEFA&&Youth&&League&&2019-20":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/arber-zalla/468758/
 }
 {
 	Code : REF-257D4606;
@@ -1443,8 +1443,8 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2022-23":3
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/delin-kasa/321990/
 }
 {
 	Code : REF-25E5B8C2;
@@ -1463,8 +1463,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":10|
 		"ALB:Kategoria&&Superiore&&2020-21":5|
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/tauland-kasa/387165/
 }
 {
 	Code : REF-25D1F2CA;
@@ -1488,8 +1488,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":10|
 		"UEFA&&Youth&&League&&2013-14":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/devis-koreshi/98166/
 }
 {
 	Code : REF-1EC53DF1;
@@ -1514,8 +1514,8 @@
 		"ALB:Kupa&&2022-23":1|
 		"UEFA&&Youth&&League&&2018-19":1
 	;
-	Active : True
-	
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/lisaku/213863/
 }
 {
 	Code : REF-6769277F;
@@ -1540,8 +1540,8 @@
 		"ALB:Supercup&&2021":1,8,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/kridens-meta/98143/
 }
 {
 	Code : REF-8AAED9EE;
@@ -1564,8 +1564,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":13,42,1,2
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/ardian-beqiri/891138/
 }
 {
 	Code : REF-F57D8D7F;
@@ -1587,8 +1587,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":5,9,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/orlando-kuka/320285/
 }
 {
 	Code : REF-7AAFFE4E;
@@ -1611,8 +1611,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":4|
 		"ALB:Kategoria&&Superiore&&2016-17":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/malo/212263/
 }
 {
 	Code : REF-C061753C;
@@ -1638,8 +1638,8 @@
 		"2019&&Men's&&U-21&&European&&Qualifiers":1|
 		"UEFA&&Youth&&League&&2015-16
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/denis-agaraj/98154/
 }
 {
 	Code : REF-FED4F2F4;
@@ -1657,8 +1657,8 @@
 		"ALB:Kategoria&&Superiore&&2022-23":4|
 		"ALB:Kategoria&&Superiore&&2021-22":4
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/enea-gjoni/380877/
 }
 {
 	Code : REF-1707A92A;
@@ -1678,8 +1678,8 @@
 		"ALB:Kategoria&&Superiore&&2020-21":3|
 		"ALB:Kupa&&2022-23":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/jetmir-podgorica/424291/
 }
 {
 	Code : REF-1A97FE8B;
@@ -1696,8 +1696,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":2,4,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/olti-cela/507427/
 }
 {
 	Code : REF-F2BB117E;
@@ -1719,8 +1719,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":7,28,1,1
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/blerim-ziri/123656/
 }
 {
 	Code : REF-4318F341;
@@ -1738,8 +1738,8 @@
 		"ALB:Kategoria&&Superiore&&2021-22":6|
 		"ALB:Kategoria&&Superiore&&2020-21":6
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mehmet-bega/635677/
 }
 {
 	Code : REF-4318F342;
@@ -1758,8 +1758,8 @@
 		"ALB:Kategoria&&Superiore&&2020-21":8|
 		"ALB:Kategoria&&Superiore&&2019-20":6
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/uran-korra/510340/
 }
 {
 	Code : REF-7B7D0F27;
@@ -1780,8 +1780,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":8,23,2,1
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/klajdi-kola/269146/
 }
 {
 	Code : REF-84F33092;
@@ -1799,8 +1799,8 @@
 		"ALB:Kategoria&&Superiore&&2019-20":6,27,1,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/roxhers-muska/421210/
 }
 {
 	Code : REF-355ACC15;
@@ -1818,8 +1818,8 @@
 		"Friendlies":1,1,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mario-shabanaj/321803/
 }
 {
 	Code : REF-972E46E3;
@@ -1841,8 +1841,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":5|
 		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/enea-pashaj/265143/
 }
 {
 	Code : REF-7D5D910D;
@@ -1860,8 +1860,8 @@
 		"ALB:Kategoria&&Superiore&&2020-21":5|
 		"2019&&Men's&&U-17&&European&&Qualifiers":3
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/pulaj/213859/
 }
 {
 	Code : REF-A9F9CEDA;
@@ -1881,8 +1881,8 @@
 		"2005&&Men's&&U-21&&European&&Qualifiers":2|
 		"UEFA&&Intertoto&&Cup&&2002-03":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sokol-avdo/228224/
 }
 {
 	Code : REF-904C35DA;
@@ -1902,8 +1902,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":12,36,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/emirjon-sino/110329/
 }
 {
 	Code : REF-CE3C5668;
@@ -1921,8 +1921,8 @@
 		"ALB:Kategoria&&Superiore&&2018-19":2,9,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/hermal-llapra/214235/
 }
 {
 	Code : REF-4470872D;
@@ -1945,8 +1945,8 @@
 		"2013&&Men's&&U-19&&European&&Qualifiers":3|
 		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/rudin-preca/98167/
 }
 {
 	Code : REF-40F25813;
@@ -1971,8 +1971,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
 		"UEFA&&Youth&&League&&2013-14":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/gerald-qirici/83434/
 }
 {
 	Code : REF-5FAEBB52;
@@ -1992,8 +1992,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":6|
 		"ALB:Kategoria&&Superiore&&2016-17":3
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/redvan-shaba/380597/
 }
 {
 	Code : REF-344C0EB0;
@@ -2029,8 +2029,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
 		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/ermal-barushi/123654/
 }
 {
 	Code : REF-E4727059;
@@ -2050,8 +2050,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":7|
 		"ALB:Kategoria&&Superiore&&2016-17":4
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/redian-dobruna/111089/
 }
 {
 	Code : REF-4F75699F;
@@ -2070,8 +2070,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":11,47,3,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/olsi-sokoli/214643/
 }
 {
 	Code : REF-F22995C7;
@@ -2093,8 +2093,8 @@
 		"2015&&Men's&&U-17&&European&&Qualifiers":3|
 		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/melis-dervishi/98178/
 }
 {
 	Code : REF-9559C06B;
@@ -2113,8 +2113,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":4|
 		"2018&&Men's&&U-19&&European&&Qualifiers":3
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sorja/218803/
 }
 {
 	Code : REF-3FB38797;
@@ -2134,8 +2134,8 @@
 		"ITA:Women&&Serie&&B&&2022-23":1|
 		"ITA:Youth&&Campionato&&Primavera&&2&&2022-23":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mateo-sadikaj/321910/
 }
 {
 	Code : REF-D63D8803;
@@ -2154,8 +2154,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":12|
 		"ALB:Kategoria&&Superiore&&2016-17":15
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/simoni/211197/
 }
 {
 	Code : REF-3ADC9CE4;
@@ -2173,8 +2173,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":9,39,1,1
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/remzi-sadiku/95035/
 }
 {
 	Code : REF-F10D3A31;
@@ -2191,8 +2191,8 @@
 		"ALB:Kategoria&&Superiore&&2017-18":2,7,0,1
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/fatjon-xhemalaj/266894/
 }
 {
 	Code : REF-FE11E202;
@@ -2214,8 +2214,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
 		"UEFA&&Europa&&League&&Qualifiers&&2009-10":1
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/proletar-puto/83179/
 }
 {
 	Code : REF-1E524821;
@@ -2244,8 +2244,8 @@
 		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1,1,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/lorenc-jemini/45842/
 }
 {
 	Code : REF-AC8C62DF;
@@ -2262,8 +2262,8 @@
 		"ALB:Kategoria&&Superiore&&2016-17":1,3,0,0
 	;
 	Activity_assistant : ;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/elidon-halo/269138/
 }
 {
 	Code : REF-88E53768;
@@ -2280,6 +2280,6 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2016-17":6
 	;
-	Active : False
-	
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/velo/209253/
 }
