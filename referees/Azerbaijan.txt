@@ -1,0 +1,980 @@
+{
+	Code : REF-73908DC6;
+	First_name_original : Tural;
+	Last_name_original : Qurbanov;
+	First_name_ascii : Tural;
+	Last_name_ascii : Qurbanov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":16,70,2,2|
+		"Friendlies":1,0,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/tural-qurbanov/669442/
+}
+{
+	Code : REF-5C116A30;
+	First_name_original : Äliyar;
+	Last_name_original : Ağayev;
+	First_name_ascii : Aliyar;
+	Last_name_ascii : Agayev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1987-10-17;
+	Birth_place : Baku;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":15,62,0,3|
+		"AZE:Premyer Liqasi 2016-17":1,1,1,0|
+		"AZE:Premyer Liqasi 2015-16":1,5,0,0|
+		"AZE:Premyer Liqasi 2014-15":1,0,0,0|
+		"AZE:Premyer Liqasi 2013-14":1,4,0,0|
+		"AZE:Premyer Liqasi 2012-13":1,3,0,0|
+		"AZE:Premyer Liqasi 2011-12":1,4,0,0|
+		"AZE:Kubok 2022-23":1,2,0,0|
+		"AZE:Kubok 2020-21":1,3,0,0|
+		"AZE:Kubok 2018-19":1,6,1,0|
+		"GRE:Super League 2022-23":1,7,0,1|
+		"GRE:Super League 2021-22":2,7,1,0|
+		"GRE:Super League 2020-21":2,12,0,0|
+		"GRE:Super League 2019-20":1,2,0,0|
+		"GRE:Super League 2018-19":1,3,1,0|
+		"GRE:Super League 2 2021-22":1,6,0,0|
+		"GRE:Play-Offs 1/2 2022":1,2,0,0|
+		"GRE:Kypello Elladas 2022-23":1,11,0,0|
+		"2022 Men's World Cup Qualifiers Europe":2,4,0,0|
+		"2018 Men's World Cup Qualifiers Europe":1,2,1,0|
+		"Friendlies":9,21,0,0|
+		"2020 Men's European Qualifiers":3,14,0,0|
+		"UEFA Men's Nations League B 2020-21":1,7,0,0|
+		"UEFA Men's Nations League B 2018-19":1,1,0,0|
+		"UEFA Men's Nations League D 2022-23":1,5,0,0|
+		"2023 Men's U-21 European Championship":2,6,0,0|
+		"2019 Men's U-21 European Qualifiers":1,4,0,0|
+		"2017 Men's U-21 European Qualifiers":2,10,1,0|
+		"2015 Men's U-21 European Qualifiers":2,8,1,0|
+		"2016 Men's U-19 European Championship":4,17,0,0|
+		"2018 Men's U-19 European Qualifiers":2,11,0,0|
+		"2015 Men's U-19 European Qualifiers":2,9,3,1|
+		"2014 Men's U-17 European Championship":1,4,0,0|
+		"2014 Men's U-17 European Qualifiers":2,0,0,0|
+		"2013 Men's U-17 European Qualifiers":1,1,0,0|
+		"UEFA Men's Champions League 2022-23":1,4,0,0|
+		"UEFA Men's Champions League Qualifiers 2019-20":1,2,0,0|
+		"UEFA Men's Champions League Qualifiers 2018-19":1,2,1,0|
+		"UEFA Men's Champions League Qualifiers 2017-18":2,12,0,0|
+		"UEFA Men's Champions League Qualifiers 2015-16":1,4,0,0|
+		"UEFA Men's Champions League Qualifiers 2014-15":1,7,0,0|
+		"UEFA Europa League 2022-23":2,9,1,0|
+		"UEFA Europa League 2021-22":1,4,0,0|
+		"UEFA Europa League 2020-21":1,6,1,0|
+		"UEFA Europa League 2019-20":2,9,1,0|
+		"UEFA Europa League 2018-19":2,8,0,0|
+		"UEFA Europa League 2017-18":2,2,0,0|
+		"UEFA Europa League 2016-17":3,11,1,0|
+		"UEFA Europa League 2015-16":1,1,0,0|
+		"UEFA Europa League Qualifiers 2018-19":2,5,1,0|
+		"UEFA Europa League Qualifiers 2016-17":2,6,0,0|
+		"UEFA Europa League Qualifiers 2015-16":1,8,1,0|
+		"UEFA Europa League Qualifiers 2014-15":1,5,0,0|
+		"UEFA Europa League Qualifiers 2013-14":1,1,0,0|
+		"UEFA Europa Conference League 2022-23":1,6,0,0|
+		"UEFA Europa Conference League 2021-22":1,6,0,0|
+		"UEFA Europa Conference League Qualifiers 2022-23":2,5,0,0|
+		"UEFA Europa Conference League Qualifiers 2021-22":2,10,0,0|
+		"UEFA Youth League 2017-18":2,9,1,0|
+		"UEFA Youth League 2016-17":1,5,0,0|
+		"UEFA Youth League 2015-16":2,10,0,1|
+		"UEFA Youth League 2014-15":1,1,0,0|
+		"UEFA Youth League 2013-14":1,7,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/aliyar-agayev/90765/
+}
+{
+	Code : REF-91AF70E6;
+	First_name_original : Rashad;
+	Last_name_original : Ahmadov;
+	First_name_ascii : Rashad;
+	Last_name_ascii : Ahmadov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":15,61,1,3
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rashad-ahmadov/747455/
+}
+{
+	Code : REF-6404D095;
+	First_name_original : Fərid;
+	Last_name_original : Haciyev;
+	First_name_ascii : Farid;
+	Last_name_ascii : Haciyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":15,51,1,1
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/farid-haciyev/629470/
+}
+{
+	Code : REF-808EEBCB;
+	First_name_original : Elçin;
+	Last_name_original : Məsiyev;
+	First_name_ascii : Elchin;
+	Last_name_ascii : Masiyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1991-07-29;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":15,57,1,2|
+		"AZE:Kubok 2022-23":1,0,0,0|
+		"SUI:1.Liga 2019-20":1,2,0,0|
+		"2023 Men's U-21 European Qualifiers":1,4,0,0|
+		"2023 Men's U-19 European Qualifiers":2,6,0,0|
+		"2023 Men's U-17 European Championship":4,10,0,1|
+		"2023 Men's U-17 European Qualifiers":2,7,0,0|
+		"2022 Men's U-17 European Qualifiers":4,7,0,0|
+		"UEFA Men's Champions League Qualifiers 2023-24":1,2,0,0|
+		"UEFA Europa Conference League 2022-23":1,2,0,0|
+		"UEFA Europa Conference League Qualifiers 2022-23":1,3,0,0|
+		"UEFA Europa Conference League Qualifiers 2021-22":1,1,0,0|
+		"UEFA Youth League 2022-23":2,10,0,1
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/elchin--masiyev/638938/
+}
+{
+	Code : REF-F40CEA1E;
+	First_name_original : Rəvan;
+	Last_name_original : Həmzəzadə;
+	First_name_ascii : Ravan;
+	Last_name_ascii : Hamzazada;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":13,40,0,2
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : 
+}
+{
+	Code : REF-E3831961;
+	First_name_original : Rauf;
+	Last_name_original : Allahverdiyev;
+	First_name_ascii : Rauf;
+	Last_name_ascii : Allahverdiyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":11,43,1,1
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rauf-allahverdiyev/316347/
+}
+{
+	Code : REF-D88576BB;
+	First_name_original : Rauf;
+	Last_name_original : Cabbarov;
+	First_name_ascii : Rauf;
+	Last_name_ascii : Cabbarov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1985-10-09;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":11,52,0,1|
+		"AZE:Premyer Liqasi 2015-16":2,17,0,0|
+		"AZE:Premyer Liqasi 2014-15":1,8,1,0|
+		"2021 Men's U-21 European Qualifiers":1,8,0,0|
+		"2019 Men's U-17 European Qualifiers":2,10,0,0|
+		"UEFA Europa League Qualifiers 2019-20":1,5,0,0|
+		"UEFA Youth League 2019-20":2,5,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rauf-jabbarov/97370/
+}
+{
+	Code : REF-F20E943B;
+	First_name_original : Cavid;
+	Last_name_original : Cəlilov;
+	First_name_ascii : Cavid;
+	Last_name_ascii : Calilov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":11,33,0,1
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/cavid-calilov/856368/
+}
+{
+	Code : REF-F67D5A11;
+	First_name_original : Ingilab;
+	Last_name_original : Mammadov;
+	First_name_ascii : Ingilab;
+	Last_name_ascii : Mammadov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1983-10-19;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":11,45,1,4|
+		"AZE:Premyer Liqasi 2014-15":1,0,0,0|
+		"AZE:Kubok 2022-23":2,13,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : 
+}
+{
+	Code : REF-B41FAC4F;
+	First_name_original : Kamal;
+	Last_name_original : Umudlu;
+	First_name_ascii : Kamal;
+	Last_name_ascii : Umudlu;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":10,50,0,1|
+		"Friendlies":1,3,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kamal-umudlu/576722/
+}
+{
+	Code : REF-B2D1547C;
+	First_name_original : Nicat;
+	Last_name_original : İsmayilli;
+	First_name_ascii : Nicat;
+	Last_name_ascii : Ismayilli;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":9,37,3,5
+	;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/nicat-smayll/587489/
+}
+{
+	Code : REF-5E4AA0F3;
+	First_name_original : Kamranbəy;
+	Last_name_original : Rəhimov;
+	First_name_ascii : Kamranbay;
+	Last_name_ascii : Rahimov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":8,40,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kamranbay-rahimov/646568/
+}
+{
+	Code : REF-0E52DBC1;
+	First_name_original : Vüqar;
+	Last_name_original : Həsənli;
+	First_name_ascii : Vuqar;
+	Last_name_ascii : Hasanli;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":6,24,1,0|
+		"AZE:Premyer Liqasi 2021-22":1,0,0,0|
+		"AZE:Premyer Liqasi 2020-21":1,0,0,0|
+		"AZE:Premyer Liqasi 2019-20":1,0,0,0|
+		"AZE:Premyer Liqasi 2018-19":1,0,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/vuqar--hasanli/547061/
+}
+{
+	Code : REF-B7E33C58;
+	First_name_original : Kamran;
+	Last_name_original : Əliyev;
+	First_name_ascii : Kamran;
+	Last_name_ascii : Aliyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":1,5,0,0|
+		"Friendlies":1,4,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kamran-liyev/874687/
+}
+{
+	Code : REF-71146137;
+	First_name_original : Emin;
+	Last_name_original : Əliyev;
+	First_name_ascii : Emin;
+	Last_name_ascii : Aliyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":1,6,0,0|
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/emin-liyev/859449/
+}
+{
+	Code : REF-CF388480;
+	First_name_original : Akif;
+	Last_name_original : Ämirälı;
+	First_name_ascii : Akif;
+	Last_name_ascii : Amirali;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1993-11-03;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2022-23":1,0,0,0
+	;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":21|
+		"AZE:Kubok 2022-23":1|
+		"GRE:Super League 2021-22":1|
+		"GRE:Super League 2020-21":1|
+		"GRE:Super League 2019-20":1|
+		"GRE:Super League 2018-19":1|
+		"GRE:Super League 2 2021-22":1|
+		"GRE:Play-Offs 1/2 2022":1|
+		"2022 Men's World Cup Qualifiers Europe":2|
+		"Friendlies":4|
+		"2020 Men's European Qualifiers":2|
+		"UEFA Men's Nations League B 2020-21":1|
+		"UEFA Men's Nations League D 2022-23":1|
+		"2023 Men's U-21 European Championship":2|
+		"2019 Men's U-21 European Qualifiers":1|
+		"2019 Men's U-17 European Qualifiers":3|
+		"UEFA Men's Champions League 2022-23":1|
+		"UEFA Men's Champions League Qualifiers 2023-24":1|
+		"UEFA Men's Champions League Qualifiers 2019-20":1|
+		"UEFA Europa League 2022-23":2|
+		"UEFA Europa League 2021-22":1|
+		"UEFA Europa League 2020-21":1|
+		"UEFA Europa League 2019-20":2|
+		"UEFA Europa League Qualifiers 2020-21":1|
+		"UEFA Europa League Qualifiers 2019-20":1|
+		"UEFA Europa League Qualifiers 2018-19":1|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League 2021-22":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":2|
+		"UEFA Europa Conference League Qualifiers 2021-22":2|
+		"UEFA Youth League 2019-20":1|
+		"UEFA Youth League 2017-18":3|
+		"UEFA Youth League 2016-17":1|
+		"UEFA Youth League 2015-16":1|
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/akif-amirali/835179/
+}
+{
+	Code : REF-05C1F446;
+	First_name_original : Vüsal;
+	Last_name_original : Məmmədov;
+	First_name_ascii : Vusal;
+	Last_name_ascii : Mammadov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":21|
+		"AZE:Kubok 2022-23":1|
+		"Friendlies":1|
+		"UEFA Youth League 2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/vusal--mammadov/786430/
+}
+{
+	Code : REF-2D91E8E0;
+	First_name_original : Pərvin;
+	Last_name_original : Talıbov;
+	First_name_ascii : Parvin;
+	Last_name_ascii : Talibov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":21|
+		"AZE:Kubok 2022-23":1|
+		"2023 Men's U-21 European Qualifiers":1|
+		"2021 Men's U-21 European Qualifiers":2|
+		"2023 Men's U-19 European Qualifiers":3|
+		"2022 Men's U-17 European Qualifiers":3|
+		"UEFA Men's Champions League Qualifiers 2023-24":1|
+		"UEFA Europa League Qualifiers 2020-21":1|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2023-24":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2021-22":1|
+		"UEFA Youth League 2022-23":1|
+		"UEFA Youth League 2019-20":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/parvin-talbov/587485/
+}
+{
+	Code : REF-94EAE5A2;
+	First_name_original : Kamran;
+	Last_name_original : Bayramov;
+	First_name_ascii : Kamran;
+	Last_name_ascii : Bayramov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":20|
+		"AZE:Kubok 2022-23":2|
+		"UEFA Youth League 2015-16":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kamran-bayramov/342055/
+}
+{
+	Code : REF-BC5B2DD2;
+	First_name_original : Eyyub;
+	Last_name_original : İbrahimov;
+	First_name_ascii : Eyyub;
+	Last_name_ascii : Ibrahimov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":20
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/eyyub--brahimov/587488/
+}
+{
+	Code : REF-84FF0AF8;
+	First_name_original : Cəmil;
+	Last_name_original : Quliyev;
+	First_name_ascii : Camil;
+	Last_name_ascii : Quliyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":20
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/camil-quliyev/465620/
+}
+{
+	Code : REF-0A8FFAE1;
+	First_name_original : Elşad;
+	Last_name_original : Abdullayev;
+	First_name_ascii : Elshad;
+	Last_name_ascii : Abdullayev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":19|
+		"2023 Men's U-21 European Qualifiers":1|
+		"2021 Men's U-21 European Qualifiers":2|
+		"2023 Men's U-17 European Championship":6|
+		"2023 Men's U-17 European Qualifiers":3|
+		"2022 Men's U-17 European Qualifiers":3|
+		"UEFA Men's Champions League Qualifiers 2023-24":1|
+		"UEFA Europa League Qualifiers 2020-21":1|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2023-24":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2021-22":1|
+		"UEFA Youth League 2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/elad-abdullayev/479353/
+}
+{
+	Code : REF-DCBCC8E1;
+	First_name_original : Rəhman;
+	Last_name_original : İmami;
+	First_name_ascii : Rahman;
+	Last_name_ascii : Imami;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":19|
+		"Friendlies":1|
+		"UEFA Youth League 2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rahman-mami/785603/
+}
+{
+	Code : REF-AD97DF62;
+	First_name_original : Rahil;
+	Last_name_original : Ramazanov;
+	First_name_ascii : Rahil;
+	Last_name_ascii : Ramazanov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":19
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rahil-ramazanov/167421/
+}
+{
+	Code : REF-3422543E;
+	First_name_original : Zeynal;
+	Last_name_original : Zeynalov;
+	First_name_ascii : Zeynal;
+	Last_name_ascii : Zeynalov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1985-01-25;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":19|
+		"AZE:Kubok 2022-23":2|
+		"GRE:Super League 2021-22":1|
+		"GRE:Super League 2020-21":1|
+		"GRE:Super League 2019-20":1|
+		"GRE:Super League 2 2021-22":1|
+		"GRE:Play-Offs 1/2 2022":1|
+		"2022 Men's World Cup Qualifiers Europe":2|
+		"2018 Men's World Cup Qualifiers Europe":1|
+		"Friendlies":7|
+		"2020 Men's European Qualifiers":2|
+		"UEFA Men's Nations League B 2020-21":1|
+		"UEFA Men's Nations League B 2018-19":1|
+		"UEFA Men's Nations League D 2022-23":1|
+		"2023 Men's U-21 European Championship":2|
+		"2019 Men's U-21 European Qualifiers":1|
+		"2017 Men's U-21 European Qualifiers":2|
+		"2015 Men's U-21 European Qualifiers":1|
+		"2018 Men's U-19 European Qualifiers":3|
+		"2015 Men's U-19 European Qualifiers":3|
+		"2014 Men's U-17 European Qualifiers":3|
+		"UEFA Men's Champions League 2022-23":1|
+		"UEFA Men's Champions League Qualifiers 2023-24":1|
+		"UEFA Men's Champions League Qualifiers 2019-20":1|
+		"UEFA Men's Champions League Qualifiers 2018-19":1|
+		"UEFA Men's Champions League Qualifiers 2017-18":2|
+		"UEFA Men's Champions League Qualifiers 2015-16":1|
+		"UEFA Men's Champions League Qualifiers 2014-15":1|
+		"UEFA Men's Champions League Qualifiers 2012-13":1|
+		"UEFA Europa League 2022-23":2|
+		"UEFA Europa League 2021-22":1|
+		"UEFA Europa League 2020-21":1|
+		"UEFA Europa League 2019-20":2|
+		"UEFA Europa League 2018-19":2|
+		"UEFA Europa League 2017-18":2|
+		"UEFA Europa League 2016-17":3|
+		"UEFA Europa League 2015-16":1|
+		"UEFA Europa League Qualifiers 2020-21":2|
+		"UEFA Europa League Qualifiers 2018-19":2|
+		"UEFA Europa League Qualifiers 2016-17":2|
+		"UEFA Europa League Qualifiers 2015-16":1|
+		"UEFA Europa League Qualifiers 2014-15":1|
+		"UEFA Europa League Qualifiers 2013-14":1|
+		"UEFA Europa League Qualifiers 2011-12":1|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League 2021-22":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":2|
+		"UEFA Europa Conference League Qualifiers 2021-22":2|
+		"UEFA Youth League 2017-18":1|
+		"UEFA Youth League 2015-16":1|
+		"UEFA Youth League 2013-14":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/zeynal-zeynalov/104169/
+}
+{
+	Code : REF-5599B087;
+	First_name_original : Müslüm;
+	Last_name_original : Əliyev;
+	First_name_ascii : Muslum;
+	Last_name_ascii : Aliyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":18
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/muslum-liyev/587484/
+}
+{
+	Code : REF-4C1DC16F;
+	First_name_original : Namiq;
+	Last_name_original : Hüseynov;
+	First_name_ascii : Namiq;
+	Last_name_ascii : Huseynov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1987-09-05;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":14|
+		"AZE:Kubok 2022-23":1|
+		"Friendlies":1|
+		"2020 Men's European Qualifiers":1|
+		"2023 Men's U-21 European Qualifiers":3|
+		"2021 Men's U-21 European Qualifiers":2|
+		"2019 Men's U-21 European Qualifiers":3|
+		"2017 Men's U-21 European Qualifiers":2|
+		"2015 Men's U-21 European Qualifiers":1|
+		"2016 Men's U-19 European Qualifiers":3|
+		"2015 Men's U-17 European Championship":5|
+		"2023 Men's U-17 European Qualifiers":3|
+		"2018 Men's U-17 European Qualifiers":3|
+		"2017 Men's U-17 European Qualifiers":3|
+		"2015 Men's U-17 European Qualifiers":3|
+		"UEFA Men's Champions League Qualifiers 2014-15":1|
+		"UEFA Europa League Qualifiers 2020-21":1|
+		"UEFA Europa League Qualifiers 2019-20":1|
+		"UEFA Europa League Qualifiers 2018-19":1|
+		"UEFA Europa League Qualifiers 2017-18":1|
+		"UEFA Europa League Qualifiers 2016-17":1|
+		"UEFA Europa League Qualifiers 2015-16":1|
+		"UEFA Europa League Qualifiers 2014-15":1|
+		"UEFA Europa League Qualifiers 2013-14":2|
+		"UEFA Europa League Qualifiers 2012-13":1|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2023-24":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2021-22":1|
+		"UEFA Youth League 2019-20":2|
+		"UEFA Youth League 2018-19":1|
+		"UEFA Youth League 2015-16":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/namik-huseynov/185232/
+}
+{
+	Code : REF-F5067E5A;
+	First_name_original : Javanshir;
+	Last_name_original : Yusifov;
+	First_name_ascii : Javanshir;
+	Last_name_ascii : Yusifov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1989-12-10;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":13|
+		"AZE:Kubok 2022-23":1|
+		"2023 Men's U-21 European Qualifiers":3|
+		"2022 Men's U-19 European Qualifiers":3|
+		"UEFA Europa Conference League 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2023-24":1|
+		"UEFA Europa Conference League Qualifiers 2022-23":1|
+		"UEFA Europa Conference League Qualifiers 2021-22":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/javanshir-yusifov/747450/
+}
+{
+	Code : REF-40C69B6A;
+	First_name_original : Şirmamed;
+	Last_name_original : Mamedov;
+	First_name_ascii : Shirmamed;
+	Last_name_ascii : Mamedov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":12|
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/irmamed-mamedov/884446/
+}
+{
+	Code : REF-DF1B9430;
+	First_name_original : Teymur;
+	Last_name_original : Teymurov;
+	First_name_ascii : Teymur;
+	Last_name_ascii : Teymurov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":11|
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/teymur-teymurov/884450/
+}
+{
+	Code : REF-F04FE937;
+	First_name_original : Zöhrab;
+	Last_name_original : Abbasov;
+	First_name_ascii : Zohrab;
+	Last_name_ascii : Abbasov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : ;
+	Activity_assistant : 
+		"AZE:Premyer Liqasi 2022-23":8|
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/zohrab-abbasov/316346/
+}
+{
+	Code : REF-39AECFC3;
+	First_name_original : Orkhan;
+	Last_name_original : Mammadov;
+	First_name_ascii : Orkhan;
+	Last_name_ascii : Mammadov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1985-01-18;
+	Birth_place : Baku;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2017-18":1,1,0,0|
+		"AZE:Premyer Liqasi 2013-14":1,4,1,0|
+		"AZE:Kubok 2016-17":1,3,0,0|
+		"2017 Men's U-21 European Qualifiers":2,4,0,0|
+		"2016 Men's U-17 European Qualifiers":2,9,0,0|
+		"2015 Men's U-17 European Qualifiers":2,0,0,0|
+		"UEFA Europa League Qualifiers 2016-17":1,3,0,0|
+		"UEFA Europa League Qualifiers 2015-16":1,3,0,0|
+		"UEFA Youth League 2015-16":1,3,0,0
+	;
+	Activity_assistant : 
+		"2010 Men's U-21 European Qualifiers":1|
+		"2010 Men's U-17 European Championship":3
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/orkhan-mammadov/85260/
+}
+{
+	Code : REF-B64A083E;
+	First_name_original : Ömər;
+	Last_name_original : Pashayev;
+	First_name_ascii : Omar;
+	Last_name_ascii : Pashayev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1988-03-28;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2015-16":2,3,1,2|
+		"AZE:Premyer Liqasi 2014-15":2,8,1,0|
+		"AZE:Premyer Liqasi 2013-14":1,0,0,0|
+		"2019 Men's U-21 European Qualifiers":3,12,0,0|
+		"2018 Men's U-17 European Qualifiers":2,7,0,0|
+		"2017 Men's U-17 European Qualifiers":2,3,0,0|
+		"UEFA Europa League Qualifiers 2018-19":1,3,0,0|
+		"UEFA Europa League Qualifiers 2017-18":1,2,0,0|
+		"UEFA Youth League 2017-18":1,5,1,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/omar-paayev/278942/
+}
+{
+	Code : REF-3347210D;
+	First_name_original : Elvin;
+	Last_name_original : Əsgərov;
+	First_name_ascii : Elvin;
+	Last_name_ascii : Asgarov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2015-16":1,7,0,0|
+		"AZE:Premyer Liqasi 2014-15":1,0,0,0|
+		"AZE:Premyer Liqasi 2012-13":1,7,0,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/elvin-askerov/95282/
+}
+{
+	Code : REF-05613E50;
+	First_name_original : Ramil;
+	Last_name_original : Diniyev;
+	First_name_ascii : Ramil;
+	Last_name_ascii : Diniyev;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2015-16":1,4,0,0|
+		"AZE:Premyer Liqasi 2012-13":1,8,1,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/ramil-diniyev/96844/
+}
+{
+	Code : REF-48560519;
+	First_name_original : Fariz;
+	Last_name_original : Yusifov;
+	First_name_ascii : Fariz;
+	Last_name_ascii : Yusifov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1972-01-28;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2015-16":1,5,1,0|
+		"2011 Men's U-21 European Qualifiers":1,2,0,0|
+		"2009 Men's U-21 European Qualifiers":1,6,0,0|
+		"UEFA Men's Champions League Qualifiers 2007-08":1,4,0,0|
+		"UEFA Europa League Qualifiers 2012-13":1,3,0,0|
+		"UEFA Europa League Qualifiers 2011-12":1,1,0,0|
+		"UEFA Europa League Qualifiers 2009-10":1,1,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/fariz-yusifov/44394/
+}
+{
+	Code : REF-05800923;
+	First_name_original : Rahim;
+	Last_name_original : Hasanov;
+	First_name_ascii : Rahim;
+	Last_name_ascii : Hasanov;
+	Gender : M;
+	Nationality : AZE;
+	Birth_date : 1983-02-08;
+	Birth_place : ;
+	Birth_country : AZE;
+	Activity_main : 
+		"AZE:Premyer Liqasi 2014-15":3,9,0,0|
+		"AZE:Premyer Liqasi 2013-14":1,3,0,0|
+		"2021 Men's U-21 European Qualifiers":2,11,0,0|
+		"2019 Men's U-21 European Qualifiers":1,3,0,0|
+		"2017 Men's U-21 European Qualifiers":2,5,0,0|
+		"2015 Men's U-21 European Qualifiers":2,8,0,0|
+		"2016 Men's U-19 European Qualifiers":2,12,0,0|
+		"2020 Men's U-17 European Qualifiers":2,12,0,0|
+		"2019 Men's U-17 European Qualifiers":2,10,0,0|
+		"2018 Men's U-17 European Qualifiers":2,8,1,0|
+		"UEFA Europa League Qualifiers 2020-21":1,7,0,0|
+		"UEFA Europa League Qualifiers 2019-20":1,11,1,0|
+		"UEFA Europa League Qualifiers 2018-19":1,4,0,0|
+		"UEFA Europa League Qualifiers 2017-18":1,1,0,0|
+		"UEFA Europa League Qualifiers 2016-17":1,7,0,0|
+		"UEFA Europa League Qualifiers 2015-16":1,5,0,1|
+		"UEFA Europa League Qualifiers 2014-15":1,4,0,0|
+		"UEFA Europa League Qualifiers 2013-14":1,5,0,0|
+		"UEFA Youth League 2019-20":1,7,0,0|
+		"UEFA Youth League 2018-19":1,5,0,0|
+		"UEFA Youth League 2017-18":1,3,0,0|
+		"UEFA Youth League 2015-16":1,2,1,0|
+		"UEFA Youth League 2014-15":1,2,1,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/rahim-hasanov/103007/
+}
