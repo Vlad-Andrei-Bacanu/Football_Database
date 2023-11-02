@@ -155,7 +155,7 @@
 	Gender : M;
 	Nationality : BLR;
 	Birth_date : 1985-11-30;
-	Birth_place : ;
+	Birth_place : Osipovichi;
 	Birth_country : BLR;
 	Activity_main : 
 		"BLR:Vysshaya&&Liga&&2022":21,74,4,2|
