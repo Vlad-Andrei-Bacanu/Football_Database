@@ -1,1 +1,39 @@
 
+{
+	Code : REF-A5B52B3C;
+	First_name_original : Vitaliy;
+	Last_name_original : Sevastsyanik;
+	First_name_ascii : Vitaliy;
+	Last_name_ascii : Sevastsyanik;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1980-08-01;
+	Birth_place : ;
+	Birth_country : Belarus;
+	Activity_main : 
+        "BLR:Vysshaya&&Liga&&2022":23,88,5,3|
+        "BLR:Vysshaya&&Liga&&2021":23,102,6,2|
+        "BLR:Vysshaya&&Liga&&2020":20,103,2,0|
+        "BLR:Vysshaya&&Liga&&2019":23,102,4,4|
+        "BLR:Vysshaya&&Liga&&2018":14,53,0,2|
+        "BLR:Vysshaya&&Liga&&2017":17,65,2,3|
+        "BLR:Vysshaya&&Liga&&2016":19,85,3,2|
+        "BLR:Vysshaya&&Liga&&2015":17,79,0,1|
+        "BLR:Vysshaya&&Liga&&2014":18,77,1,1|
+        "BLR:Vysshaya&&Liga&&2013":20,87,2,1|
+        "BLR:Vysshaya&&Liga&&2012":14,63,1,0|
+        "BLR:Kubok&&2021-22":1,2,0,0|
+        "BLR:Superkubok&&2016":1,8,0,0|
+        "Friendlies":1,0,0,0|
+        "2013&&Men's&&U-21&&European&&Qualifiers":1,1,0,0|
+        "2011&&Men's&&U-21&&European&&Qualifiers":1,4,0,0|
+        "UEFA&&Europa&&League&&2012-13&&Qualifiers":1,1,0,0|
+        "UEFA&&Europa&&League&&2011-12&&Qualifiers":1,7,0,1|
+        "UEFA&&Europa&&League&&2010-11&&Qualifiers":1,7,0,0|
+        "UEFA&&Europa&&League&&2009-10&&Qualifiers":1,0,0,0
+    ;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/vital-sevastsyanik/83488/;
+	Photo : 
+}
