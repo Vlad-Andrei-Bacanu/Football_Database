@@ -185,3 +185,28 @@
 	Soccerway : https://int.soccerway.com/referees/viktor-shimusik/138764/;
 	Photo : 
 }
+{
+	Code : REF-ABDB4711;
+	First_name_original : Pavel;
+	Last_name_original : Koronets;
+	First_name_ascii : Pavel;
+	Last_name_ascii : Koronets;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1989-01-03;
+	Birth_place : Zhodino;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":19,70,0,3|
+		"BLR:Vysshaya&&Liga&&2021":9,24,2,0|
+		"BLR:Vysshaya&&Liga&&2020":16,64,3,1|
+		"BLR:Vysshaya&&Liga&&2019":13,51,3,2|
+		"BLR:Vysshaya&&Liga&&2018":17,81,1,1|
+		"BLR:Vysshaya&&Liga&&2017":13,42,0,1|
+		"BLR:Vysshaya&&Liga&&2016":1,7,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/pavel-koronets/253250/;
+	Photo : 
+}
