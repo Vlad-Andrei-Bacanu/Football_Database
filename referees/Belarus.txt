@@ -1,18 +1,1 @@
 
-{
-	Code : REF-0FE16B0C;
-	First_name_original : Vlad-Andrei;
-	Last_name_original : Bacanu;
-	First_name_ascii : Vlad-Andrei;
-	Last_name_ascii : Bacanu;
-	Gender : M;
-	Nationality : ROU;
-	Birth_date : 2001-04-02;
-	Birth_place : Bucharest;
-	Birth_country : ROU;
-	Activity_main : ;
-	Activity_assistant : ;
-	Active : True;
-	Soccerway : ;
-	Photo : 
-}
