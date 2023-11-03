@@ -269,3 +269,28 @@
 	Soccerway : https://int.soccerway.com/referees/amin-kurgkheli/193046/;
 	Photo : 
 }
+{
+	Code : REF-4553FCCC;
+	First_name_original : Sergey;
+	Last_name_original : Stetsurin;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Stetsurin;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1981-07-06;
+	Birth_place : Brest;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":16,70,1,2|
+		"BLR:Vysshaya&&Liga&&2021":20,101,1,1|
+		"BLR:Vysshaya&&Liga&&2020":28,129,3,2|
+		"BLR:Vysshaya&&Liga&&2019":21,80,1,1|
+		"BLR:Vysshaya&&Liga&&2018":20,54,1,2|
+		"BLR:Vysshaya&&Liga&&2017":15,55,0,0|
+		"BLR:Kubok&&2020-21":1,7,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-stetsurin/187064/;
+	Photo : 
+}
