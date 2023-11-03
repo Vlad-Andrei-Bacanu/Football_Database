@@ -211,3 +211,25 @@
 	Soccerway : https://int.soccerway.com/referees/pavel-koronets/253250/;
 	Photo : 
 }
+{
+	Code : REF-16B4E76E;
+	First_name_original : Sergey;
+	Last_name_original : Krasnikov;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Krasnikov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1986-03-16;
+	Birth_place : Grodno;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":18,74,1,0|
+		"BLR:Vysshaya&&Liga&&2021":16,70,1,1|
+		"BLR:Vysshaya&&Liga&&2020":9,45,0,0|
+		"BLR:Vysshaya&&Liga&&2019":6,20,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-krasnikov/337837/;
+	Photo : 
+}
