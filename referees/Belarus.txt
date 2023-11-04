@@ -411,3 +411,30 @@
 	Soccerway : https://int.soccerway.com/referees/dmitriy-markov/551818/;
 	Photo : 
 }
+{
+	Code : REF-D711A806;
+	First_name_original : Dmitriy;
+	Last_name_original : Dolya;
+	First_name_ascii : Dmitriy;
+	Last_name_ascii : Dolya;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1980-02-19;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":12,46,1,0|
+		"BLR:Vysshaya&&Liga&&2021":16,56,0,1|
+		"BLR:Vysshaya&&Liga&&2020":18,71,1,0|
+		"BLR:Vysshaya&&Liga&&2019":9,26,0,0|
+		"BLR:Vysshaya&&Liga&&2018":17,57,0,1|
+		"BLR:Vysshaya&&Liga&&2017":21,63,1,0|
+		"BLR:Vysshaya&&Liga&&2016":18,53,0,0|
+		"BLR:Vysshaya&&Liga&&2015":7,16,0,1|
+		"BLR:Kubok&&2018-19":1,8,0,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/dmitriy-dolya/186916/;
+	Photo : 
+}
