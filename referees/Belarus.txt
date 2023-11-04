@@ -350,3 +350,22 @@
 	Soccerway : https://int.soccerway.com/referees/aleksey-obelevskiy/128717/;
 	Photo : 
 }
+{
+	Code : REF-F1AEB4A5;
+	First_name_original : Igor;
+	Last_name_original : Shumilov;
+	First_name_ascii : Igor;
+	Last_name_ascii : Shumilov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1993-10-20;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":14,49,4,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/igor-shumilov/697678/;
+	Photo : 
+}
