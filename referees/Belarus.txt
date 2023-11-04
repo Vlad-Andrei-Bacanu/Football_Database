@@ -741,3 +741,33 @@
 	Soccerway : https://int.soccerway.com/referees/viktor-getykov/249173/;
 	Photo : 
 }
+{
+	Code : REF-0C1CCBEC;
+	First_name_original : Sergey;
+	Last_name_original : Kosevets;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Kosevets;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1993-04-07;
+	Birth_place : Brest;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":20|
+		"BLR:Vysshaya&&Liga&&2021":19|
+		"BLR:Vysshaya&&Liga&&2020":26|
+		"BLR:Vysshaya&&Liga&&2019":20|
+		"BLR:Vysshaya&&Liga&&2018":18|
+		"BLR:Kubok&&2020-21":1|
+		"MDA:Cupa&&2019-20":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":2|
+		"UEFA&&Youth&&League&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-kosovets/293716/;
+	Photo : 
+}
