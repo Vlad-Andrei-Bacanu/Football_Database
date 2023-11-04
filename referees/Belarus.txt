@@ -791,3 +791,30 @@
 	Soccerway : https://int.soccerway.com/referees/denis-pashkevich/243654/;
 	Photo : 
 }
+{
+	Code : REF-96D1E2C4;
+	First_name_original : Aleksey;
+	Last_name_original : Voyteshonok;
+	First_name_ascii : Aleksey;
+	Last_name_ascii : Voyteshonok;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1987-08-22;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":19|
+		"BLR:Vysshaya&&Liga&&2021":18|
+		"BLR:Vysshaya&&Liga&&2020":13|
+		"BLR:Vysshaya&&Liga&&2019":21|
+		"BLR:Vysshaya&&Liga&&2018":16|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":22|
+		"BLR:Vysshaya&&Liga&&2015":15|
+		"BLR:Vysshaya&&Liga&&2014":14
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/aleksey-voyteshonok/130011/;
+	Photo : 
+}
