@@ -463,3 +463,26 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-gorayutin/294244/;
 	Photo : 
 }
+{
+	Code : REF-DBA6E4CA;
+	First_name_original : Sergey;
+	Last_name_original : Chistov;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Chistov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1982-06-11;
+	Birth_place : Minsk;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":10,38,0,0|
+		"BLR:Vysshaya&&Liga&&2021":15,60,4,1|
+		"BLR:Vysshaya&&Liga&&2020":15,72,4,1|
+		"BLR:Vysshaya&&Liga&&2019":8,25,0,0|
+		"BLR:Vysshaya&&Liga&&2018":2,7,0,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sergey-chistov/242833/;
+	Photo : 
+}
