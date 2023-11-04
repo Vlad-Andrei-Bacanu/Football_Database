@@ -978,3 +978,33 @@
 	Soccerway : https://int.soccerway.com/referees/anton-gusev/128612/;
 	Photo : 
 }
+{
+	Code : REF-E35CB3AB;
+	First_name_original : Anton;
+	Last_name_original : Poluyanov;
+	First_name_ascii : Anton;
+	Last_name_ascii : Poluyanov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1986-11-08;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":17|
+		"BLR:Vysshaya&&Liga&&2021":19|
+		"BLR:Vysshaya&&Liga&&2020":19|
+		"BLR:Vysshaya&&Liga&&2019":7|
+		"BLR:Vysshaya&&Liga&&2018":19|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":15|
+		"BLR:Vysshaya&&Liga&&2015":13|
+		"BLR:Kubok&&2017-18":1|
+		"2022&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Youth&&League&&2021-22":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/anton-poluyanov/212420/;
+	Photo : 
+}
