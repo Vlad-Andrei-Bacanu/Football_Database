@@ -1072,3 +1072,25 @@
 	Soccerway : https://int.soccerway.com/referees/denis-emelyanchikov/129950/;
 	Photo : 
 }
+{
+	Code : REF-8D186B7F;
+	First_name_original : Vladimir;
+	Last_name_original : Rusak;
+	First_name_ascii : Vladimir;
+	Last_name_ascii : Rusak;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1990-07-04;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":16|
+		"BLR:Vysshaya&&Liga&&2021":9|
+		"BLR:Vysshaya&&Liga&&2020":11|
+		"BLR:Vysshaya&&Liga&&2019":2
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/vladimir-rusak/163327/;
+	Photo : 
+}
