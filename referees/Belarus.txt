@@ -771,3 +771,23 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-kosovets/293716/;
 	Photo : 
 }
+{
+	Code : REF-DBD7C0D3;
+	First_name_original : Denis;
+	Last_name_original : Pashkevich;
+	First_name_ascii : Denis;
+	Last_name_ascii : Pashkevich;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":20|
+		"BLR:Vysshaya&&Liga&&2021":19
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/denis-pashkevich/243654/;
+	Photo : 
+}
