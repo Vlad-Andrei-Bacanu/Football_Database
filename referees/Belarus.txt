@@ -623,3 +623,38 @@
 	Soccerway : https://int.soccerway.com/referees/aleksandr-banteev/198073/;
 	Photo : 
 }
+{
+	Code : REF-E54CAAC6;
+	First_name_original : Sergey;
+	Last_name_original : Firinovich;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Firinovich;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1984-05-02;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":21|
+		"BLR:Vysshaya&&Liga&&2021":25|
+		"BLR:Vysshaya&&Liga&&2020":17|
+		"BLR:Vysshaya&&Liga&&2019":23|
+		"BLR:Vysshaya&&Liga&&2018":16|
+		"BLR:Vysshaya&&Liga&&2017":19|
+		"BLR:Vysshaya&&Liga&&2016":23|
+		"BLR:Vysshaya&&Liga&&2015":21|
+		"BLR:Vysshaya&&Liga&&2014":16|
+		"BLR:Vysshaya&&Liga&&2013":10|
+		"BLR:Kubok&&2021-22":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2023&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Youth&&League&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":2
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-firinovich/128468/;
+	Photo : 
+}
