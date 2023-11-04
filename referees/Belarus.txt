@@ -294,3 +294,39 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-stetsurin/187064/;
 	Photo : 
 }
+{
+	Code : REF-64D31367;
+	First_name_original : Dmitriy;
+	Last_name_original : Dmitryev;
+	First_name_ascii : Dmitriy;
+	Last_name_ascii : Dmitryev;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1988-09-07;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":14,43,1,0|
+		"BLR:Vysshaya&&Liga&&2021":11,52,1,1|
+		"BLR:Vysshaya&&Liga&&2020":8,27,1,0|
+		"BLR:Vysshaya&&Liga&&2019":10,21,3,0|
+		"BLR:Vysshaya&&Liga&&2018":21,59,1,2|
+		"BLR:Vysshaya&&Liga&&2017":17,37,0,0|
+		"BLR:Vysshaya&&Liga&&2016":19,58,2,2|
+		"BLR:Vysshaya&&Liga&&2015":11,31,1,0|
+		"BLR:Vysshaya&&Liga&&2014":11,31,1,1|
+		"BLR:Vysshaya&&Liga&&2013":4,12,0,0|
+		"BLR:Kubok&&2017-18":1,0,0,0|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1,4,0,0|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2,11,1,0|
+		"2023&&Men's&&U-17&&European&&Qualifiers":2,10,2,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1,6,0,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1,5,0,0|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1,6,0,0|
+		"UEFA&&Youth&&League&&2021-22":1,5,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dmitriy-dmitryev/126507/;
+	Photo : 
+}
