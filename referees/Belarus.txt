@@ -818,3 +818,23 @@
 	Soccerway : https://int.soccerway.com/referees/aleksey-voyteshonok/130011/;
 	Photo : 
 }
+{
+	Code : REF-4E7743D2;
+	First_name_original : Vitaliy;
+	Last_name_original : Dorosh;
+	First_name_ascii : Vitaliy;
+	Last_name_ascii : Dorosh;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":18|
+		"BLR:Vysshaya&&Liga&&2021":18
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/vitaliy-dorosh/129871/;
+	Photo : 
+}
