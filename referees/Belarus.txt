@@ -1094,3 +1094,32 @@
 	Soccerway : https://int.soccerway.com/referees/vladimir-rusak/163327/;
 	Photo : 
 }
+{
+	Code : REF-67C9A304;
+	First_name_original : Kirill;
+	Last_name_original : Pakulyn;
+	First_name_ascii : Kirill;
+	Last_name_ascii : Pakulyn;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1988-07-05;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":15|
+		"BLR:Vysshaya&&Liga&&2021":17|
+		"BLR:Vysshaya&&Liga&&2020":19|
+		"BLR:Vysshaya&&Liga&&2019":16|
+		"BLR:Vysshaya&&Liga&&2018":7|
+		"BLR:Vysshaya&&Liga&&2017":18|
+		"BLR:Vysshaya&&Liga&&2016":18|
+		"BLR:Vysshaya&&Liga&&2015":16|
+		"BLR:Vysshaya&&Liga&&2014":19|
+		"BLR:Vysshaya&&Liga&&2013":17|
+		"BLR:Vysshaya&&Liga&&2012":17
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/kirill-pakulyn/129512/;
+	Photo : 
+}
