@@ -838,3 +838,32 @@
 	Soccerway : https://int.soccerway.com/referees/vitaliy-dorosh/129871/;
 	Photo : 
 }
+{
+	Code : REF-F4D101A2;
+	First_name_original : Viktor;
+	Last_name_original : Fomin;
+	First_name_ascii : Viktor;
+	Last_name_ascii : Fomin;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1977-06-03;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":18|
+		"BLR:Vysshaya&&Liga&&2021":15|
+		"BLR:Vysshaya&&Liga&&2020":14|
+		"BLR:Vysshaya&&Liga&&2019":15|
+		"BLR:Vysshaya&&Liga&&2018":19|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":20|
+		"BLR:Vysshaya&&Liga&&2015":14|
+		"BLR:Vysshaya&&Liga&&2014":13|
+		"BLR:Vysshaya&&Liga&&2013":17|
+		"BLR:Vysshaya&&Liga&&2012":14
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/viktor-fomin/126503/;
+	Photo : 
+}
