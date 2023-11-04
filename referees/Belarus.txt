@@ -895,3 +895,23 @@
 	Soccerway : https://int.soccerway.com/referees/alekseiy-kovalev/126310/;
 	Photo : 
 }
+{
+	Code : REF-FE9B98D9;
+	First_name_original : Yuri;
+	Last_name_original : Nizovtsev;
+	First_name_ascii : Yuri;
+	Last_name_ascii : Nizovtsev;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":18|
+		"BLR:Vysshaya&&Liga&&2021":4
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/yuriy-nizovtsev/297957/;
+	Photo : 
+}
