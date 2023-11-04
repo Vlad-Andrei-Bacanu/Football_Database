@@ -486,3 +486,28 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-chistov/242833/;
 	Photo : 
 }
+{
+	Code : REF-7DBDAFD1;
+	First_name_original : Evgeni;
+	Last_name_original : Naumov;
+	First_name_ascii : Evgeni;
+	Last_name_ascii : Naumov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1983-04-06;
+	Birth_place : Minsk;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":2,13,0,0|
+		"BLR:Vysshaya&&Liga&&2021":2,11,0,0|
+		"BLR:Vysshaya&&Liga&&2020":3,16,2,0|
+		"BLR:Vysshaya&&Liga&&2019":12,50,2,1|
+		"BLR:Vysshaya&&Liga&&2018":12,46,0,0|
+		"BLR:Vysshaya&&Liga&&2017":8,26,0,0|
+		"BLR:Vysshaya&&Liga&&2016":1,4,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/evgeniy-naumov/238774/;
+	Photo : 
+}
