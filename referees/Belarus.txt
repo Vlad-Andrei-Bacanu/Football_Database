@@ -391,3 +391,23 @@
 	Soccerway : https://int.soccerway.com/referees/anton-lashuk/342651/;
 	Photo : 
 }
+{
+	Code : REF-4D6FBFF1;
+	First_name_original : Dmitry;
+	Last_name_original : Markov;
+	First_name_ascii : Dmitry;
+	Last_name_ascii : Markov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : Mahilyow;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":13,46,1,0|
+		"BLR:Vysshaya&&Liga&&2021":7,34,1,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dmitriy-markov/551818/;
+	Photo : 
+}
