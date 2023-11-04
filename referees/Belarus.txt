@@ -601,3 +601,25 @@
 	Soccerway : https://int.soccerway.com/referees/yuri-khomchenko/129695/;
 	Photo : 
 }
+{
+	Code : REF-05CC608D;
+	First_name_original : Aleksandr;
+	Last_name_original : Banteev;
+	First_name_ascii : Aleksandr;
+	Last_name_ascii : Banteev;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1984-11-27;
+	Birth_place : Babruysk;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":22|
+		"BLR:Vysshaya&&Liga&&2021":20|
+		"BLR:Vysshaya&&Liga&&2020":13|
+		"BLR:Vysshaya&&Liga&&2019":15
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/aleksandr-banteev/198073/;
+	Photo : 
+}
