@@ -915,3 +915,28 @@
 	Soccerway : https://int.soccerway.com/referees/yuriy-nizovtsev/297957/;
 	Photo : 
 }
+{
+	Code : REF-EDFD5EC2;
+	First_name_original : Maksim;
+	Last_name_original : Arabey;
+	First_name_ascii : Maksim;
+	Last_name_ascii : Arabey;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1988-10-18;
+	Birth_place : Minsk;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":17|
+		"BLR:Vysshaya&&Liga&&2021":14|
+		"BLR:Vysshaya&&Liga&&2020":21|
+		"BLR:Vysshaya&&Liga&&2019":16|
+		"BLR:Vysshaya&&Liga&&2018":17|
+		"BLR:Vysshaya&&Liga&&2017":11|
+		"BLR:Vysshaya&&Liga&&2016":17
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/maksim-arabey/186899/;
+	Photo : 
+}
