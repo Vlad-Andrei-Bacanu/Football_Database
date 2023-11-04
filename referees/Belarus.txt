@@ -330,3 +330,23 @@
 	Soccerway : https://int.soccerway.com/referees/dmitriy-dmitryev/126507/;
 	Photo : 
 }
+{
+	Code : REF-AC4433DD;
+	First_name_original : Aleksey;
+	Last_name_original : Obelovskiy;
+	First_name_ascii : Aleksey;
+	Last_name_ascii : Obelovskiy;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":14,68,1,1|
+		"BLR:Vysshaya&&Liga&&2021":4,17,1,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/aleksey-obelevskiy/128717/;
+	Photo : 
+}
