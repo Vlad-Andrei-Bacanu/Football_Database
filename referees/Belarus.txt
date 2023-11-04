@@ -867,3 +867,31 @@
 	Soccerway : https://int.soccerway.com/referees/viktor-fomin/126503/;
 	Photo : 
 }
+{
+	Code : REF-46E2D134;
+	First_name_original : Aleksey;
+	Last_name_original : Kovalev;
+	First_name_ascii : Aleksey;
+	Last_name_ascii : Kovalev;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1981-04-24;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":18|
+		"BLR:Vysshaya&&Liga&&2021":14|
+		"BLR:Vysshaya&&Liga&&2020":6|
+		"BLR:Vysshaya&&Liga&&2019":3|
+		"BLR:Vysshaya&&Liga&&2018":18|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":21|
+		"BLR:Vysshaya&&Liga&&2015":19|
+		"BLR:Vysshaya&&Liga&&2014":20|
+		"BLR:Vysshaya&&Liga&&2013":11
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/alekseiy-kovalev/126310/;
+	Photo : 
+}
