@@ -369,3 +369,25 @@
 	Soccerway : https://int.soccerway.com/referees/igor-shumilov/697678/;
 	Photo : 
 }
+{
+	Code : REF-D44203C1;
+	First_name_original : Anton;
+	Last_name_original : Lashuk;
+	First_name_ascii : Anton;
+	Last_name_ascii : Lashuk;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1992-06-24;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":13,57,5,1|
+		"BLR:Vysshaya&&Liga&&2021":10,37,2,0|
+		"BLR:Vysshaya&&Liga&&2020":10,35,2,1|
+		"BLR:Vysshaya&&Liga&&2019":1,3,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/anton-lashuk/342651/;
+	Photo : 
+}
