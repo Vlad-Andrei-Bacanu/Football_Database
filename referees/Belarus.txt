@@ -511,3 +511,37 @@
 	Soccerway : https://int.soccerway.com/referees/evgeniy-naumov/238774/;
 	Photo : 
 }
+{
+	Code : REF-5E52DB3D;
+	First_name_original : Sergey;
+	Last_name_original : Gidrevich;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Gidrevich;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1980-05-30;
+	Birth_place : Grodno;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":23|
+		"BLR:Vysshaya&&Liga&&2021":25|
+		"BLR:Vysshaya&&Liga&&2020":20|
+		"BLR:Vysshaya&&Liga&&2019":22|
+		"BLR:Vysshaya&&Liga&&2018":17|
+		"BLR:Vysshaya&&Liga&&2017":20|
+		"BLR:Vysshaya&&Liga&&2016":22|
+		"BLR:Vysshaya&&Liga&&2015":21|
+		"BLR:Vysshaya&&Liga&&2014":20|
+		"BLR:Vysshaya&&Liga&&2013":18|
+		"BLR:Vysshaya&&Liga&&2012":19|
+		"BLR:Kubok&&2021-22":1|
+		"BLR:Superkubok&&2018":1|
+		"Friendlies":1|
+		"2010&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-gidrevich/125089/;
+	Photo : 
+}
