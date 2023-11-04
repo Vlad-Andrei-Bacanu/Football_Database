@@ -438,3 +438,28 @@
 	Soccerway : https://int.soccerway.com/referees/dmitriy-dolya/186916/;
 	Photo : 
 }
+{
+	Code : REF-C62396A7;
+	First_name_original : Sergey;
+	Last_name_original : Gorayutin;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Gorayutin;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1985-03-25;
+	Birth_place : Minsk;
+	Birth_country : BLR;
+	Activity_main : 
+		"BLR:Vysshaya&&Liga&&2022":11,27,3,0|
+		"BLR:Vysshaya&&Liga&&2021":9,27,1,0|
+		"BLR:Vysshaya&&Liga&&2020":11,66,3,1|
+		"BLR:Vysshaya&&Liga&&2019":8,28,0,0|
+		"BLR:Vysshaya&&Liga&&2018":15,50,0,0|
+		"BLR:Vysshaya&&Liga&&2017":12,28,0,0|
+		"BLR:Kubok&&2017-18":1,2,0,1
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-gorayutin/294244/;
+	Photo : 
+}
