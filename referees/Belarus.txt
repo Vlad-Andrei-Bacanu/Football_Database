@@ -709,3 +709,35 @@
 	Soccerway : https://int.soccerway.com/referees/andrey-getykov/126274/;
 	Photo : 
 }
+{
+	Code : REF-D4FEF7CE;
+	First_name_original : Viktor;
+	Last_name_original : Getikov;
+	First_name_ascii : Viktor;
+	Last_name_ascii : Getikov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1989-06-19;
+	Birth_place : Gomel;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":20|
+		"BLR:Vysshaya&&Liga&&2021":19|
+		"BLR:Vysshaya&&Liga&&2020":25|
+		"BLR:Vysshaya&&Liga&&2019":20|
+		"BLR:Vysshaya&&Liga&&2018":15|
+		"BLR:Kubok&&2019-20":1|
+		"BLR:Superkubok&&2021":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":2|
+		"Friendlies":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2022-23":4|
+		"UEFA&&Youth&&League&&2021-22":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/viktor-getykov/249173/;
+	Photo : 
+}
