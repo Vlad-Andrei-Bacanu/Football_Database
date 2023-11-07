@@ -1303,3 +1303,32 @@
 	Soccerway : https://int.soccerway.com/referees/oleg-maslyanko/126302/;
 	Photo : 
 }
+{
+	Code : REF-4FF472FE;
+	First_name_original : Sergey;
+	Last_name_original : Teslyuk;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Teslyuk;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1986-01-25;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":14|
+		"BLR:Vysshaya&&Liga&&2021":14|
+		"BLR:Vysshaya&&Liga&&2020":14|
+		"BLR:Vysshaya&&Liga&&2019":11|
+		"BLR:Vysshaya&&Liga&&2018":16|
+		"BLR:Vysshaya&&Liga&&2017":15|
+		"BLR:Vysshaya&&Liga&&2016":19|
+		"BLR:Vysshaya&&Liga&&2015":13|
+		"BLR:Vysshaya&&Liga&&2014":17|
+		"BLR:Vysshaya&&Liga&&2013":13|
+		"BLR:Kubok&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-teslyuk/129371/;
+	Photo : 
+}
