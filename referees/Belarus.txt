@@ -1557,3 +1557,23 @@
 	Soccerway : https://int.soccerway.com/referees/pavel-mazuro/146525/;
 	Photo : 
 }
+{
+	Code : REF-DA643A71;
+	First_name_original : Sergey;
+	Last_name_original : Chaichits;
+	First_name_ascii : Sergey;
+	Last_name_ascii : Chaichits;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":4|
+		"BLR:Vysshaya&&Liga&&2021":3
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sergey-chaychits/299272/;
+	Photo : 
+}
