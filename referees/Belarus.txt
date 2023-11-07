@@ -1362,3 +1362,55 @@
 	Soccerway : https://int.soccerway.com/referees/aleksandr-vashkevich/128442/;
 	Photo : 
 }
+{
+	Code : REF-74044FDA;
+	First_name_original : Yevgeniy;
+	Last_name_original : Romanov;
+	First_name_ascii : Yevgeniy;
+	Last_name_ascii : Romanov;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1984-11-27;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":9|
+		"BLR:Vysshaya&&Liga&&2020":12|
+		"BLR:Vysshaya&&Liga&&2019":17|
+		"BLR:Vysshaya&&Liga&&2018":17|
+		"BLR:Vysshaya&&Liga&&2017":18|
+		"BLR:Vysshaya&&Liga&&2016":20|
+		"BLR:Vysshaya&&Liga&&2015":20|
+		"BLR:Vysshaya&&Liga&&2014":20|
+		"BLR:Vysshaya&&Liga&&2013":19|
+		"BLR:Vysshaya&&Liga&&2012":23|
+		"BLR:Kubok&&2017-18":2|
+		"BLR:Kubok&&2016-17":1|
+		"BLR:Kubok&&2015-16":1|
+		"BLR:Superkubok&&2015":1|
+		"Friendlies":1|
+		"2016&&Men's&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":3|
+		"2015&&Men's&&U-21&&European&&Qualifiers":3|
+		"2019&&Men's&&U-17&&European&&Championship":4|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Youth&&League&&2015-16":1|
+		"UEFA&&Youth&&League&&2013-14":2
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/yevgeniy-romanov/125114/;
+	Photo : 
+}
