@@ -1596,3 +1596,27 @@
 	Soccerway : https://int.soccerway.com/referees/yuriy-khoruzhenko/611632/;
 	Photo : 
 }
+{
+	Code : REF-A19A1C0B;
+	First_name_original : Andrey;
+	Last_name_original : Sladinskiy;
+	First_name_ascii : Andrey;
+	Last_name_ascii : Sladinskiy;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1978-09-29;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":4|
+		"BLR:Vysshaya&&Liga&&2016":15|
+		"BLR:Vysshaya&&Liga&&2015":15|
+		"BLR:Vysshaya&&Liga&&2014":20|
+		"BLR:Vysshaya&&Liga&&2013":12|
+		"BLR:Kubok&&2016-17":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/andrey-sladinskiy/138770/;
+	Photo : 
+}
