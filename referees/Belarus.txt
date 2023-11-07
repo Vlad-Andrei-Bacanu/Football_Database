@@ -1414,3 +1414,28 @@
 	Soccerway : https://int.soccerway.com/referees/yevgeniy-romanov/125114/;
 	Photo : 
 }
+{
+	Code : REF-58096016;
+	First_name_original : Ivan;
+	Last_name_original : Spurgyash;
+	First_name_ascii : Ivan;
+	Last_name_ascii : Spurgyash;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1989-12-28;
+	Birth_place : Maladzyechna;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":9|
+		"BLR:Vysshaya&&Liga&&2021":11|
+		"BLR:Vysshaya&&Liga&&2020":8|
+		"BLR:Vysshaya&&Liga&&2019":11|
+		"BLR:Vysshaya&&Liga&&2018":16|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ivan-spurgyash/212930/;
+	Photo : 
+}
