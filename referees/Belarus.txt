@@ -1577,3 +1577,22 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-chaychits/299272/;
 	Photo : 
 }
+{
+	Code : REF-0D224C4B;
+	First_name_original : Yuriy;
+	Last_name_original : Khoruzhenko;
+	First_name_ascii : Yuriy;
+	Last_name_ascii : Khoruzhenko;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1985-03-14;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":4
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/yuriy-khoruzhenko/611632/;
+	Photo : 
+}
