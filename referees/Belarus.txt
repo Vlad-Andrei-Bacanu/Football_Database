@@ -1532,3 +1532,28 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-gushcha/126272/;
 	Photo : 
 }
+{
+	Code : REF-A7F1561E;
+	First_name_original : Pavel;
+	Last_name_original : Mazuro;
+	First_name_ascii : Pavel;
+	Last_name_ascii : Mazuro;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1984-03-28;
+	Birth_place : Maladzyechna;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":5|
+		"BLR:Vysshaya&&Liga&&2021":9|
+		"BLR:Vysshaya&&Liga&&2020":11|
+		"BLR:Vysshaya&&Liga&&2019":12|
+		"BLR:Vysshaya&&Liga&&2018":19|
+		"BLR:Vysshaya&&Liga&&2017":16|
+		"BLR:Vysshaya&&Liga&&2016":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/pavel-mazuro/146525/;
+	Photo : 
+}
