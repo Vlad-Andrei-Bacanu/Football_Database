@@ -1220,3 +1220,86 @@
 	Soccerway : https://int.soccerway.com/referees/dmitry-zhuk/121485/;
 	Photo : 
 }
+{
+	Code : REF-AFD39797;
+	First_name_original : Oleg;
+	Last_name_original : Maslyanko;
+	First_name_ascii : Oleg;
+	Last_name_ascii : Maslyanko;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1982-06-23;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":14|
+		"BLR:Vysshaya&&Liga&&2021":16|
+		"BLR:Vysshaya&&Liga&&2020":14|
+		"BLR:Vysshaya&&Liga&&2019":14|
+		"BLR:Vysshaya&&Liga&&2018":18|
+		"BLR:Vysshaya&&Liga&&2017":20|
+		"BLR:Vysshaya&&Liga&&2016":20|
+		"BLR:Vysshaya&&Liga&&2015":15|
+		"BLR:Vysshaya&&Liga&&2014":18|
+		"BLR:Vysshaya&&Liga&&2013":19|
+		"BLR:Vysshaya&&Liga&&2012":16|
+		"BLR:Kubok&&2020-21":1|
+		"BLR:Superkubok&&2022":1|
+		"BLR:Superkubok&&2017":1|
+		"BLR:Superkubok&&2016":1|
+		"GRE:Super&&League&&2020-21":2|
+		"GRE:Super&&League&&2019-20":1|
+		"KSA:Saudi&&Pro&&League&&2019-20":1|
+		"KSA:Saudi&&Pro&&League&&2016-17":1|
+		"KSA:King&&Cup&&2019-20":1|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":4|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":3|
+		"Friendlies":5|
+		"2020&&Men's&&European&&Qualifiers":4|
+		"2016&&Men's&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Nations&&League&&A&&2020-21":1|
+		"UEFA&&Men's&&Nations&&League&&A&&2018-19":1|
+		"UEFA&&Men's&&Nations&&League&&B&&2020-21":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2022-23":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1|
+		"2019&&Men's&&U-21&&European&&Championship":2|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-17&&European&&Championship":5|
+		"UEFA&&Men's&&Champions&&League&&2021-22":1|
+		"UEFA&&Men's&&Champions&&League&&2020-21":1|
+		"UEFA&&Men's&&Champions&&League&&2019-20":2|
+		"UEFA&&Men's&&Champions&&League&&2018-19":3|
+		"UEFA&&Men's&&Champions&&League&&2017-18":2|
+		"UEFA&&Men's&&Champions&&League&&2016-17":2|
+		"UEFA&&Men's&&Champions&&League&&2015-16":2|
+		"UEFA&&Men's&&Champions&&League&&2014-15":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&2022-23":2|
+		"UEFA&&Europa&&League&&2021-22":1|
+		"UEFA&&Europa&&League&&2020-21":3|
+		"UEFA&&Europa&&League&&2019-20":2|
+		"UEFA&&Europa&&League&&2018-19":3|
+		"UEFA&&Europa&&League&&2017-18":3|
+		"UEFA&&Europa&&League&&2016-17":3|
+		"UEFA&&Europa&&League&&2015-16":2|
+		"UEFA&&Europa&&League&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2021-22":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/oleg-maslyanko/126302/;
+	Photo : 
+}
