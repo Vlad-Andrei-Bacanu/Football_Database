@@ -1332,3 +1332,33 @@
 	Soccerway : https://int.soccerway.com/referees/sergey-teslyuk/129371/;
 	Photo : 
 }
+{
+	Code : REF-B45EAEE7;
+	First_name_original : Aleksandr;
+	Last_name_original : Vashkevich;
+	First_name_ascii : Aleksandr;
+	Last_name_ascii : Vashkevich;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1977-11-17;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":11|
+		"BLR:Vysshaya&&Liga&&2021":15|
+		"BLR:Vysshaya&&Liga&&2020":12|
+		"BLR:Vysshaya&&Liga&&2019":15|
+		"BLR:Vysshaya&&Liga&&2018":18|
+		"BLR:Vysshaya&&Liga&&2017":19|
+		"BLR:Vysshaya&&Liga&&2016":21|
+		"BLR:Vysshaya&&Liga&&2015":17|
+		"BLR:Vysshaya&&Liga&&2014":14|
+		"BLR:Vysshaya&&Liga&&2013":15|
+		"BLR:Vysshaya&&Liga&&2012":11|
+		"BLR:Kubok&&2017-18":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/aleksandr-vashkevich/128442/;
+	Photo : 
+}
