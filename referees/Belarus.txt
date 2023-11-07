@@ -1620,3 +1620,27 @@
 	Soccerway : https://int.soccerway.com/referees/andrey-sladinskiy/138770/;
 	Photo : 
 }
+{
+	Code : REF-4194E81C;
+	First_name_original : Anastasiya;
+	Last_name_original : Danchenko;
+	First_name_ascii : Anastasiya;
+	Last_name_ascii : Danchenko;
+	Gender : F;
+	Nationality : BLR;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":1|
+		"2021&&Women's&&European&&Qualifiers":1|
+		"2023&&Women's&&U-19&&European&&Qualifiers&&League&&A":6|
+		"UEFA&&Women's&&Champions&&League&&2022-23":2|
+		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2023-24":3|
+		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2022-23":2
+	;
+	Active : True;
+	Soccerway : ;
+	Photo : 
+}
