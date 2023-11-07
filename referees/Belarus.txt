@@ -1500,3 +1500,35 @@
 	Soccerway : https://int.soccerway.com/referees/vitali-maliutsin/83489/;
 	Photo : 
 }
+{
+	Code : REF-CCF5ACD4;
+	First_name_original : Sergei;
+	Last_name_original : Gushcha;
+	First_name_ascii : Sergei;
+	Last_name_ascii : Gushcha;
+	Gender : M;
+	Nationality : BLR;
+	Birth_date : 1980-03-18;
+	Birth_place : ;
+	Birth_country : BLR;
+	Activity_main : ;
+	Activity_assistant : 
+		"BLR:Vysshaya&&Liga&&2022":6|
+		"BLR:Vysshaya&&Liga&&2021":14|
+		"BLR:Vysshaya&&Liga&&2020":12|
+		"BLR:Vysshaya&&Liga&&2019":14|
+		"BLR:Vysshaya&&Liga&&2018":14|
+		"BLR:Vysshaya&&Liga&&2017":17|
+		"BLR:Vysshaya&&Liga&&2016":20|
+		"BLR:Vysshaya&&Liga&&2015":11|
+		"BLR:Vysshaya&&Liga&&2014":13|
+		"BLR:Vysshaya&&Liga&&2013":18|
+		"BLR:Vysshaya&&Liga&&2012":17|
+		"BLR:Kubok&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/sergey-gushcha/126272/;
+	Photo : 
+}
