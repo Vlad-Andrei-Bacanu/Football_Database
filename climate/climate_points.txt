@@ -1,6 +1,7 @@
 {
 	Code : CLP-72AD1763;
 	Name : Berat;
+	Country : ALB;
 	Coordinates : 40.708486,19.945806;
 	Elevation : 53;
 	Climate_type : Csa;
@@ -20,6 +21,7 @@
 {
 	Code : CLP-CFC5A301;
 	Name : Çorovodë;
+	Country : ALB;
 	Coordinates : 40.503275,20.226731;
 	Elevation : 348;
 	Climate_type : Csa;
