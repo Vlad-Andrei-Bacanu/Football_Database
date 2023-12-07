@@ -71,7 +71,7 @@
 		"UEFA&&Youth&&League&&2013-14":2,11,1,0
 	;
 	Activity_assistant : 
-		
+		"ALB:Kategoria&&Superiore&&2022-23":17
 	;
 	Active : True;
 	Soccerway : ;
@@ -99,7 +99,7 @@
 		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : 
-		
+		"ALB:Kategoria&&Superiore&&2017-18":14
 	;
 	Active : True;
 	Soccerway : ;
@@ -247,7 +247,7 @@
 		"2017&&Men's&&U-17&&European&&Qualifiers":2,7,1,0
 	;
 	Activity_assistant : 
-		
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":8
 	;
 	Active : True;
 	Soccerway : ;
