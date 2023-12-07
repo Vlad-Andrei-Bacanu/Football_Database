@@ -73,7 +73,7 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2022-23":17
 	;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/enea-jorgii/95038/;
 	Photo : 
 }
@@ -101,7 +101,7 @@
 	Activity_assistant : 
 		"ALB:Kategoria&&Superiore&&2017-18":14
 	;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/kreshnik-cjapi/110308/;
 	Photo : 
 }
@@ -149,7 +149,7 @@
 		"UEFA&&Youth&&League&&2018-19":1,5,1,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/eldorjan-hamiti/269155/;
 	Photo : 
 }
@@ -171,7 +171,7 @@
 		"Friendlies":1,2,0,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/florjan-lata/420928/;
 	Photo : 
 }
@@ -196,7 +196,7 @@
 		"ALB:Kategoria&&Superiore&&2016-17":11,45,3,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/laver-alla/98149/;
 	Photo : 
 }
@@ -221,7 +221,7 @@
 		"ALB:Kategoria&&Superiore&&2016-17":1,2,0,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/olsid-ferataj/320261/;
 	Photo : 
 }
@@ -249,7 +249,7 @@
 	Activity_assistant : 
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":8
 	;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/andi-koci/120935/;
 	Photo : 
 }
@@ -278,7 +278,7 @@
 		"UEFA&&Women's&&Champions&&League&&Qualifiers&&2022-23":1,5,0,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : ;
 	Photo : 
 }
@@ -328,7 +328,7 @@
 		"UEFA&&Youth&&League&&2018-19":1,7,0,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/juxhin-xhaja/214249/;
 	Photo : 
 }
@@ -348,7 +348,7 @@
 		"ALB:Kategoria&&Superiore&&2021-22":5,20,0,0
 	;
 	Activity_assistant : ;
-	Active : False;
+	Active : True;
 	Soccerway : https://int.soccerway.com/referees/olsion-yzeiraj/269160/;
 	Photo : 
 }
