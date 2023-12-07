@@ -71,7 +71,7 @@
 		"UEFA&&Youth&&League&&2013-14":2,11,1,0
 	;
 	Activity_assistant : 
-		"ALB:Kategoria&&Superiore&&2022-23":17
+		"ALB:Kategoria&&Superiore&&2022-23":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/enea-jorgii/95038/;
@@ -99,7 +99,7 @@
 		"ALB:Kupa&&2022-23":1,5,0,0
 	;
 	Activity_assistant : 
-		"ALB:Kategoria&&Superiore&&2017-18":14
+		"ALB:Kategoria&&Superiore&&2017-18":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/kreshnik-cjapi/110308/;
@@ -247,7 +247,7 @@
 		"2017&&Men's&&U-17&&European&&Qualifiers":2,7,1,0
 	;
 	Activity_assistant : 
-		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":8
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/andi-koci/120935/;
@@ -350,5 +350,2022 @@
 	Activity_assistant : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/referees/olsion-yzeiraj/269160/;
+	Photo : 
+}
+{
+	Code : REF-5514FBAF;
+	First_name_original : Kreshnik;
+	Last_name_original : Barjamaj;
+	First_name_ascii : Kreshnik;
+	Last_name_ascii : Barjamaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1985-04-29;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":9,36,0,2|
+		"ALB:Kategoria&&Superiore&&2021-22":12,41,3,4|
+		"ALB:Kategoria&&Superiore&&2020-21":11,44,2,0|
+		"ALB:Kategoria&&Superiore&&2019-20":12,65,2,3|
+		"ALB:Kategoria&&Superiore&&2018-19":5,29,0,0|
+		"ALB:Kupa&&2022-23":1,5,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/-bajramaj/465013/;
+	Photo : 
+}
+{
+	Code : REF-FBBC47EC;
+	First_name_original : Erjon;
+	Last_name_original : Bastari;
+	First_name_ascii : Erjon;
+	Last_name_ascii : Bastari;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1985-12-20;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":7,20,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":9,48,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,32,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":4,20,0,0|
+		"ALB:Kupa&&2022-23":1,5,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/erjon-bastari/420950/;
+	Photo : 
+}
+{
+	Code : REF-FB5B4C0B;
+	First_name_original : Adrian;
+	Last_name_original : Beqiraj;
+	First_name_ascii : Adrian;
+	Last_name_ascii : Beqiraj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-02-10;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kupa&&2022-23":1,6,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/adrian-beqiri/98155/;
+	Photo : 
+}
+{
+	Code : REF-3DF2A69D;
+	First_name_original : Albert;
+	Last_name_original : Doda;
+	First_name_ascii : Albert;
+	Last_name_ascii : Doda;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1994-09-28;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":3,16,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/albert-doda/571279/;
+	Photo : 
+}
+{
+	Code : REF-1C6ED3D3;
+	First_name_original : Silvio;
+	Last_name_original : Dyrmishi;
+	First_name_ascii : Silvio;
+	Last_name_ascii : Dyrmishi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-11-04;
+	Birth_place : Elbasan;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":2,9,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/silvio-dyrmishi/645063/;
+	Photo : 
+}
+{
+	Code : REF-20E9A31D;
+	First_name_original : Dorjan;
+	Last_name_original : Maletaj;
+	First_name_ascii : Dorjan;
+	Last_name_ascii : Maletaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-02-14;
+	Birth_place : Tropoje;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":3,17,0,2
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dorjan-maletaj/465472/;
+	Photo : 
+}
+{
+	Code : REF-D9DA15D5;
+	First_name_original : Indrit;
+	Last_name_original : Myrtja;
+	First_name_ascii : Indrit;
+	Last_name_ascii : Myrtja;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-11-04;
+	Birth_place : Shkoder;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":4,20,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":8,18,2,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,25,1,1|
+		"ALB:Kategoria&&Superiore&&2018-19":6,26,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":4,21,0,3|
+		"ALB:Kategoria&&Superiore&&2016-17":2,6,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/indrit-myrtja/380799/;
+	Photo : 
+}
+{
+	Code : REF-274F0B0A;
+	First_name_original : Klodjan;
+	Last_name_original : Prenga;
+	First_name_ascii : Klodjan;
+	Last_name_ascii : Prenga;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-12-19;
+	Birth_place : Lac;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":3,13,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":1,2,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/klodjan-prenga/320234/;
+	Photo : 
+}
+{
+	Code : REF-CB7E085A;
+	First_name_original : Klodian;
+	Last_name_original : Shahini;
+	First_name_ascii : Klodian;
+	Last_name_ascii : Shahini;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1982-09-29;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":7,24,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":10,36,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":10,38,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":8,26,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":9,28,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":4,13,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":1,2,0,0|
+		"ALB:Kupa&&2022-23":1,4,0,0
+	;
+	Activity_assistant : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/klodian-shahini/269156/;
+	Photo : 
+}
+{
+	Code : REF-92518E10;
+	First_name_original : Ridiger;
+	Last_name_original : Çokaj;
+	First_name_ascii : Ridiger;
+	Last_name_ascii : Cokaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1984-10-23;
+	Birth_place : Lezhe;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":21|
+		"ALB:Kategoria&&Superiore&&2021-22":19|
+		"ALB:Kategoria&&Superiore&&2020-21":21|
+		"ALB:Kategoria&&Superiore&&2019-20":21|
+		"ALB:Kategoria&&Superiore&&2018-19":21|
+		"ALB:Kategoria&&Superiore&&2017-18":21|
+		"ALB:Kategoria&&Superiore&&2016-17":22|
+		"ALB:Kupa&&2022-23":3|
+		"ALB:Kupa&&2019-20":1|
+		"ALB:Kupa&&2018-19":1|
+		"ALB:Kupa&&2016-17":1|
+		"ALB:Supercup&&2022":1|
+		"ALB:Supercup&&2018":1|
+		"ALB:Supercup&&2017":1|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"Friendlies":2|
+		"2020&&Men's&&European&&Qualifiers":1|
+		"2012&&Men's&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2022-23":1|
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2020-21":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2018-19":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":2|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2016&&Men's&&U-19&&European&&Championship":4|
+		"2011&&Men's&&U-19&&European&&Championship":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&2022-23":3|
+		"UEFA&&Europa&&League&&2019-20":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&2021-22":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":2|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2016-17":1|
+		"UEFA&&Youth&&League&&2013-14":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ridiger-cokaj/98151/;
+	Photo : 
+}
+{
+	Code : REF-F8C78D79;
+	First_name_original : Denis;
+	Last_name_original : Rexha;
+	First_name_ascii : Denis;
+	Last_name_ascii : Rexha;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-05-04;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":17|
+		"ALB:Kategoria&&Superiore&&2021-22":20|
+		"ALB:Kategoria&&Superiore&&2020-21":20|
+		"ALB:Kategoria&&Superiore&&2019-20":22|
+		"ALB:Kategoria&&Superiore&&2018-19":19|
+		"ALB:Kategoria&&Superiore&&2017-18":24|
+		"ALB:Kategoria&&Superiore&&2016-17":23|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2020-21":1|
+		"ALB:Kupa&&2017-18":1|
+		"ALB:Supercup&&2022":1|
+		"ALB:Supercup&&2020":1|
+		"ALB:Supercup&&2016":1|
+		"Friendlies":3|
+		"UEFA&&Men's&&Nations&&League&&C&&2022-23":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2011&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-19&&European&&Championship":3|
+		"2010&&Men's&&U-19&&European&&Championship":4|
+		"2018&&Men's&&U-17&&European&&Qualifiers":2|
+		"2017&&Men's&&U-17&&European&&Qualifiers":2|
+		"2016&&Men's&&U-17&&European&&Qualifiers":2|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":2|
+		"UEFA&&Europa&&League&&2022-23":3|
+		"UEFA&&Europa&&League&&2019-20":1|
+		"UEFA&&Europa&&League&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2008-09":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2005-06":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&2021-22":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/denis-rexha/44379/;
+	Photo : 
+}
+{
+	Code : REF-DF2707B7;
+	First_name_original : Ilir;
+	Last_name_original : Tartaraj;
+	First_name_ascii : Ilir;
+	Last_name_ascii : Tartaraj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1987-08-08;
+	Birth_place : Fier;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":15|
+		"ALB:Kategoria&&Superiore&&2021-22":17|
+		"ALB:Kategoria&&Superiore&&2020-21":18|
+		"ALB:Kategoria&&Superiore&&2019-20":15|
+		"ALB:Kategoria&&Superiore&&2018-19":13|
+		"ALB:Kategoria&&Superiore&&2017-18":14|
+		"ALB:Kategoria&&Superiore&&2016-17":24|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2021-22":1|
+		"ALB:Kupa&&2020-21":1|
+		"ALB:Kupa&&2016-17":1|
+		"ALB:Supercup&&2019":1|
+		"ALB:Supercup&&2016":1|
+		"Friendlies":6|
+		"2023&&Men's&&U-21&&European&&Qualifiers":2|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2|
+		"2019&&Men's&&U-21&&European&&Qualifiers":2|
+		"2017&&Men's&&U-21&&European&&Qualifiers":3|
+		"2019&&Men's&&U-17&&European&&Championship":4|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ilir-tartaraj/98226/;
+	Photo : 
+}
+{
+	Code : REF-5941F20C;
+	First_name_original : Nertil;
+	Last_name_original : Bregasi;
+	First_name_ascii : Nertil;
+	Last_name_ascii : Bregasi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-01-19;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":13|
+		"ALB:Kategoria&&Superiore&&2021-22":17|
+		"ALB:Kategoria&&Superiore&&2020-21":17|
+		"ALB:Kategoria&&Superiore&&2019-20":16|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2017-18":17|
+		"ALB:Kategoria&&Superiore&&2016-17":17|
+		"ALB:Kupa&&2022-23":2|
+		"ALB:Supercup&&2019":1|
+		"Friendlies":4|
+		"UEFA&&Men's&&Nations&&League&&D&&2022-23":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":2|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2023&&Men's&&U-17&&European&&Championship":4|
+		"2019&&Men's&&U-17&&European&&Qualifiers":3|
+		"2014&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2017-18":1|
+		"UEFA&&Youth&&League&&2016-17":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/nertil-bregasi/208647/;
+	Photo : 
+}
+{
+	Code : REF-604DA25E;
+	First_name_original : Emigers;
+	Last_name_original : Ganxhi;
+	First_name_ascii : Emigers;
+	Last_name_ascii : Ganxhi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1986-07-28;
+	Birth_place : Elbasan;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":13|
+		"ALB:Kategoria&&Superiore&&2017-18":18|
+		"ALB:Kategoria&&Superiore&&2016-17":15|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2014-15":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/emigers-ganci/98145/;
+	Photo : 
+}
+{
+	Code : REF-6FCEFDBF;
+	First_name_original : Elvis;
+	Last_name_original : Gjoka;
+	First_name_ascii : Elvis;
+	Last_name_ascii : Gjoka;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-12-09;
+	Birth_place : Lezhe;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":12|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"ALB:Kupa&&2022-23":1|
+		"2023&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/elvis-gjoka/476496/;
+	Photo : 
+}
+{
+	Code : REF-EC5167C6;
+	First_name_original : Ani;
+	Last_name_original : Kociaj;
+	First_name_ascii : Ani;
+	Last_name_ascii : Kociaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1981-11-02;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":13|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":11|
+		"ALB:Kategoria&&Superiore&&2019-20":12|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":7|
+		"ALB:Kupa&&2022-23":1|
+		"2018&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Youth&&League&&2018-19":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ani-kociaj/469305/;
+	Photo : 
+}
+{
+	Code : REF-5DD31210;
+	First_name_original : Xhuljo;
+	Last_name_original : Mani;
+	First_name_ascii : Xhuljo;
+	Last_name_ascii : Mani;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1992-04-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":12|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"2023&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Youth&&League&&2021-22":1
+	;
+	Active : True;
+	Soccerway : ;
+	Photo : 
+}
+{
+	Code : REF-BE736CB3;
+	First_name_original : Nuri;
+	Last_name_original : Rrapaj;
+	First_name_ascii : Nuri;
+	Last_name_ascii : Rrapaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1984-02-20;
+	Birth_place : Patos;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":13|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":10|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":3|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/nuri-rapaj/190838/;
+	Photo : 
+}
+{
+	Code : REF-7E1E7996;
+	First_name_original : Rejdi;
+	Last_name_original : Avdo;
+	First_name_ascii : Rejdi;
+	Last_name_ascii : Avdo;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1987-07-06;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":16|
+		"ALB:Kategoria&&Superiore&&2021-22":14|
+		"ALB:Kategoria&&Superiore&&2020-21":17|
+		"ALB:Kategoria&&Superiore&&2019-20":13|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2016-17":21|
+		"ALB:Kupa&&2022-23":2|
+		"ALB:Kupa&&2019-20":1|
+		"ALB:Kupa&&2018-19":1|
+		"ALB:Supercup&&2021":1|
+		"ALB:Supercup&&2020":1|
+		"ALB:Supercup&&2018":1|
+		"ALB:Supercup&&2017":1|
+		"2022&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"2018&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"Friendlies":5|
+		"2020&&Men's&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2022-23":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2020-21":1|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-19&&European&&Qualifiers":3|
+		"2015&&Men's&&U-17&&European&&Championship":5|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&League&&2019-20":1|
+		"UEFA&&Europa&&League&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2001-02":1|
+		"UEFA&&Europa&&Conference&&League&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2014-15":1|
+		"UEFA&&Youth&&League&&2013-14":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rejdi-avdo/98190/;
+	Photo : 
+}
+{
+	Code : REF-53F7F673;
+	First_name_original : Erind;
+	Last_name_original : Burgu;
+	First_name_ascii : Erind;
+	Last_name_ascii : Burgu;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-04-02;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":8|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":3|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/erind-burgu/380943/;
+	Photo : 
+}
+{
+	Code : REF-4DE995CF;
+	First_name_original : Gerald;
+	Last_name_original : Cenolli;
+	First_name_ascii : Gerald;
+	Last_name_ascii : Cenolli;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-06-15;
+	Birth_place : Korce;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"2022&&Men's&&U-19&&European&&Qualifiers":3
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/gerald-cenolli/636955/;
+	Photo : 
+}
+{
+	Code : REF-BCCE8A27;
+	First_name_original : Egin;
+	Last_name_original : Doda;
+	First_name_ascii : Egin;
+	Last_name_ascii : Doda;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-10-02;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":17|
+		"ALB:Kategoria&&Superiore&&2018-19":12|
+		"ALB:Kategoria&&Superiore&&2017-18":20|
+		"ALB:Kategoria&&Superiore&&2016-17":23|
+		"Friendlies":2|
+		"2008&&Men's&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":2|
+		"2006&&Men's&&U-21&&European&&Qualifiers":1|
+		"2008&&Men's&&U-19&&European&&Championship":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2018-19":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":2|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2018-19":1|
+		"UEFA&&Youth&&League&&2015-16":1|
+		"UEFA&&Youth&&League&&2014-15":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ergin-doda/103545/;
+	Photo : 
+}
+{
+	Code : REF-BEDF9CD0;
+	First_name_original : Orgest;
+	Last_name_original : Grabova;
+	First_name_ascii : Orgest;
+	Last_name_ascii : Grabova;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1985-04-26;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":15|
+		"ALB:Kategoria&&Superiore&&2019-20":14|
+		"ALB:Kategoria&&Superiore&&2018-19":10|
+		"ALB:Kategoria&&Superiore&&2017-18":9|
+		"ALB:Kategoria&&Superiore&&2016-17":16|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2017-18":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/orgest-grabova/207928/;
+	Photo : 
+}
+{
+	Code : REF-A6974D3B;
+	First_name_original : Feliks;
+	Last_name_original : Kolleshi;
+	First_name_ascii : Feliks;
+	Last_name_ascii : Kolleshi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1996-08-22;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":6|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"UEFA&&Youth&&League&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/feliks-kolleshi/638507/;
+	Photo : 
+}
+{
+	Code : REF-07ADB807;
+	First_name_original : Fatmir;
+	Last_name_original : Lamaj;
+	First_name_ascii : Fatmir;
+	Last_name_ascii : Lamaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1977-05-27;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":14|
+		"ALB:Kategoria&&Superiore&&2019-20":13|
+		"ALB:Kategoria&&Superiore&&2018-19":11|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":7|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Youth&&League&&2014-15":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/fatmir-lama/111096/;
+	Photo : 
+}
+{
+	Code : REF-E8DF3427;
+	First_name_original : Maringlen;
+	Last_name_original : Llukmani;
+	First_name_ascii : Maringlen;
+	Last_name_ascii : Llukmani;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-12-10;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":7|
+		"ALB:Kategoria&&Superiore&&2020-21":8|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":3|
+		"2020&&Men's&&U-17&&European&&Qualifiers":3
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/maringlen-llukmani/335790/;
+	Photo : 
+}
+{
+	Code : REF-F02125A1;
+	First_name_original : Astrit;
+	Last_name_original : Mahmuti;
+	First_name_ascii : Astrit;
+	Last_name_ascii : Mahmuti;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1975-09-02;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":11|
+		"ALB:Kategoria&&Superiore&&2019-20":15|
+		"ALB:Kategoria&&Superiore&&2018-19":11|
+		"ALB:Kategoria&&Superiore&&2017-18":15|
+		"ALB:Kategoria&&Superiore&&2016-17":15|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/astrit-mahmuti/98144/;
+	Photo : 
+}
+{
+	Code : REF-71CC25E9;
+	First_name_original : Renato;
+	Last_name_original : Malaj;
+	First_name_ascii : Renato;
+	Last_name_ascii : Malaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-03-03;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"ALB:Kategoria&&Superiore&&2019-20":8|
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":4|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-19&&European&&Qualifiers":3
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/malaj/213860/;
+	Photo : 
+}
+{
+	Code : REF-D6D5D821;
+	First_name_original : Rexhino;
+	Last_name_original : Mersini;
+	First_name_ascii : Rexhino;
+	Last_name_ascii : Mersini;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1993-05-12;
+	Birth_place : Durres;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":6|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rexhino-mersini/380971/;
+	Photo : 
+}
+{
+	Code : REF-797C2B6E;
+	First_name_original : Rexhep;
+	Last_name_original : Muzhaqi;
+	First_name_ascii : Rexhep;
+	Last_name_ascii : Muzhaqi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1995-04-24;
+	Birth_place : Elbasan;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":6
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rexhep-muzhaqi/577334/;
+	Photo : 
+}
+{
+	Code : REF-3FED48F3;
+	First_name_original : Dojando;
+	Last_name_original : Myftari;
+	First_name_ascii : Dojando;
+	Last_name_ascii : Myftari;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-07-12;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":15|
+		"ALB:Kategoria&&Superiore&&2021-22":16|
+		"ALB:Kategoria&&Superiore&&2020-21":19|
+		"ALB:Kategoria&&Superiore&&2019-20":20|
+		"ALB:Kategoria&&Superiore&&2018-19":18|
+		"ALB:Kategoria&&Superiore&&2017-18":16|
+		"ALB:Kategoria&&Superiore&&2016-17":13|
+		"ALB:Kupa&&2022-23":1|
+		"ALB:Kupa&&2021-22":1|
+		"ALB:Supercup&&2021":1|
+		"Friendlies":3|
+		"2023&&Men's&&U-21&&European&&Qualifiers":2|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2017&&Men's&&U-21&&European&&Qualifiers":1|
+		"2023&&Men's&&U-19&&European&&Championship":3|
+		"2020&&Men's&&U-19&&European&&Qualifiers":3|
+		"2019&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2021-22":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2020-21":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2019-20":1|
+		"UEFA&&Europa&&Conference&&League&&2023-24":1|
+		"UEFA&&Europa&&Conference&&League&&2022-23":1|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":2|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1|
+		"UEFA&&Youth&&League&&2018-19":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/dojando-myftari/208648/;
+	Photo : 
+}
+{
+	Code : REF-6E2DA48C;
+	First_name_original : Marius;
+	Last_name_original : Qose;
+	First_name_ascii : Marius;
+	Last_name_ascii : Qose;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-01-02;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":10|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":7|
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":5|
+		"ALB:Kategoria&&Superiore&&2016-17":7
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/meglid-qose/207930/;
+	Photo : 
+}
+{
+	Code : REF-A6F9A9E3;
+	First_name_original : Mario;
+	Last_name_original : Shazivari;
+	First_name_ascii : Mario;
+	Last_name_ascii : Shazivari;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1992-07-01;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":11|
+		"ALB:Kategoria&&Superiore&&2021-22":12|
+		"ALB:Kategoria&&Superiore&&2020-21":12|
+		"ALB:Kategoria&&Superiore&&2019-20":12|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"2022&&Men's&&U-19&&European&&Qualifiers":3|
+		"2019&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2022-23":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/mario-shazivari/465049/;
+	Photo : 
+}
+{
+	Code : REF-2623558F;
+	First_name_original : Alfred;
+	Last_name_original : Shkreta;
+	First_name_ascii : Alfred;
+	Last_name_ascii : Shkreta;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1982-04-23;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":9|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":13|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"2023&&Men's&&U-21&&European&&Qualifiers":1|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/alfred-shkreta/234590/;
+	Photo : 
+}
+{
+	Code : REF-A4EE4E88;
+	First_name_original : Ergys;
+	Last_name_original : Spahiu;
+	First_name_ascii : Ergys;
+	Last_name_ascii : Spahiu;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1994-10-10;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":3
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/ergys-spahiu/679806/;
+	Photo : 
+}
+{
+	Code : REF-7C7F308E;
+	First_name_original : Endrit;
+	Last_name_original : Veseli;
+	First_name_ascii : Endrit;
+	Last_name_ascii : Veseli;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1978-02-16;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"ALB:Kategoria&&Superiore&&2020-21":6|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"UEFA&&Youth&&League&&2019-20":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/endrit-veseli/209282/;
+	Photo : 
+}
+{
+	Code : REF-286A5F6E;
+	First_name_original : Rejdi;
+	Last_name_original : Zaimi;
+	First_name_ascii : Rejdi;
+	Last_name_ascii : Zaimi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-08-24;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":9|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":4|
+		"2017&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2023-24":1|
+		"UEFA&&Youth&&League&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/rejdi-zaimi/269134/;
+	Photo : 
+}
+{
+	Code : REF-6B12AF50;
+	First_name_original : Arbër;
+	Last_name_original : Zalla;
+	First_name_ascii : Arber;
+	Last_name_ascii : Zalla;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-10-20;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":12|
+		"ALB:Kategoria&&Superiore&&2021-22":15|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":4|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2021-22":1|
+		"UEFA&&Youth&&League&&2019-20":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/arber-zalla/468758/;
+	Photo : 
+}
+{
+	Code : REF-257D4606;
+	First_name_original : Delin;
+	Last_name_original : Kasa;
+	First_name_ascii : Delin;
+	Last_name_ascii : Kasa;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-05-14;
+	Birth_place : Kavaje;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":3
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/delin-kasa/321990/;
+	Photo : 
+}
+{
+	Code : REF-25E5B8C2;
+	First_name_original : Tauland;
+	Last_name_original : Kasa;
+	First_name_ascii : Tauland;
+	Last_name_ascii : Kasa;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-06-11;
+	Birth_place : Vlore;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":10|
+		"ALB:Kategoria&&Superiore&&2020-21":5
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/tauland-kasa/387165/;
+	Photo : 
+}
+{
+	Code : REF-25D1F2CA;
+	First_name_original : Devis;
+	Last_name_original : Koreshi;
+	First_name_ascii : Devis;
+	Last_name_ascii : Koreshi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-11-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":10|
+		"ALB:Kategoria&&Superiore&&2021-22":6|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":8|
+		"ALB:Kategoria&&Superiore&&2017-18":10|
+		"ALB:Kategoria&&Superiore&&2016-17":10|
+		"UEFA&&Youth&&League&&2013-14":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/devis-koreshi/98166/;
+	Photo : 
+}
+{
+	Code : REF-1EC53DF1;
+	First_name_original : Heraj;
+	Last_name_original : Lisaku;
+	First_name_ascii : Heraj;
+	Last_name_ascii : Lisaku;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1993-07-19;
+	Birth_place : Durres;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":7|
+		"ALB:Kategoria&&Superiore&&2021-22":8|
+		"ALB:Kategoria&&Superiore&&2020-21":1|
+		"ALB:Kategoria&&Superiore&&2019-20":10|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":8|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"ALB:Kupa&&2022-23":1|
+		"UEFA&&Youth&&League&&2018-19":1
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/referees/lisaku/213863/;
+	Photo : 
+}
+{
+	Code : REF-6769277F;
+	First_name_original : Kridens;
+	Last_name_original : Meta;
+	First_name_ascii : Kridens;
+	Last_name_ascii : Meta;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1977-01-05;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":12,50,1,1|
+		"ALB:Kategoria&&Superiore&&2021-22":15,58,1,3|
+		"ALB:Kategoria&&Superiore&&2020-21":11,48,0,5|
+		"ALB:Kategoria&&Superiore&&2019-20":17,69,2,0|
+		"ALB:Kategoria&&Superiore&&2018-19":16,47,2,1|
+		"ALB:Kategoria&&Superiore&&2017-18":18,67,3,0|
+		"ALB:Kategoria&&Superiore&&2016-17":16,64,1,0|
+		"ALB:Kupa&&2016-17":1,8,0,0|
+		"ALB:Supercup&&2021":1,8,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/kridens-meta/98143/;
+	Photo : 
+}
+{
+	Code : REF-8AAED9EE;
+	First_name_original : Ardian;
+	Last_name_original : Beqiri;
+	First_name_ascii : Ardian;
+	Last_name_ascii : Beqiri;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-02-10;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":7,20,0,1|
+		"ALB:Kategoria&&Superiore&&2021-22":9,28,1,0|
+		"ALB:Kategoria&&Superiore&&2020-21":8,41,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,53,3,1|
+		"ALB:Kategoria&&Superiore&&2018-19":10,46,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":15,58,1,0|
+		"ALB:Kategoria&&Superiore&&2016-17":13,42,1,2
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/ardian-beqiri/891138/;
+	Photo : 
+}
+{
+	Code : REF-F57D8D7F;
+	First_name_original : Orlando;
+	Last_name_original : Kuka;
+	First_name_ascii : Orlando;
+	Last_name_ascii : Kuka;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-04-23;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2022-23":4,12,0,0|
+		"ALB:Kategoria&&Superiore&&2021-22":3,9,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":1,1,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":7,32,0,1|
+		"ALB:Kategoria&&Superiore&&2018-19":4,18,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":5,9,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/orlando-kuka/320285/;
+	Photo : 
+}
+{
+	Code : REF-7AAFFE4E;
+	First_name_original : Edlir;
+	Last_name_original : Malo;
+	First_name_ascii : Edlir;
+	Last_name_ascii : Malo;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1986-01-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":9|
+		"ALB:Kategoria&&Superiore&&2021-22":5|
+		"ALB:Kategoria&&Superiore&&2020-21":9|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"ALB:Kategoria&&Superiore&&2016-17":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/malo/212263/;
+	Photo : 
+}
+{
+	Code : REF-C061753C;
+	First_name_original : Denis;
+	Last_name_original : Agaraj;
+	First_name_ascii : Denis;
+	Last_name_ascii : Agaraj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1980-10-14;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":8|
+		"ALB:Kategoria&&Superiore&&2021-22":11|
+		"ALB:Kategoria&&Superiore&&2020-21":10|
+		"ALB:Kategoria&&Superiore&&2019-20":11|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":11|
+		"2021&&Men's&&U-21&&European&&Qualifiers":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/denis-agaraj/98154/;
+	Photo : 
+}
+{
+	Code : REF-FED4F2F4;
+	First_name_original : Enea;
+	Last_name_original : Gjoni;
+	First_name_ascii : Enea;
+	Last_name_ascii : Gjoni;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-07-17;
+	Birth_place : Elbasan;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":4|
+		"ALB:Kategoria&&Superiore&&2021-22":4
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/enea-gjoni/380877/;
+	Photo : 
+}
+{
+	Code : REF-1707A92A;
+	First_name_original : Jetmir;
+	Last_name_original : Podgorica;
+	First_name_ascii : Jetmir;
+	Last_name_ascii : Podgorica;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1996-08-23;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2022-23":6|
+		"ALB:Kategoria&&Superiore&&2021-22":2|
+		"ALB:Kategoria&&Superiore&&2020-21":3|
+		"ALB:Kupa&&2022-23":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/jetmir-podgorica/424291/;
+	Photo : 
+}
+{
+	Code : REF-1A97FE8B;
+	First_name_original : Olti;
+	Last_name_original : Çela;
+	First_name_ascii : Olti;
+	Last_name_ascii : Cela;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-02-18;
+	Birth_place : Lushnje;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2021-22":2,4,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/olti-cela/507427/;
+	Photo : 
+}
+{
+	Code : REF-F2BB117E;
+	First_name_original : Blerim;
+	Last_name_original : Ziri;
+	First_name_ascii : Blerim;
+	Last_name_ascii : Ziri;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1979-01-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2021-22":1,4,0,0|
+		"ALB:Kategoria&&Superiore&&2020-21":4,9,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,47,2,3|
+		"ALB:Kategoria&&Superiore&&2018-19":2,7,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":4,13,0,0|
+		"ALB:Kategoria&&Superiore&&2016-17":7,28,1,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/blerim-ziri/123656/;
+	Photo : 
+}
+{
+	Code : REF-4318F341;
+	First_name_original : Mehmet;
+	Last_name_original : Bega;
+	First_name_ascii : Mehmet;
+	Last_name_ascii : Bega;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-10-28;
+	Birth_place : Shkoder;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2021-22":6|
+		"ALB:Kategoria&&Superiore&&2020-21":6
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mehmet-bega/635677/;
+	Photo : 
+}
+{
+	Code : REF-4318F342;
+	First_name_original : Uran;
+	Last_name_original : Korra;
+	First_name_ascii : Uran;
+	Last_name_ascii : Korra;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1993-01-31;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2021-22":1|
+		"ALB:Kategoria&&Superiore&&2020-21":8|
+		"ALB:Kategoria&&Superiore&&2019-20":6
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/uran-korra/510340/;
+	Photo : 
+}
+{
+	Code : REF-7B7D0F27;
+	First_name_original : Klajdi;
+	Last_name_original : Kola;
+	First_name_ascii : Klajdi;
+	Last_name_ascii : Kola;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-01-28;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2020-21":5,19,0,0|
+		"ALB:Kategoria&&Superiore&&2019-20":10,28,1,0|
+		"ALB:Kategoria&&Superiore&&2018-19":10,28,0,1|
+		"ALB:Kategoria&&Superiore&&2017-18":15,45,1,2|
+		"ALB:Kategoria&&Superiore&&2016-17":8,23,2,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/klajdi-kola/269146/;
+	Photo : 
+}
+{
+	Code : REF-84F33092;
+	First_name_original : Roxhers;
+	Last_name_original : Muska;
+	First_name_ascii : Roxhers;
+	Last_name_ascii : Muska;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-10-05;
+	Birth_place : Tirana;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2020-21":5,21,2,0|
+		"ALB:Kategoria&&Superiore&&2019-20":6,27,1,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/roxhers-muska/421210/;
+	Photo : 
+}
+{
+	Code : REF-355ACC15;
+	First_name_original : Mario;
+	Last_name_original : Shabanaj;
+	First_name_ascii : Mario;
+	Last_name_ascii : Shabanaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1991-07-22;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2020-21":3,7,0,0|
+		"Friendlies":1,1,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mario-shabanaj/321803/;
+	Photo : 
+}
+{
+	Code : REF-972E46E3;
+	First_name_original : Enea;
+	Last_name_original : Pashaj;
+	First_name_ascii : Enea;
+	Last_name_ascii : Pashaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-11-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":10|
+		"ALB:Kategoria&&Superiore&&2016-17":5|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/enea-pashaj/265143/;
+	Photo : 
+}
+{
+	Code : REF-7D5D910D;
+	First_name_original : Elis;
+	Last_name_original : Pulaj;
+	First_name_ascii : Elis;
+	Last_name_ascii : Pulaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1990-01-23;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2020-21":5|
+		"2019&&Men's&&U-17&&European&&Qualifiers":3
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/pulaj/213859/;
+	Photo : 
+}
+{
+	Code : REF-A9F9CEDA;
+	First_name_original : Sokol;
+	Last_name_original : Avdo;
+	First_name_ascii : Sokol;
+	Last_name_ascii : Avdo;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1961-10-10;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2020-21":1|
+		"ALB:Kategoria&&Superiore&&2017-18":23|
+		"2005&&Men's&&U-21&&European&&Qualifiers":2|
+		"UEFA&&Intertoto&&Cup&&2002-03":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sokol-avdo/228224/;
+	Photo : 
+}
+{
+	Code : REF-904C35DA;
+	First_name_original : Emirjon;
+	Last_name_original : Sino;
+	First_name_ascii : Emirjon;
+	Last_name_ascii : Sino;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1985-01-12;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2019-20":6,32,0,1|
+		"ALB:Kategoria&&Superiore&&2018-19":6,23,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":8,36,0,2|
+		"ALB:Kategoria&&Superiore&&2016-17":12,36,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/emirjon-sino/110329/;
+	Photo : 
+}
+{
+	Code : REF-CE3C5668;
+	First_name_original : Hermal;
+	Last_name_original : Llapra;
+	First_name_ascii : Hermal;
+	Last_name_ascii : Llapra;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1987-02-19;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2019-20":3,12,0,0|
+		"ALB:Kategoria&&Superiore&&2018-19":2,9,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/hermal-llapra/214235/;
+	Photo : 
+}
+{
+	Code : REF-4470872D;
+	First_name_original : Rubin;
+	Last_name_original : Preca;
+	First_name_ascii : Rubin;
+	Last_name_ascii : Preca;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1983-04-25;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":11|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"2015&&Men's&&U-21&&European&&Qualifiers":2|
+		"2013&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2019-20":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/rudin-preca/98167/;
+	Photo : 
+}
+{
+	Code : REF-40F25813;
+	First_name_original : Gerant;
+	Last_name_original : Qirici;
+	First_name_ascii : Gerant;
+	Last_name_ascii : Qirici;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1977-01-17;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":9|
+		"ALB:Kategoria&&Superiore&&2017-18":8|
+		"ALB:Kategoria&&Superiore&&2016-17":12|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2009-10":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Youth&&League&&2013-14":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/gerald-qirici/83434/;
+	Photo : 
+}
+{
+	Code : REF-5FAEBB52;
+	First_name_original : Redvan;
+	Last_name_original : Shaba;
+	First_name_ascii : Redvan;
+	Last_name_ascii : Shaba;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2019-20":7|
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":3
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/redvan-shaba/380597/;
+	Photo : 
+}
+{
+	Code : REF-344C0EB0;
+	First_name_original : Ermal;
+	Last_name_original : Barushi;
+	First_name_ascii : Ermal;
+	Last_name_ascii : Barushi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1978-06-26;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2019-20":5|
+		"ALB:Kategoria&&Superiore&&2018-19":15|
+		"ALB:Kategoria&&Superiore&&2017-18":17|
+		"ALB:Kategoria&&Superiore&&2016-17":24|
+		"ALB:Kupa&&2017-18":1|
+		"2014&&Men's&&World&&Cup&&Qualifiers&&Europe":1|
+		"Friendlies":3|
+		"UEFA&&Men's&&Nations&&League&&C&&2018-19":1|
+		"UEFA&&Men's&&Nations&&League&&D&&2018-19":1|
+		"2019&&Men's&&U-21&&European&&Qualifiers":1|
+		"2015&&Men's&&U-21&&European&&Qualifiers":1|
+		"2013&&Men's&&U-21&&European&&Qualifiers":3|
+		"2018&&Men's&&U-19&&European&&Qualifiers":3|
+		"2016&&Men's&&U-19&&European&&Qualifiers":3|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2017-18":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2016-17":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/ermal-barushi/123654/;
+	Photo : 
+}
+{
+	Code : REF-E4727059;
+	First_name_original : Redian;
+	Last_name_original : Dobruna;
+	First_name_ascii : Redian;
+	Last_name_ascii : Dobruna;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2019-20":2|
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":7|
+		"ALB:Kategoria&&Superiore&&2016-17":4
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/redian-dobruna/111089/;
+	Photo : 
+}
+{
+	Code : REF-4F75699F;
+	First_name_original : Olsi;
+	Last_name_original : Sokoli;
+	First_name_ascii : Olsi;
+	Last_name_ascii : Sokoli;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1987-07-28;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2018-19":7,26,0,0|
+		"ALB:Kategoria&&Superiore&&2017-18":9,28,0,1|
+		"ALB:Kategoria&&Superiore&&2016-17":11,47,3,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/olsi-sokoli/214643/;
+	Photo : 
+}
+{
+	Code : REF-F22995C7;
+	First_name_original : Melis;
+	Last_name_original : Dervishi;
+	First_name_ascii : Melis;
+	Last_name_ascii : Dervishi;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1987-02-08;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2018-19":7|
+		"ALB:Kategoria&&Superiore&&2017-18":6|
+		"ALB:Kategoria&&Superiore&&2016-17":6|
+		"2013&&Men's&&U-21&&European&&Qualifiers":2|
+		"2015&&Men's&&U-17&&European&&Qualifiers":3|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/melis-dervishi/98178/;
+	Photo : 
+}
+{
+	Code : REF-9559C06B;
+	First_name_original : Fisnik;
+	Last_name_original : Thorja;
+	First_name_ascii : Fisnik;
+	Last_name_ascii : Thorja;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1989-02-16;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2018-19":6|
+		"ALB:Kategoria&&Superiore&&2017-18":4|
+		"2018&&Men's&&U-19&&European&&Qualifiers":3
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/sorja/218803/;
+	Photo : 
+}
+{
+	Code : REF-3FB38797;
+	First_name_original : Mateo;
+	Last_name_original : Sadikaj;
+	First_name_ascii : Mateo;
+	Last_name_ascii : Sadikaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1995-01-11;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2018-19":5|
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ITA:Women&&Serie&&B&&2022-23":1|
+		"ITA:Youth&&Campionato&&Primavera&&2&&2022-23":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/mateo-sadikaj/321910/;
+	Photo : 
+}
+{
+	Code : REF-D63D8803;
+	First_name_original : Paulin;
+	Last_name_original : Simoni;
+	First_name_ascii : Paulin;
+	Last_name_ascii : Simoni;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1984-10-29;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2018-19":3|
+		"ALB:Kategoria&&Superiore&&2017-18":12|
+		"ALB:Kategoria&&Superiore&&2016-17":15
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/simoni/211197/;
+	Photo : 
+}
+{
+	Code : REF-3ADC9CE4;
+	First_name_original : Remzi;
+	Last_name_original : Sadiku;
+	First_name_ascii : Remzi;
+	Last_name_ascii : Sadiku;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1983-09-28;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2017-18":5,19,0,2|
+		"ALB:Kategoria&&Superiore&&2016-17":9,39,1,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/remzi-sadiku/95035/;
+	Photo : 
+}
+{
+	Code : REF-F10D3A31;
+	First_name_original : Fatjon;
+	Last_name_original : Xhemalaj;
+	First_name_ascii : Fatjon;
+	Last_name_ascii : Xhemalaj;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2017-18":2,7,0,1
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/fatjon-xhemalaj/266894/;
+	Photo : 
+}
+{
+	Code : REF-FE11E202;
+	First_name_original : Proletar;
+	Last_name_original : Puto;
+	First_name_ascii : Proletar;
+	Last_name_ascii : Puto;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1985-04-30;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2017-18":3|
+		"ALB:Kategoria&&Superiore&&2016-17":2|
+		"2013&&Men's&&U-21&&European&&Qualifiers":1|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2011-12":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1|
+		"UEFA&&Europa&&League&&Qualifiers&&2009-10":1
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/proletar-puto/83179/;
+	Photo : 
+}
+{
+	Code : REF-1E524821;
+	First_name_original : Lorenc;
+	Last_name_original : Jemini;
+	First_name_ascii : Lorenc;
+	Last_name_ascii : Jemini;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1974-04-18;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2016-17":16,42,5,2|
+		"ALB:Supercup&&2016":1,3,0,0|
+		"2014&&Men's&&World&&Cup&&Qualifiers&&Europe":1,2,0,0|
+		"Friendlies":2,4,0,0|
+		"2012&&Men's&&European&&Qualifiers":1,3,0,0|
+		"2013&&Men's&&U-19&&European&&Qualifiers":2,10,2,0|
+		"UEFA&&Men's&&Champions&&League&&Qualifiers&&2016-17":1,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2015-16":1,4,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2014-15":1,3,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2013-14":1,6,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2012-13":1,5,0,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2011-12":2,11,1,0|
+		"UEFA&&Europa&&League&&Qualifiers&&2010-11":1,1,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/lorenc-jemini/45842/;
+	Photo : 
+}
+{
+	Code : REF-AC8C62DF;
+	First_name_original : Elidon;
+	Last_name_original : Halo;
+	First_name_ascii : Elidon;
+	Last_name_ascii : Halo;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : ;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : 
+		"ALB:Kategoria&&Superiore&&2016-17":1,3,0,0
+	;
+	Activity_assistant : ;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/elidon-halo/269138/;
+	Photo : 
+}
+{
+	Code : REF-88E53768;
+	First_name_original : Erjon;
+	Last_name_original : Velo;
+	First_name_ascii : Erjon;
+	Last_name_ascii : Velo;
+	Gender : M;
+	Nationality : ALB;
+	Birth_date : 1988-02-13;
+	Birth_place : ;
+	Birth_country : ALB;
+	Activity_main : ;
+	Activity_assistant : 
+		"ALB:Kategoria&&Superiore&&2016-17":6
+	;
+	Active : False;
+	Soccerway : https://int.soccerway.com/referees/velo/209253/;
 	Photo : 
 }
