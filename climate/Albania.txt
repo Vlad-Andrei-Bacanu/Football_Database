@@ -83,7 +83,7 @@
 	Dec : 3.7|-0.1|8.1|146.0|77.0|10.0|5.7;
 }
 {
-	Name : Ura Vajgurore;
+	Name : Ura&&Vajgurore;
 	Code : CLP-E8F5E6E7;
 	Country : Albania;
 	Latitude : 40.771530;
@@ -860,7 +860,7 @@
 	Dec : 1.9|-0.8|4.7|100.0|82.0|9.0|3.7;
 }
 {
-	Name : Bajram Curri;
+	Name : Bajram&&Curri;
 	Code : CLP-95223E7D;
 	Country : Albania;
 	Latitude : 42.356997;
@@ -1238,7 +1238,7 @@
 	Dec : 6.4|3.4|10.0|221.0|74.0|10.0|5.8;
 }
 {
-	Name : Vau i Dejës;
+	Name : Vau&&i&&Dejës;
 	Code : CLP-4B5952EA;
 	Country : Albania;
 	Latitude : 42.007911;
