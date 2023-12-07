@@ -74,7 +74,7 @@
 		"ALB:Kategoria&&Superiore&&2022-23":17
 	;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/enea-jorgii/95038/', ''];
+	Soccerway : https://int.soccerway.com/referees/enea-jorgii/95038/;
 	Photo : 
 }
 {
@@ -102,7 +102,7 @@
 		"ALB:Kategoria&&Superiore&&2017-18":14
 	;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/kreshnik-cjapi/110308/', ''];
+	Soccerway : https://int.soccerway.com/referees/kreshnik-cjapi/110308/;
 	Photo : 
 }
 {
@@ -150,7 +150,7 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/eldorjan-hamiti/269155/', ''];
+	Soccerway : https://int.soccerway.com/referees/eldorjan-hamiti/269155/;
 	Photo : 
 }
 {
@@ -172,7 +172,7 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/florjan-lata/420928/', ''];
+	Soccerway : https://int.soccerway.com/referees/florjan-lata/420928/;
 	Photo : 
 }
 {
@@ -197,7 +197,7 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/laver-alla/98149/', ''];
+	Soccerway : https://int.soccerway.com/referees/laver-alla/98149/;
 	Photo : 
 }
 {
@@ -222,7 +222,7 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/olsid-ferataj/320261/', ''];
+	Soccerway : https://int.soccerway.com/referees/olsid-ferataj/320261/;
 	Photo : 
 }
 {
@@ -250,7 +250,7 @@
 		"UEFA&&Europa&&Conference&&League&&Qualifiers&&2021-22":8
 	;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/andi-koci/120935/', ''];
+	Soccerway : https://int.soccerway.com/referees/andi-koci/120935/;
 	Photo : 
 }
 {
@@ -329,7 +329,7 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/juxhin-xhaja/214249/', ''];
+	Soccerway : https://int.soccerway.com/referees/juxhin-xhaja/214249/;
 	Photo : 
 }
 {
@@ -349,6 +349,6 @@
 	;
 	Activity_assistant : ;
 	Active : False;
-	Soccerway : ['https://int.soccerway.com/referees/olsion-yzeiraj/269160/', ''];
+	Soccerway : https://int.soccerway.com/referees/olsion-yzeiraj/269160/;
 	Photo : 
 }
