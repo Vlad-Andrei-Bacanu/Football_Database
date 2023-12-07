@@ -6,7 +6,7 @@
 	Last_name_ascii : Jorgji;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1984-08-17;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -85,7 +85,7 @@
 	Last_name_ascii : Cjapi;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1985-05-20;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -113,7 +113,7 @@
 	Last_name_ascii : Hamiti;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1983-01-10;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -161,7 +161,7 @@
 	Last_name_ascii : Lata;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1997-10-04;
 	Birth_place : Durres;
 	Birth_country : ALB;
 	Activity_main : 
@@ -183,7 +183,7 @@
 	Last_name_ascii : Alla;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1985-04-21;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -208,7 +208,7 @@
 	Last_name_ascii : Ferataj;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1986-08-29;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -233,7 +233,7 @@
 	Last_name_ascii : Koci;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1986-06-14;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -261,7 +261,7 @@
 	Last_name_ascii : Rusta;
 	Gender : F;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1993-12-20;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -290,7 +290,7 @@
 	Last_name_ascii : Xhaja;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1990-05-26;
 	Birth_place : ;
 	Birth_country : ALB;
 	Activity_main : 
@@ -340,7 +340,7 @@
 	Last_name_ascii : Yzeiraj;
 	Gender : M;
 	Nationality : ALB;
-	Birth_date : ;
+	Birth_date : 1990-02-19;
 	Birth_place : Patos;
 	Birth_country : ALB;
 	Activity_main : 
