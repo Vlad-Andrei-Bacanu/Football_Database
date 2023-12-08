@@ -13,7 +13,8 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Tirana;
 	Opened : 1956-01-01;
-	Tenanta : 
+	Tenants : 
+		FC&&Dinamo&&City|
 		KF&&Tirana
 	;
 	Active : True;
@@ -35,7 +36,8 @@
 	Field_surface : grass;
 	Owner : Football&&Association&&of&&Albania;
 	Opened : 1946-01-01;
-	Tenanta : 
+	Tenants : 
+		FC&&Dinamo&&City|
 		KF&&Partizani&&Tirana|
 		Albania
 	;
@@ -58,7 +60,8 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Shkoder;
 	Opened : 1952-01-01;
-	Tenanta : 
+	Tenants : 
+		KF&&Vllaznia&&Shkoder|
 		Albania
 	;
 	Active : True;
@@ -80,7 +83,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Fier;
 	Opened : 1958-01-01;
-	Tenanta : ;
+	Tenants : 
+		FK&&Apolonia&&Fier
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-loni-popuciu/v1766/;
 	Photo : 
@@ -100,7 +105,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Kavaje;
 	Opened : 1974-01-01;
-	Tenanta : ;
+	Tenants : 
+		KF&&Besa&&Kavaje
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-xhevat-hylviu/v1767/;
 	Photo : 
@@ -120,7 +127,9 @@
 	Field_surface : grass;
 	Owner : Flamurtari&&Football&&Club;
 	Opened : 1961-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Flamurtari&&Vlore
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-flamurtari/v1768/;
 	Photo : 
@@ -140,7 +149,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Erseke;
 	Opened : 2009-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Gramozi&&Erseke
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-erseke/v1769/;
 	Photo : 
@@ -160,7 +171,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Kruje;
 	Opened : 2008-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Kastrioti&&Kruje
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-kastrioti/v1770/;
 	Photo : 
@@ -180,7 +193,9 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Laci;
 	Opened : 2010-01-01;
-	Tenanta : ;
+	Tenants : 
+		KF&&Laci
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-laci/v1771/;
 	Photo : 
@@ -200,7 +215,8 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Shkumbini&&Peqin;
 	Opened : ;
-	Tenanta : 
+	Tenants : 
+		KS&&Shkumbini&&Peqin|
 		KS&&Egnatia&&Rrogozhine|
 		KS&&Turbina&&Cerrik
 	;
@@ -223,7 +239,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Korce;
 	Opened : 1957-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Skenderbeu&&Korce
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-skenderbeu/v1773/;
 	Photo : 
@@ -243,7 +261,8 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Durres;
 	Opened : 1965-01-01;
-	Tenanta : 
+	Tenants : 
+		KS&&Teuta&&Durres|
 		KS&&Teuta&&Durres&&II|
 		KF&&Erzeni&&Shijak
 	;
@@ -266,7 +285,8 @@
 	Field_surface : grass;
 	Owner : Football&&Association&&of&&Albania;
 	Opened : 1967-01-01;
-	Tenanta : 
+	Tenants : 
+		AF&&Elbasani|
 		Albania|
 		Albania&&U21
 	;
@@ -289,7 +309,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Lushnje;
 	Opened : 1961-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Lushnje
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-abdurraman-roza-haxhiu/v4153/;
 	Photo : 
@@ -309,7 +331,9 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Bylis;
 	Opened : ;
-	Tenanta : ;
+	Tenants : 
+		KS&&Bylis&&Ballsh
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-adush-muca/v4799/;
 	Photo : 
@@ -329,7 +353,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Kamez;
 	Opened : 2008-01-01;
-	Tenanta : ;
+	Tenants : 
+		KS&&Kamza
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-kamez/v4800/;
 	Photo : 
@@ -349,7 +375,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Pogradec;
 	Opened : ;
-	Tenanta : ;
+	Tenants : 
+		KS&&Pogradec
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-xhorxhi-kercuku/v4801/;
 	Photo : 
@@ -369,7 +397,9 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Ada&&Velipoje;
 	Opened : ;
-	Tenanta : ;
+	Tenants : 
+		KS&&Ada&&Velipoje
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-velipoje/v4802/;
 	Photo : 
@@ -389,7 +419,9 @@
 	Field_surface : grass;
 	Owner : Municipality&&of&&Gjirokaster;
 	Opened : 1972-01-01;
-	Tenanta : ;
+	Tenants : 
+		AS&&Luftetari&&Gjirokaster
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-subi-bakiri/v4803/;
 	Photo : 
@@ -409,7 +441,8 @@
 	Field_surface : grass;
 	Owner : Klubi&&i&&Futbollit&&Beselidhja&&Lezhe;
 	Opened : ;
-	Tenanta : 
+	Tenants : 
+		KS&&Beselidhja&&Lezhe|
 		FK&&Shenkolli
 	;
 	Active : True;
