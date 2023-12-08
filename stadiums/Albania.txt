@@ -2,8 +2,8 @@
 	Code : STA-19A2783B;
 	Name_original : Stadiumi&&Selman&&Stërmasi;
 	Name_ascii : Stadiumi&&Selman&&Stermasi;
-	Country : ;
-	Address : 1001 Rruga Gjin Bue Shpata 27;
+	Country : ALB;
+	Address : 1001&&Rruga&&Gjin&&Bue&&Shpata&&27;
 	Administrative_unit : ALB-TIR-411-E;
 	Latitude : 41.318970;
 	Longitude : 19.811383;
@@ -11,8 +11,11 @@
 	Record_attendance : 20000;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Tirana;
+	Owner : Klubi&&i&&Futbollit&&Tirana;
 	Opened : 1956-01-01;
+	Tenanta : 
+		KF&&Tirana
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-selman-stermasi/v628/;
 	Photo : 
@@ -21,8 +24,8 @@
 	Code : STA-8E3CBC86;
 	Name_original : Stadiumi&&Kombëtar&&Qemal&&Stafa;
 	Name_ascii : Stadiumi&&Kombetar&&Qemal&&Stafa;
-	Country : ;
-	Address : 1010 Sheshi Italia 1;
+	Country : ALB;
+	Address : 1010&&Sheshi&&Italia&&1;
 	Administrative_unit : ALB-TIR-411-B;
 	Latitude : 41.318379;
 	Longitude : 19.823965;
@@ -30,8 +33,12 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Football Association of Albania;
+	Owner : Football&&Association&&of&&Albania;
 	Opened : 1946-01-01;
+	Tenanta : 
+		KF&&Partizani&&Tirana|
+		Albania
+	;
 	Active : False;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-kombetar-qemal-stafa/v629/;
 	Photo : 
@@ -40,8 +47,8 @@
 	Code : STA-51A89577;
 	Name_original : Stadiumi&&Loro&&Boriçi;
 	Name_ascii : Stadiumi&&Loro&&Borici;
-	Country : ;
-	Address : 4001 Rruga Djepaxhijej 2;
+	Country : ALB;
+	Address : 4001&&Rruga&&Djepaxhijej&&2;
 	Administrative_unit : ALB-SHK-409;
 	Latitude : 42.069990;
 	Longitude : 19.506550;
@@ -49,8 +56,11 @@
 	Record_attendance : 16000;
 	Field_size : 105x68;
 	Field_surface : grass;
-	Owner : Municipality of Shkoder;
+	Owner : Municipality&&of&&Shkoder;
 	Opened : 1952-01-01;
+	Tenanta : 
+		Albania
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-loro-borici/v630/;
 	Photo : 
@@ -59,8 +69,8 @@
 	Code : STA-6812E787;
 	Name_original : Stadiumi&&Loni&&Papuçiu;
 	Name_ascii : Stadiumi&&Loni&&Papuciu;
-	Country : ;
-	Address : 9301 Rruga Andon Pjetri 16;
+	Country : ALB;
+	Address : 9301&&Rruga&&Andon&&Pjetri&&16;
 	Administrative_unit : ALB-FIE-203;
 	Latitude : 40.721076;
 	Longitude : 19.552034;
@@ -68,8 +78,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Municipality of Fier;
+	Owner : Municipality&&of&&Fier;
 	Opened : 1958-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-loni-popuciu/v1766/;
 	Photo : 
@@ -78,8 +89,8 @@
 	Code : STA-32FD7FC3;
 	Name_original : Stadiumi&&Besa;
 	Name_ascii : Stadiumi&&Besa;
-	Country : ;
-	Address : 2500 Rruga Vangjell Thanasi 7;
+	Country : ALB;
+	Address : 2500&&Rruga&&Vangjell&&Thanasi&&7;
 	Administrative_unit : ALB-TIR-203;
 	Latitude : 41.188579;
 	Longitude : 19.553186;
@@ -87,8 +98,9 @@
 	Record_attendance : ;
 	Field_size : 105x70;
 	Field_surface : grass;
-	Owner : Municipality of Kavaje;
+	Owner : Municipality&&of&&Kavaje;
 	Opened : 1974-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-xhevat-hylviu/v1767/;
 	Photo : 
@@ -97,8 +109,8 @@
 	Code : STA-5D8B09F1;
 	Name_original : Stadiumi&&Flamurtari;
 	Name_ascii : Stadiumi&&Flamurtari;
-	Country : ;
-	Address : 9401 Rruga Mato Robi;
+	Country : ALB;
+	Address : 9401&&Rruga&&Mato&&Robi;
 	Administrative_unit : ALB-VLO-705;
 	Latitude : 40.456073;
 	Longitude : 19.488719;
@@ -106,8 +118,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Flamurtari Football Club;
+	Owner : Flamurtari&&Football&&Club;
 	Opened : 1961-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-flamurtari/v1768/;
 	Photo : 
@@ -116,8 +129,8 @@
 	Code : STA-49ECB40B;
 	Name_original : Stadiumi&&Gramozi;
 	Name_ascii : Stadiumi&&Gramozi;
-	Country : ;
-	Address : 7401 Rruga Spiro Ballkameni;
+	Country : ALB;
+	Address : 7401&&Rruga&&Spiro&&Ballkameni;
 	Administrative_unit : ALB-KOR-203;
 	Latitude : 40.334861;
 	Longitude : 20.678761;
@@ -125,8 +138,9 @@
 	Record_attendance : ;
 	Field_size : 101x63;
 	Field_surface : grass;
-	Owner : Municipality of Erseke;
+	Owner : Municipality&&of&&Erseke;
 	Opened : 2009-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-erseke/v1769/;
 	Photo : 
@@ -135,8 +149,8 @@
 	Code : STA-9E36D222;
 	Name_original : Stadiumi&&Kastrioti;
 	Name_ascii : Stadiumi&&Kastrioti;
-	Country : ;
-	Address : 0511 Rruga Kryesore;
+	Country : ALB;
+	Address : 0511&&Rruga&&Kryesore;
 	Administrative_unit : ALB-DUR-205;
 	Latitude : 41.512149;
 	Longitude : 19.786662;
@@ -144,8 +158,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Municipality of Kruje;
+	Owner : Municipality&&of&&Kruje;
 	Opened : 2008-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-kastrioti/v1770/;
 	Photo : 
@@ -154,8 +169,8 @@
 	Code : STA-21C2825D;
 	Name_original : Stadiumi&&Laçi;
 	Name_ascii : Stadiumi&&Laci;
-	Country : ;
-	Address : 4701 Rruga SH39;
+	Country : ALB;
+	Address : 4701&&Rruga&&SH39;
 	Administrative_unit : ALB-LEZ-102;
 	Latitude : 41.642499;
 	Longitude : 19.711700;
@@ -163,8 +178,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Laci;
+	Owner : Klubi&&i&&Futbollit&&Laci;
 	Opened : 2010-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-laci/v1771/;
 	Photo : 
@@ -173,8 +189,8 @@
 	Code : STA-86638523;
 	Name_original : Stadiumi&&Shkumbini;
 	Name_ascii : Stadiumi&&Shkumbini;
-	Country : ;
-	Address : 3501 Rruga Abdurrahman Pasha;
+	Country : ALB;
+	Address : 3501&&Rruga&&Abdurrahman&&Pasha;
 	Administrative_unit : ALB-ELB-604;
 	Latitude : 41.042401;
 	Longitude : 19.752647;
@@ -182,8 +198,12 @@
 	Record_attendance : ;
 	Field_size : 107x68;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Shkumbini Peqin;
+	Owner : Klubi&&i&&Futbollit&&Shkumbini&&Peqin;
 	Opened : ;
+	Tenanta : 
+		KS&&Egnatia&&Rrogozhine|
+		KS&&Turbina&&Cerrik
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-i-qytetit/v1772/;
 	Photo : 
@@ -192,8 +212,8 @@
 	Code : STA-D8CF419B;
 	Name_original : Stadiumi&&Skënderbeu;
 	Name_ascii : Stadiumi&&Skenderbeu;
-	Country : ;
-	Address : 7001 Rruga Kristaq Papargjiri 1;
+	Country : ALB;
+	Address : 7001&&Rruga&&Kristaq&&Papargjiri&&1;
 	Administrative_unit : ALB-KOR-302;
 	Latitude : 40.626076;
 	Longitude : 20.782841;
@@ -201,8 +221,9 @@
 	Record_attendance : ;
 	Field_size : 105x68;
 	Field_surface : grass;
-	Owner : Municipality of Korce;
+	Owner : Municipality&&of&&Korce;
 	Opened : 1957-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-skenderbeu/v1773/;
 	Photo : 
@@ -211,8 +232,8 @@
 	Code : STA-EA721705;
 	Name_original : Stadiumi&&Niko&&Dovana;
 	Name_ascii : Stadiumi&&Niko&&Dovana;
-	Country : ;
-	Address : 1761 Rruga Paskal Prodani;
+	Country : ALB;
+	Address : 1761&&Rruga&&Paskal&&Prodani;
 	Administrative_unit : ALB-DUR-101;
 	Latitude : 41.326007;
 	Longitude : 19.440796;
@@ -220,8 +241,12 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Municipality of Durres;
+	Owner : Municipality&&of&&Durres;
 	Opened : 1965-01-01;
+	Tenanta : 
+		KS&&Teuta&&Durres&&II|
+		KF&&Erzeni&&Shijak
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-niko-dovana/v1774/;
 	Photo : 
@@ -230,8 +255,8 @@
 	Code : STA-66F58464;
 	Name_original : Elbasan&&Arena;
 	Name_ascii : Elbasan&&Arena;
-	Country : ;
-	Address : 3001 Sheshi Elbasan Arena 1;
+	Country : ALB;
+	Address : 3001&&Sheshi&&Elbasan&&Arena&&1;
 	Administrative_unit : ALB-ELB-302;
 	Latitude : 41.115889;
 	Longitude : 20.092007;
@@ -239,8 +264,12 @@
 	Record_attendance : 12800;
 	Field_size : 105x68;
 	Field_surface : grass;
-	Owner : Football Association of Albania;
+	Owner : Football&&Association&&of&&Albania;
 	Opened : 1967-01-01;
+	Tenanta : 
+		Albania|
+		Albania&&U21
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-ruzhdi-bizhuta/v3769/;
 	Photo : 
@@ -249,8 +278,8 @@
 	Code : STA-4DD3B4F7;
 	Name_original : Stadiumi&&Roza&&Haxhiu;
 	Name_ascii : Stadiumi&&Roza&&Haxhiu;
-	Country : ;
-	Address : 9001 Rruga Nexhat Nepravishta;
+	Country : ALB;
+	Address : 9001&&Rruga&&Nexhat&&Nepravishta;
 	Administrative_unit : ALB-FIE-311;
 	Latitude : 40.935525;
 	Longitude : 19.709703;
@@ -258,8 +287,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Municipality of Lushnje;
+	Owner : Municipality&&of&&Lushnje;
 	Opened : 1961-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-abdurraman-roza-haxhiu/v4153/;
 	Photo : 
@@ -268,8 +298,8 @@
 	Code : STA-E285403C;
 	Name_original : Stadiumi&&Adush&&Muçaj;
 	Name_ascii : Stadiumi&&Adush&&Mucaj;
-	Country : ;
-	Address : 9308 Rruga Mehmet Shehu;
+	Country : ALB;
+	Address : 9308&&Rruga&&Mehmet&&Shehu;
 	Administrative_unit : ALB-FIE-402;
 	Latitude : 40.602041;
 	Longitude : 19.740977;
@@ -277,8 +307,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Bylis;
+	Owner : Klubi&&i&&Futbollit&&Bylis;
 	Opened : ;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-adush-muca/v4799/;
 	Photo : 
@@ -287,8 +318,8 @@
 	Code : STA-CE1F10C0;
 	Name_original : Stadiumi&&Kamza;
 	Name_ascii : Stadiumi&&Kamza;
-	Country : ;
-	Address : 1030 Rruga Venecia;
+	Country : ALB;
+	Address : 1030&&Rruga&&Venecia;
 	Administrative_unit : ALB-TIR-101;
 	Latitude : 41.384904;
 	Longitude : 19.761562;
@@ -296,8 +327,9 @@
 	Record_attendance : ;
 	Field_size : 101x65;
 	Field_surface : grass;
-	Owner : Municipality of Kamez;
+	Owner : Municipality&&of&&Kamez;
 	Opened : 2008-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-kamez/v4800/;
 	Photo : 
@@ -306,8 +338,8 @@
 	Code : STA-62A7C998;
 	Name_original : Stadiumi&&Gjorgji&&Kyçyku;
 	Name_ascii : Stadiumi&&Gjorgji&&Kycyku;
-	Country : ;
-	Address : 7300 Rruga e Stadiumit;
+	Country : ALB;
+	Address : 7300&&Rruga&&e&&Stadiumit;
 	Administrative_unit : ALB-KOR-504;
 	Latitude : 40.900221;
 	Longitude : 20.664031;
@@ -315,8 +347,9 @@
 	Record_attendance : ;
 	Field_size : 105x69;
 	Field_surface : grass;
-	Owner : Municipality of Pogradec;
+	Owner : Municipality&&of&&Pogradec;
 	Opened : ;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-xhorxhi-kercuku/v4801/;
 	Photo : 
@@ -325,8 +358,8 @@
 	Code : STA-83539C1F;
 	Name_original : Fusha&&Sportive&&Adriatik;
 	Name_ascii : Fusha&&Sportive&&Adriatik;
-	Country : ;
-	Address : 4020 Rruga Shkoder - Velipoje;
+	Country : ALB;
+	Address : 4020&&Rruga&&Shkoder&&-&&Velipoje;
 	Administrative_unit : ALB-SHK-411;
 	Latitude : 41.872371;
 	Longitude : 19.401017;
@@ -334,8 +367,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Ada Velipoje;
+	Owner : Klubi&&i&&Futbollit&&Ada&&Velipoje;
 	Opened : ;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-velipoje/v4802/;
 	Photo : 
@@ -344,8 +378,8 @@
 	Code : STA-52B6824B;
 	Name_original : Stadiumi&&Gjirokastra;
 	Name_ascii : Stadiumi&&Gjirokastra;
-	Country : ;
-	Address : 6001 Bulevardi 18 Shtatori;
+	Country : ALB;
+	Address : 6001&&Bulevardi&&18&&Shtatori;
 	Administrative_unit : ALB-GJI-203;
 	Latitude : 40.081273;
 	Longitude : 20.138041;
@@ -353,8 +387,9 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Municipality of Gjirokaster;
+	Owner : Municipality&&of&&Gjirokaster;
 	Opened : 1972-01-01;
+	Tenanta : ;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-subi-bakiri/v4803/;
 	Photo : 
@@ -363,8 +398,8 @@
 	Code : STA-BF389592;
 	Name_original : Stadiumi&&Besëlidhja;
 	Name_ascii : Stadiumi&&Besëlidhja;
-	Country : ;
-	Address : 4501 Rruga Luigi Gurakuqi;
+	Country : ALB;
+	Address : 4501&&Rruga&&Luigi&&Gurakuqi;
 	Administrative_unit : ALB-LEZ-206;
 	Latitude : 41.776108;
 	Longitude : 19.644804;
@@ -372,8 +407,11 @@
 	Record_attendance : ;
 	Field_size : ;
 	Field_surface : grass;
-	Owner : Klubi i Futbollit Beselidhja Lezhe;
+	Owner : Klubi&&i&&Futbollit&&Beselidhja&&Lezhe;
 	Opened : ;
+	Tenanta : 
+		FK&&Shenkolli
+	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-beselidhja/v4804/;
 	Photo : 
