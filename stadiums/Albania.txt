@@ -432,7 +432,7 @@
 	Name_ascii : Stadiumi&&Besëlidhja;
 	Country : ALB;
 	Address : 4501&&Rruga&&Luigi&&Gurakuqi;
-	Administrative_unit : ALB-LEZ-206;
+	Administrative_unit : ALB-LEZ-205;
 	Latitude : 41.776108;
 	Longitude : 19.644804;
 	Capacity : 3500;
@@ -447,5 +447,1501 @@
 	;
 	Active : True;
 	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-beselidhja/v4804/;
+	Photo : 
+}
+{
+	Code : STA-C66D5FE8;
+	Name_original : Fusha&&Sportive&&Bilisht;
+	Name_ascii : Fusha&&Sportive&&Bilisht;
+	Country : ALB;
+	Address : 7006&&Rruga&&Jani&&Karanxha;
+	Administrative_unit : ALB-KOR-101;
+	Latitude : 40.628001;
+	Longitude : 20.983213;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Bilisht;
+	Opened : ;
+	Tenants : 
+		KS&&Bilisht&&Sporti|
+		KS&&Devolli&&Bilisht
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-bilisht/v4805/;
+	Photo : 
+}
+{
+	Code : STA-DDC31EA3;
+	Name_original : Stadiumi&&Liri&&Ballabani;
+	Name_ascii : Stadiumi&&Liri&&Ballabani;
+	Country : ALB;
+	Address : 0217&&Rruga&&Kros&&Skura;
+	Administrative_unit : ALB-DIB-402;
+	Latitude : 41.608952;
+	Longitude : 20.007118;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Burrel;
+	Opened : 1986-01-01;
+	Tenants : 
+		KS&&Burreli|
+		KF&&Klosi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-liri-ballabani/v4806/;
+	Photo : 
+}
+{
+	Code : STA-47133DD7;
+	Name_original : Fusha&&Sportive&&Skrapar;
+	Name_ascii : Fusha&&Sportive&&Skrapar;
+	Country : ALB;
+	Address : 5401&&Rruga&&Tefik&&Rogu;
+	Administrative_unit : ALB-BER-503;
+	Latitude : 40.508989;
+	Longitude : 20.227572;
+	Capacity : 1500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Klubi&&i&&Futbollit&&Skrapari;
+	Opened : ;
+	Tenants : 
+		KF&&Skrapari
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-skrapar/v4807/;
+	Photo : 
+}
+{
+	Code : STA-EC33BCD4;
+	Name_original : Stadiumi&&Nexhip&&Trungu;
+	Name_ascii : Stadiumi&&Nexhip&&Trungu;
+	Country : ALB;
+	Address : 3007&&Rruga&&Naim&&Frasheri;
+	Administrative_unit : ALB-ELB-201;
+	Latitude : 41.030249;
+	Longitude : 19.994047;
+	Capacity : 6600;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Cerrik;
+	Opened : ;
+	Tenants : 
+		KS&&Turbina&&Cerrik|
+		KS&&Sopoti&&Librazhd
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-nexhip-trungu/v4808/;
+	Photo : 
+}
+{
+	Code : STA-DC7E2890;
+	Name_original : Fusha&&Sportive&&Gramshi;
+	Name_ascii : Fusha&&Sportive&&Gramshi;
+	Country : ALB;
+	Address : 3301&&Rruga&&Sporti;
+	Administrative_unit : ALB-ELB-401;
+	Latitude : 40.861914;
+	Longitude : 20.186673;
+	Capacity : 4000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Gramsh;
+	Opened : ;
+	Tenants : 
+		KF&&Gramshi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-gramshi/v4809/;
+	Photo : 
+}
+{
+	Code : STA-50C7CAE1;
+	Name_original : Stadiumi&&Karafil&&Çaushi;
+	Name_ascii : Stadiumi&&Karafil&&Caushi;
+	Country : ALB;
+	Address : 6302&&Rruga&&Kastriot&&Lika;
+	Administrative_unit : ALB-GJI-504;
+	Latitude : 40.349092;
+	Longitude : 19.985750;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Memaliaj;
+	Opened : ;
+	Tenants : 
+		KS&&Memaliaj
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-karafil-caushi/v4810/;
+	Photo : 
+}
+{
+	Code : STA-436E4B5E;
+	Name_original : Stadiumi&&Sopoti;
+	Name_ascii : Stadiumi&&Sopoti;
+	Country : ALB;
+	Address : 3401&&Rruga&&Arberia;
+	Administrative_unit : ALB-ELB-502;
+	Latitude : 41.180705;
+	Longitude : 20.313416;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Librazhd;
+	Opened : 1964-01-01;
+	Tenants : 
+		KS&&Sopoti&&Librazhd
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadium-librazhd/v4811/;
+	Photo : 
+}
+{
+	Code : STA-046E41E2;
+	Name_original : Stadiumi&&Durim&&Qypi;
+	Name_ascii : Stadiumi&&Durim&&Qypi;
+	Country : ALB;
+	Address : 6404&&Rruga&&Permet&&Tepelene;
+	Administrative_unit : ALB-GJI-603;
+	Latitude : 40.236445;
+	Longitude : 20.357250;
+	Capacity : 4000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Permet;
+	Opened : ;
+	Tenants : 
+		KF&&Permeti
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-durum-qypi/v4812/;
+	Photo : 
+}
+{
+	Code : STA-D623F986;
+	Name_original : Stadiumi&&Mamurrasi;
+	Name_ascii : Stadiumi&&Mamurrasi;
+	Country : ALB;
+	Address : 4704&&Rruga&&Shpani;
+	Administrative_unit : ALB-LEZ-103;
+	Latitude : 41.573237;
+	Longitude : 19.693394;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Mamurras;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-mamurrasi/v4827/;
+	Photo : 
+}
+{
+	Code : STA-3021B1B5;
+	Name_original : Stadiumi&&Luz&&i&&Vogël;
+	Name_ascii : Stadiumi&&Luz&&i&&Vogel;
+	Country : ALB;
+	Address : 2507&&Rruga&&Luz&&i&&Madh;
+	Administrative_unit : ALB-TIR-204;
+	Latitude : 41.122657;
+	Longitude : 19.575867;
+	Capacity : 600;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Luz&&i&&Vogel;
+	Opened : 2008-01-01;
+	Tenants : 
+		KF&&Luzi&&2008|
+		KS&&Besa&&Kavaje
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-luz-i-vogel-2008/v4828/;
+	Photo : 
+}
+{
+	Code : STA-B9A41407;
+	Name_original : Stadiumi&&Ismail&&Xhemali;
+	Name_ascii : Stadiumi&&Ismail&&Xhemali;
+	Country : ALB;
+	Address : 4407&&Rruga&&SH5;
+	Administrative_unit : ALB-SHK-302;
+	Latitude : 42.049956;
+	Longitude : 19.897982;
+	Capacity : 1950;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Puke;
+	Opened : ;
+	Tenants : 
+		KS&&Terbuni&&Puke|
+		KSSH&&Veleciku&&Koplik
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-ismail-xhemali/v4829/;
+	Photo : 
+}
+{
+	Code : STA-C5085656;
+	Name_original : Stadiumi&&Tofik&&Jashari;
+	Name_ascii : Stadiumi&&Tofik&&Jashari;
+	Country : ALB;
+	Address : 2013&&Rruga&&e&&Stadiumit;
+	Administrative_unit : ALB-DUR-303;
+	Latitude : 41.345887;
+	Longitude : 19.555713;
+	Capacity : 4000;
+	Record_attendance : ;
+	Field_size : 100x74;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Shijak;
+	Opened : ;
+	Tenants : 
+		KF&&Erzeni&&Shijak|
+		KF&&Luzi&&2008
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-tofik-jashari/v4830/;
+	Photo : 
+}
+{
+	Code : STA-5A0E6448;
+	Name_original : Stadiumi&&Redi&&Maloku;
+	Name_ascii : Stadiumi&&Redi&&Maloku;
+	Country : ALB;
+	Address : 1502&&Rruga&&SH38;
+	Administrative_unit : ALB-DUR-203;
+	Latitude : 41.476624;
+	Longitude : 19.724541;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Klubi&&i&&Futbollit&&Iliria&&Fushe-Kruje;
+	Opened : 1991-01-01;
+	Tenants : 
+		KS&&Iliria&&Fushe-Kruje|
+		KS&&Kastrioti&&Kruje|
+		KS&&Sopoti&&Librazhd
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-fushe-kruje/v4831/;
+	Photo : 
+}
+{
+	Code : STA-B608D3F3;
+	Name_original : Kompleksi&&Vëllezërit&&Duli;
+	Name_ascii : Kompleksi&&Vellezerit&&Duli;
+	Country : ALB;
+	Address : 4301&&Rruga&&Veleciku;
+	Administrative_unit : ALB-SHK-204;
+	Latitude : 42.218873;
+	Longitude : 19.431617;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Futboll&&Klub&&Veleciku;
+	Opened : ;
+	Tenants : 
+		KSSH&&Veleciku&&Koplik
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-impianti-vellezerit-duli/v4832/;
+	Photo : 
+}
+{
+	Code : STA-49D803AE;
+	Name_original : Stadiumi&&Sukthi&&i&&Ri;
+	Name_ascii : Stadiumi&&Sukthi&&i&&Ri;
+	Country : ALB;
+	Address : 2020&&Rruga&&Sukth&&-&&Vadardhe;
+	Administrative_unit : ALB-DUR-106;
+	Latitude : 41.370013;
+	Longitude : 19.549648;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : 130x55;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Sukth;
+	Opened : 2009-01-01;
+	Tenants : 
+		KF&&Sukthi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-sukthi-i-ri/v4833/;
+	Photo : 
+}
+{
+	Code : STA-BEFD4838;
+	Name_original : Stadiumi&&Hasan&&Zyla;
+	Name_ascii : Stadiumi&&Hasan&&Zyla;
+	Country : ALB;
+	Address : 2503&&Rruga&&SH7;
+	Administrative_unit : ALB-TIR-304;
+	Latitude : 41.076655;
+	Longitude : 19.661777;
+	Capacity : 1200;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Rrogozhine;
+	Opened : ;
+	Tenants : 
+		KF&&Egnatia&&Rrogozhine
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-kf-egnatia/v4834/;
+	Photo : 
+}
+{
+	Code : STA-F2F2F856;
+	Name_original : Kukës&&Arena;
+	Name_ascii : Kukes&&Arena;
+	Country : ALB;
+	Address : 8501&&Rruga&&Stadiumi;
+	Administrative_unit : ALB-KUK-207;
+	Latitude : 42.079177;
+	Longitude : 20.420332;
+	Capacity : 6200;
+	Record_attendance : ;
+	Field_size : 100x74;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Kukes;
+	Opened : 2022-01-01;
+	Tenants : 
+		KS&&Kukesi|
+		KS&&Kukesi&&II|
+		KF&&Pashtriku&&Has
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-perparimi/v4835/;
+	Photo : 
+}
+{
+	Code : STA-71961C44;
+	Name_original : Stadiumi&&Bashkim&&Sulejmani;
+	Name_ascii : Stadiumi&&Bashkim&&Sulejmani;
+	Country : ALB;
+	Address : 5306&&Rruga&&Naftetari;
+	Administrative_unit : ALB-BER-302;
+	Latitude : 40.802179;
+	Longitude : 19.909720;
+	Capacity : 5000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Kucove;
+	Opened : ;
+	Tenants : 
+		KF&&Naftetari&&Kucove
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-bashkim-sulejmani/v4836/;
+	Photo : 
+}
+{
+	Code : STA-9B2D859F;
+	Name_original : Kompleksi&&Sportiv&&i&&Klubit&&Olimpik;
+	Name_ascii : Kompleksi&&Sportiv&&i&&Klubit&&Olimpik;
+	Country : ALB;
+	Address : 1051&&Rruga&&28&&Nentori;
+	Administrative_unit : ALB-TIR-405;
+	Latitude : 41.353145;
+	Longitude : 19.742342;
+	Capacity : 1500;
+	Record_attendance : ;
+	Field_size : 101x65;
+	Field_surface : artificial&&grass;
+	Owner : Klubi&&i&&Futbollit&&Olimpik&&Tirana;
+	Opened : 2011-01-01;
+	Tenants : 
+		KS&&Olimpiku&&Tirane|
+		FC&&Kevitan|
+		KF&&Partizani&&Tirana&&II|
+		KF&&Spartaku&&Tirane|
+		Term&&FC
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-i-kubit-olimpik/v4837/;
+	Photo : 
+}
+{
+	Code : STA-1FA90990;
+	Name_original : Stadiumi&&Korabi;
+	Name_ascii : Stadiumi&&Korabi;
+	Country : ALB;
+	Address : 8304&&Rruga&&Kongresi&&i&&Dibres;
+	Administrative_unit : ALB-DIB-210;
+	Latitude : 41.680467;
+	Longitude : 20.425229;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Klubi&&i&&Futbollit&&Korabi&&Peshkopi;
+	Opened : ;
+	Tenants : 
+		KS&&Korabi&&Peshkopi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-korabi/v4838/;
+	Photo : 
+}
+{
+	Code : STA-66DACFD9;
+	Name_original : Fusha&&Sportive&&Çlirimi;
+	Name_ascii : Fusha&&Sportive&&Clirimi;
+	Country : ALB;
+	Address : 9302&&Rruga&&e&&Koliceve;
+	Administrative_unit : ALB-FIE-209;
+	Latitude : 40.736964;
+	Longitude : 19.524710;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Qender;
+	Opened : ;
+	Tenants : 
+		KF&&Clirimi|
+		KS&&Fieri
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-clirimi/v4839/;
+	Photo : 
+}
+{
+	Code : STA-BD36E3AE;
+	Name_original : Kompleks&&Sportiv&&Zmijani;
+	Name_ascii : Kompleks&&Sportiv&&Zmijani;
+	Country : ALB;
+	Address : 4000&&Rruga&&Ing.&&Gjovalin&&Gjadri;
+	Administrative_unit : ALB-SHK-407;
+	Latitude : 42.094878;
+	Longitude : 19.536056;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Shkoder;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleks-sportiv-zmijani/v6271/;
+	Photo : 
+}
+{
+	Code : STA-DE49DBA5;
+	Name_original : Stadiumi&&Tomori;
+	Name_ascii : Stadiumi&&Tomori;
+	Country : ALB;
+	Address : 5001&&Rruga&&5&&Maji;
+	Administrative_unit : ALB-BER-101;
+	Latitude : 40.699009;
+	Longitude : 19.964482;
+	Capacity : 12000;
+	Record_attendance : 16500;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Berat;
+	Opened : 1985-01-01;
+	Tenants : 
+		FK&&Tomori&&Berat
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-jani-kosta/v6272/;
+	Photo : 
+}
+{
+	Code : STA-CB958326;
+	Name_original : Fusha&&Sportive&&Frakull;
+	Name_ascii : Fusha&&Sportive&&Frakull;
+	Country : ALB;
+	Address : 9313&&Rruga&&Hasaj;
+	Administrative_unit : ALB-FIE-204;
+	Latitude : 40.655222;
+	Longitude : 19.502003;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Frakull;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-frakull/v6273/;
+	Photo : 
+}
+{
+	Code : STA-D23B3D82;
+	Name_original : Stadiumi&&i&&Rubikut;
+	Name_ascii : Stadiumi&&i&&Rubikut;
+	Country : ALB;
+	Address : 4603&&Rruga&&Mariane&&Graf;
+	Administrative_unit : ALB-LEZ-306;
+	Latitude : 41.767081;
+	Longitude : 19.782821;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Rubik;
+	Opened : ;
+	Tenants : 
+		KF&&Rubiku
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-i-rubikut/v6890/;
+	Photo : 
+}
+{
+	Code : STA-626A0E50;
+	Name_original : Stadiumi&&Andon&&Lapa;
+	Name_ascii : Stadiumi&&Andon&&Lapa;
+	Country : ALB;
+	Address : 9701&&Rruga&&Idriz&&Alidhima;
+	Administrative_unit : ALB-VLO-502;
+	Latitude : 39.874428;
+	Longitude : 19.995684;
+	Capacity : 5000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Sarande;
+	Opened : ;
+	Tenants : 
+		KS&&Butrinti&&Sarande
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-i-futbollit-sarande/v6891/;
+	Photo : 
+}
+{
+	Code : STA-D52D3F77;
+	Name_original : Stadiumi&&Petro&&Ruci;
+	Name_ascii : Stadiumi&&Petro&&Ruci;
+	Country : ALB;
+	Address : 9425&&Rruga&&Apelistra;
+	Administrative_unit : ALB-VLO-301;
+	Latitude : 40.102985;
+	Longitude : 19.740502;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Klubi&&i&&Futbollit&&Oriku;
+	Opened : ;
+	Tenants : 
+		KF&&Himara|
+		KF&&Oriku
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-himare/v6892/;
+	Photo : 
+}
+{
+	Code : STA-2CC883A2;
+	Name_original : Fusha&&Sportive&&e&&Pojanit;
+	Name_ascii : Fusha&&Sportive&&e&&Pojanit;
+	Country : ALB;
+	Address : 7014&&Rruga&&SH101;
+	Administrative_unit : ALB-KOR-406;
+	Latitude : 40.721472;
+	Longitude : 20.837349;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Pojan;
+	Opened : ;
+	Tenants : 
+		KS&&Pojani&&Korce
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-e-pojanit/v6893/;
+	Photo : 
+}
+{
+	Code : STA-A0A6FFCE;
+	Name_original : Stadiumi&&Domosdova;
+	Name_ascii : Stadiumi&&Domosdova;
+	Country : ALB;
+	Address : 3413&&Rruga&&SH3;
+	Administrative_unit : ALB-ELB-701;
+	Latitude : 41.067924;
+	Longitude : 20.544228;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Prrenjas;
+	Opened : ;
+	Tenants : 
+		KS&&Domosdova&&Prrenjas
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-domosdova/v6894/;
+	Photo : 
+}
+{
+	Code : STA-6797E4F0;
+	Name_original : Fusha&&Sportive&&Delvinë;
+	Name_ascii : Fusha&&Sportive&&Delvine;
+	Country : ALB;
+	Address : 9704&&Rruga&&Mehmet&&Ali&&Pasha;
+	Administrative_unit : ALB-VLO-101;
+	Latitude : 39.952107;
+	Longitude : 20.101926;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Delvine;
+	Opened : ;
+	Tenants : 
+		KS&&Delvina
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-delvine/v6895/;
+	Photo : 
+}
+{
+	Code : STA-9582E9C8;
+	Name_original : Stadiumi&&Demir&&Allamani;
+	Name_ascii : Stadiumi&&Demir&&Allamani;
+	Country : ALB;
+	Address : 6402&&Rruga&&Syrja&&Sakollari;
+	Administrative_unit : ALB-GJI-303;
+	Latitude : 40.313069;
+	Longitude : 20.195450;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Kelcyre;
+	Opened : ;
+	Tenants : 
+		KS&&Kelcyra
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-kelcyre/v6896/;
+	Photo : 
+}
+{
+	Code : STA-BD67307A;
+	Name_original : Stadiumi&&Alosh&&Noga;
+	Name_ascii : Stadiumi&&Alosh&&Noga;
+	Country : ALB;
+	Address : 9307&&Rruga&&Unaza;
+	Administrative_unit : ALB-FIE-501;
+	Latitude : 40.683994;
+	Longitude : 19.627274;
+	Capacity : 2150;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Patos;
+	Opened : 2013-01-01;
+	Tenants : 
+		KS&&Albpetrol&&Patos
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-alush-noga/v6898/;
+	Photo : 
+}
+{
+	Code : STA-027547D7;
+	Name_original : Stadiumi&&Jovan&&Asko;
+	Name_ascii : Stadiumi&&Jovan&&Asko;
+	Country : ALB;
+	Address : 7005&&Rruga&&5&&Maji;
+	Administrative_unit : ALB-KOR-403;
+	Latitude : 40.709321;
+	Longitude : 20.701260;
+	Capacity : 1500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Maliq;
+	Opened : ;
+	Tenants : 
+		KS&&Maliqi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-maliq/v6899/;
+	Photo : 
+}
+{
+	Code : STA-CB96F38C;
+	Name_original : Stadiumi&&Poliçani;
+	Name_ascii : Stadiumi&&Policani;
+	Country : ALB;
+	Address : 5403&&Rruga&&Shkallet&&e&&Kombinatit;
+	Administrative_unit : ALB-BER-401;
+	Latitude : 40.609288;
+	Longitude : 20.096823;
+	Capacity : 1500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Polican;
+	Opened : ;
+	Tenants : 
+		KS&&Policani
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-policani/v6900/;
+	Photo : 
+}
+{
+	Code : STA-103CD1F1;
+	Name_original : Stadiumi&&Sabaudin&&Shehu;
+	Name_ascii : Stadiumi&&Sabaudin&&Shehu;
+	Country : ALB;
+	Address : 6301&&Rruga&&Ali&&Pasha&&Tepelena;
+	Administrative_unit : ALB-GJI-704;
+	Latitude : 40.300132;
+	Longitude : 20.018207;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Tepelene;
+	Opened : ;
+	Tenants : 
+		KS&&Delvina|
+		SK&&Tepelena
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-karafil-muco/v6901/;
+	Photo : 
+}
+{
+	Code : STA-B9961D8A;
+	Name_original : Qendra&&Stërvitore&&Skënder&&Halili;
+	Name_ascii : Qendra&&stervitore&&Skender&&Halili;
+	Country : ALB;
+	Address : 1027&&Rruga&&Bedri&&Karapici;
+	Administrative_unit : ALB-TIR-411-F;
+	Latitude : 41.318848;
+	Longitude : 19.788458;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : 
+		KF&&Tirana&&II
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/qendra-stervitore-skender-halili/v7207/;
+	Photo : 
+}
+{
+	Code : STA-26E94EA0;
+	Name_original : Kompleksi&&Stërvitor&&i&&Ekipeve&&Kombëtare;
+	Name_ascii : Kompleksi&&Stervitor&&i&&Ekipeve&&Kombetare;
+	Country : ALB;
+	Address : 1030&&Rruga&&OSBE;
+	Administrative_unit : ALB-TIR-101;
+	Latitude : 41.380880;
+	Longitude : 19.767148;
+	Capacity : 500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Kamez;
+	Opened : 2004-01-01;
+	Tenants : 
+		FC&&Kevitan|
+		KF&&Klosi|
+		KF&&Partizani&&Tirana&&II|
+		KF&&Tirana&&II
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksin-stervitor-te-ekipeve-kombetare/v11347/;
+	Photo : 
+}
+{
+	Code : STA-9F8684F6;
+	Name_original : Kompleksi&&Sportiv&&Dinamo;
+	Name_ascii : Kompleksi&&Sportiv&&Dinamo;
+	Country : ALB;
+	Address : 8363&&Rruga&&e&&Kosovareve;
+	Administrative_unit : ALB-TIR-411-E;
+	Latitude : 41.314992;
+	Longitude : 19.810126;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-dinamo/v11389/;
+	Photo : 
+}
+{
+	Code : STA-582CBE59;
+	Name_original : Fusha&&Stërvitore&&pranë&&Stadiumit&&Selman&&Stërmasi;
+	Name_ascii : Fusha&&Stervitore&&prane&&Stadiumit&&Selman&&Stermasi;
+	Country : ALB;
+	Address : 0001&&Rruga&&Sulejman&&Delvina;
+	Administrative_unit : ALB-TIR-411-E;
+	Latitude : 41.319143;
+	Longitude : 19.809303;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-stervitore-prane-stadiumit-selman-stermasi/v16416/;
+	Photo : 
+}
+{
+	Code : STA-3471B4FD;
+	Name_original : Fusha&&Sportive&&Finiq;
+	Name_ascii : Fusha&&Sportive&&Finiq;
+	Country : ALB;
+	Address : 9716&&Rruga&&SH83;
+	Administrative_unit : ALB-VLO-203;
+	Latitude : 39.907140;
+	Longitude : 20.054717;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : sand;
+	Owner : Municipality&&of&&Finiq;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-finiq/v16419/;
+	Photo : 
+}
+{
+	Code : STA-9376B456;
+	Name_original : Fusha&&Sportive&&Lëpushë;
+	Name_ascii : Fusha&&Sportive&&Lepushe;
+	Country : ALB;
+	Address : 4304&&Rruga&&SH20;
+	Administrative_unit : ALB-SHK-203;
+	Latitude : 42.531959;
+	Longitude : 19.718348;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : sand;
+	Owner : Municipality&&of&&Kelmend;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-lepushe/v16420/;
+	Photo : 
+}
+{
+	Code : STA-8E41F1F6;
+	Name_original : Stadiumi&&Vora;
+	Name_ascii : Stadiumi&&Vora;
+	Country : ALB;
+	Address : 1032&&Rruga&&Stadiumi;
+	Administrative_unit : ALB-TIR-503;
+	Latitude : 41.403374;
+	Longitude : 19.642380;
+	Capacity : 1200;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Vore;
+	Opened : ;
+	Tenants : 
+		KF&&Adriatiku&&2012|
+		FK&&Vora
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-vore/v16487/;
+	Photo : 
+}
+{
+	Code : STA-952C7244;
+	Name_original : Fusha&&Sportive&&Orikum;
+	Name_ascii : Fusha&&Sportive&&Orikum;
+	Country : ALB;
+	Address : 9426&&Rruga&&Jul&&Cezari;
+	Administrative_unit : ALB-VLO-702;
+	Latitude : 40.327273;
+	Longitude : 19.475519;
+	Capacity : 200;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Orikum;
+	Opened : ;
+	Tenants : 
+		KF&&Oriku
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-orikum/v19756/;
+	Photo : 
+}
+{
+	Code : STA-634C6FA9;
+	Name_original : Fusha&&Sportive&&e&&Kompleksit&&Tropikal;
+	Name_ascii : Fusha&&Sportive&&e&&Kompleksit&&Tropikal;
+	Country : ALB;
+	Address : 2001&&Rruga&&Prometeu;
+	Administrative_unit : ALB-DUR-101;
+	Latitude : 41.291012;
+	Longitude : 19.509034;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Durres;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-e-kompleksit-tropikal/v23071/;
+	Photo : 
+}
+{
+	Code : STA-91172E00;
+	Name_original : Kompleksi&&Internacional;
+	Name_ascii : Kompleksi&&Internacional;
+	Country : ALB;
+	Address : 1038&&Rruga&&Kavajes;
+	Administrative_unit : ALB-TIR-409;
+	Latitude : 41.269059;
+	Longitude : 19.700287;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Peze&&Helmes;
+	Opened : 2014-01-01;
+	Tenants : 
+		KKS&&Albanet|
+		FC&&Dinamo&&City|
+		KF&&Erzeni&&Shijak|
+		FC&&Internacional&&Tirana|
+		KF&&Partizani&&Tirana&&II|
+		KS&&Sopoti&&Librazhd|
+		FK&&Vora
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/internacional-tirana-stadiumi/v23099/;
+	Photo : 
+}
+{
+	Code : STA-D5EE6E01;
+	Name_original : Fusha&&Sportive&&Reshit&&Rusi;
+	Name_ascii : Fusha&&Sportive&&Reshit&&Rusi;
+	Country : ALB;
+	Address : 4001&&Rruga&&Marie&&Shllaku&&9;
+	Administrative_unit : ALB-SHK-409;
+	Latitude : 42.072543;
+	Longitude : 19.526359;
+	Capacity : 1200;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Shkoder;
+	Opened : ;
+	Tenants : 
+		KS&&Ada&&Velipoje|
+		KS&&Veleciku&&Koplik|
+		KS&&Vllaznia&&Shkoder&&II
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-reshit-rusi/v24530/;
+	Photo : 
+}
+{
+	Code : STA-4153B215;
+	Name_original : Kompleksi&&Kevitan;
+	Name_ascii : Kompleksi&&Kevitan;
+	Country : ALB;
+	Address : 1051&&Rruga&&Gryka&&e&&Kacanikut;
+	Administrative_unit : ALB-TIR-405;
+	Latitude : 41.352629;
+	Longitude : 19.751407;
+	Capacity : 500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Yrshek;
+	Opened : ;
+	Tenants : 
+		FC&&Kevitan|
+		KF&&Spartaku&&Tirane
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-kevitan/v25604/;
+	Photo : 
+}
+{
+	Code : STA-B764D758;
+	Name_original : Stadiumi&&Shënkoll;
+	Name_ascii : Stadiumi&&Shenkoll;
+	Country : ALB;
+	Address : 4510&&Rruga&&Lezhe&&-&&Shenkoll;
+	Administrative_unit : ALB-LEZ-208;
+	Latitude : 41.692653;
+	Longitude : 19.651339;
+	Capacity : 500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Shenkoll;
+	Opened : ;
+	Tenants : 
+		FK&&Shenkolli
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-shenkoll/v26773/;
+	Photo : 
+}
+{
+	Code : STA-D99B107D;
+	Name_original : Kompleksi&&Sportiv&&Shefqet&&Lamçja;
+	Name_ascii : Kompleksi&&Sportiv&&Shefqet&&Lamcja;
+	Country : ALB;
+	Address : 3001&&Rruga&&Ndricim&&Shehu;
+	Administrative_unit : ALB-ELB-302;
+	Latitude : 41.108861;
+	Longitude : 20.086696;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Elbasan;
+	Opened : ;
+	Tenants : 
+		KS&&Domosdova&&Prrenjas|
+		KS&&Elbasani|
+		KS&&Sopoti&&Librazhd
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-shefqet-lamcja/v30015/;
+	Photo : 
+}
+{
+	Code : STA-3F42911E;
+	Name_original : Air&&Albania&&Stadium;
+	Name_ascii : Air&&Albania&&Stadium;
+	Country : ALB;
+	Address : 1011&&Sheshi&&Italia&&1;
+	Administrative_unit : ALB-TIR-411-B;
+	Latitude : 41.318391;
+	Longitude : 19.824131;
+	Capacity : 22500;
+	Record_attendance : ;
+	Field_size : 110x68;
+	Field_surface : grass;
+	Owner : Football&&Association&&of&&Albania;
+	Opened : 2019-01-01;
+	Tenants : 
+		Albania|
+		KF&&Partizani&&Tirana|
+		KF&&Tirana
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/arena-kombetare/v32251/;
+	Photo : 
+}
+{
+	Code : STA-89FD1F16;
+	Name_original : Stadiumi&&Mirdita;
+	Name_ascii : Stadiumi&&Mirdita;
+	Country : ALB;
+	Address : 4601&&Rruga&&Vincenco&&D'Paoli;
+	Administrative_unit : ALB-LEZ-305;
+	Latitude : 41.765567;
+	Longitude : 19.878405;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Rreshen;
+	Opened : ;
+	Tenants : 
+		KF&&Mirdita
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/mirdita-stadium/v34099/;
+	Photo : 
+}
+{
+	Code : STA-7E5A4B0E;
+	Name_original : Stadiumi&&Selenicë;
+	Name_ascii : Stadiumi&&Selenice;
+	Country : ALB;
+	Address : 9427&&Rruga&&21&&Shkurti;
+	Administrative_unit : ALB-VLO-604;
+	Latitude : 40.530830;
+	Longitude : 19.632987;
+	Capacity : 4000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Selenice;
+	Opened : ;
+	Tenants : 
+		KS&&Selenice
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/selenice-stadium/v34102/;
+	Photo : 
+}
+{
+	Code : STA-94B46122;
+	Name_original : Kompleksi&&Football&&Republic;
+	Name_ascii : Kompleksi&&Football&&Republic;
+	Country : ALB;
+	Address : 1034&&Rruga&&Adem&&Gurra;
+	Administrative_unit : ALB-TIR-408;
+	Latitude : 41.271713;
+	Longitude : 19.906358;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : 
+		KS&&Kukesi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-football-republic/v36662/;
+	Photo : 
+}
+{
+	Code : STA-A8AE67A3;
+	Name_original : Olympic&&Park&&Durrës;
+	Name_ascii : Olympic&&Park&&Durres;
+	Country : ALB;
+	Address : 2001&&Rruga&&Vath&&Turja;
+	Administrative_unit : ALB-DUR-103;
+	Latitude : 41.384874;
+	Longitude : 19.450773;
+	Capacity : 300;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Durres;
+	Opened : 2018-01-01;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/olympic-park-durres/v36663/;
+	Photo : 
+}
+{
+	Code : STA-A95B885F;
+	Name_original : Fusha&&Sportive&&Porto;
+	Name_ascii : Fusha&&Sportive&&Porto;
+	Country : ALB;
+	Address : 4501&&Rruga&&Luigj&&Gurakuqi;
+	Administrative_unit : ALB-LEZ-205;
+	Latitude : 41.775846;
+	Longitude : 19.643253;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Lezhe;
+	Opened : ;
+	Tenants : 
+		KF&&Mirdita
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-sportive-porto/v36667/;
+	Photo : 
+}
+{
+	Code : STA-575B73AA;
+	Name_original : Stadiumi&&Tropojë;
+	Name_ascii : Stadiumi&&Tropoje;
+	Country : ALB;
+	Address : 8701&&Rruga&&Sylejman&&Vokshi;
+	Administrative_unit : ALB-KUK-301;
+	Latitude : 42.360544;
+	Longitude : 20.073746;
+	Capacity : 3000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Bajram&&Curri;
+	Opened : ;
+	Tenants : 
+		KF&&Valbona
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-tropoje/v36784/;
+	Photo : 
+}
+{
+	Code : STA-BFF9CACD;
+	Name_original : Kompleksi&&Sportiv&&Labëria;
+	Name_ascii : Kompleksi&&Sportiv&&Laberia;
+	Country : ALB;
+	Address : 9414&&Rruga&&Pishave;
+	Administrative_unit : ALB-VLO-703;
+	Latitude : 40.490848;
+	Longitude : 19.452775;
+	Capacity : 300;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Qender&&Vlore;
+	Opened : ;
+	Tenants : 
+		Laberia&&FC
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-laberia/v36998/;
+	Photo : 
+}
+{
+	Code : STA-3BA7B403;
+	Name_original : Aneksi&&i&&Stadiumit&&Skënderbeu;
+	Name_ascii : Aneksi&&i&&Stadiumit&&Skenderbeu;
+	Country : ALB;
+	Address : 7001&&Rruga&&Kristaq&&Papargjiri;
+	Administrative_unit : ALB-KOR-302;
+	Latitude : 40.627961;
+	Longitude : 20.782191;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Korce;
+	Opened : ;
+	Tenants : 
+		KS&&Maliqi
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/aneksi-i-stadiumit-skenderbeu-korce/v37030/;
+	Photo : 
+}
+{
+	Code : STA-04CC3EDE;
+	Name_original : Fusha&&e&&Sportit&&Barbullush;
+	Name_ascii : Fusha&&e&&Sportit&&Barbullush;
+	Country : ALB;
+	Address : 4506&&Rruga&&Marka&&Tishi;
+	Administrative_unit : ALB-SHK-501;
+	Latitude : 41.928396;
+	Longitude : 19.552545;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Barbullush;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-e-sportit-barbullush/v38840/;
+	Photo : 
+}
+{
+	Code : STA-5F50721F;
+	Name_original : Arena&&Egnatia;
+	Name_ascii : Arena&&Egnatia;
+	Country : ALB;
+	Address : 2503&&Rruga&&SH7;
+	Administrative_unit : ALB-TIR-304;
+	Latitude : 41.076646;
+	Longitude : 19.611777;
+	Capacity : 4000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Rrogozhine;
+	Opened : 2021-01-01;
+	Tenants : 
+		KS&&Egnatia&&Rrogozhine
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/arena-egnatia/v40950/;
+	Photo : 
+}
+{
+	Code : STA-17717FA7;
+	Name_original : Aneksi&&i&&Stadiumit&&Loni&&Papuçiu;
+	Name_ascii : Aneksi&&i&&Stadiumit&&Loni&&Papuciu;
+	Country : ALB;
+	Address : 9034&&Rruga&&Hasan&&Dishnica;
+	Administrative_unit : ALB-FIE-203;
+	Latitude : 40.719816;
+	Longitude : 19.551403;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Fier;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/aneksi-i-stadiumit-loni-papuciu/v42397/;
+	Photo : 
+}
+{
+	Code : STA-DFF3C222;
+	Name_original : Arena&&e&&Demave;
+	Name_ascii : Arena&&e&&Demave;
+	Country : ALB;
+	Address : 1700&&Rruga&&Dhimiter&&Mole;
+	Administrative_unit : ALB-TIR-411-D;
+	Latitude : 41.356205;
+	Longitude : 19.851240;
+	Capacity : 5000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : 
+		KF&&Partizani&&Tirana
+	;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-partizani/v42430/;
+	Photo : 
+}
+{
+	Code : STA-2526F5FA;
+	Name_original : Stadiumi&&i&&Vjetër;
+	Name_ascii : Stadiumi&&i&&Vjeter;
+	Country : ALB;
+	Address : 5001&&Bulevardi&&Republika;
+	Administrative_unit : ALB-BER-101;
+	Latitude : 40.701046;
+	Longitude : 19.958164;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Berat;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-i-vjeter/v43352/;
+	Photo : 
+}
+{
+	Code : STA-7E479A95;
+	Name_original : Kompleksi&&Sportiv&&Dinamo&&2;
+	Name_ascii : Kompleksi&&Sportiv&&Dinamo&&2;
+	Country : ALB;
+	Address : 8363&&Rruga&&e&&Kosovareve;
+	Administrative_unit : ALB-TIR-411-E;
+	Latitude : 41.314565;
+	Longitude : 19.811342;
+	Capacity : 1500;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-dinamo-2/v45284/;
+	Photo : 
+}
+{
+	Code : STA-24CBEF8E;
+	Name_original : Stadiumi&&Allkaj;
+	Name_ascii : Stadiumi&&Allkaj;
+	Country : ALB;
+	Address : 9005&&Rruga&&Pushimi&&Shoferit&&-&&Fier-Shegan;
+	Administrative_unit : ALB-FIE-301;
+	Latitude : 40.858136;
+	Longitude : 19.753443;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Allkaj;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/stadiumi-allkaj/v45340/;
+	Photo : 
+}
+{
+	Code : STA-EDDD885B;
+	Name_original : Kompleksi&&Sportiv&&FC&&Dinamo;
+	Name_ascii : Kompleksi&&Sportiv&&FC&&Dinamo;
+	Country : ALB;
+	Address : 1041&&Rruga&&B-22;
+	Administrative_unit : ALB-TIR-412;
+	Latitude : 41.267336;
+	Longitude : 19.796530;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : grass;
+	Owner : Municipality&&of&&Tirana;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-fc-dinamo/v45342/;
+	Photo : 
+}
+{
+	Code : STA-BF6D21CC;
+	Name_original : Kompleksi&&Sportiv&&Egnatia;
+	Name_ascii : Kompleksi&&Sportiv&&Egnatia;
+	Country : ALB;
+	Address : 2507&&Rruga&&SH4;
+	Administrative_unit : ALB-TIR-303;
+	Latitude : 41.113223;
+	Longitude : 19.607325;
+	Capacity : 1000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Lekaj;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/kompleksi-sportiv-egnatia/v45343/;
+	Photo : 
+}
+{
+	Code : STA-5A6D2A13;
+	Name_original : Fusha&&e&&Plugut&&KF&&Lushnja;
+	Name_ascii : Fusha&&e&&Plugut&&KF&&Lushnja;
+	Country : ALB;
+	Address : 9012&&Rruga&&Plug;
+	Administrative_unit : ALB-FIE-306;
+	Latitude : 40.947523;
+	Longitude : 19.669349;
+	Capacity : 2000;
+	Record_attendance : ;
+	Field_size : ;
+	Field_surface : artificial&&grass;
+	Owner : Municipality&&of&&Lushnje;
+	Opened : ;
+	Tenants : ;
+	Active : True;
+	Soccerway : https://int.soccerway.com/venues/albania/fusha-e-plugut-kf-lushnja/v45367/;
 	Photo : 
 }
