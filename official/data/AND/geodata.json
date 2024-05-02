@@ -1,0 +1,338 @@
+[
+    {
+        "show": true,
+        "code": "AND-ALV",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Andorra La Vella",
+            "ENG": "Andorra La Vella"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Andorra La Vella",
+            "ENG": "Andorra La Vella"
+        },
+        "area": {
+            "value": 12.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 22440,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Andorra+la+Vella,+AD500,+Andorra/@42.4954376,1.4677469,13z/data=!4m6!3m5!1s0x12a58b37391355b1:0x400946e3e81b020!8m2!3d42.4919826!4d1.5111806!16s%2Fg%2F1225dmqm?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Andorra_la_Vella",
+            "FRA": "https://fr.wikipedia.org/wiki/Andorre-la-Vieille",
+            "GER": "https://de.wikipedia.org/wiki/Andorra_la_Vella",
+            "ESP": "https://es.wikipedia.org/wiki/Andorra_la_Vieja",
+            "CAT": "https://ca.wikipedia.org/wiki/Andorra_la_Vella"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-CAN",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Canillo",
+            "ENG": "Canillo"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Canillo",
+            "ENG": "Canillo"
+        },
+        "area": {
+            "value": 121.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 4325,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Canillo,+AD100,+Andorra/@42.5868729,1.5917909,12z/data=!3m1!4b1!4m6!3m5!1s0x12af622a9fa0ee4d:0x596061fdf8f37ccf!8m2!3d42.5978249!4d1.6566377!16zL20vMDRuX3ho?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Canillo",
+            "FRA": "https://fr.wikipedia.org/wiki/Canillo",
+            "GER": "https://de.wikipedia.org/wiki/Canillo",
+            "ESP": "https://es.wikipedia.org/wiki/Canillo",
+            "CAT": "https://ca.wikipedia.org/wiki/Canillo"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-ENC",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Encamp",
+            "ENG": "Encamp"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Encamp",
+            "ENG": "Encamp"
+        },
+        "area": {
+            "value": 74.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 11688,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Encamp,+AD200,+Andorra/@42.5241706,1.5602039,12z/data=!3m1!4b1!4m6!3m5!1s0x12a58833f81c1a8f:0x400946e3e81b100!8m2!3d42.5194138!4d1.6566377!16zL20vMDRuX3df?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Encamp",
+            "FRA": "https://fr.wikipedia.org/wiki/Encamp",
+            "GER": "https://de.wikipedia.org/wiki/Encamp",
+            "ESP": "https://es.wikipedia.org/wiki/Encamp",
+            "CAT": "https://ca.wikipedia.org/wiki/Encamp"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-ESE",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Escaldes-Engordany",
+            "ENG": "Escaldes-Engordany"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Les Escaldes",
+            "ENG": "Les Escaldes"
+        },
+        "area": {
+            "value": 47.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 14599,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Escaldes-Engordany,+AD700,+Andorra/@42.486911,1.5512901,13z/data=!3m1!4b1!4m6!3m5!1s0x12a58bd0d931756f:0x400946e3e81b110!8m2!3d42.4909379!4d1.5886966!16zL20vMDRuX3hf?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Escaldes-Engordany",
+            "FRA": "https://fr.wikipedia.org/wiki/Escaldes-Engordany",
+            "GER": "https://de.wikipedia.org/wiki/Escaldes-Engordany",
+            "ESP": "https://es.wikipedia.org/wiki/Las_Escaldas-Engordany",
+            "CAT": "https://ca.wikipedia.org/wiki/Escaldes-Engordany"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-LMS",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "La Massana",
+            "ENG": "La Massana"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "La Massana",
+            "ENG": "La Massana"
+        },
+        "area": {
+            "value": 65.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 10174,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/La+Massana,+Andorra/@42.558358,1.4052222,12z/data=!3m1!4b1!4m6!3m5!1s0x12a5f555ee4a08bd:0xcb43d0a7b4324273!8m2!3d42.5513376!4d1.4724751!16s%2Fg%2F12qh6kh3y?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/La_Massana",
+            "FRA": "https://fr.wikipedia.org/wiki/La_Massana",
+            "GER": "https://de.wikipedia.org/wiki/La_Massana",
+            "ESP": "https://es.wikipedia.org/wiki/La_Massana",
+            "CAT": "https://ca.wikipedia.org/wiki/La_Massana"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-ORD",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Ordino",
+            "ENG": "Ordino"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Ordino",
+            "ENG": "Ordino"
+        },
+        "area": {
+            "value": 89.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 4942,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Ordino,+AD300,+Andorra/@42.6008418,1.455282,12z/data=!3m1!4b1!4m6!3m5!1s0x12af603e4f070a31:0xd664e2fa1e86d309!8m2!3d42.5994433!4d1.5402327!16zL20vMDRuX3lf?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Ordino",
+            "FRA": "https://fr.wikipedia.org/wiki/Ordino",
+            "GER": "https://de.wikipedia.org/wiki/Ordino",
+            "ESP": "https://es.wikipedia.org/wiki/Ordino",
+            "CAT": "https://ca.wikipedia.org/wiki/Ordino"
+        },
+        "info": {}
+    },
+    {
+        "show": true,
+        "code": "AND-SJL",
+        "super": "AND",
+        "name": {
+            "default": "ENG",
+            "ascii": "Sant Julia de Loria",
+            "ENG": "Sant Julia de Loria"
+        },
+        "type": {
+            "default": "ENG",
+            "ascii": "Parish",
+            "ENG": "Parish"
+        },
+        "seat": {
+            "default": "ENG",
+            "ascii": "Sant Julia de Loria",
+            "ENG": "Sant Julia de Loria"
+        },
+        "area": {
+            "value": 60.0,
+            "unit": "sqkm"
+        },
+        "population": [
+            {
+                "value": 9375,
+                "date": "2019",
+                "method": "census"
+            }
+        ],
+        "google_maps": {
+            "link": "https://www.google.com/maps/place/Sant+Juli%C3%A0+de+L%C3%B2ria,+Andorra/@42.4629613,1.4488316,13z/data=!3m1!4b1!4m6!3m5!1s0x12a5f35e6f2d1e33:0xd83c01bf06d727dd!8m2!3d42.4529631!4d1.4918235!16zL20vMDRuX3lo?entry=ttu",
+            "image": {
+                "enabled": false,
+                "lat": 0.0,
+                "long": 0.0,
+                "zoom": 0
+            }
+        },
+        "wikipedia": {
+            "ENG": "https://en.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria",
+            "FRA": "https://fr.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria",
+            "GER": "https://de.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria",
+            "ESP": "https://es.wikipedia.org/wiki/San_Juli%C3%A1n_de_Loria",
+            "CAT": "https://ca.wikipedia.org/wiki/Sant_Juli%C3%A0_de_L%C3%B2ria"
+        },
+        "info": {}
+    }
+]
