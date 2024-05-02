@@ -1,0 +1,262 @@
+[
+    {
+        "code" : "STA-C99A9C27",
+        "name" : {
+            "original" : "Estadi Comunal d'Andorra La Vella",
+            "ascii" : "Estadi Comunal d'Andorra La Vella"
+        },
+        "country" : "AND",
+        "address" : "AD500 Avinguda de Salou 22",
+        "admindiv" : "AND-ALV",
+        "position" : {
+            "latitude" : 42.501328,
+            "longitude" : 1.513946
+        },
+        "capacity" : 1299,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Football Federation of Andorra",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/estadi-comunal-dandorra-la-vella/v615/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-14AD997B",
+        "name" : {
+            "original" : "Camp de Futbol d'Aixovall",
+            "ascii" : "Camp de Futbol d'Aixovall"
+        },
+        "country" : "AND",
+        "address" : "AD600 Carretera d'Os de Civís",
+        "admindiv" : "AND-SJL",
+        "position" : {
+            "latitude" : 42.476365,
+            "longitude" : 1.487929
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [90, 65],
+            "surface" : "artificial grass"
+        },
+        "owner" : "",
+        "opened" : "1999",
+        "tenants" : [],
+        "active" : false,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/devk-arena/v1996/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9C5E02A7",
+        "name" : {
+            "original" : "Camp d'Esports del M. I. Consell General",
+            "ascii" : "Camp d'Esports del M. I. Consell General"
+        },
+        "country" : "AND",
+        "address" : "AD500 Baixada de Molí 31-35",
+        "admindiv" : "AND-ALV",
+        "position" : {
+            "latitude" : 42.504682,
+            "longitude" : 1.517631
+        },
+        "capacity" : 431,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "",
+        "opened" : "1971",
+        "tenants" : [],
+        "active" : false,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-poliesportiu-dandorra/v1997/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-A139E2F2",
+        "name" : {
+            "original" : "Camp de Futbol Municipal d'Encamp",
+            "ascii" : "Camp de Futbol Municipal d'Encamp"
+        },
+        "country" : "AND",
+        "address" : "AD200 Avinguda de Coprincep Episcopal",
+        "admindiv" : "AND-ENC",
+        "position" : {
+            "latitude" : 42.530311,
+            "longitude" : 1.571399
+        },
+        "capacity" : 600,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Encamp",
+        "opened" : null,
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-futbol-municipal-dencamp/v1998/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-6F507845",
+        "name" : {
+            "original" : "Camp de Futbol d'Ordino",
+            "ascii" : "Camp de Futbol d'Ordino"
+        },
+        "country" : "AND",
+        "address" : "AD300 Calle Narciso Yepes",
+        "admindiv" : "AND-ORD",
+        "position" : {
+            "latitude" : 42.554471,
+            "longitude" : 1.531151
+        },
+        "capacity" : 200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Ordino",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-futbol-dordino/v6065/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3BD44596",
+        "name" : {
+            "original" : "Estadi Nacional",
+            "ascii" : "Estadi Nacional"
+        },
+        "country" : "AND",
+        "address" : "AD500 Baixada de Molí 31-35",
+        "admindiv" : "AND-ALV",
+        "position" : {
+            "latitude" : 42.504684,
+            "longitude" : 1.517608
+        },
+        "capacity" : 3306,
+        "record_attendance" : 3631,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Football Federation of Andorra",
+        "opened" : "2014",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/andorra/estadi-nacional/v23221/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3FCB14CC",
+        "name" : {
+            "original" : "",
+            "ascii" : ""
+        },
+        "country" : "AND",
+        "address" : "",
+        "admindiv" : "",
+        "position" : {
+            "latitude" : 0.0,
+            "longitude" : 0.0
+        },
+        "capacity" : 0,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : ""
+        },
+        "owner" : "",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D90881EB",
+        "name" : {
+            "original" : "",
+            "ascii" : ""
+        },
+        "country" : "AND",
+        "address" : "",
+        "admindiv" : "",
+        "position" : {
+            "latitude" : 0.0,
+            "longitude" : 0.0
+        },
+        "capacity" : 0,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : ""
+        },
+        "owner" : "",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "",
+        "photo" : null
+    },
+    {
+        "code" : "STA-353C80B2",
+        "name" : {
+            "original" : "",
+            "ascii" : ""
+        },
+        "country" : "AND",
+        "address" : "",
+        "admindiv" : "",
+        "position" : {
+            "latitude" : 0.0,
+            "longitude" : 0.0
+        },
+        "capacity" : 0,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : ""
+        },
+        "owner" : "",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "",
+        "photo" : null
+    },
+    {
+        "code" : "STA-7A1649F5",
+        "name" : {
+            "original" : "",
+            "ascii" : ""
+        },
+        "country" : "AND",
+        "address" : "",
+        "admindiv" : "",
+        "position" : {
+            "latitude" : 0.0,
+            "longitude" : 0.0
+        },
+        "capacity" : 0,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : ""
+        },
+        "owner" : "",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "",
+        "photo" : null
+    }
+]
