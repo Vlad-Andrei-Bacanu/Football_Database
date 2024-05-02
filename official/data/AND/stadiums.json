@@ -158,105 +158,105 @@
     {
         "code" : "STA-3FCB14CC",
         "name" : {
-            "original" : "",
-            "ascii" : ""
+            "original" : "Centre d'Entrenament de la FAF 1",
+            "ascii" : "Centre d'Entrenament de la FAF 1"
         },
         "country" : "AND",
-        "address" : "",
-        "admindiv" : "",
+        "address" : "AD500 Avenue de Santa Coloma",
+        "admindiv" : "AND-ALV",
         "position" : {
-            "latitude" : 0.0,
-            "longitude" : 0.0
+            "latitude" : 42.497500,
+            "longitude" : 1.507335
         },
-        "capacity" : 0,
+        "capacity" : 200,
         "record_attendance" : null,
         "field" : {
             "size" : [null, null],
-            "surface" : ""
+            "surface" : "artificial grass"
         },
-        "owner" : "",
-        "opened" : "",
+        "owner" : "Football Federation of Andorra",
+        "opened" : "2015",
         "tenants" : [],
         "active" : true,
-        "soccerway" : "",
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-la-borda-mateu/v24741/",
         "photo" : null
     },
     {
         "code" : "STA-D90881EB",
         "name" : {
-            "original" : "",
-            "ascii" : ""
+            "original" : "Centre d'Entrenament de la FAF 2",
+            "ascii" : "Centre d'Entrenament de la FAF 2"
         },
         "country" : "AND",
-        "address" : "",
-        "admindiv" : "",
+        "address" : "AD500 Avenue de Santa Coloma",
+        "admindiv" : "AND-ALV",
         "position" : {
-            "latitude" : 0.0,
-            "longitude" : 0.0
+            "latitude" : 42.497847,
+            "longitude" : 1.508086
         },
-        "capacity" : 0,
+        "capacity" : 100,
         "record_attendance" : null,
         "field" : {
             "size" : [null, null],
-            "surface" : ""
+            "surface" : "artificial grass"
         },
-        "owner" : "",
-        "opened" : "",
+        "owner" : "Football Federation of Andorra",
+        "opened" : "2015",
         "tenants" : [],
         "active" : true,
-        "soccerway" : "",
+        "soccerway" : "https://int.soccerway.com/venues/andorra/centre-dentrenament-de-la-faf-1/v26705/",
         "photo" : null
     },
     {
         "code" : "STA-353C80B2",
         "name" : {
-            "original" : "",
-            "ascii" : ""
+            "original" : "Camp de Futbol 7",
+            "ascii" : "Camp de Futbol 7"
         },
         "country" : "AND",
-        "address" : "",
-        "admindiv" : "",
+        "address" : "AD200 Passeig de l'Alguer",
+        "admindiv" : "AND-ENC",
         "position" : {
-            "latitude" : 0.0,
-            "longitude" : 0.0
+            "latitude" : 42.535963,
+            "longitude" : 1.580891
         },
-        "capacity" : 0,
+        "capacity" : 100,
         "record_attendance" : null,
         "field" : {
             "size" : [null, null],
-            "surface" : ""
+            "surface" : "artificial grass"
         },
         "owner" : "",
         "opened" : "",
         "tenants" : [],
         "active" : true,
-        "soccerway" : "",
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-futbol-7/v31588/",
         "photo" : null
     },
     {
         "code" : "STA-7A1649F5",
         "name" : {
-            "original" : "",
-            "ascii" : ""
+            "original" : "Camp de Futbol La Massana",
+            "ascii" : "Camp de Futbol La Massana"
         },
         "country" : "AND",
-        "address" : "",
-        "admindiv" : "",
+        "address" : "AD400 Zona de la Bòbila",
+        "admindiv" : "AND-LMS",
         "position" : {
-            "latitude" : 0.0,
-            "longitude" : 0.0
+            "latitude" : 42.554066,
+            "longitude" : 1.504814
         },
-        "capacity" : 0,
+        "capacity" : 1000,
         "record_attendance" : null,
         "field" : {
             "size" : [null, null],
-            "surface" : ""
+            "surface" : "artificial grass"
         },
-        "owner" : "",
+        "owner" : "Municipality of La Massana",
         "opened" : "",
         "tenants" : [],
         "active" : true,
-        "soccerway" : "",
+        "soccerway" : "https://int.soccerway.com/venues/andorra/camp-de-futbol-la-massana/v36969/",
         "photo" : null
     }
 ]
