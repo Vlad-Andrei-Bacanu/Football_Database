@@ -1,0 +1,2475 @@
+[
+    {
+        "code" : "STA-19A2783B",
+        "name" : {
+            "original" : "Stadiumi Selman Stërmasi",
+            "ascii" : "Stadiumi Selman Stermasi"
+        },
+        "country" : "ALB",
+        "address" : "1001 Rruga Gjin Bue Shpata 27",
+        "admindiv" : "ALB-TIR-411-E",
+        "position" : {
+            "latitude" : 41.318970,
+            "longitude" : 19.811383
+        },
+        "capacity" : 12724,
+        "record_attendance" : 20000,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Tirana",
+        "opened" : "1956-01-01",
+        "tenants" : [
+            "TEA-A73708A4",
+            "TEA-3BD87001"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-selman-stermasi/v628/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-8E3CBC86",
+        "name" : {
+            "original" : "Stadiumi Kombëtar Qemal Stafa",
+            "ascii" : "Stadiumi Kombetar Qemal Stafa"
+        },
+        "country" : "ALB",
+        "address" : "1010 Sheshi Italia 1",
+        "admindiv" : "ALB-TIR-411-B",
+        "position" : {
+            "latitude" : 41.318379,
+            "longitude" : 19.823965
+        },
+        "capacity" : 19700,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Football Association of Albania",
+        "opened" : "1946-01-01",
+        "tenants" : [
+            "TEA-A73708A4",
+            "TEA-61DB00A9",
+            "Albania"
+        ],
+        "active" : false,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-kombetar-qemal-stafa/v629/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-51A89577",
+        "name" : {
+            "original" : "Stadiumi Loro Boriçi",
+            "ascii" : "Stadiumi Loro Borici"
+        },
+        "country" : "ALB",
+        "address" : "4001 Rruga Djepaxhijej 2",
+        "admindiv" : "ALB-SHK-409",
+        "position" : {
+            "latitude" : 42.069990,
+            "longitude" : 19.506550
+        },
+        "capacity" : 16000,
+        "record_attendance" : 16000,
+        "field" : {
+            "size" : [105, 68],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Shkoder",
+        "opened" : "1952-01-01",
+        "tenants" : [
+            "TEA-226FCAF5",
+            "Albania"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-loro-borici/v630/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-6812E787",
+        "name" : {
+            "original" : "Stadiumi Loni Papuçiu",
+            "ascii" : "Stadiumi Loni Papuciu"
+        },
+        "country" : "ALB",
+        "address" : "9301 Rruga Andon Pjetri 16",
+        "admindiv" : "ALB-FIE-203",
+        "position" : {
+            "latitude" : 40.721076,
+            "longitude" : 19.552034
+        },
+        "capacity" : 6800,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Fier",
+        "opened" : "1958-01-01",
+        "tenants" : [
+            "TEA-0A313174"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-loni-popuciu/v1766/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-32FD7FC3",
+        "name" : {
+            "original" : "Stadiumi Besa",
+            "ascii" : "Stadiumi Besa"
+        },
+        "country" : "ALB",
+        "address" : "2500 Rruga Vangjell Thanasi 7",
+        "admindiv" : "ALB-TIR-203",
+        "position" : {
+            "latitude" : 41.188579,
+            "longitude" : 19.553186
+        },
+        "capacity" : 8000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [105, 70],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kavaje",
+        "opened" : "1974-01-01",
+        "tenants" : [
+            "TEA-24C870A0"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-xhevat-hylviu/v1767/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-5D8B09F1",
+        "name" : {
+            "original" : "Stadiumi Flamurtari",
+            "ascii" : "Stadiumi Flamurtari"
+        },
+        "country" : "ALB",
+        "address" : "9401 Rruga Mato Robi",
+        "admindiv" : "ALB-VLO-705",
+        "position" : {
+            "latitude" : 40.456073,
+            "longitude" : 19.488719
+        },
+        "capacity" : 8800,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Flamurtari Football Club",
+        "opened" : "1961-01-01",
+        "tenants" : [
+            "TEA-9662D0D1"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-flamurtari/v1768/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-49ECB40B",
+        "name" : {
+            "original" : "Stadiumi Gramozi",
+            "ascii" : "Stadiumi Gramozi"
+        },
+        "country" : "ALB",
+        "address" : "7401 Rruga Spiro Ballkameni",
+        "admindiv" : "ALB-KOR-203",
+        "position" : {
+            "latitude" : 40.334861,
+            "longitude" : 20.678761
+        },
+        "capacity" : 6000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [101, 63],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Erseke",
+        "opened" : "2009-01-01",
+        "tenants" : [
+            "TEA-547605DC"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-erseke/v1769/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9E36D222",
+        "name" : {
+            "original" : "Stadiumi Kastrioti",
+            "ascii" : "Stadiumi Kastrioti"
+        },
+        "country" : "ALB",
+        "address" : "0511 Rruga Kryesore",
+        "admindiv" : "ALB-DUR-205",
+        "position" : {
+            "latitude" : 41.512149,
+            "longitude" : 19.786662
+        },
+        "capacity" : 8400,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kruje",
+        "opened" : "2008-01-01",
+        "tenants" : [
+            "TEA-0C96A8FB"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-kastrioti/v1770/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-21C2825D",
+        "name" : {
+            "original" : "Stadiumi Laçi",
+            "ascii" : "Stadiumi Laci"
+        },
+        "country" : "ALB",
+        "address" : "4701 Rruga SH39",
+        "admindiv" : "ALB-LEZ-102",
+        "position" : {
+            "latitude" : 41.642499,
+            "longitude" : 19.711700
+        },
+        "capacity" : 8000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Laci",
+        "opened" : "2010-01-01",
+        "tenants" : [
+            "TEA-14D05078"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-laci/v1771/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-86638523",
+        "name" : {
+            "original" : "Stadiumi Shkumbini",
+            "ascii" : "Stadiumi Shkumbini"
+        },
+        "country" : "ALB",
+        "address" : "3501 Rruga Abdurrahman Pasha",
+        "admindiv" : "ALB-ELB-604",
+        "position" : {
+            "latitude" : 41.042401,
+            "longitude" : 19.752647
+        },
+        "capacity" : 9000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [107, 68],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Shkumbini Peqin",
+        "opened" : "",
+        "tenants" : [
+            "TEA-F89F2A27",
+            "TEA-AD774B8E",
+            "TEA-9D95803B"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-i-qytetit/v1772/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D8CF419B",
+        "name" : {
+            "original" : "Stadiumi Skënderbeu",
+            "ascii" : "Stadiumi Skenderbeu"
+        },
+        "country" : "ALB",
+        "address" : "7001 Rruga Kristaq Papargjiri 1",
+        "admindiv" : "ALB-KOR-302",
+        "position" : {
+            "latitude" : 40.626076,
+            "longitude" : 20.782841
+        },
+        "capacity" : 12343,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [105, 68],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Korce",
+        "opened" : "1957-01-01",
+        "tenants" : [
+            "TEA-9EBA0DF7"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-skenderbeu/v1773/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-EA721705",
+        "name" : {
+            "original" : "Stadiumi Niko Dovana",
+            "ascii" : "Stadiumi Niko Dovana"
+        },
+        "country" : "ALB",
+        "address" : "1761 Rruga Paskal Prodani",
+        "admindiv" : "ALB-DUR-101",
+        "position" : {
+            "latitude" : 41.326007,
+            "longitude" : 19.440796
+        },
+        "capacity" : 12040,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Durres",
+        "opened" : "1965-01-01",
+        "tenants" : [
+            "TEA-7450FB26",
+            "TEA-185D7462"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-niko-dovana/v1774/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-66F58464",
+        "name" : {
+            "original" : "Elbasan Arena",
+            "ascii" : "Elbasan Arena"
+        },
+        "country" : "ALB",
+        "address" : "3001 Sheshi Elbasan Arena 1",
+        "admindiv" : "ALB-ELB-302",
+        "position" : {
+            "latitude" : 41.115889,
+            "longitude" : 20.092007
+        },
+        "capacity" : 12800,
+        "record_attendance" : 12800,
+        "field" : {
+            "size" : [105, 68],
+            "surface" : "grass"
+        },
+        "owner" : "Football Association of Albania",
+        "opened" : "1967-01-01",
+        "tenants" : [
+            "TEA-B08A1977",
+            "Albania",
+            "Albania U21"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-ruzhdi-bizhuta/v3769/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-4DD3B4F7",
+        "name" : {
+            "original" : "Stadiumi Roza Haxhiu",
+            "ascii" : "Stadiumi Roza Haxhiu"
+        },
+        "country" : "ALB",
+        "address" : "9001 Rruga Nexhat Nepravishta",
+        "admindiv" : "ALB-FIE-311",
+        "position" : {
+            "latitude" : 40.935525,
+            "longitude" : 19.709703
+        },
+        "capacity" : 8500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Lushnje",
+        "opened" : "1961-01-01",
+        "tenants" : [
+            "TEA-A781D50A"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-abdurraman-roza-haxhiu/v4153/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-E285403C",
+        "name" : {
+            "original" : "Stadiumi Adush Muçaj",
+            "ascii" : "Stadiumi Adush Mucaj"
+        },
+        "country" : "ALB",
+        "address" : "9308 Rruga Mehmet Shehu",
+        "admindiv" : "ALB-FIE-402",
+        "position" : {
+            "latitude" : 40.602041,
+            "longitude" : 19.740977
+        },
+        "capacity" : 5200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Bylis",
+        "opened" : "",
+        "tenants" : [
+            "TEA-AF641652"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-adush-muca/v4799/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-CE1F10C0",
+        "name" : {
+            "original" : "Stadiumi Kamza",
+            "ascii" : "Stadiumi Kamza"
+        },
+        "country" : "ALB",
+        "address" : "1030 Rruga Venecia",
+        "admindiv" : "ALB-TIR-101",
+        "position" : {
+            "latitude" : 41.384904,
+            "longitude" : 19.761562
+        },
+        "capacity" : 5500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [101, 65],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kamez",
+        "opened" : "2008-01-01",
+        "tenants" : [
+            "TEA-76BA6F9C"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-kamez/v4800/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-62A7C998",
+        "name" : {
+            "original" : "Stadiumi Gjorgji Kyçyku",
+            "ascii" : "Stadiumi Gjorgji Kycyku"
+        },
+        "country" : "ALB",
+        "address" : "7300 Rruga e Stadiumit",
+        "admindiv" : "ALB-KOR-504",
+        "position" : {
+            "latitude" : 40.900221,
+            "longitude" : 20.664031
+        },
+        "capacity" : 5000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [105, 69],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Pogradec",
+        "opened" : "",
+        "tenants" : [
+            "TEA-12F63619"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-xhorxhi-kercuku/v4801/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-83539C1F",
+        "name" : {
+            "original" : "Fusha Sportive Adriatik",
+            "ascii" : "Fusha Sportive Adriatik"
+        },
+        "country" : "ALB",
+        "address" : "4020 Rruga Shkoder - Velipoje",
+        "admindiv" : "ALB-SHK-411",
+        "position" : {
+            "latitude" : 41.872371,
+            "longitude" : 19.401017
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Ada Velipoje",
+        "opened" : "",
+        "tenants" : [
+            "TEA-CF36E978"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-velipoje/v4802/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-52B6824B",
+        "name" : {
+            "original" : "Stadiumi Gjirokastra",
+            "ascii" : "Stadiumi Gjirokastra"
+        },
+        "country" : "ALB",
+        "address" : "6001 Bulevardi 18 Shtatori",
+        "admindiv" : "ALB-GJI-203",
+        "position" : {
+            "latitude" : 40.081273,
+            "longitude" : 20.138041
+        },
+        "capacity" : 8400,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Gjirokaster",
+        "opened" : "1972-01-01",
+        "tenants" : [
+            "TEA-C66A918C"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-subi-bakiri/v4803/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BF389592",
+        "name" : {
+            "original" : "Stadiumi Besëlidhja",
+            "ascii" : "Stadiumi Besëlidhja"
+        },
+        "country" : "ALB",
+        "address" : "4501 Rruga Luigi Gurakuqi",
+        "admindiv" : "ALB-LEZ-205",
+        "position" : {
+            "latitude" : 41.776108,
+            "longitude" : 19.644804
+        },
+        "capacity" : 3500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Beselidhja Lezhe",
+        "opened" : "",
+        "tenants" : [
+            "TEA-C081A99D",
+            "TEA-EA7FA420"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-beselidhja/v4804/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-C66D5FE8",
+        "name" : {
+            "original" : "Fusha Sportive Bilisht",
+            "ascii" : "Fusha Sportive Bilisht"
+        },
+        "country" : "ALB",
+        "address" : "7006 Rruga Jani Karanxha",
+        "admindiv" : "ALB-KOR-101",
+        "position" : {
+            "latitude" : 40.628001,
+            "longitude" : 20.983213
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Bilisht",
+        "opened" : "",
+        "tenants" : [
+            "TEA-3CC2A336",
+            "TEA-46AE435B"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-bilisht/v4805/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-DDC31EA3",
+        "name" : {
+            "original" : "Stadiumi Liri Ballabani",
+            "ascii" : "Stadiumi Liri Ballabani"
+        },
+        "country" : "ALB",
+        "address" : "0217 Rruga Kros Skura",
+        "admindiv" : "ALB-DIB-402",
+        "position" : {
+            "latitude" : 41.608952,
+            "longitude" : 20.007118
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Burrel",
+        "opened" : "1986-01-01",
+        "tenants" : [
+            "TEA-89FB2A8C",
+            "TEA-AB5A233E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-liri-ballabani/v4806/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-47133DD7",
+        "name" : {
+            "original" : "Fusha Sportive Skrapar",
+            "ascii" : "Fusha Sportive Skrapar"
+        },
+        "country" : "ALB",
+        "address" : "5401 Rruga Tefik Rogu",
+        "admindiv" : "ALB-BER-503",
+        "position" : {
+            "latitude" : 40.508989,
+            "longitude" : 20.227572
+        },
+        "capacity" : 1500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Skrapari",
+        "opened" : "",
+        "tenants" : [
+            "TEA-B53836E2"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-skrapar/v4807/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-EC33BCD4",
+        "name" : {
+            "original" : "Stadiumi Nexhip Trungu",
+            "ascii" : "Stadiumi Nexhip Trungu"
+        },
+        "country" : "ALB",
+        "address" : "3007 Rruga Naim Frasheri",
+        "admindiv" : "ALB-ELB-201",
+        "position" : {
+            "latitude" : 41.030249,
+            "longitude" : 19.994047
+        },
+        "capacity" : 6600,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Cerrik",
+        "opened" : "",
+        "tenants" : [
+            "TEA-9D95803B",
+            "TEA-1DD9B4AE"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-nexhip-trungu/v4808/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-DC7E2890",
+        "name" : {
+            "original" : "Fusha Sportive Gramshi",
+            "ascii" : "Fusha Sportive Gramshi"
+        },
+        "country" : "ALB",
+        "address" : "3301 Rruga Sporti",
+        "admindiv" : "ALB-ELB-401",
+        "position" : {
+            "latitude" : 40.861914,
+            "longitude" : 20.186673
+        },
+        "capacity" : 4000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Gramsh",
+        "opened" : "",
+        "tenants" : [
+            "TEA-DD4A6FD0"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-gramshi/v4809/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-50C7CAE1",
+        "name" : {
+            "original" : "Stadiumi Karafil Çaushi",
+            "ascii" : "Stadiumi Karafil Caushi"
+        },
+        "country" : "ALB",
+        "address" : "6302 Rruga Kastriot Lika",
+        "admindiv" : "ALB-GJI-504",
+        "position" : {
+            "latitude" : 40.349092,
+            "longitude" : 19.985750
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Memaliaj",
+        "opened" : "",
+        "tenants" : [
+            "TEA-0101D04D"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-karafil-caushi/v4810/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-436E4B5E",
+        "name" : {
+            "original" : "Stadiumi Sopoti",
+            "ascii" : "Stadiumi Sopoti"
+        },
+        "country" : "ALB",
+        "address" : "3401 Rruga Arberia",
+        "admindiv" : "ALB-ELB-502",
+        "position" : {
+            "latitude" : 41.180705,
+            "longitude" : 20.313416
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Librazhd",
+        "opened" : "1964-01-01",
+        "tenants" : [
+            "TEA-1DD9B4AE"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadium-librazhd/v4811/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-046E41E2",
+        "name" : {
+            "original" : "Stadiumi Durim Qypi",
+            "ascii" : "Stadiumi Durim Qypi"
+        },
+        "country" : "ALB",
+        "address" : "6404 Rruga Permet Tepelene",
+        "admindiv" : "ALB-GJI-603",
+        "position" : {
+            "latitude" : 40.236445,
+            "longitude" : 20.357250
+        },
+        "capacity" : 4000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Permet",
+        "opened" : "",
+        "tenants" : [
+            "TEA-95F25A8E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-durum-qypi/v4812/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D623F986",
+        "name" : {
+            "original" : "Stadiumi Mamurrasi",
+            "ascii" : "Stadiumi Mamurrasi"
+        },
+        "country" : "ALB",
+        "address" : "4704 Rruga Shpani",
+        "admindiv" : "ALB-LEZ-103",
+        "position" : {
+            "latitude" : 41.573237,
+            "longitude" : 19.693394
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Mamurras",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-mamurrasi/v4827/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3021B1B5",
+        "name" : {
+            "original" : "Stadiumi Luz i Vogël",
+            "ascii" : "Stadiumi Luz i Vogel"
+        },
+        "country" : "ALB",
+        "address" : "2507 Rruga Luz i Madh",
+        "admindiv" : "ALB-TIR-204",
+        "position" : {
+            "latitude" : 41.122657,
+            "longitude" : 19.575867
+        },
+        "capacity" : 600,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Luz i Vogel",
+        "opened" : "2008-01-01",
+        "tenants" : [
+            "TEA-9FAB39AF",
+            "TEA-24C870A0"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-luz-i-vogel-2008/v4828/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-B9A41407",
+        "name" : {
+            "original" : "Stadiumi Ismail Xhemali",
+            "ascii" : "Stadiumi Ismail Xhemali"
+        },
+        "country" : "ALB",
+        "address" : "4407 Rruga SH5",
+        "admindiv" : "ALB-SHK-302",
+        "position" : {
+            "latitude" : 42.049956,
+            "longitude" : 19.897982
+        },
+        "capacity" : 1950,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Puke",
+        "opened" : "",
+        "tenants" : [
+            "TEA-B66D10D2",
+            "TEA-94633632"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-ismail-xhemali/v4829/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-C5085656",
+        "name" : {
+            "original" : "Stadiumi Tofik Jashari",
+            "ascii" : "Stadiumi Tofik Jashari"
+        },
+        "country" : "ALB",
+        "address" : "2013 Rruga e Stadiumit",
+        "admindiv" : "ALB-DUR-303",
+        "position" : {
+            "latitude" : 41.345887,
+            "longitude" : 19.555713
+        },
+        "capacity" : 4000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [100, 74],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Shijak",
+        "opened" : "",
+        "tenants" : [
+            "TEA-185D7462",
+            "TEA-9FAB39AF"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-tofik-jashari/v4830/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-5A0E6448",
+        "name" : {
+            "original" : "Stadiumi Redi Maloku",
+            "ascii" : "Stadiumi Redi Maloku"
+        },
+        "country" : "ALB",
+        "address" : "1502 Rruga SH38",
+        "admindiv" : "ALB-DUR-203",
+        "position" : {
+            "latitude" : 41.476624,
+            "longitude" : 19.724541
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Iliria Fushe-Kruje",
+        "opened" : "1991-01-01",
+        "tenants" : [
+            "TEA-B4AC45D9",
+            "TEA-0C96A8FB",
+            "TEA-1DD9B4AE"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-fushe-kruje/v4831/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-B608D3F3",
+        "name" : {
+            "original" : "Kompleksi Vëllezërit Duli",
+            "ascii" : "Kompleksi Vellezerit Duli"
+        },
+        "country" : "ALB",
+        "address" : "4301 Rruga Veleciku",
+        "admindiv" : "ALB-SHK-204",
+        "position" : {
+            "latitude" : 42.218873,
+            "longitude" : 19.431617
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Futboll Klub Veleciku",
+        "opened" : "",
+        "tenants" : [
+            "TEA-94633632"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-impianti-vellezerit-duli/v4832/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-49D803AE",
+        "name" : {
+            "original" : "Stadiumi Sukthi i Ri",
+            "ascii" : "Stadiumi Sukthi i Ri"
+        },
+        "country" : "ALB",
+        "address" : "2020 Rruga Sukth - Vadardhe",
+        "admindiv" : "ALB-DUR-106",
+        "position" : {
+            "latitude" : 41.370013,
+            "longitude" : 19.549648
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [130, 55],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Sukth",
+        "opened" : "2009-01-01",
+        "tenants" : [
+            "TEA-66266893"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-sukthi-i-ri/v4833/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BEFD4838",
+        "name" : {
+            "original" : "Stadiumi Hasan Zyla",
+            "ascii" : "Stadiumi Hasan Zyla"
+        },
+        "country" : "ALB",
+        "address" : "2503 Rruga SH7",
+        "admindiv" : "ALB-TIR-304",
+        "position" : {
+            "latitude" : 41.076655,
+            "longitude" : 19.661777
+        },
+        "capacity" : 1200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Rrogozhine",
+        "opened" : "",
+        "tenants" : [
+            "TEA-AD774B8E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-kf-egnatia/v4834/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-F2F2F856",
+        "name" : {
+            "original" : "Kukës Arena",
+            "ascii" : "Kukes Arena"
+        },
+        "country" : "ALB",
+        "address" : "8501 Rruga Stadiumi",
+        "admindiv" : "ALB-KUK-207",
+        "position" : {
+            "latitude" : 42.079177,
+            "longitude" : 20.420332
+        },
+        "capacity" : 6200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [100, 74],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kukes",
+        "opened" : "2022-01-01",
+        "tenants" : [
+            "TEA-9F5180B1",
+            "TEA-081419BB"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-perparimi/v4835/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-71961C44",
+        "name" : {
+            "original" : "Stadiumi Bashkim Sulejmani",
+            "ascii" : "Stadiumi Bashkim Sulejmani"
+        },
+        "country" : "ALB",
+        "address" : "5306 Rruga Naftetari",
+        "admindiv" : "ALB-BER-302",
+        "position" : {
+            "latitude" : 40.802179,
+            "longitude" : 19.909720
+        },
+        "capacity" : 5000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kucove",
+        "opened" : "",
+        "tenants" : [
+            "TEA-D88FABF6"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-bashkim-sulejmani/v4836/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9B2D859F",
+        "name" : {
+            "original" : "Kompleksi Sportiv i Klubit Olimpik",
+            "ascii" : "Kompleksi Sportiv i Klubit Olimpik"
+        },
+        "country" : "ALB",
+        "address" : "1051 Rruga 28 Nentori",
+        "admindiv" : "ALB-TIR-405",
+        "position" : {
+            "latitude" : 41.353145,
+            "longitude" : 19.742342
+        },
+        "capacity" : 1500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [101, 65],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Klubi i Futbollit Olimpik Tirana",
+        "opened" : "2011-01-01",
+        "tenants" : [
+            "TEA-80C34E39",
+            "TEA-999E6DAB",
+            "TEA-61DB00A9",
+            "TEA-AE1E7C1F",
+            "TEA-D195CC8B"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-i-kubit-olimpik/v4837/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-1FA90990",
+        "name" : {
+            "original" : "Stadiumi Korabi",
+            "ascii" : "Stadiumi Korabi"
+        },
+        "country" : "ALB",
+        "address" : "8304 Rruga Kongresi i Dibres",
+        "admindiv" : "ALB-DIB-210",
+        "position" : {
+            "latitude" : 41.680467,
+            "longitude" : 20.425229
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Korabi Peshkopi",
+        "opened" : "",
+        "tenants" : [
+            "TEA-464B5F4F"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-korabi/v4838/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-66DACFD9",
+        "name" : {
+            "original" : "Fusha Sportive Çlirimi",
+            "ascii" : "Fusha Sportive Clirimi"
+        },
+        "country" : "ALB",
+        "address" : "9302 Rruga e Koliceve",
+        "admindiv" : "ALB-FIE-209",
+        "position" : {
+            "latitude" : 40.736964,
+            "longitude" : 19.524710
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Qender",
+        "opened" : "",
+        "tenants" : [
+            "TEA-9320E945",
+            "KS Fieri"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-clirimi/v4839/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BD36E3AE",
+        "name" : {
+            "original" : "Kompleks Sportiv Zmijani",
+            "ascii" : "Kompleks Sportiv Zmijani"
+        },
+        "country" : "ALB",
+        "address" : "4000 Rruga Ing. Gjovalin Gjadri",
+        "admindiv" : "ALB-SHK-407",
+        "position" : {
+            "latitude" : 42.094878,
+            "longitude" : 19.536056
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Shkoder",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleks-sportiv-zmijani/v6271/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-DE49DBA5",
+        "name" : {
+            "original" : "Stadiumi Tomori",
+            "ascii" : "Stadiumi Tomori"
+        },
+        "country" : "ALB",
+        "address" : "5001 Rruga 5 Maji",
+        "admindiv" : "ALB-BER-101",
+        "position" : {
+            "latitude" : 40.699009,
+            "longitude" : 19.964482
+        },
+        "capacity" : 12000,
+        "record_attendance" : 16500,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Berat",
+        "opened" : "1985-01-01",
+        "tenants" : [
+            "TEA-BF1C18F9"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-jani-kosta/v6272/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-CB958326",
+        "name" : {
+            "original" : "Fusha Sportive Frakull",
+            "ascii" : "Fusha Sportive Frakull"
+        },
+        "country" : "ALB",
+        "address" : "9313 Rruga Hasaj",
+        "admindiv" : "ALB-FIE-204",
+        "position" : {
+            "latitude" : 40.655222,
+            "longitude" : 19.502003
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Frakull",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-frakull/v6273/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D23B3D82",
+        "name" : {
+            "original" : "Stadiumi i Rubikut",
+            "ascii" : "Stadiumi i Rubikut"
+        },
+        "country" : "ALB",
+        "address" : "4603 Rruga Mariane Graf",
+        "admindiv" : "ALB-LEZ-306",
+        "position" : {
+            "latitude" : 41.767081,
+            "longitude" : 19.782821
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Rubik",
+        "opened" : "",
+        "tenants" : [
+            "TEA-2450323F"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-i-rubikut/v6890/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-626A0E50",
+        "name" : {
+            "original" : "Stadiumi Andon Lapa",
+            "ascii" : "Stadiumi Andon Lapa"
+        },
+        "country" : "ALB",
+        "address" : "9701 Rruga Idriz Alidhima",
+        "admindiv" : "ALB-VLO-502",
+        "position" : {
+            "latitude" : 39.874428,
+            "longitude" : 19.995684
+        },
+        "capacity" : 5000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Sarande",
+        "opened" : "",
+        "tenants" : [
+            "TEA-E2842BE7"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-i-futbollit-sarande/v6891/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D52D3F77",
+        "name" : {
+            "original" : "Stadiumi Petro Ruci",
+            "ascii" : "Stadiumi Petro Ruci"
+        },
+        "country" : "ALB",
+        "address" : "9425 Rruga Apelistra",
+        "admindiv" : "ALB-VLO-301",
+        "position" : {
+            "latitude" : 40.102985,
+            "longitude" : 19.740502
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Klubi i Futbollit Oriku",
+        "opened" : "",
+        "tenants" : [
+            "TEA-F4F46221",
+            "TEA-BA281D4F"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-himare/v6892/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-2CC883A2",
+        "name" : {
+            "original" : "Fusha Sportive e Pojanit",
+            "ascii" : "Fusha Sportive e Pojanit"
+        },
+        "country" : "ALB",
+        "address" : "7014 Rruga SH101",
+        "admindiv" : "ALB-KOR-406",
+        "position" : {
+            "latitude" : 40.721472,
+            "longitude" : 20.837349
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Pojan",
+        "opened" : "",
+        "tenants" : [
+            "TEA-0E718394"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-e-pojanit/v6893/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-A0A6FFCE",
+        "name" : {
+            "original" : "Stadiumi Domosdova",
+            "ascii" : "Stadiumi Domosdova"
+        },
+        "country" : "ALB",
+        "address" : "3413 Rruga SH3",
+        "admindiv" : "ALB-ELB-701",
+        "position" : {
+            "latitude" : 41.067924,
+            "longitude" : 20.544228
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Prrenjas",
+        "opened" : "",
+        "tenants" : [
+            "TEA-14758323"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-domosdova/v6894/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-6797E4F0",
+        "name" : {
+            "original" : "Fusha Sportive Delvinë",
+            "ascii" : "Fusha Sportive Delvine"
+        },
+        "country" : "ALB",
+        "address" : "9704 Rruga Mehmet Ali Pasha",
+        "admindiv" : "ALB-VLO-101",
+        "position" : {
+            "latitude" : 39.952107,
+            "longitude" : 20.101926
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Delvine",
+        "opened" : "",
+        "tenants" : [
+            "TEA-06D41862"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-delvine/v6895/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9582E9C8",
+        "name" : {
+            "original" : "Stadiumi Demir Allamani",
+            "ascii" : "Stadiumi Demir Allamani"
+        },
+        "country" : "ALB",
+        "address" : "6402 Rruga Syrja Sakollari",
+        "admindiv" : "ALB-GJI-303",
+        "position" : {
+            "latitude" : 40.313069,
+            "longitude" : 20.195450
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Kelcyre",
+        "opened" : "",
+        "tenants" : [
+            "TEA-4FADF5A4"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-kelcyre/v6896/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BD67307A",
+        "name" : {
+            "original" : "Stadiumi Alosh Noga",
+            "ascii" : "Stadiumi Alosh Noga"
+        },
+        "country" : "ALB",
+        "address" : "9307 Rruga Unaza",
+        "admindiv" : "ALB-FIE-501",
+        "position" : {
+            "latitude" : 40.683994,
+            "longitude" : 19.627274
+        },
+        "capacity" : 2150,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Patos",
+        "opened" : "2013-01-01",
+        "tenants" : [
+            "TEA-F40A85D8"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-alush-noga/v6898/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-027547D7",
+        "name" : {
+            "original" : "Stadiumi Jovan Asko",
+            "ascii" : "Stadiumi Jovan Asko"
+        },
+        "country" : "ALB",
+        "address" : "7005 Rruga 5 Maji",
+        "admindiv" : "ALB-KOR-403",
+        "position" : {
+            "latitude" : 40.709321,
+            "longitude" : 20.701260
+        },
+        "capacity" : 1500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Maliq",
+        "opened" : "",
+        "tenants" : [
+            "TEA-718E7BCB"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-maliq/v6899/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-CB96F38C",
+        "name" : {
+            "original" : "Stadiumi Poliçani",
+            "ascii" : "Stadiumi Policani"
+        },
+        "country" : "ALB",
+        "address" : "5403 Rruga Shkallet e Kombinatit",
+        "admindiv" : "ALB-BER-401",
+        "position" : {
+            "latitude" : 40.609288,
+            "longitude" : 20.096823
+        },
+        "capacity" : 1500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Polican",
+        "opened" : "",
+        "tenants" : [
+            "TEA-66DCCFE1"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-policani/v6900/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-103CD1F1",
+        "name" : {
+            "original" : "Stadiumi Sabaudin Shehu",
+            "ascii" : "Stadiumi Sabaudin Shehu"
+        },
+        "country" : "ALB",
+        "address" : "6301 Rruga Ali Pasha Tepelena",
+        "admindiv" : "ALB-GJI-704",
+        "position" : {
+            "latitude" : 40.300132,
+            "longitude" : 20.018207
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Tepelene",
+        "opened" : "",
+        "tenants" : [
+            "TEA-06D41862",
+            "TEA-A861919E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-karafil-muco/v6901/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-B9961D8A",
+        "name" : {
+            "original" : "Qendra Stërvitore Skënder Halili",
+            "ascii" : "Qendra stervitore Skender Halili"
+        },
+        "country" : "ALB",
+        "address" : "1027 Rruga Bedri Karapici",
+        "admindiv" : "ALB-TIR-411-F",
+        "position" : {
+            "latitude" : 41.318848,
+            "longitude" : 19.788458
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [
+            "TEA-3BD87001"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/qendra-stervitore-skender-halili/v7207/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-26E94EA0",
+        "name" : {
+            "original" : "Kompleksi Stërvitor i Ekipeve Kombëtare",
+            "ascii" : "Kompleksi Stervitor i Ekipeve Kombetare"
+        },
+        "country" : "ALB",
+        "address" : "1030 Rruga OSBE",
+        "admindiv" : "ALB-TIR-101",
+        "position" : {
+            "latitude" : 41.380880,
+            "longitude" : 19.767148
+        },
+        "capacity" : 500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Kamez",
+        "opened" : "2004-01-01",
+        "tenants" : [
+            "TEA-999E6DAB",
+            "TEA-AB5A233E",
+            "TEA-61DB00A9",
+            "TEA-3BD87001"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksin-stervitor-te-ekipeve-kombetare/v11347/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9F8684F6",
+        "name" : {
+            "original" : "Kompleksi Sportiv Dinamo",
+            "ascii" : "Kompleksi Sportiv Dinamo"
+        },
+        "country" : "ALB",
+        "address" : "8363 Rruga e Kosovareve",
+        "admindiv" : "ALB-TIR-411-E",
+        "position" : {
+            "latitude" : 41.314992,
+            "longitude" : 19.810126
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-dinamo/v11389/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-582CBE59",
+        "name" : {
+            "original" : "Fusha Stërvitore pranë Stadiumit Selman Stërmasi",
+            "ascii" : "Fusha Stervitore prane Stadiumit Selman Stermasi"
+        },
+        "country" : "ALB",
+        "address" : "0001 Rruga Sulejman Delvina",
+        "admindiv" : "ALB-TIR-411-E",
+        "position" : {
+            "latitude" : 41.319143,
+            "longitude" : 19.809303
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-stervitore-prane-stadiumit-selman-stermasi/v16416/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3471B4FD",
+        "name" : {
+            "original" : "Fusha Sportive Finiq",
+            "ascii" : "Fusha Sportive Finiq"
+        },
+        "country" : "ALB",
+        "address" : "9716 Rruga SH83",
+        "admindiv" : "ALB-VLO-203",
+        "position" : {
+            "latitude" : 39.907140,
+            "longitude" : 20.054717
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "sand"
+        },
+        "owner" : "Municipality of Finiq",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-finiq/v16419/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-9376B456",
+        "name" : {
+            "original" : "Fusha Sportive Lëpushë",
+            "ascii" : "Fusha Sportive Lepushe"
+        },
+        "country" : "ALB",
+        "address" : "4304 Rruga SH20",
+        "admindiv" : "ALB-SHK-203",
+        "position" : {
+            "latitude" : 42.531959,
+            "longitude" : 19.718348
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "sand"
+        },
+        "owner" : "Municipality of Kelmend",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-lepushe/v16420/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-8E41F1F6",
+        "name" : {
+            "original" : "Stadiumi Vora",
+            "ascii" : "Stadiumi Vora"
+        },
+        "country" : "ALB",
+        "address" : "1032 Rruga Stadiumi",
+        "admindiv" : "ALB-TIR-503",
+        "position" : {
+            "latitude" : 41.403374,
+            "longitude" : 19.642380
+        },
+        "capacity" : 1200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Vore",
+        "opened" : "",
+        "tenants" : [
+            "TEA-55A211BD",
+            "TEA-F282B07B"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-vore/v16487/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-952C7244",
+        "name" : {
+            "original" : "Fusha Sportive Orikum",
+            "ascii" : "Fusha Sportive Orikum"
+        },
+        "country" : "ALB",
+        "address" : "9426 Rruga Jul Cezari",
+        "admindiv" : "ALB-VLO-702",
+        "position" : {
+            "latitude" : 40.327273,
+            "longitude" : 19.475519
+        },
+        "capacity" : 200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Orikum",
+        "opened" : "",
+        "tenants" : [
+            "TEA-BA281D4F"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-orikum/v19756/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-634C6FA9",
+        "name" : {
+            "original" : "Fusha Sportive e Kompleksit Tropikal",
+            "ascii" : "Fusha Sportive e Kompleksit Tropikal"
+        },
+        "country" : "ALB",
+        "address" : "2001 Rruga Prometeu",
+        "admindiv" : "ALB-DUR-101",
+        "position" : {
+            "latitude" : 41.291012,
+            "longitude" : 19.509034
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Durres",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-e-kompleksit-tropikal/v23071/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-91172E00",
+        "name" : {
+            "original" : "Kompleksi Internacional",
+            "ascii" : "Kompleksi Internacional"
+        },
+        "country" : "ALB",
+        "address" : "1038 Rruga Kavajes",
+        "admindiv" : "ALB-TIR-409",
+        "position" : {
+            "latitude" : 41.269059,
+            "longitude" : 19.700287
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Peze Helmes",
+        "opened" : "2014-01-01",
+        "tenants" : [
+            "TEA-CE0C5148",
+            "TEA-A73708A4",
+            "TEA-185D7462",
+            "TEA-201563B1",
+            "TEA-61DB00A9",
+            "TEA-1DD9B4AE",
+            "TEA-F282B07B"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/internacional-tirana-stadiumi/v23099/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D5EE6E01",
+        "name" : {
+            "original" : "Fusha Sportive Reshit Rusi",
+            "ascii" : "Fusha Sportive Reshit Rusi"
+        },
+        "country" : "ALB",
+        "address" : "4001 Rruga Marie Shllaku 9",
+        "admindiv" : "ALB-SHK-409",
+        "position" : {
+            "latitude" : 42.072543,
+            "longitude" : 19.526359
+        },
+        "capacity" : 1200,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Shkoder",
+        "opened" : "",
+        "tenants" : [
+            "TEA-CF36E978",
+            "TEA-94633632",
+            "TEA-226FCAF5"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-reshit-rusi/v24530/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-4153B215",
+        "name" : {
+            "original" : "Kompleksi Kevitan",
+            "ascii" : "Kompleksi Kevitan"
+        },
+        "country" : "ALB",
+        "address" : "1051 Rruga Gryka e Kacanikut",
+        "admindiv" : "ALB-TIR-405",
+        "position" : {
+            "latitude" : 41.352629,
+            "longitude" : 19.751407
+        },
+        "capacity" : 500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Yrshek",
+        "opened" : "",
+        "tenants" : [
+            "TEA-999E6DAB",
+            "TEA-AE1E7C1F"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-kevitan/v25604/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-B764D758",
+        "name" : {
+            "original" : "Stadiumi Shënkoll",
+            "ascii" : "Stadiumi Shenkoll"
+        },
+        "country" : "ALB",
+        "address" : "4510 Rruga Lezhe - Shenkoll",
+        "admindiv" : "ALB-LEZ-208",
+        "position" : {
+            "latitude" : 41.692653,
+            "longitude" : 19.651339
+        },
+        "capacity" : 500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Shenkoll",
+        "opened" : "",
+        "tenants" : [
+            "TEA-EA7FA420"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-shenkoll/v26773/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-D99B107D",
+        "name" : {
+            "original" : "Kompleksi Sportiv Shefqet Lamçja",
+            "ascii" : "Kompleksi Sportiv Shefqet Lamcja"
+        },
+        "country" : "ALB",
+        "address" : "3001 Rruga Ndricim Shehu",
+        "admindiv" : "ALB-ELB-302",
+        "position" : {
+            "latitude" : 41.108861,
+            "longitude" : 20.086696
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Elbasan",
+        "opened" : "",
+        "tenants" : [
+            "TEA-14758323",
+            "TEA-3E257B1F",
+            "TEA-1DD9B4AE"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-shefqet-lamcja/v30015/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3F42911E",
+        "name" : {
+            "original" : "Air Albania Stadium",
+            "ascii" : "Air Albania Stadium"
+        },
+        "country" : "ALB",
+        "address" : "1011 Sheshi Italia 1",
+        "admindiv" : "ALB-TIR-411-B",
+        "position" : {
+            "latitude" : 41.318391,
+            "longitude" : 19.824131
+        },
+        "capacity" : 22500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [110, 68],
+            "surface" : "grass"
+        },
+        "owner" : "Football Association of Albania",
+        "opened" : "2019-01-01",
+        "tenants" : [
+            "Albania",
+            "TEA-61DB00A9",
+            "TEA-3BD87001"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/arena-kombetare/v32251/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-89FD1F16",
+        "name" : {
+            "original" : "Stadiumi Mirdita",
+            "ascii" : "Stadiumi Mirdita"
+        },
+        "country" : "ALB",
+        "address" : "4601 Rruga Vincenco D'Paoli",
+        "admindiv" : "ALB-LEZ-305",
+        "position" : {
+            "latitude" : 41.765567,
+            "longitude" : 19.878405
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Rreshen",
+        "opened" : "",
+        "tenants" : [
+            "TEA-FB5AAEC7"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/mirdita-stadium/v34099/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-7E5A4B0E",
+        "name" : {
+            "original" : "Stadiumi Selenicë",
+            "ascii" : "Stadiumi Selenice"
+        },
+        "country" : "ALB",
+        "address" : "9427 Rruga 21 Shkurti",
+        "admindiv" : "ALB-VLO-604",
+        "position" : {
+            "latitude" : 40.530830,
+            "longitude" : 19.632987
+        },
+        "capacity" : 4000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Selenice",
+        "opened" : "",
+        "tenants" : [
+            "TEA-013F95B4"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/selenice-stadium/v34102/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-94B46122",
+        "name" : {
+            "original" : "Kompleksi Football Republic",
+            "ascii" : "Kompleksi Football Republic"
+        },
+        "country" : "ALB",
+        "address" : "1034 Rruga Adem Gurra",
+        "admindiv" : "ALB-TIR-408",
+        "position" : {
+            "latitude" : 41.271713,
+            "longitude" : 19.906358
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [
+            "TEA-9F5180B1"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-football-republic/v36662/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-A8AE67A3",
+        "name" : {
+            "original" : "Olympic Park Durrës",
+            "ascii" : "Olympic Park Durres"
+        },
+        "country" : "ALB",
+        "address" : "2001 Rruga Vath Turja",
+        "admindiv" : "ALB-DUR-103",
+        "position" : {
+            "latitude" : 41.384874,
+            "longitude" : 19.450773
+        },
+        "capacity" : 300,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Durres",
+        "opened" : "2018-01-01",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/olympic-park-durres/v36663/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-A95B885F",
+        "name" : {
+            "original" : "Fusha Sportive Porto",
+            "ascii" : "Fusha Sportive Porto"
+        },
+        "country" : "ALB",
+        "address" : "4501 Rruga Luigj Gurakuqi",
+        "admindiv" : "ALB-LEZ-205",
+        "position" : {
+            "latitude" : 41.775846,
+            "longitude" : 19.643253
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Lezhe",
+        "opened" : "",
+        "tenants" : [
+            "TEA-FB5AAEC7"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-sportive-porto/v36667/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-575B73AA",
+        "name" : {
+            "original" : "Stadiumi Tropojë",
+            "ascii" : "Stadiumi Tropoje"
+        },
+        "country" : "ALB",
+        "address" : "8701 Rruga Sylejman Vokshi",
+        "admindiv" : "ALB-KUK-301",
+        "position" : {
+            "latitude" : 42.360544,
+            "longitude" : 20.073746
+        },
+        "capacity" : 3000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Bajram Curri",
+        "opened" : "",
+        "tenants" : [
+            "TEA-612A0EA6"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-tropoje/v36784/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BFF9CACD",
+        "name" : {
+            "original" : "Kompleksi Sportiv Labëria",
+            "ascii" : "Kompleksi Sportiv Laberia"
+        },
+        "country" : "ALB",
+        "address" : "9414 Rruga Pishave",
+        "admindiv" : "ALB-VLO-703",
+        "position" : {
+            "latitude" : 40.490848,
+            "longitude" : 19.452775
+        },
+        "capacity" : 300,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Qender Vlore",
+        "opened" : "",
+        "tenants" : [
+            "TEA-3B2AE96E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-laberia/v36998/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-3BA7B403",
+        "name" : {
+            "original" : "Aneksi i Stadiumit Skënderbeu",
+            "ascii" : "Aneksi i Stadiumit Skenderbeu"
+        },
+        "country" : "ALB",
+        "address" : "7001 Rruga Kristaq Papargjiri",
+        "admindiv" : "ALB-KOR-302",
+        "position" : {
+            "latitude" : 40.627961,
+            "longitude" : 20.782191
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Korce",
+        "opened" : "",
+        "tenants" : [
+            "TEA-718E7BCB"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/aneksi-i-stadiumit-skenderbeu-korce/v37030/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-04CC3EDE",
+        "name" : {
+            "original" : "Fusha e Sportit Barbullush",
+            "ascii" : "Fusha e Sportit Barbullush"
+        },
+        "country" : "ALB",
+        "address" : "4506 Rruga Marka Tishi",
+        "admindiv" : "ALB-SHK-501",
+        "position" : {
+            "latitude" : 41.928396,
+            "longitude" : 19.552545
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Barbullush",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-e-sportit-barbullush/v38840/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-5F50721F",
+        "name" : {
+            "original" : "Arena Egnatia",
+            "ascii" : "Arena Egnatia"
+        },
+        "country" : "ALB",
+        "address" : "2503 Rruga SH7",
+        "admindiv" : "ALB-TIR-304",
+        "position" : {
+            "latitude" : 41.076646,
+            "longitude" : 19.611777
+        },
+        "capacity" : 4000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Rrogozhine",
+        "opened" : "2021-01-01",
+        "tenants" : [
+            "TEA-AD774B8E"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/arena-egnatia/v40950/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-17717FA7",
+        "name" : {
+            "original" : "Aneksi i Stadiumit Loni Papuçiu",
+            "ascii" : "Aneksi i Stadiumit Loni Papuciu"
+        },
+        "country" : "ALB",
+        "address" : "9034 Rruga Hasan Dishnica",
+        "admindiv" : "ALB-FIE-203",
+        "position" : {
+            "latitude" : 40.719816,
+            "longitude" : 19.551403
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Fier",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/aneksi-i-stadiumit-loni-papuciu/v42397/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-DFF3C222",
+        "name" : {
+            "original" : "Arena e Demave",
+            "ascii" : "Arena e Demave"
+        },
+        "country" : "ALB",
+        "address" : "1700 Rruga Dhimiter Mole",
+        "admindiv" : "ALB-TIR-411-D",
+        "position" : {
+            "latitude" : 41.356205,
+            "longitude" : 19.851240
+        },
+        "capacity" : 5000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [
+            "TEA-61DB00A9"
+        ],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-partizani/v42430/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-2526F5FA",
+        "name" : {
+            "original" : "Stadiumi i Vjetër",
+            "ascii" : "Stadiumi i Vjeter"
+        },
+        "country" : "ALB",
+        "address" : "5001 Bulevardi Republika",
+        "admindiv" : "ALB-BER-101",
+        "position" : {
+            "latitude" : 40.701046,
+            "longitude" : 19.958164
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Berat",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-i-vjeter/v43352/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-7E479A95",
+        "name" : {
+            "original" : "Kompleksi Sportiv Dinamo 2",
+            "ascii" : "Kompleksi Sportiv Dinamo 2"
+        },
+        "country" : "ALB",
+        "address" : "8363 Rruga e Kosovareve",
+        "admindiv" : "ALB-TIR-411-E",
+        "position" : {
+            "latitude" : 41.314565,
+            "longitude" : 19.811342
+        },
+        "capacity" : 1500,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-dinamo-2/v45284/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-24CBEF8E",
+        "name" : {
+            "original" : "Stadiumi Allkaj",
+            "ascii" : "Stadiumi Allkaj"
+        },
+        "country" : "ALB",
+        "address" : "9005 Rruga Pushimi Shoferit - Fier-Shegan",
+        "admindiv" : "ALB-FIE-301",
+        "position" : {
+            "latitude" : 40.858136,
+            "longitude" : 19.753443
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Allkaj",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/stadiumi-allkaj/v45340/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-EDDD885B",
+        "name" : {
+            "original" : "Kompleksi Sportiv FC Dinamo",
+            "ascii" : "Kompleksi Sportiv FC Dinamo"
+        },
+        "country" : "ALB",
+        "address" : "1041 Rruga B-22",
+        "admindiv" : "ALB-TIR-412",
+        "position" : {
+            "latitude" : 41.267336,
+            "longitude" : 19.796530
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "grass"
+        },
+        "owner" : "Municipality of Tirana",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-fc-dinamo/v45342/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-BF6D21CC",
+        "name" : {
+            "original" : "Kompleksi Sportiv Egnatia",
+            "ascii" : "Kompleksi Sportiv Egnatia"
+        },
+        "country" : "ALB",
+        "address" : "2507 Rruga SH4",
+        "admindiv" : "ALB-TIR-303",
+        "position" : {
+            "latitude" : 41.113223,
+            "longitude" : 19.607325
+        },
+        "capacity" : 1000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Lekaj",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/kompleksi-sportiv-egnatia/v45343/",
+        "photo" : null
+    },
+    {
+        "code" : "STA-5A6D2A13",
+        "name" : {
+            "original" : "Fusha e Plugut KF Lushnja",
+            "ascii" : "Fusha e Plugut KF Lushnja"
+        },
+        "country" : "ALB",
+        "address" : "9012 Rruga Plug",
+        "admindiv" : "ALB-FIE-306",
+        "position" : {
+            "latitude" : 40.947523,
+            "longitude" : 19.669349
+        },
+        "capacity" : 2000,
+        "record_attendance" : null,
+        "field" : {
+            "size" : [null, null],
+            "surface" : "artificial grass"
+        },
+        "owner" : "Municipality of Lushnje",
+        "opened" : "",
+        "tenants" : [],
+        "active" : true,
+        "soccerway" : "https://int.soccerway.com/venues/albania/fusha-e-plugut-kf-lushnja/v45367/",
+        "photo" : null
+    }
+]
