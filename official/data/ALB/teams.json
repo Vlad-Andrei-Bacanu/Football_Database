@@ -1,0 +1,4439 @@
+[
+    {
+        "code" : "TEA-A73708A4",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Dinamo City",
+                "medium" : "FC Dinamo City",
+                "short" : "Dinamo"
+            },
+            "ascii" : {
+                "long" : "Football Club Dinamo City",
+                "medium" : "FC Dinamo City",
+                "short" : "Dinamo"
+            },
+            "key" : "Dinamo City"
+        },
+        "abbreviations" : ["DIN", "DCI"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Grigor Heba",
+                "ascii" : "Rruga Grigor Heba"
+            },
+            "streetnumber" : "1",
+            "postcode" : "1001",
+            "admindiv" : "ALB-TIR-411-E"
+        },
+        "contact" : {
+            "website" : "https://fcdinamocity.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-dinamo-tirana/68/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FC_Dinamo_City",
+            "phone" : "+355 (422) 511 75",
+            "fax" : "+355 (422) 223 792",
+            "email" : "info@dinamo.al"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-AD774B8E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Egnatia Rrogozhinë",
+                "medium" : "KF Egnatia Rrogozhinë",
+                "short" : "Egnatia"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Egnatia Rrogozhine",
+                "medium" : "KF Egnatia Rrogozhine",
+                "short" : "Egnatia"
+            },
+            "key" : "Egnatia Rrogozhine"
+        },
+        "abbreviations" : ["EGR", "ERR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Rrogozhinë",
+                "ascii" : "Rrogozhine"
+            },
+            "street" : {
+                "original" : "Rruga SH7",
+                "ascii" : "Rruga SH7"
+            },
+            "streetnumber" : "",
+            "postcode" : "2503",
+            "admindiv" : "ALB-TIR-304"
+        },
+        "contact" : {
+            "website" : "http://kfegnatia.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-egnatia-rrogozhine/3061/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Egnatia",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-185D7462",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Erzeni Shijak",
+                "medium" : "KF Erzeni Shijak",
+                "short" : "Erzeni"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Erzeni Shijak",
+                "medium" : "KF Erzeni Shijak",
+                "short" : "Erzeni"
+            },
+            "key" : "Erzeni Shijak"
+        },
+        "abbreviations" : ["ERZ", "ESJ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shijak",
+                "ascii" : "Shijak"
+            },
+            "street" : {
+                "original" : "Rruga e Stadiumit",
+                "ascii" : "Rruga e Stadiumit"
+            },
+            "streetnumber" : "",
+            "postcode" : "2013",
+            "admindiv" : "ALB-DUR-303"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-erzeni-shijak/2515/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Erzeni",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9F5180B1",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Kukësi",
+                "medium" : "FK Kukësi",
+                "short" : "Kukësi"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Kukesi",
+                "medium" : "FK Kukesi",
+                "short" : "Kukesi"
+            },
+            "key" : "Kukesi"
+        },
+        "abbreviations" : ["KUK", "KKS"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kukës",
+                "ascii" : "Kukes"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi",
+                "ascii" : "Rruga Stadiumi"
+            },
+            "streetnumber" : "",
+            "postcode" : "8501",
+            "admindiv" : "ALB-KUK-207"
+        },
+        "contact" : {
+            "website" : "https://fk-kukesi.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-perparimi-kukes/12573/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Kuk%C3%ABsi",
+            "phone" : "+355 69 500 5050",
+            "fax" : "",
+            "email" : "info@fk-kukesi.al"
+        },
+        "reserves" : {
+            "2" : "https://int.soccerway.com/teams/albania/kukesi-ii/37851/"
+        }
+    },
+    {
+        "code" : "TEA-14D05078",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Laçi",
+                "medium" : "KF Laçi",
+                "short" : "Laçi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Laci",
+                "medium" : "KF Laci",
+                "short" : "Laci"
+            },
+            "key" : "Laci"
+        },
+        "abbreviations" : ["LAC", "KFL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Laç",
+                "ascii" : "Lac"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi Laçit",
+                "ascii" : "Rruga Stadiumi Lacit"
+            },
+            "streetnumber" : "",
+            "postcode" : "4701",
+            "admindiv" : "ALB-LEZ-102"
+        },
+        "contact" : {
+            "website" : "https://kflaci.com/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-laci/2522/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_La%C3%A7i",
+            "phone" : "+355 22 2190",
+            "fax" : "",
+            "email" : "kf_laci@live.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-61DB00A9",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Partizani Tirana",
+                "medium" : "FK Partizani Tirana",
+                "short" : "Partizani"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Partizani Tirana",
+                "medium" : "FK Partizani Tirana",
+                "short" : "Partizani"
+            },
+            "key" : "Partizani Tirana"
+        },
+        "abbreviations" : ["PAR", "PTI"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Frosina Plaku",
+                "ascii" : "Rruga Frosina Plaku"
+            },
+            "streetnumber" : "",
+            "postcode" : "1026",
+            "admindiv" : "ALB-TIR-411-G"
+        },
+        "contact" : {
+            "website" : "https://partizani.al/sq/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-partizani-tirana/69/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Partizani_Tirana",
+            "phone" : "+355 (422) 693 76",
+            "fax" : "+355 (422) 693 76",
+            "email" : "info@fcp.al"
+        },
+        "reserves" : {
+            "2" : "https://int.soccerway.com/teams/albania/partizani-tirana-ii/25563/"
+        }
+    },
+    {
+        "code" : "TEA-9EBA0DF7",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik Skënderbeu Korçë",
+                "medium" : "KF Skënderbeu Korçë",
+                "short" : "Skënderbeu"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik Skenderbeu Korce",
+                "medium" : "KF Skenderbeu Korce",
+                "short" : "Skenderbeu"
+            },
+            "key" : "Skenderbeu Korce"
+        },
+        "abbreviations" : ["SKO", "KOR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Korçë",
+                "ascii" : "Korce"
+            },
+            "street" : {
+                "original" : "Rruga Gjergj Kastrioti",
+                "ascii" : "Rruga Gjergj Kastrioti"
+            },
+            "streetnumber" : "",
+            "postcode" : "7001",
+            "admindiv" : "ALB-KOR-302"
+        },
+        "contact" : {
+            "website" : "http://www.kfskenderbeu.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-skenderbeu-korce/2518/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB",
+            "phone" : "+355 (82) 422 241",
+            "fax" : "+355 (82) 422 241",
+            "email" : "info@kfskenderbeu.al"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-7450FB26",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik Teuta Durrës",
+                "medium" : "KF Teuta Durrës",
+                "short" : "Teuta"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik Teuta Durres",
+                "medium" : "KF Teuta Durres",
+                "short" : "Teuta"
+            },
+            "key" : "Teuta Durres"
+        },
+        "abbreviations" : ["TEU", "TED"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Durrës",
+                "ascii" : "Durres"
+            },
+            "street" : {
+                "original" : "Rruga A. Goga",
+                "ascii" : "Rruga A. Goga"
+            },
+            "streetnumber" : "",
+            "postcode" : "2001",
+            "admindiv" : "ALB-DUR-101"
+        },
+        "contact" : {
+            "website" : "http://kfteuta.com/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-teuta-durres/71/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Teuta_Durr%C3%ABs",
+            "phone" : "+355 (52) 221 798",
+            "fax" : "+355 (52) 221 795",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-3BD87001",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Tirana",
+                "medium" : "KF Tirana",
+                "short" : "Tirana"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Tirana",
+                "medium" : "KF Tirana",
+                "short" : "Tirana"
+            },
+            "key" : "Tirana"
+        },
+        "abbreviations" : ["TIR", "KFT"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Muhamet Gjollesha",
+                "ascii" : "Rruga Muhamet Gjollesha"
+            },
+            "streetnumber" : "",
+            "postcode" : "1023",
+            "admindiv" : "ALB-TIR-411-G"
+        },
+        "contact" : {
+            "website" : "http://www.kftirana.info/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-tirana/67/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Tirana",
+            "phone" : "+355 (422) 568 99",
+            "fax" : "+355 (422) 568 99",
+            "email" : "kftirana@albamail.com"
+        },
+        "reserves" : {
+            "2" : "https://int.soccerway.com/teams/albania/tirana-ii/31653/"
+        }
+    },
+    {
+        "code" : "TEA-226FCAF5",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Vllaznia Shkodër",
+                "medium" : "KF Vllaznia Shkodër",
+                "short" : "Vllaznia"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Vllaznia Shkoder",
+                "medium" : "KF Vllaznia Shkoder",
+                "short" : "Vllaznia"
+            },
+            "key" : "Vllaznia Shkoder"
+        },
+        "abbreviations" : ["VLL", "VSK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shkodër",
+                "ascii" : "Shkoder"
+            },
+            "street" : {
+                "original" : "Rruga Musa Luli",
+                "ascii" : "Rruga Musa Luli"
+            },
+            "streetnumber" : "1",
+            "postcode" : "4000",
+            "admindiv" : "ALB-SHK-409"
+        },
+        "contact" : {
+            "website" : "https://www.vllaznia.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-vllaznia-shkoder/70/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Vllaznia_Shkod%C3%ABr",
+            "phone" : "+355 (22) 242 305",
+            "fax" : "+355 (22) 247 513",
+            "email" : "info@vllaznia.al"
+        },
+        "reserves" : {
+            "2" : "https://int.soccerway.com/teams/albania/vllaznia-shkoder-ii/37852/"
+        }
+    },
+    {
+        "code" : "TEA-B08A1977",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Akademia e Futbollit Elbasani",
+                "medium" : "AF Elbasani",
+                "short" : "Elbasani"
+            },
+            "ascii" : {
+                "long" : "Akademia e Futbollit Elbasani",
+                "medium" : "AF Elbasani",
+                "short" : "Elbasani"
+            },
+            "key" : "Elbasani"
+        },
+        "abbreviations" : ["ELB", "AFE"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Elbasan",
+                "ascii" : "Elbasan"
+            },
+            "street" : {
+                "original" : "Rruga Besim Qorri",
+                "ascii" : "Rruga Besim Qorri"
+            },
+            "streetnumber" : "",
+            "postcode" : "3001",
+            "admindiv" : "ALB-ELB-302"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/af-elbasani/60655/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/AF_Elbasani",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-0A313174",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Apolonia Fier",
+                "medium" : "KF Apolonia Fier",
+                "short" : "Apolonia"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Apolonia Fier",
+                "medium" : "KF Apolonia Fier",
+                "short" : "Apolonia"
+            },
+            "key" : "Apolonia Fier"
+        },
+        "abbreviations" : ["APO", "APF"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Fier",
+                "ascii" : "Fier"
+            },
+            "street" : {
+                "original" : "Rruga R. Aranitasi",
+                "ascii" : "Rruga R. Aranitasi"
+            },
+            "streetnumber" : "",
+            "postcode" : "9301",
+            "admindiv" : "ALB-FIE-203"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-apolonia-fier/2512/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Apolonia_Fier",
+            "phone" : "+355 (34) 251 311",
+            "fax" : "+355 (34) 251 312",
+            "email" : "kfapolonia@yahoo.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-BF1C18F9",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Tomori Berat",
+                "medium" : "KF Tomori Berat",
+                "short" : "Tomori"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Tomori Berat",
+                "medium" : "KF Tomori Berat",
+                "short" : "Tomori"
+            },
+            "key" : "Tomori Berat"
+        },
+        "abbreviations" : ["TOM", "BER"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Berat",
+                "ascii" : "Berat"
+            },
+            "street" : {
+                "original" : "Bulevardi Republika",
+                "ascii" : "Bulevardi Republika"
+            },
+            "streetnumber" : "",
+            "postcode" : "5001",
+            "admindiv" : "ALB-BER-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/fk-tomori-berat/2516/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Tomori",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-F282B07B",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Vora Futboll Klub",
+                "medium" : "Vora FK",
+                "short" : "Vora"
+            },
+            "ascii" : {
+                "long" : "Vora Futboll Klub",
+                "medium" : "Vora FK",
+                "short" : "Vora"
+            },
+            "key" : "Vora"
+        },
+        "abbreviations" : ["VOR", "VFK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vorë",
+                "ascii" : "Vore"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi",
+                "ascii" : "Rruga Stadiumi"
+            },
+            "streetnumber" : "",
+            "postcode" : "1032",
+            "admindiv" : "ALB-TIR-503"
+        },
+        "contact" : {
+            "website" : "https://vorafk.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/fk-vora/22735/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Vora",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-24C870A0",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Besa Kavajë",
+                "medium" : "KS Besa Kavajë",
+                "short" : "Besa"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Besa Kavaje",
+                "medium" : "KS Besa Kavaje",
+                "short" : "Besa"
+            },
+            "key" : "Besa Kavaje"
+        },
+        "abbreviations" : ["BES", "KAV"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kavajë",
+                "ascii" : "Kavaje"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi Besa",
+                "ascii" : "Rruga Stadiumi Besa"
+            },
+            "streetnumber" : "",
+            "postcode" : "2501",
+            "admindiv" : "ALB-TIR-203"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-besa-kavaje/75/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Besa_Kavaj%C3%AB",
+            "phone" : "+355 (55) 242 617",
+            "fax" : "+355 (55) 243 220",
+            "email" : "KS-Besa@lycos.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-89FB2A8C",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Burreli",
+                "medium" : "KS Burreli",
+                "short" : "Burreli"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Burreli",
+                "medium" : "KS Burreli",
+                "short" : "Burreli"
+            },
+            "key" : "Burreli"
+        },
+        "abbreviations" : ["BUR", "BRL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Burrel",
+                "ascii" : "Burrel"
+            },
+            "street" : {
+                "original" : "Rruga Kros Skura",
+                "ascii" : "Rruga Kros Skura"
+            },
+            "streetnumber" : "",
+            "postcode" : "8001",
+            "admindiv" : "ALB-DIB-402"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-burreli/2521/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Burreli",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-AF641652",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Bylis Ballsh",
+                "medium" : "KF Bylis Ballsh",
+                "short" : "Bylis"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Bylis Ballsh",
+                "medium" : "KF Bylis Ballsh",
+                "short" : "Bylis"
+            },
+            "key" : "Bylis Ballsh"
+        },
+        "abbreviations" : ["BYL", "BBL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Ballsh",
+                "ascii" : "Ballsh"
+            },
+            "street" : {
+                "original" : "Rruga Mehmet Shehu",
+                "ascii" : "Rruga Mehmet Shehu"
+            },
+            "streetnumber" : "",
+            "postcode" : "9308",
+            "admindiv" : "ALB-FIE-402"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-bylis-ballsh/2514/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Bylis",
+            "phone" : "",
+            "fax" : "",
+            "email" : "bylissha@outlook.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9662D0D1",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Flamurtari Vlorë Football Club",
+                "medium" : "Flamurtari Vlorë FC",
+                "short" : "Flamurtari"
+            },
+            "ascii" : {
+                "long" : "Flamurtari Vlore Football Club",
+                "medium" : "Flamurtari Vlore FC",
+                "short" : "Flamurtari"
+            },
+            "key" : "Flamurtari Vlore"
+        },
+        "abbreviations" : ["VLO", "FLA"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vlorë",
+                "ascii" : "Vlore"
+            },
+            "street" : {
+                "original" : "Bulevardi Ismail Qemali",
+                "ascii" : "Bulevardi Ismail Qemali"
+            },
+            "streetnumber" : "",
+            "postcode" : "9401",
+            "admindiv" : "ALB-VLO-705"
+        },
+        "contact" : {
+            "website" : "http://www.skflamurtari.com/flotakuqezi",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-flamurtari-vlore/76/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Flamurtari_FC",
+            "phone" : "+355 (33) 224 563",
+            "fax" : "+355 (33) 224 563",
+            "email" : "fcflamurtarivlore@gmail.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-0C96A8FB",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Kastrioti Krujë",
+                "medium" : "KS Kastrioti Krujë",
+                "short" : "Kastrioti"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Kastrioti Kruje",
+                "medium" : "KS Kastrioti Kruje",
+                "short" : "Kastrioti"
+            },
+            "key" : "Kastrioti Kruje"
+        },
+        "abbreviations" : ["KAS", "KKR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Krujë",
+                "ascii" : "Kruje"
+            },
+            "street" : {
+                "original" : "Rruga SH38",
+                "ascii" : "Rruga SH38"
+            },
+            "streetnumber" : "",
+            "postcode" : "1501",
+            "admindiv" : "ALB-DUR-205"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-kastrioti-kruje/3389/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KS_Kastrioti",
+            "phone" : "+355 (82) 242 186",
+            "fax" : "+355 (82) 242 186",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-464B5F4F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Korabi Peshkopi",
+                "medium" : "KF Korabi Peshkopi",
+                "short" : "Korabi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Korabi Peshkopi",
+                "medium" : "KF Korabi Peshkopi",
+                "short" : "Korabi"
+            },
+            "key" : "Korabi Peshkopi"
+        },
+        "abbreviations" : ["KOR", "KPE"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Peshkopi",
+                "ascii" : "Peshkopi"
+            },
+            "street" : {
+                "original" : "Rruga Kongresi i Dibres",
+                "ascii" : "Rruga Kongresi i Dibres"
+            },
+            "streetnumber" : "",
+            "postcode" : "8304",
+            "admindiv" : "ALB-DIB-210"
+        },
+        "contact" : {
+            "website" : "https://kfkorabi1930.wixsite.com/kfkorabi",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-korabi-peshkop-/12571/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Korabi_Peshkopi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-A781D50A",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Lushnja",
+                "medium" : "KS Lushnja",
+                "short" : "Lushnja"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Lushnja",
+                "medium" : "KS Lushnja",
+                "short" : "Lushnja"
+            },
+            "key" : "Lushnja"
+        },
+        "abbreviations" : ["LUS", "LSJ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Lushnjë",
+                "ascii" : "Lushnje"
+            },
+            "street" : {
+                "original" : "Rruga Nexhat Nepravishta",
+                "ascii" : "Rruga Nexhat Nepravishta"
+            },
+            "streetnumber" : "",
+            "postcode" : "9001",
+            "admindiv" : "ALB-FIE-311"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-lushnja/72/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Lushnja",
+            "phone" : "+355 (3) 522 512",
+            "fax" : "+355 (3) 523 681",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9FAB39AF",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Luz i Vogël 2008",
+                "medium" : "KF Luz i Vogël 2008",
+                "short" : "Luzi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Luz i Vogel 2008",
+                "medium" : "KF Luz i Vogel 2008",
+                "short" : "Luzi"
+            },
+            "key" : "Luz i Vogel"
+        },
+        "abbreviations" : ["LUZ", "LIV"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Luz i Vogël",
+                "ascii" : "Luz i Vogel"
+            },
+            "street" : {
+                "original" : "Pranë Stadiumit Luz i Vogël",
+                "ascii" : "Prane Stadiumit Luz i Vogel"
+            },
+            "streetnumber" : "",
+            "postcode" : "2507",
+            "admindiv" : "ALB-TIR-204"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-luzi-2008/12685/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Luzi_i_Vog%C3%ABl_2008",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-55A211BD",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Adriatiku 2012",
+                "medium" : "KF Adriatiku 2012",
+                "short" : "Adriatiku"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Adriatiku 2012",
+                "medium" : "KF Adriatiku 2012",
+                "short" : "Adriatiku"
+            },
+            "key" : "Adriatiku Durres"
+        },
+        "abbreviations" : ["ADR", "ADK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Durrës",
+                "ascii" : "Durres"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-DUR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/adriatiku-2012/63418/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Adriatiku_2012",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-CE0C5148",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klub Kulturoro Sportiv Albanët",
+                "medium" : "Klubi Albanët",
+                "short" : "Albanët"
+            },
+            "ascii" : {
+                "long" : "Klub Kulturoro Sportiv Albanet",
+                "medium" : "Klubi Albanet",
+                "short" : "Albanet"
+            },
+            "key" : "Albanet"
+        },
+        "abbreviations" : ["ALB", "ABN"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-TIR-411"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/albanet/63419/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Klubi_Alban%C3%ABt",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-C66A918C",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Akademia Sportive Luftëtari Gjirokastër",
+                "medium" : "AS Luftëtari Gjirokastër",
+                "short" : "Luftëtari"
+            },
+            "ascii" : {
+                "long" : "Akademia Sportive Luftetari Gjirokaster",
+                "medium" : "AS Luftetari Gjirokaster",
+                "short" : "Luftetari"
+            },
+            "key" : "Luftetari Gjirokaster"
+        },
+        "abbreviations" : ["LFT", "LGJ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Gjirokastër",
+                "ascii" : "Gjirokaster"
+            },
+            "street" : {
+                "original" : "Rruga Studenti",
+                "ascii" : "Rruga Studenti"
+            },
+            "streetnumber" : "",
+            "postcode" : "6001",
+            "admindiv" : "ALB-GJI-203"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/luftetari/56004/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/AS_Luft%C3%ABtari",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-718E7BCB",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Maliqi",
+                "medium" : "KF Maliqi",
+                "short" : "Maliqi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Maliqi",
+                "medium" : "KF Maliqi",
+                "short" : "Maliqi"
+            },
+            "key" : "Maliqi"
+        },
+        "abbreviations" : ["MAL", "MLQ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Maliq",
+                "ascii" : "Maliq"
+            },
+            "street" : {
+                "original" : "Rruga 5 Maji",
+                "ascii" : "Rruga 5 Maji"
+            },
+            "streetnumber" : "",
+            "postcode" : "7005",
+            "admindiv" : "ALB-KOR-403"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-maliqi/12579/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Maliqi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-6EF6A3F4",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Murlani",
+                "medium" : "KF Murlani",
+                "short" : "Murlani"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Murlani",
+                "medium" : "KF Murlani",
+                "short" : "Murlani"
+            },
+            "key" : "Murlani"
+        },
+        "abbreviations" : ["MUR", "MRL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vau i Dejës",
+                "ascii" : "Vau i Dejes"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-SHK-505"
+        },
+        "contact" : {
+            "website" : "https://kfmurlani.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/murlani/56003/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Murlani",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-D88FABF6",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Naftëtari Kuçovë",
+                "medium" : "KF Naftëtari Kuçovë",
+                "short" : "Naftëtari"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Naftetari Kucove",
+                "medium" : "KF Naftetari Kucove",
+                "short" : "Naftetari"
+            },
+            "key" : "Naftetari Kucove"
+        },
+        "abbreviations" : ["NAF", "NFK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kuçovë",
+                "ascii" : "Kucove"
+            },
+            "street" : {
+                "original" : "Rruga Naftëtari",
+                "ascii" : "Rruga Naftetari"
+            },
+            "streetnumber" : "",
+            "postcode" : "5306",
+            "admindiv" : "ALB-BER-304"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-naftetari-kucove/3388/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Naft%C3%ABtari",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-BA281D4F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Oriku",
+                "medium" : "KF Oriku",
+                "short" : "Oriku"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Oriku",
+                "medium" : "KF Oriku",
+                "short" : "Oriku"
+            },
+            "key" : "Oriku"
+        },
+        "abbreviations" : ["ORI", "ORK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Orikum",
+                "ascii" : "Orikum"
+            },
+            "street" : {
+                "original" : "Bulevardi Princesha Rugjine",
+                "ascii" : "Bulevardi Princesha Rugjine"
+            },
+            "streetnumber" : "",
+            "postcode" : "9426",
+            "admindiv" : "ALB-VLO-702"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/oriku/25562/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Oriku",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-12F63619",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Pogradeci",
+                "medium" : "KS Pogradeci",
+                "short" : "Pogradeci"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Pogradeci",
+                "medium" : "KS Pogradeci",
+                "short" : "Pogradeci"
+            },
+            "key" : "Pogradeci"
+        },
+        "abbreviations" : ["POG", "PGD"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Pogradec",
+                "ascii" : "Pogradec"
+            },
+            "street" : {
+                "original" : "Rruga e Stadiumit",
+                "ascii" : "Rruga e Stadiumit"
+            },
+            "streetnumber" : "",
+            "postcode" : "7301",
+            "admindiv" : "ALB-KOR-504"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-pogradeci/3386/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KS_Pogradeci",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-EA7FA420",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Shënkolli",
+                "medium" : "FK Shënkolli",
+                "short" : "Shënkolli"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Shenkolli",
+                "medium" : "FK Shenkolli",
+                "short" : "Shenkolli"
+            },
+            "key" : "Shenkolli"
+        },
+        "abbreviations" : ["SHE", "SKL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shënkoll",
+                "ascii" : "Shenkoll"
+            },
+            "street" : {
+                "original" : "Rruga Lezhë-Shënkoll",
+                "ascii" : "Rruga Lezhe-Shenkoll"
+            },
+            "streetnumber" : "",
+            "postcode" : "4501",
+            "admindiv" : "ALB-LEZ-208"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/shenkolli/25561/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Sh%C3%ABnkolli",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-F89F2A27",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Shkumbini Peqin",
+                "medium" : "KF Shkumbini Peqin",
+                "short" : "Shkumbini"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Shkumbini Peqin",
+                "medium" : "KF Shkumbini Peqin",
+                "short" : "Shkumbini"
+            },
+            "key" : "Shkumbini Peqin"
+        },
+        "abbreviations" : ["SKB", "PEQ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Peqin",
+                "ascii" : "Peqin"
+            },
+            "street" : {
+                "original" : "Rruga Ramazan Cani",
+                "ascii" : "Rruga Ramazan Cani"
+            },
+            "streetnumber" : "",
+            "postcode" : "3505",
+            "admindiv" : "ALB-ELB-601"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-shkumbini-peqin/74/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Shkumbini",
+            "phone" : "+355 (512) 232 00",
+            "fax" : "+355 (512) 232 00",
+            "email" : "peqinionline@yahoo.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-1DD9B4AE",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Sopoti Librazhd",
+                "medium" : "KS Sopoti Librazhd",
+                "short" : "Sopoti"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Sopoti Librazhd",
+                "medium" : "KS Sopoti Librazhd",
+                "short" : "Sopoti"
+            },
+            "key" : "Sopoti Librazhd"
+        },
+        "abbreviations" : ["SOP", "SPT"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Librazhd",
+                "ascii" : "Librazhd"
+            },
+            "street" : {
+                "original" : "Rruga e Dibrës",
+                "ascii" : "Rruga e Dibres"
+            },
+            "streetnumber" : "",
+            "postcode" : "3401",
+            "admindiv" : "ALB-ELB-502"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-sopoti-librazhd/10051/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Sopoti",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-B66D10D2",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Tërbuni Pukë",
+                "medium" : "KF Tërbuni Pukë",
+                "short" : "Tërbuni"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Terbuni Puke",
+                "medium" : "KF Terbuni Puke",
+                "short" : "Terbuni"
+            },
+            "key" : "Terbuni Puke"
+        },
+        "abbreviations" : ["TER", "TEP"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Pukë",
+                "ascii" : "Puke"
+            },
+            "street" : {
+                "original" : "Sheshi Tërbuni",
+                "ascii" : "Sheshi Terbuni"
+            },
+            "streetnumber" : "1",
+            "postcode" : "4407",
+            "admindiv" : "ALB-SHK-302"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-terbuni-puke/11717/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_T%C3%ABrbuni",
+            "phone" : "+355 (21) 222 427",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-C081A99D",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Besëlidhja Lezhë",
+                "medium" : "KS Besëlidhja Lezhë",
+                "short" : "Besëlidhja"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Beselidhja Lezhe",
+                "medium" : "KS Beselidhja Lezhe",
+                "short" : "Beselidhja"
+            },
+            "key" : "Beselidhja Lezhe"
+        },
+        "abbreviations" : ["BES", "BLZ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Lezhë",
+                "ascii" : "Lezhe"
+            },
+            "street" : {
+                "original" : "Rruga Luigj Gurakuqi",
+                "ascii" : "Rruga Luigj Gurakuqi"
+            },
+            "streetnumber" : "",
+            "postcode" : "4501",
+            "admindiv" : "ALB-LEZ-206"
+        },
+        "contact" : {
+            "website" : "https://web.archive.org/web/20141220131448/http://www.ksbeselidhja.com/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-beselidhja-lezhe/2513/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Bes%C3%ABlidhja_Lezh%C3%AB",
+            "phone" : "",
+            "fax" : "",
+            "email" : "info@ksbeselidhja.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9D95803B",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Turbina Cërrik",
+                "medium" : "KS Turbina Cërrik",
+                "short" : "Turbina"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Turbina Cerrik",
+                "medium" : "KS Turbina Cerrik",
+                "short" : "Turbina"
+            },
+            "key" : "Turbina Cerrik"
+        },
+        "abbreviations" : ["TUR", "TRB"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Cërrik",
+                "ascii" : "Cerrik"
+            },
+            "street" : {
+                "original" : "Rruga Naim Frasheri",
+                "ascii" : "Rruga Naim Frasheri"
+            },
+            "streetnumber" : "",
+            "postcode" : "3007",
+            "admindiv" : "ALB-ELB-201"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-turbina-cerrik/7546/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Turbina",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-612A0EA6",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Valbona",
+                "medium" : "KF Valbona",
+                "short" : "Valbona"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Valbona",
+                "medium" : "KF Valbona",
+                "short" : "Valbona"
+            },
+            "key" : "Valbona"
+        },
+        "abbreviations" : ["VAL", "VLB"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Bajram Curri",
+                "ascii" : "Bajram Curri"
+            },
+            "street" : {
+                "original" : "Rruga Sylejman Vokshi",
+                "ascii" : "Rruga Sylejman Vokshi"
+            },
+            "streetnumber" : "",
+            "postcode" : "8701",
+            "admindiv" : "ALB-KUK-301"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/valbona/52086/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Valbona",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-94633632",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Veleçiku Koplik",
+                "medium" : "FK Veleçiku Koplik",
+                "short" : "Veleçiku"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Veleciku Koplik",
+                "medium" : "FK Veleciku Koplik",
+                "short" : "Veleciku"
+            },
+            "key" : "Veleciku Koplik"
+        },
+        "abbreviations" : ["VEL", "VKP"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Koplik",
+                "ascii" : "Koplik"
+            },
+            "street" : {
+                "original" : "Rruga Veleçiku",
+                "ascii" : "Rruga Veleciku"
+            },
+            "streetnumber" : "",
+            "postcode" : "4301",
+            "admindiv" : "ALB-SHK-204"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-veleciku-koplik/12574/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Vele%C3%A7iku",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-E2842BE7",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Butrinti Sarandë",
+                "medium" : "KF Butrinti Sarandë",
+                "short" : "Butrinti"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Butrinti Sarande",
+                "medium" : "KF Butrinti Sarande",
+                "short" : "Butrinti"
+            },
+            "key" : "Butrinti Sarande"
+        },
+        "abbreviations" : ["BUT", "BSR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Sarandë",
+                "ascii" : "Sarande"
+            },
+            "street" : {
+                "original" : "Rruga Skënderbeu",
+                "ascii" : "Rruga Skenderbeu"
+            },
+            "streetnumber" : "",
+            "postcode" : "9701",
+            "admindiv" : "ALB-VLO-502"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-butrinti-sarande/10117/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Butrinti",
+            "phone" : "+355 (85) 222 380",
+            "fax" : "+355 (85) 222 380",
+            "email" : "ksbutrinti@yahoo.com"
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-06D41862",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Delvina",
+                "medium" : "KS Delvina",
+                "short" : "Delvina"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Delvina",
+                "medium" : "KS Delvina",
+                "short" : "Delvina"
+            },
+            "key" : "Delvina"
+        },
+        "abbreviations" : ["DEL", "DLV"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Delvinë",
+                "ascii" : "Delvine"
+            },
+            "street" : {
+                "original" : "Rruga SH78",
+                "ascii" : "Rruga SH78"
+            },
+            "streetnumber" : "",
+            "postcode" : "9704",
+            "admindiv" : "ALB-VLO-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-delvina/12576/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KS_Delvina",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-46AE435B",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Devolli Bilisht",
+                "medium" : "KS Devolli",
+                "short" : "Devolli"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Devolli Bilisht",
+                "medium" : "KS Devolli",
+                "short" : "Devolli"
+            },
+            "key" : "Devolli"
+        },
+        "abbreviations" : ["DEV", "DVL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Bilisht",
+                "ascii" : "Bilisht"
+            },
+            "street" : {
+                "original" : "Rruga Fan Noli",
+                "ascii" : "Rruga Fan Noli"
+            },
+            "streetnumber" : "",
+            "postcode" : "7006",
+            "admindiv" : "ALB-KOR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/devolli/37853/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Devolli",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-DD4A6FD0",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik Gramshi",
+                "medium" : "KF Gramshi",
+                "short" : "Gramshi"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik Gramshi",
+                "medium" : "KF Gramshi",
+                "short" : "Gramshi"
+            },
+            "key" : "Gramshi"
+        },
+        "abbreviations" : ["GRA", "GRM"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Gramsh",
+                "ascii" : "Gramsh"
+            },
+            "street" : {
+                "original" : "Rruga SH71",
+                "ascii" : "Rruga SH71"
+            },
+            "streetnumber" : "",
+            "postcode" : "3301",
+            "admindiv" : "ALB-ELB-401"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/fk-gramshi/10052/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Gramshi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-B4AC45D9",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Iliria Fushë-Krujë",
+                "medium" : "KF Iliria Fushë-Krujë",
+                "short" : "Iliria"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Iliria Fushe-Kruje",
+                "medium" : "KF Iliria Fushe-Kruje",
+                "short" : "Iliria"
+            },
+            "key" : "Iliria Fushe-Kruje"
+        },
+        "abbreviations" : ["ILR", "IFK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Fushë-Krujë",
+                "ascii" : "Fushe-Kruje"
+            },
+            "street" : {
+                "original" : "Rruga SH38",
+                "ascii" : "Rruga SH38"
+            },
+            "streetnumber" : "",
+            "postcode" : "1502",
+            "admindiv" : "ALB-DUR-203"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-iliria-fushe-kruje/10116/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Iliria",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-4FADF5A4",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Këlcyra",
+                "medium" : "KF Këlcyra",
+                "short" : "Këlcyra"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Kelcyra",
+                "medium" : "KF Kelcyra",
+                "short" : "Kelcyra"
+            },
+            "key" : "Kelcyra"
+        },
+        "abbreviations" : ["KEL", "KCY"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Këlcyrë",
+                "ascii" : "Kelcyre"
+            },
+            "street" : {
+                "original" : "Rruga Syrja Sakollari",
+                "ascii" : "Rruga Syrja Sakollari"
+            },
+            "streetnumber" : "",
+            "postcode" : "6402",
+            "admindiv" : "ALB-GJI-303"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-kelcyra/12578/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_K%C3%ABlcyra",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-3B2AE96E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Labëria Vlorë Football Club",
+                "medium" : "Labëria FC",
+                "short" : "Labëria"
+            },
+            "ascii" : {
+                "long" : "Laberia Vlore Football Club",
+                "medium" : "Laberia FC",
+                "short" : "Laberia"
+            },
+            "key" : "Laberia"
+        },
+        "abbreviations" : ["LAB", "LBR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vlorë",
+                "ascii" : "Vlore"
+            },
+            "street" : {
+                "original" : "Rruga Sazani",
+                "ascii" : "Rruga Sazani"
+            },
+            "streetnumber" : "",
+            "postcode" : "9401",
+            "admindiv" : "ALB-VLO-703"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/laberia/52087/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Lab%C3%ABria_FC",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-4FADF5A4",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Femër Apolonia",
+                "medium" : "KFF Apolonia Fier",
+                "short" : "Apolonia"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Femer Apolonia Fier",
+                "medium" : "KFF Apolonia Fier",
+                "short" : "Apolonia"
+            },
+            "key" : "Apolonia Fier"
+        },
+        "abbreviations" : ["APO", "APF"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Fier",
+                "ascii" : "Fier"
+            },
+            "street" : {
+                "original" : "Rruga R. Aranitasi",
+                "ascii" : "Rruga R. Aranitasi"
+            },
+            "streetnumber" : "",
+            "postcode" : "9301",
+            "admindiv" : "ALB-FIE-203"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/apolonia/39727/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Apolonia_Fier_(women)",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-3B2AE96E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit për Femra Gramshi",
+                "medium" : "KFF Gramshi",
+                "short" : "Gramshi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Gramshi",
+                "medium" : "KFF Gramshi",
+                "short" : "Gramshi"
+            },
+            "key" : "Gramshi"
+        },
+        "abbreviations" : ["GRA", "GRM"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Gramsh",
+                "ascii" : "Gramsh"
+            },
+            "street" : {
+                "original" : "Rruga SH71",
+                "ascii" : "Rruga SH71"
+            },
+            "streetnumber" : "",
+            "postcode" : "3301",
+            "admindiv" : "ALB-ELB-401"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/gramshi/63706/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Gramshi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-F16E4908",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Femra Tirana",
+                "medium" : "KFF Tirana",
+                "short" : "Tirana"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Femra Tirana",
+                "medium" : "KFF Tirana",
+                "short" : "Tirana"
+            },
+            "key" : "Tirana"
+        },
+        "abbreviations" : ["TIR", "KFT"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Muhamet Gjollesha",
+                "ascii" : "Rruga Muhamet Gjollesha"
+            },
+            "streetnumber" : "",
+            "postcode" : "1023",
+            "admindiv" : "ALB-TIR-411-G"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/albania-kf-tirana/52142/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Tirana",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-5BA8B275",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Kinostudio Tirana",
+                "medium" : "FC Kinostudio",
+                "short" : "Kinostudio"
+            },
+            "ascii" : {
+                "long" : "Football Club Kinostudio Tirana",
+                "medium" : "FC Kinostudio",
+                "short" : "Kinostudio"
+            },
+            "key" : "Kinostudio Tirana"
+        },
+        "abbreviations" : ["KIN", "KTR"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Aleksandër Moisiu",
+                "ascii" : "Rruga Aleksander Moisiu"
+            },
+            "streetnumber" : "",
+            "postcode" : "1007",
+            "admindiv" : "ALB-TIR-411-D"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/kinostudio/39723/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Kinostudio",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-56B1F27F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit për Femra Laçi",
+                "medium" : "KFF Laçi",
+                "short" : "Laçi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Laci",
+                "medium" : "KFF Laci",
+                "short" : "Laci"
+            },
+            "key" : "Laci"
+        },
+        "abbreviations" : ["LAC", "LCI"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Laç",
+                "ascii" : "Lac"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi Laçit",
+                "ascii" : "Rruga Stadiumi Lacit"
+            },
+            "streetnumber" : "",
+            "postcode" : "4701",
+            "admindiv" : "ALB-LEZ-102"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/laci/60617/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_La%C3%A7i",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-2B805D94",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit për Femra Lushnja",
+                "medium" : "KFF Lushnja",
+                "short" : "Lushnja"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Lushnja",
+                "medium" : "KFF Lushnja",
+                "short" : "Lushnja"
+            },
+            "key" : "Lushnja"
+        },
+        "abbreviations" : ["LUS", "LSJ"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Lushnjë",
+                "ascii" : "Lushnje"
+            },
+            "street" : {
+                "original" : "Rruga Nexhat Nepravishta",
+                "ascii" : "Rruga Nexhat Nepravishta"
+            },
+            "streetnumber" : "",
+            "postcode" : "9001",
+            "admindiv" : "ALB-FIE-311"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/lushnja/52144/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9BCBD3C0",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub për Femra Partizani Tirana",
+                "medium" : "FKF Partizani Tirana",
+                "short" : "Partizani"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub per Femra Partizani Tirana",
+                "medium" : "FKF Partizani Tirana",
+                "short" : "Partizani"
+            },
+            "key" : "Partizani Tirana"
+        },
+        "abbreviations" : ["PAR", "PRT"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Frosina Plaku",
+                "ascii" : "Rruga Frosina Plaku"
+            },
+            "streetnumber" : "",
+            "postcode" : "1026",
+            "admindiv" : "ALB-TIR-411-G"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/partizani-tirana/52143/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-274C8F3C",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik për Femra Skënderbeu Korçë",
+                "medium" : "KFF Skënderbeu Korçë",
+                "short" : "Skënderbeu"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik per Femra Skenderbeu Korce",
+                "medium" : "KFF Skenderbeu Korce",
+                "short" : "Skenderbeu"
+            },
+            "key" : "Skenderbeu Korce"
+        },
+        "abbreviations" : ["SKE", "SKO"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Korçë",
+                "ascii" : "Korce"
+            },
+            "street" : {
+                "original" : "Rruga Gjergj Kastrioti",
+                "ascii" : "Rruga Gjergj Kastrioti"
+            },
+            "streetnumber" : "",
+            "postcode" : "7001",
+            "admindiv" : "ALB-KOR-302"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/skenderbeu/39729/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Sk%C3%ABnderbeu_Kor%C3%A7%C3%AB",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-1540FDB2",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik për Femra Teuta Durrës",
+                "medium" : "KFF Teuta Durrës",
+                "short" : "Teuta"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik per Femra Teuta Durres",
+                "medium" : "KFF Teuta Durres",
+                "short" : "Teuta"
+            },
+            "key" : "Teuta Durres"
+        },
+        "abbreviations" : ["TEU", "TDU"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Durrës",
+                "ascii" : "Durres"
+            },
+            "street" : {
+                "original" : "Rruga A. Goga",
+                "ascii" : "Rruga A. Goga"
+            },
+            "streetnumber" : "",
+            "postcode" : "2001",
+            "admindiv" : "ALB-DUR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/teuta/39728/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Teuta",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-CB1E5BC2",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik për Femra Vllaznia Shkodër",
+                "medium" : "KFF Vllaznia Shkodër",
+                "short" : "Vllaznia"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik per Femra Vllaznia Shkoder",
+                "medium" : "KFF Vllaznia Shkoder",
+                "short" : "Vllaznia"
+            },
+            "key" : "Vllaznia Shkoder"
+        },
+        "abbreviations" : ["VLL", "VSK"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shkodër",
+                "ascii" : "Shkoder"
+            },
+            "street" : {
+                "original" : "Rruga Musa Luli",
+                "ascii" : "Rruga Musa Luli"
+            },
+            "streetnumber" : "1",
+            "postcode" : "4000",
+            "admindiv" : "ALB-SHK-409"
+        },
+        "contact" : {
+            "website" : "https://www.vllaznia.al/",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/vllaznia/28973/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Vllaznia_Shkod%C3%ABr",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-19CCE290",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Amisa Tërbuf",
+                "medium" : "KS Amisa Tërbuf",
+                "short" : "Amisa"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Amisa Terbuf",
+                "medium" : "KS Amisa Terbuf",
+                "short" : "Amisa"
+            },
+            "key" : "Amisa Terbuf"
+        },
+        "abbreviations" : ["AMI", "AMS"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tërbuf",
+                "ascii" : "Terbuf"
+            },
+            "street" : {
+                "original" : "Rruga Kryesore Cerm Sektor",
+                "ascii" : "Rruga Kryesore Cerm Sektor"
+            },
+            "streetnumber" : "",
+            "postcode" : "9015",
+            "admindiv" : "ALB-FIE-105"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-8739AD4F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Basania Bushat Football Club",
+                "medium" : "Basania FC",
+                "short" : "Basania"
+            },
+            "ascii" : {
+                "long" : "Basania Bushat Football Club",
+                "medium" : "Basania FC",
+                "short" : "Basania"
+            },
+            "key" : "Basania"
+        },
+        "abbreviations" : ["BAS", "BSN"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Bushat",
+                "ascii" : "Bushat"
+            },
+            "street" : {
+                "original" : "Rruga e Zefjanes",
+                "ascii" : "Rruga e Zefjanes"
+            },
+            "streetnumber" : "",
+            "postcode" : "4201",
+            "admindiv" : "ALB-SHK-501"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Basania_FC",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-2458BFD5",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Bulqiza Football Club",
+                "medium" : "Bulqiza FC",
+                "short" : "Bulqiza"
+            },
+            "ascii" : {
+                "long" : "Bulqiza Football Club",
+                "medium" : "Bulqiza FC",
+                "short" : "Bulqiza"
+            },
+            "key" : "Bulqiza"
+        },
+        "abbreviations" : ["BUL", "BLQ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Bulqizë",
+                "ascii" : "Bulqize"
+            },
+            "street" : {
+                "original" : "Rruga e Liqenit",
+                "ascii" : "Rruga e Liqenit"
+            },
+            "streetnumber" : "",
+            "postcode" : "8401",
+            "admindiv" : "ALB-DIB-101"
+        },
+        "contact" : {
+            "website" : "http://kfbulqiza.al/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/bulqiza/52085/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Bulqiza",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-DDE63280",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Eagle Football Academy",
+                "medium" : "Eagle FA",
+                "short" : "Eagle"
+            },
+            "ascii" : {
+                "long" : "Eagle Football Academy",
+                "medium" : "Eagle FA",
+                "short" : "Eagle"
+            },
+            "key" : "Eagle"
+        },
+        "abbreviations" : ["EAG", "EFA"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Bedri Karapici",
+                "ascii" : "Rruga Bedri Karapici"
+            },
+            "streetnumber" : "",
+            "postcode" : "1027",
+            "admindiv" : "ALB-TIR-411-D"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-428AC3E1",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Kinostudio Tirana",
+                "medium" : "FC Kinostudio",
+                "short" : "Kinostudio"
+            },
+            "ascii" : {
+                "long" : "Football Club Kinostudio Tirana",
+                "medium" : "FC Kinostudio",
+                "short" : "Kinostudio"
+            },
+            "key" : "Kinostudio Tirana"
+        },
+        "abbreviations" : ["KIN", "KTR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Aleksandër Moisiu",
+                "ascii" : "Rruga Aleksander Moisiu"
+            },
+            "streetnumber" : "",
+            "postcode" : "1007",
+            "admindiv" : "ALB-TIR-411-D"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-AB5A233E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Klosi",
+                "medium" : "KF Klosi",
+                "short" : "Klosi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Klosi",
+                "medium" : "KF Klosi",
+                "short" : "Klosi"
+            },
+            "key" : "Klosi"
+        },
+        "abbreviations" : ["KLO", "KLS"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Klos",
+                "ascii" : "Klos"
+            },
+            "street" : {
+                "original" : "Rruga Riza Beg Cela",
+                "ascii" : "Rruga Riza Beg Cela"
+            },
+            "streetnumber" : "",
+            "postcode" : "8002",
+            "admindiv" : "ALB-DIB-302"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/klosi/40733/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Klosi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-95F25A8E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Përmeti",
+                "medium" : "KF Përmeti",
+                "short" : "Përmeti"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Permeti",
+                "medium" : "KF Permeti",
+                "short" : "Permeti"
+            },
+            "key" : "Permeti"
+        },
+        "abbreviations" : ["PER", "PRM"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Përmet",
+                "ascii" : "Permet"
+            },
+            "street" : {
+                "original" : "Rruga Përmet-Tepelenë",
+                "ascii" : "Rruga Përmet-Tepelenë"
+            },
+            "streetnumber" : "",
+            "postcode" : "6404",
+            "admindiv" : "ALB-GJI-604"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/sk-permet-/12583/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_P%C3%ABrmeti",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9BC179E9",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Prestige Tirana Municipal Football Club",
+                "medium" : "Prestige MFC",
+                "short" : "Prestige"
+            },
+            "ascii" : {
+                "long" : "Prestige Tirana Municipal Football Club",
+                "medium" : "Prestige MFC",
+                "short" : "Prestige"
+            },
+            "key" : "Prestige"
+        },
+        "abbreviations" : ["PRE", "PRS"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Kavajës",
+                "ascii" : "Rruga Kavajës"
+            },
+            "streetnumber" : "",
+            "postcode" : "1038",
+            "admindiv" : "ALB-TIR-409"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Prestige_MFC",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-F40A85D8",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Albpetrol Patos",
+                "medium" : "KF Albpetrol Patos",
+                "short" : "Albpetrol"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Albpetrol Patos",
+                "medium" : "KF Albpetrol Patos",
+                "short" : "Albpetrol"
+            },
+            "key" : "Albpetrol Patos"
+        },
+        "abbreviations" : ["APT", "ALB"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Patos",
+                "ascii" : "Patos"
+            },
+            "street" : {
+                "original" : "Rruga Unaza",
+                "ascii" : "Rruga Unaza"
+            },
+            "streetnumber" : "",
+            "postcode" : "9307",
+            "admindiv" : "ALB-FIE-501"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-albpetrol-patos/12569/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Albpetrol_Patos",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-547605DC",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Gramozi Ersekë",
+                "medium" : "FC Gramozi Ersekë",
+                "short" : "Gramozi"
+            },
+            "ascii" : {
+                "long" : "Football Club Gramozi Erseke",
+                "medium" : "FC Gramozi Erseke",
+                "short" : "Gramozi"
+            },
+            "key" : "Gramozi Erseke"
+        },
+        "abbreviations" : ["GRA", "GER"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Ersekë",
+                "ascii" : "Erseke"
+            },
+            "street" : {
+                "original" : "Rruga Gramozi",
+                "ascii" : "Rruga Gramozi"
+            },
+            "streetnumber" : "",
+            "postcode" : "7401",
+            "admindiv" : "ALB-KOR-203"
+        },
+        "contact" : {
+            "website" : "https://www.fkgramozi.com/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-gramozi-erseke/11716/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Gramozi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-F4F46221",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Himara",
+                "medium" : "KF Himara",
+                "short" : "Himara"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Himara",
+                "medium" : "KF Himara",
+                "short" : "Himara"
+            },
+            "key" : "Himara"
+        },
+        "abbreviations" : ["HIM", "HMR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Himarë",
+                "ascii" : "Himare"
+            },
+            "street" : {
+                "original" : "Rruga Apelistra",
+                "ascii" : "Rruga Apelistra"
+            },
+            "streetnumber" : "",
+            "postcode" : "9425",
+            "admindiv" : "ALB-VLO-301"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-himare/12575/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-0101D04D",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Memaliaj",
+                "medium" : "KF Memaliaj",
+                "short" : "Memaliaj"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Memaliaj",
+                "medium" : "KF Memaliaj",
+                "short" : "Memaliaj"
+            },
+            "key" : "Memaliaj"
+        },
+        "abbreviations" : ["MEM", "MLJ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Memaliaj",
+                "ascii" : "Memaliaj"
+            },
+            "street" : {
+                "original" : "Rruga Kastriot Lika",
+                "ascii" : "Rruga Kastriot Lika"
+            },
+            "streetnumber" : "",
+            "postcode" : "6302",
+            "admindiv" : "ALB-GJI-504"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-memaliaj/12580/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Memaliaj",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-1EFCF186",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Osumi",
+                "medium" : "KF Osumi",
+                "short" : "Osumi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Osumi",
+                "medium" : "KF Osumi",
+                "short" : "Osumi"
+            },
+            "key" : "Osumi"
+        },
+        "abbreviations" : ["OSU", "OSM"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Ura Vajgurore",
+                "ascii" : "Ura Vajgurore"
+            },
+            "street" : {
+                "original" : "Rruga Dimali",
+                "ascii" : "Rruga Dimali"
+            },
+            "streetnumber" : "",
+            "postcode" : "5007",
+            "admindiv" : "ALB-BER-204"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Osumi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-B53836E2",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik Skrapari",
+                "medium" : "KF Skrapari",
+                "short" : "Skrapari"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik Skrapari",
+                "medium" : "KF Skrapari",
+                "short" : "Skrapari"
+            },
+            "key" : "Skrapari"
+        },
+        "abbreviations" : ["SKR", "SKP"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Çorovodë",
+                "ascii" : "Corovode"
+            },
+            "street" : {
+                "original" : "Rruga Asllan Osoja",
+                "ascii" : "Rruga Asllan Osoja"
+            },
+            "streetnumber" : "",
+            "postcode" : "5401",
+            "admindiv" : "ALB-BER-503"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/fk-skrapari/10048/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Skrapari",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-A861919E",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Tepelena",
+                "medium" : "FK Tepelena",
+                "short" : "Tepelena"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Tepelena",
+                "medium" : "FK Tepelena",
+                "short" : "Tepelena"
+            },
+            "key" : "Tepelena"
+        },
+        "abbreviations" : ["TEP", "TPL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tepelenë",
+                "ascii" : "Tepelene"
+            },
+            "street" : {
+                "original" : "Rruga Ali Pashe Tepelena",
+                "ascii" : "Rruga Ali Pashe Tepelena"
+            },
+            "streetnumber" : "",
+            "postcode" : "6301",
+            "admindiv" : "ALB-GJI-704"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/sk-tepelena/10050/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Tepelena",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-CF36E978",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Ada Velipojë",
+                "medium" : "KF Ada Velipojë",
+                "short" : "Ada"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Ada Velipoje",
+                "medium" : "KF Ada Velipoje",
+                "short" : "Ada"
+            },
+            "key" : "Ada Velipoje"
+        },
+        "abbreviations" : ["ADA", "VEL"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Velipojë",
+                "ascii" : "Velipoje"
+            },
+            "street" : {
+                "original" : "Rruga Dom Alfons Tracki",
+                "ascii" : "Rruga Dom Alfons Tracki"
+            },
+            "streetnumber" : "",
+            "postcode" : "4020",
+            "admindiv" : "ALB-SHK-411"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-ada-velipoje/3387/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Ada",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-B0EAB8DA",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit per Femra Ada Velipojë",
+                "medium" : "KFF Ada Velipojë",
+                "short" : "Ada"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Ada Velipoje",
+                "medium" : "KFF Ada Velipoje",
+                "short" : "Ada"
+            },
+            "key" : "Ada Velipoje"
+        },
+        "abbreviations" : ["ADA", "VEL"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Velipojë",
+                "ascii" : "Velipoje"
+            },
+            "street" : {
+                "original" : "Rruga Dom Alfons Tracki",
+                "ascii" : "Rruga Dom Alfons Tracki"
+            },
+            "streetnumber" : "",
+            "postcode" : "4020",
+            "admindiv" : "ALB-SHK-411"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/ks-ada/18984/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Ada",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-14758323",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Domozdova Prrenjas",
+                "medium" : "KF Domozdova Prrenjas",
+                "short" : "Domozdova"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Domozdova Prrenjas",
+                "medium" : "KF Domozdova Prrenjas",
+                "short" : "Domozdova"
+            },
+            "key" : "Domozdova Prrenjas"
+        },
+        "abbreviations" : ["DOM", "DZD"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Prrenjas",
+                "ascii" : "Prrenjas"
+            },
+            "street" : {
+                "original" : "Rruga për Gjimnaz",
+                "ascii" : "Rruga per Gjimnaz"
+            },
+            "streetnumber" : "",
+            "postcode" : "3413",
+            "admindiv" : "ALB-ELB-701"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-domosdova-prrenjas/12577/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Domozdova",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-3E257B1F",
+        "active" : false,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Elbasani",
+                "medium" : "KF Elbasani",
+                "short" : "Elbasani"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Elbasani",
+                "medium" : "KF Elbasani",
+                "short" : "Elbasani"
+            },
+            "key" : "Elbasani"
+        },
+        "abbreviations" : ["ELB", "EKF"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Elbasan",
+                "ascii" : "Elbasan"
+            },
+            "street" : {
+                "original" : "Bulevardi Qemal Stafa",
+                "ascii" : "Bulevardi Qemal Stafa"
+            },
+            "streetnumber" : "",
+            "postcode" : "3001",
+            "admindiv" : "ALB-ELB-302"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-elbasani/73/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Elbasani",
+            "phone" : "+355 (54) 253 253",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-9320E945",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Çlirimi",
+                "medium" : "KF Çlirimi",
+                "short" : "Çlirimi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Clirimi",
+                "medium" : "KF Clirimi",
+                "short" : "Clirimi"
+            },
+            "key" : "Clirimi"
+        },
+        "abbreviations" : ["CLI", "CLR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Çlirim",
+                "ascii" : "Clirim"
+            },
+            "street" : {
+                "original" : "Rruga e Koliceve",
+                "ascii" : "Rruga e Koliceve"
+            },
+            "streetnumber" : "",
+            "postcode" : "9302",
+            "admindiv" : "ALB-FIE-209"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-clirimi-fier/12570/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_%C3%87lirimi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-201563B1",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Internacionale Tirana Football Club",
+                "medium" : "Internacionale Tirana FC",
+                "short" : "Internacionale"
+            },
+            "ascii" : {
+                "long" : "Internacionale Tirana Football Club",
+                "medium" : "Internacionale Tirana FC",
+                "short" : "Internacionale"
+            },
+            "key" : "Internacionale Tirana"
+        },
+        "abbreviations" : ["INT", "ITR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Kavajës",
+                "ascii" : "Rruga Kavajës"
+            },
+            "streetnumber" : "",
+            "postcode" : "1038",
+            "admindiv" : "ALB-TIR-409"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/internacional-tirana/35012/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Internacionale_Tirana_FC",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-76BA6F9C",
+        "active" : false,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Kamza",
+                "medium" : "FC Kamza",
+                "short" : "Kamza"
+            },
+            "ascii" : {
+                "long" : "Football Club Kamza",
+                "medium" : "FC Kamza",
+                "short" : "Kamza"
+            },
+            "key" : "Kamza"
+        },
+        "abbreviations" : ["KAM", "KMZ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kamëz",
+                "ascii" : "Kamez"
+            },
+            "street" : {
+                "original" : "Bulevardi Berisha",
+                "ascii" : "Bulevardi Berisha"
+            },
+            "streetnumber" : "",
+            "postcode" : "1030",
+            "admindiv" : "ALB-TIR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-dajti-kamze/10049/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FC_Kamza",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-999E6DAB",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Kevitan Tirana",
+                "medium" : "FC Kevitan",
+                "short" : "Kevitan"
+            },
+            "ascii" : {
+                "long" : "Football Club Kevitan Tirana",
+                "medium" : "FC Kevitan",
+                "short" : "Kevitan"
+            },
+            "key" : "Kevitan"
+        },
+        "abbreviations" : ["KEV", "KVT"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Egnatia",
+                "ascii" : "Rruga Egnatia"
+            },
+            "streetnumber" : "",
+            "postcode" : "1064",
+            "admindiv" : "ALB-TIR-411-K"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kevitan/35013/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Kevitan",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-62D3A6D9",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit per Femra Murlani",
+                "medium" : "KFF Murlani",
+                "short" : "Murlani"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Murlani",
+                "medium" : "KFF Murlani",
+                "short" : "Murlani"
+            },
+            "key" : "Murlani"
+        },
+        "abbreviations" : ["MUR", "MRL"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vau i Dejës",
+                "ascii" : "Vau i Dejes"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-SHK-505"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/juban-danja/39724/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-77664508",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Akademia e Futbollit Tirana",
+                "medium" : "Akademia e Futbollit",
+                "short" : "Akademia"
+            },
+            "ascii" : {
+                "long" : "Akademia e Futbollit Tirana",
+                "medium" : "Akademia e Futbollit",
+                "short" : "Akademia"
+            },
+            "key" : "Akademia e Futbollit"
+        },
+        "abbreviations" : ["AKA", "AFT"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kamëz",
+                "ascii" : "Kamez"
+            },
+            "street" : {
+                "original" : "Rruga Rekjaviku",
+                "ascii" : "Rruga Rekjaviku"
+            },
+            "streetnumber" : "",
+            "postcode" : "1030",
+            "admindiv" : "ALB-TIR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/akademia-futbollit-u19/55883/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Akademia_e_Futbollit",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-B125B988",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit per Femra Kukësi",
+                "medium" : "KFF Kukësi",
+                "short" : "Kukësi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Kukesi",
+                "medium" : "KFF Kukesi",
+                "short" : "Kukesi"
+            },
+            "key" : "Kukesi"
+        },
+        "abbreviations" : ["KUK", "KKS"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Kukës",
+                "ascii" : "Kukes"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi",
+                "ascii" : "Rruga Stadiumi"
+            },
+            "streetnumber" : "",
+            "postcode" : "8501",
+            "admindiv" : "ALB-KUK-207"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/kukesi/60616/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Kuk%C3%ABsi_(women)",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-7DC5C5F3",
+        "active" : false,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Luftëtari Gjirokastër Football Club",
+                "medium" : "Luftëtari Gjirokastër FC",
+                "short" : "Luftëtari"
+            },
+            "ascii" : {
+                "long" : "Luftetari Gjirokaster Football Club",
+                "medium" : "Luftetari Gjirokaster FC",
+                "short" : "Luftetari"
+            },
+            "key" : "Luftetari Gjirokaster"
+        },
+        "abbreviations" : ["LFT", "LGJ"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Gjirokastër",
+                "ascii" : "Gjirokaster"
+            },
+            "street" : {
+                "original" : "Rruga Studenti",
+                "ascii" : "Rruga Studenti"
+            },
+            "streetnumber" : "",
+            "postcode" : "6001",
+            "admindiv" : "ALB-GJI-203"
+        },
+        "contact" : {
+            "website" : "https://luftetarifc.com/",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-luftetari-gjirokaster/2517/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Luft%C3%ABtari",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-556A562A",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit per Femra Maliqi",
+                "medium" : "KFF Maliqi",
+                "short" : "Maliqi"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Maliqi",
+                "medium" : "KFF Maliqi",
+                "short" : "Maliqi"
+            },
+            "key" : "Maliqi"
+        },
+        "abbreviations" : ["MAL", "MLQ"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Maliq",
+                "ascii" : "Maliq"
+            },
+            "street" : {
+                "original" : "Rruga 5 Maji",
+                "ascii" : "Rruga 5 Maji"
+            },
+            "streetnumber" : "",
+            "postcode" : "7005",
+            "admindiv" : "ALB-KOR-403"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/maliqi/45118/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-65C29A1C",
+        "active" : false,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Adriatiku Mamurras",
+                "medium" : "KF Adriatiku Mamurras",
+                "short" : "Adriatiku"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Adriatiku Mamurras",
+                "medium" : "KF Adriatiku Mamurras",
+                "short" : "Adriatiku"
+            },
+            "key" : "Adriatiku Mamurras"
+        },
+        "abbreviations" : ["ADM", "MMR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Mamurras",
+                "ascii" : "Mamurras"
+            },
+            "street" : {
+                "original" : "Rruga Shpani",
+                "ascii" : "Rruga Shpani"
+            },
+            "streetnumber" : "",
+            "postcode" : "7404",
+            "admindiv" : "ALB-LEZ-103"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-adriatiku-mamurrasi/12568/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Adriatiku_Mamurras",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-FB5AAEC7",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Mirdita",
+                "medium" : "KF Mirdita",
+                "short" : "Mirdita"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Mirdita",
+                "medium" : "KF Mirdita",
+                "short" : "Mirdita"
+            },
+            "key" : "Mirdita"
+        },
+        "abbreviations" : ["MIR", "MRD"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Mirditë",
+                "ascii" : "Mirdite"
+            },
+            "street" : {
+                "original" : "Rruga SH34",
+                "ascii" : "Rruga SH34"
+            },
+            "streetnumber" : "",
+            "postcode" : "4601",
+            "admindiv" : "ALB-LEZ-305"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/mirdita/48670/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Mirdita",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-80C34E39",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Olimpik Tirana 2002",
+                "medium" : "KF Olimpik Tirana",
+                "short" : "Olimpik"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Olimpik Tirana 2002",
+                "medium" : "KF Olimpik Tirana",
+                "short" : "Olimpik"
+            },
+            "key" : "Olimpik Tirana"
+        },
+        "abbreviations" : ["OLI", "OTR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga 28 Nëntori",
+                "ascii" : "Rruga 28 Nentori"
+            },
+            "streetnumber" : "",
+            "postcode" : "1051",
+            "admindiv" : "ALB-TIR-405"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-olimpiku-tirane/12572/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Olimpic",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-081419BB",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Pashtriku Has",
+                "medium" : "KF Pashtriku Has",
+                "short" : "Pashtriku"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Pashtriku Has",
+                "medium" : "KF Pashtriku Has",
+                "short" : "Pashtriku"
+            },
+            "key" : "Pashtriku Has"
+        },
+        "abbreviations" : ["PST", "HAS"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Krumë",
+                "ascii" : "Krume"
+            },
+            "street" : {
+                "original" : "Rruga Pashtrikut",
+                "ascii" : "Rruga Pashtrikut"
+            },
+            "streetnumber" : "",
+            "postcode" : "8602",
+            "admindiv" : "ALB-KUK-104"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-pashtriku-has/20189/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-23AB3B64",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit per Femra Pogradeci",
+                "medium" : "KFF Pogradeci",
+                "short" : "Pogradeci"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit per Femra Pogradeci",
+                "medium" : "KFF Pogradeci",
+                "short" : "Pogradeci"
+            },
+            "key" : "Pogradeci"
+        },
+        "abbreviations" : ["POG", "PGD"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Pogradec",
+                "ascii" : "Pogradec"
+            },
+            "street" : {
+                "original" : "Rruga e Stadiumit",
+                "ascii" : "Rruga e Stadiumit"
+            },
+            "streetnumber" : "",
+            "postcode" : "7301",
+            "admindiv" : "ALB-KOR-504"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/pogradeci/41666/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-0E718394",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Pojani Korçë",
+                "medium" : "KF Pojani Korçë",
+                "short" : "Pojani"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Pojani Korce",
+                "medium" : "KF Pojani Korce",
+                "short" : "Pojani"
+            },
+            "key" : "Pojani Korce"
+        },
+        "abbreviations" : ["POJ", "PJN"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Pojan",
+                "ascii" : "Pojan"
+            },
+            "street" : {
+                "original" : "Rruga SH101",
+                "ascii" : "Rruga SH101"
+            },
+            "streetnumber" : "",
+            "postcode" : "7014",
+            "admindiv" : "ALB-KOR-406"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-pojani-korce-/12581/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Pojani",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-66DCCFE1",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Poliçani",
+                "medium" : "KF Poliçani",
+                "short" : "Poliçani"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Policani",
+                "medium" : "KF Policani",
+                "short" : "Policani"
+            },
+            "key" : "Policani"
+        },
+        "abbreviations" : ["POL", "PLC"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Poliçan",
+                "ascii" : "Polican"
+            },
+            "street" : {
+                "original" : "Rruga Stadiumi",
+                "ascii" : "Rruga Stadiumi"
+            },
+            "streetnumber" : "",
+            "postcode" : "5403",
+            "admindiv" : "ALB-BER-401"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/ks-policani/12582/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Poli%C3%A7ani",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-2450323F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Rubiku",
+                "medium" : "KF Rubiku",
+                "short" : "Rubiku"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Rubiku",
+                "medium" : "KF Rubiku",
+                "short" : "Rubiku"
+            },
+            "key" : "Rubiku"
+        },
+        "abbreviations" : ["RUB", "RBK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Rubik",
+                "ascii" : "Rubik"
+            },
+            "street" : {
+                "original" : "Rruga SH30",
+                "ascii" : "Rruga SH30"
+            },
+            "streetnumber" : "",
+            "postcode" : "4603",
+            "admindiv" : "ALB-LEZ-306"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-rubiku/16916/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-013F95B4",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Sportiv Selenicë",
+                "medium" : "KS Selenicë",
+                "short" : "Selenicë"
+            },
+            "ascii" : {
+                "long" : "Klubi Sportiv Selenice",
+                "medium" : "KS Selenice",
+                "short" : "Selenice"
+            },
+            "key" : "Selenice"
+        },
+        "abbreviations" : ["SEL", "SLN"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Selenicë",
+                "ascii" : "Selenice"
+            },
+            "street" : {
+                "original" : "Rruga 21 Shkurti",
+                "ascii" : "Rruga 21 Shkurti"
+            },
+            "streetnumber" : "",
+            "postcode" : "9427",
+            "admindiv" : "ALB-VLO-604"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/selenice/48671/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Selenica",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-153810D5",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Shkolla Kombëtare e Futbollit Shkëndija Tiranë",
+                "medium" : "SKF Shkëndija Tiranë",
+                "short" : "Shkëndija"
+            },
+            "ascii" : {
+                "long" : "Shkolla Kombetare e Futbollit Shkendija Tirane",
+                "medium" : "SKF Shkendija Tirane",
+                "short" : "Shkendija"
+            },
+            "key" : "Shkendija Tirane"
+        },
+        "abbreviations" : ["SHK", "SKT"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Rekjaviku",
+                "ascii" : "Rruga Rekjaviku"
+            },
+            "streetnumber" : "",
+            "postcode" : "1030",
+            "admindiv" : "ALB-TIR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/shkendija-tirane/48686/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Shk%C3%ABndija_Tiran%C3%AB",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-AE1E7C1F",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit Spartak Tirana",
+                "medium" : "KF Spartak Tirana",
+                "short" : "Spartak"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit Spartak Tirana",
+                "medium" : "KF Spartak Tirana",
+                "short" : "Spartak"
+            },
+            "key" : "Spartak Tirana"
+        },
+        "abbreviations" : ["SPT", "STR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Rrok Kola",
+                "ascii" : "Rruga Rrok Kola"
+            },
+            "streetnumber" : "",
+            "postcode" : "1051",
+            "admindiv" : "ALB-TIR-405"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/spartaku-tirane/40732/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Spartak_Tirana",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-66266893",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Futboll Klub Sukthi",
+                "medium" : "FK Sukthi",
+                "short" : "Sukthi"
+            },
+            "ascii" : {
+                "long" : "Futboll Klub Sukthi",
+                "medium" : "FK Sukthi",
+                "short" : "Sukthi"
+            },
+            "key" : "Sukthi"
+        },
+        "abbreviations" : ["SKT", "SUK"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Sukthi i Ri",
+                "ascii" : "Sukthi i Ri"
+            },
+            "street" : {
+                "original" : "Rruga Sukth-Vadardhë",
+                "ascii" : "Rruga Sukth-Vadardhe"
+            },
+            "streetnumber" : "",
+            "postcode" : "2010",
+            "admindiv" : "ALB-DUR-106"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/kf-sukthi/14395/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/FK_Sukthi",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-D195CC8B",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Term Tirana",
+                "medium" : "FC Term",
+                "short" : "Term"
+            },
+            "ascii" : {
+                "long" : "Football Club Term Tirana",
+                "medium" : "FC Term",
+                "short" : "Term"
+            },
+            "key" : "Term"
+        },
+        "abbreviations" : ["TER", "TRM"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga 28 Nëntori",
+                "ascii" : "Rruga 28 Nentori"
+            },
+            "streetnumber" : "",
+            "postcode" : "1051",
+            "admindiv" : "ALB-TIR-405"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/term/45098/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Term",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-6416D7FA",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Term Tirana",
+                "medium" : "FC Term",
+                "short" : "Term"
+            },
+            "ascii" : {
+                "long" : "Football Club Term Tirana",
+                "medium" : "FC Term",
+                "short" : "Term"
+            },
+            "key" : "Term"
+        },
+        "abbreviations" : ["TER", "TRM"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga 28 Nëntori",
+                "ascii" : "Rruga 28 Nentori"
+            },
+            "streetnumber" : "",
+            "postcode" : "1051",
+            "admindiv" : "ALB-TIR-405"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/albania-term-fc/45117/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-D67EECB0",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi i Futbollit The Door Shkodër",
+                "medium" : "KF The Door",
+                "short" : "The Door"
+            },
+            "ascii" : {
+                "long" : "Klubi i Futbollit The Door Shkoder",
+                "medium" : "KF The Door",
+                "short" : "The Door"
+            },
+            "key" : "The Door"
+        },
+        "abbreviations" : ["TDR", "DOR"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shkodër",
+                "ascii" : "Shkoder"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-SHK-409"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/the-door/39725/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-4215A625",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik për Femra Tirana AS",
+                "medium" : "KFF Tirana AS",
+                "short" : "Tirana AS"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik per Femra Tirana AS",
+                "medium" : "KFF Tirana AS",
+                "short" : "Tirana AS"
+            },
+            "key" : "Tirana AS"
+        },
+        "abbreviations" : ["TIR", "TAS"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "Rruga Gjin Bue Shpata",
+                "ascii" : "Rruga Gjin Bue Shpata"
+            },
+            "streetnumber" : "27",
+            "postcode" : "1001",
+            "admindiv" : "ALB-TIR-411-E"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/tirana-as/39731/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KFF_Tirana_AS",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-D4452E14",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Atletik Club - Albanian Ajax School Shkodër",
+                "medium" : "Atletik Club AAS",
+                "short" : "Atletik Club"
+            },
+            "ascii" : {
+                "long" : "Atletik Club - Albanian Ajax School Shkoder",
+                "medium" : "Atletik Club AAS",
+                "short" : "Atletik Club"
+            },
+            "key" : "Atletik Club"
+        },
+        "abbreviations" : ["AAS", "ATK"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Shkodër",
+                "ascii" : "Shkoder"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-SHK-409"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/aas/39726/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/Albanian_Ajax_School",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-E9451F95",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik Vlora",
+                "medium" : "KF Vlora",
+                "short" : "Vlora"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik Vlora",
+                "medium" : "KF Vlora",
+                "short" : "Vlora"
+            },
+            "key" : "Vlora"
+        },
+        "abbreviations" : ["VLO", "VLR"],
+        "gender" : "M",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Vlorë",
+                "ascii" : "Vlore"
+            },
+            "street" : {
+                "original" : "Bulevardi Ismail Qemali",
+                "ascii" : "Bulevardi Ismail Qemali"
+            },
+            "streetnumber" : "",
+            "postcode" : "9401",
+            "admindiv" : "ALB-VLO-705"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.soccerway.com/teams/albania/vlora-fk/12584/",
+            "wikipedia" : "https://en.wikipedia.org/wiki/KF_Vlora",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-3CC2A336",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Klubi Futbollistik për Femra Bilisht Sporti",
+                "medium" : "KFF Bilisht Sporti",
+                "short" : "Bilisht"
+            },
+            "ascii" : {
+                "long" : "Klubi Futbollistik per Femra Bilisht Sporti",
+                "medium" : "KFF Bilisht Sporti",
+                "short" : "Bilisht"
+            },
+            "key" : "Bilisht Sporti"
+        },
+        "abbreviations" : ["BLS", "BSP"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Bilisht",
+                "ascii" : "Bilisht"
+            },
+            "street" : {
+                "original" : "Rruga Fan Noli",
+                "ascii" : "Rruga Fan Noli"
+            },
+            "streetnumber" : "",
+            "postcode" : "7006",
+            "admindiv" : "ALB-KOR-101"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/albania-bilisht-sporti/41497/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    },
+    {
+        "code" : "TEA-8FF68317",
+        "active" : true,
+        "club" : true,
+        "name" : {
+            "original" : {
+                "long" : "Football Club Dajti",
+                "medium" : "FC Dajti",
+                "short" : "Dajti"
+            },
+            "ascii" : {
+                "long" : "Football Club Dajti",
+                "medium" : "FC Dajti",
+                "short" : "Dajti"
+            },
+            "key" : "Dajti"
+        },
+        "abbreviations" : ["DAJ", "DJT"],
+        "gender" : "F",
+        "address" : {
+            "country" : "ALB",
+            "location" : {
+                "original" : "Tirana",
+                "ascii" : "Tirana"
+            },
+            "street" : {
+                "original" : "",
+                "ascii" : ""
+            },
+            "streetnumber" : "",
+            "postcode" : "",
+            "admindiv" : "ALB-TIR-411"
+        },
+        "contact" : {
+            "website" : "",
+            "soccerway" : "https://int.women.soccerway.com/teams/albania/dajti/39730/",
+            "wikipedia" : "",
+            "phone" : "",
+            "fax" : "",
+            "email" : ""
+        },
+        "reserves" : {}
+    }
+]
