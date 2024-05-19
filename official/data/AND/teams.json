@@ -1,733 +1,790 @@
 [
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "Club de Futbol Atlètic Amèrica",
-                "medium" : "CF Atlètic Amèrica",
-                "short" : "Atlètic Amèrica"
-            },
-            "ascii" : {
-                "long" : "Club de Futbol Atletic America",
-                "medium" : "CF Atletic America",
-                "short" : "Atletic America"
-            },
-            "key" : "Atletic America"
-        },
-        "abbreviations" : ["AAM", "ATA"],
-        "gender" : "M",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "Les Escaldes",
-                "ascii" : "Les Escaldes"
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "AD700",
-            "admindiv" : "AND-ESE"
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "https://int.soccerway.com/teams/andorra/atletic-america/34877/",
-            "wikipedia" : "https://en.wikipedia.org/wiki/CF_Atl%C3%A8tic_Am%C3%A8rica",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "Atlètic Club d'Escaldes",
-                "medium" : "Atlètic d'Escaldes",
-                "short" : "Atlètic"
-            },
-            "ascii" : {
-                "long" : "Atletic Club d'Escaldes",
-                "medium" : "Atletic d'Escaldes",
-                "short" : "Atletic"
-            },
-            "key" : "Atletic Club d'Escaldes"
-        },
-        "abbreviations" : ["ACE", "AES"],
-        "gender" : "M",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "Les Escaldes",
-                "ascii" : "Les Escaldes"
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "AD700",
-            "admindiv" : "AND-ESE"
-        },
-        "contact" : {
-            "website" : "https://atleticclubescaldes.com/",
-            "soccerway" : "https://int.soccerway.com/teams/andorra/atletic-club-descaldes/3103/",
-            "wikipedia" : "https://en.wikipedia.org/wiki/Atl%C3%A8tic_Club_d%27Escaldes",
-            "phone" : "+376 328 066",
-            "fax" : "",
-            "email" : "atletic@atleticescaldes.com"
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "Club Esportiu Carroi",
-                "medium" : "CE Carroi",
-                "short" : "Carroi"
-            },
-            "ascii" : {
-                "long" : "Club Esportiu Carroi",
-                "medium" : "CE Carroi",
-                "short" : "Carroi"
-            },
-            "key" : "Carroi"
-        },
-        "abbreviations" : ["CAR", "CRO"],
-        "gender" : "M",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "Andorra La Vella",
-                "ascii" : "Andorra La Vella"
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "AD500",
-            "admindiv" : "AND-ALV"
-        },
-        "contact" : {
-            "website" : "https://www.facebook.com/ce.carroi",
-            "soccerway" : "https://int.soccerway.com/teams/andorra/carroi/34876/",
-            "wikipedia" : "https://en.wikipedia.org/wiki/CE_Carroi",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "Club de Futbol Esperança d'Andorra",
-                "medium" : "CF Esperança d'Andorra",
-                "short" : "Esperança"
-            },
-            "ascii" : {
-                "long" : "Club de Futbol Esperanca d'Andorra",
-                "medium" : "CF Esperanca d'Andorra",
-                "short" : "Esperanca"
-            },
-            "key" : "Esperanca d'Andorra"
-        },
-        "abbreviations" : ["ESP", "EAD"],
-        "gender" : "M",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "Andorra La Vella",
-                "ascii" : "Andorra La Vella"
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "AD500",
-            "admindiv" : "AND-ALV"
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "https://int.soccerway.com/teams/andorra/esperanca-dandorra/59274/",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    },
-    {
-        "code" : "",
-        "active" : true,
-        "club" : true,
-        "name" : {
-            "original" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "ascii" : {
-                "long" : "",
-                "medium" : "",
-                "short" : ""
-            },
-            "key" : ""
-        },
-        "abbreviations" : ["", ""],
-        "gender" : "",
-        "address" : {
-            "country" : "AND",
-            "location" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "street" : {
-                "original" : "",
-                "ascii" : ""
-            },
-            "streetnumber" : "",
-            "postcode" : "",
-            "admindiv" : ""
-        },
-        "contact" : {
-            "website" : "",
-            "soccerway" : "",
-            "wikipedia" : "",
-            "phone" : "",
-            "fax" : "",
-            "email" : ""
-        },
-        "reserves" : {}
-    }
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Club de Fútbol Atlètic Amèrica",
+				"medium": "CF Atlètic Amèrica",
+				"short": "Atlètic Amèrica"
+			},
+			"ascii": {
+				"long": "Club de Futbol Atletic America",
+				"medium": "CF Atletic America",
+				"short": "Atletic America"
+			},
+			"key": "Atletic America"
+		},
+		"abbreviations": [
+			"AAM",
+			"ATA"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Les Escaldes",
+				"ascii": "Les Escaldes"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD700",
+			"admindiv": "AND-ESE"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/atletic-america/34877/",
+			"wikipedia": "https://en.wikipedia.org/wiki/CF_Atl%C3%A8tic_Am%C3%A8rica",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Atlètic Club d'Escaldes",
+				"medium": "Atlètic d'Escaldes",
+				"short": "Atlètic"
+			},
+			"ascii": {
+				"long": "Atletic Club d'Escaldes",
+				"medium": "Atletic d'Escaldes",
+				"short": "Atletic"
+			},
+			"key": "Atletic Club d'Escaldes"
+		},
+		"abbreviations": [
+			"ACE",
+			"AES"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Les Escaldes",
+				"ascii": "Les Escaldes"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD700",
+			"admindiv": "AND-ESE"
+		},
+		"contact": {
+			"website": "https://atleticclubescaldes.com/",
+			"soccerway": "https://int.soccerway.com/teams/andorra/atletic-club-descaldes/3103/",
+			"wikipedia": "https://en.wikipedia.org/wiki/Atl%C3%A8tic_Club_d%27Escaldes",
+			"phone": "+376 328 066",
+			"fax": "",
+			"email": "atletic@atleticescaldes.com"
+		},
+		"reserves": {
+			"2": "https://int.soccerway.com/teams/andorra/atletic-club-ii/55946/"
+		}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Club Esportiu Carroi",
+				"medium": "CE Carroi",
+				"short": "Carroi"
+			},
+			"ascii": {
+				"long": "Club Esportiu Carroi",
+				"medium": "CE Carroi",
+				"short": "Carroi"
+			},
+			"key": "Carroi"
+		},
+		"abbreviations": [
+			"CAR",
+			"CRO"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Andorra La Vella",
+				"ascii": "Andorra La Vella"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "https://www.facebook.com/ce.carroi",
+			"soccerway": "https://int.soccerway.com/teams/andorra/carroi/34876/",
+			"wikipedia": "https://en.wikipedia.org/wiki/CE_Carroi",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Club de Fútbol Esperança d'Andorra",
+				"medium": "CF Esperança d'Andorra",
+				"short": "Esperança"
+			},
+			"ascii": {
+				"long": "Club de Futbol Esperanca d'Andorra",
+				"medium": "CF Esperanca d'Andorra",
+				"short": "Esperanca"
+			},
+			"key": "Esperanca d'Andorra"
+		},
+		"abbreviations": [
+			"ESP",
+			"EAD"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Andorra La Vella",
+				"ascii": "Andorra La Vella"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/esperanca-dandorra/59274/",
+			"wikipedia": "",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Fútbol Club Santa Coloma",
+				"medium": "FC Santa Coloma",
+				"short": "FC Santa Coloma"
+			},
+			"ascii": {
+				"long": "Futbol Club Santa Coloma",
+				"medium": "FC Santa Coloma",
+				"short": "FC Santa Coloma"
+			},
+			"key": "Santa Coloma FC"
+		},
+		"abbreviations": [
+			"SCL",
+			"FSC"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Santa Coloma",
+				"ascii": "Santa Coloma"
+			},
+			"street": {
+				"original": "Avinguda Meritxell",
+				"ascii": "Avinguda Meritxell"
+			},
+			"streetnumber": "9",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "https://www.fclubsantacoloma.net/ca/?lang=ca",
+			"soccerway": "https://int.soccerway.com/teams/andorra/fc-santa-coloma/80/",
+			"wikipedia": "https://en.wikipedia.org/wiki/FC_Santa_Coloma",
+			"phone": "+376 813 617",
+			"fax": "+376 865 617",
+			"email": "info@fcsantacoloma.com"
+		},
+		"reserves": {
+			"2": "https://int.soccerway.com/teams/andorra/fc-santa-coloma-ii/7693/"
+		}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Inter Club d'Escaldes",
+				"medium": "Inter Club d'Escaldes",
+				"short": "Inter Escaldes"
+			},
+			"ascii": {
+				"long": "Inter Club d'Escaldes",
+				"medium": "Inter Club d'Escaldes",
+				"short": "Inter Escaldes"
+			},
+			"key": "Inter Club d'Escaldes"
+		},
+		"abbreviations": [
+			"ICE",
+			"IES"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Andorra La Vella",
+				"ascii": "Andorra La Vella"
+			},
+			"street": {
+				"original": "Calle Terra Vella",
+				"ascii": "Calle Terra Vella"
+			},
+			"streetnumber": "9",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "https://interescaldes.com/",
+			"soccerway": "https://int.soccerway.com/teams/andorra/inter-descaldes/86/",
+			"wikipedia": "https://en.wikipedia.org/wiki/Inter_Club_d%27Escaldes",
+			"phone": "+376 821 753",
+			"fax": "+376 821 753",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Fútbol Club Ordino",
+				"medium": "FC Ordino",
+				"short": "Ordino"
+			},
+			"ascii": {
+				"long": "Futbol Club Ordino",
+				"medium": "FC Ordino",
+				"short": "Ordino"
+			},
+			"key": "Ordino"
+		},
+		"abbreviations": [
+			"ORD",
+			"FCO"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Ordino",
+				"ascii": "Ordino"
+			},
+			"street": {
+				"original": "Calle Nou Vial",
+				"ascii": "Calle Nou Vial"
+			},
+			"streetnumber": "",
+			"postcode": "AD300",
+			"admindiv": "AND-ORD"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/fc-ordino/22833/",
+			"wikipedia": "https://en.wikipedia.org/wiki/FC_Ordino",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Fútbol Club Pas de la Casa",
+				"medium": "FC Pas de la Casa",
+				"short": "Pas de la Casa"
+			},
+			"ascii": {
+				"long": "Fútbol Club Pas de la Casa",
+				"medium": "FC Pas de la Casa",
+				"short": "Pas de la Casa"
+			},
+			"key": "Pas de la Casa"
+		},
+		"abbreviations": [
+			"PCS",
+			"PDC"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "El Pas de la Casa",
+				"ascii": "El Pas de la Casa"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD200",
+			"admindiv": "AND-ENC"
+		},
+		"contact": {
+			"website": "https://fcpasdelacasa.com/",
+			"soccerway": "https://int.soccerway.com/teams/andorra/pas-de-la-casa/34878/",
+			"wikipedia": "https://en.wikipedia.org/wiki/FC_Pas_de_la_Casa",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Fútbol Club Penya Encarnada d'Andorra",
+				"medium": "FC Penya Encarnada",
+				"short": "Penya Encarnada"
+			},
+			"ascii": {
+				"long": "Futbol Club Penya Encarnada d'Andorra",
+				"medium": "FC Penya Encarnada",
+				"short": "Penya Encarnada"
+			},
+			"key": "Penya Encarnada"
+		},
+		"abbreviations": [
+			"PEN",
+			"ENC"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Andorra La Vella",
+				"ascii": "Andorra La Vella"
+			},
+			"street": {
+				"original": "Avinguda Tarragona",
+				"ascii": "Avinguda Tarragona"
+			},
+			"streetnumber": "95",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/penya-encarnada-dandorra/14261/",
+			"wikipedia": "https://en.wikipedia.org/wiki/Penya_Encarnada_d%27Andorra",
+			"phone": "+376 608 580",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Unió Esportiva Santa Coloma",
+				"medium": "UE Santa Coloma",
+				"short": "UE Santa Coloma"
+			},
+			"ascii": {
+				"long": "Unio Esportiva Santa Coloma",
+				"medium": "UE Santa Coloma",
+				"short": "UE Santa Coloma"
+			},
+			"key": "Santa Coloma UE"
+		},
+		"abbreviations": [
+			"SCL",
+			"UES"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Santa Coloma",
+				"ascii": "Santa Coloma"
+			},
+			"street": {
+				"original": "Avenida Rocafort",
+				"ascii": "Avenida Rocafort"
+			},
+			"streetnumber": "23",
+			"postcode": "AD600",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "https://uesantacoloma.com/",
+			"soccerway": "https://int.soccerway.com/teams/andorra/ue-santa-coloma/9642/",
+			"wikipedia": "https://en.wikipedia.org/wiki/UE_Santa_Coloma",
+			"phone": "+376 372 679",
+			"fax": "+376 842 668",
+			"email": "g.perez@bpa.ad"
+		},
+		"reserves": {
+			"2": "https://int.soccerway.com/teams/andorra/ue-santa-coloma-ii/20190/"
+		}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Unió Esportiva Engordany",
+				"medium": "UE Engordany",
+				"short": "Engordany"
+			},
+			"ascii": {
+				"long": "Unio Esportiva Engordany",
+				"medium": "UE Engordany",
+				"short": "Engordany"
+			},
+			"key": "Engordany"
+		},
+		"abbreviations": [
+			"ENG",
+			"EGD"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Escaldes-Engordany",
+				"ascii": "Escaldes-Engordany"
+			},
+			"street": {
+				"original": "Avenida Fiter i Rossell",
+				"ascii": "Avenida Fiter i Rossell"
+			},
+			"streetnumber": "89",
+			"postcode": "AD700",
+			"admindiv": "AND-ESE"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/ue-engordany/87/",
+			"wikipedia": "https://en.wikipedia.org/wiki/UE_Engordany",
+			"phone": "+376 826 421",
+			"fax": "+376 865 945",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Fútbol Sala La Massana",
+				"medium": "FS La Massana",
+				"short": "La Massana"
+			},
+			"ascii": {
+				"long": "Futbol Sala La Massana",
+				"medium": "FS La Massana",
+				"short": "La Massana"
+			},
+			"key": "La Massana"
+		},
+		"abbreviations": [
+			"MAS",
+			"LMS"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "La Massana",
+				"ascii": "La Massana"
+			},
+			"street": {
+				"original": "Avinguda CG-4",
+				"ascii": "Avinguda CG-4"
+			},
+			"streetnumber": "",
+			"postcode": "AD400",
+			"admindiv": "AND-LMS"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/deportivo-massana/2430/",
+			"wikipedia": "https://en.wikipedia.org/wiki/FS_La_Massana",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Ranger's Fútbol Club Andorra",
+				"medium": "Ranger's FC",
+				"short": "Ranger's"
+			},
+			"ascii": {
+				"long": "Ranger's Futbol Club Andorra",
+				"medium": "Ranger's FC",
+				"short": "Ranger's"
+			},
+			"key": "Rangers"
+		},
+		"abbreviations": [
+			"RAN",
+			"RNG"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Santa Coloma",
+				"ascii": "Santa Coloma"
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "AD500",
+			"admindiv": "AND-ALV"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/fc-rangers/82/",
+			"wikipedia": "https://en.wikipedia.org/wiki/FC_R%C3%A0nger%27s",
+			"phone": "",
+			"fax": "",
+			"email": "f.c.rangers@andorra.ad"
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "Unió Esportiva Sant Julià",
+				"medium": "UE Sant Julià",
+				"short": "Sant Julià"
+			},
+			"ascii": {
+				"long": "Unio Esportiva Sant Julia",
+				"medium": "UE Sant Julia",
+				"short": "Sant Julia"
+			},
+			"key": "Sant Julia"
+		},
+		"abbreviations": [
+			"SJL",
+			"USJ"
+		],
+		"gender": "M",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "Sant Julià de Lòria",
+				"ascii": "Sant Julia de Loria"
+			},
+			"street": {
+				"original": "Plaça de la Germandat",
+				"ascii": "Placa de la Germandat"
+			},
+			"streetnumber": "",
+			"postcode": "AD600",
+			"admindiv": "AND-SJL"
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "https://int.soccerway.com/teams/andorra/ue-sant-julia/81/",
+			"wikipedia": "https://en.wikipedia.org/wiki/UE_Sant_Juli%C3%A0",
+			"phone": "+376 326 204",
+			"fax": "+376 843 322",
+			"email": "tonigiribet@andorra.ad"
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"ascii": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"key": ""
+		},
+		"abbreviations": [
+			"",
+			""
+		],
+		"gender": "",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "",
+				"ascii": ""
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "",
+			"admindiv": ""
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "",
+			"wikipedia": "",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"ascii": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"key": ""
+		},
+		"abbreviations": [
+			"",
+			""
+		],
+		"gender": "",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "",
+				"ascii": ""
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "",
+			"admindiv": ""
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "",
+			"wikipedia": "",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	},
+	{
+		"code": "",
+		"active": true,
+		"club": true,
+		"name": {
+			"original": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"ascii": {
+				"long": "",
+				"medium": "",
+				"short": ""
+			},
+			"key": ""
+		},
+		"abbreviations": [
+			"",
+			""
+		],
+		"gender": "",
+		"address": {
+			"country": "AND",
+			"location": {
+				"original": "",
+				"ascii": ""
+			},
+			"street": {
+				"original": "",
+				"ascii": ""
+			},
+			"streetnumber": "",
+			"postcode": "",
+			"admindiv": ""
+		},
+		"contact": {
+			"website": "",
+			"soccerway": "",
+			"wikipedia": "",
+			"phone": "",
+			"fax": "",
+			"email": ""
+		},
+		"reserves": {}
+	}
 ]
